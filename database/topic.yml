@@ -1,5 +1,5 @@
 "Robotics":
   "SLAM": '"SLAM"'
-  "VIO": '"VIO"OR"Visual-Inertial Odometry"OR"Visual Inertial Odometry"'
-  "VO": '"VO"OR"Visual Odometry"'
-  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+"NeRF":
+  "NeRF": '"NeRF"OR"Neural Radiance Field"'
+  "NeRF SLAM": '"NeRF SLAM"OR"Neural Radiance Field SLAM"'
