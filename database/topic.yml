@@ -1,5 +1,5 @@
 "Robotics":
   "SLAM": '"SLAM"'
 "NeRF":
-  "NeRF": '"NeRF"OR"Neural Radiance Field"'
-  "NeRF SLAM": '"NeRF SLAM"OR"Neural Radiance Field SLAM"'
+  "NeRF": '"NeRF"'
+  "NeRF SLAM": '"NeRF SLAM"'
