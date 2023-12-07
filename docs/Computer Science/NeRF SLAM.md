@@ -2,6 +2,13 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431v1](http://arxiv.org/abs/2312.03431v1)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420v1](http://arxiv.org/abs/2312.03420v1)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357v1](http://arxiv.org/abs/2312.03357v1)|null|
+|**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266v1](http://arxiv.org/abs/2312.03266v1)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203v1](http://arxiv.org/abs/2312.03203v1)|null|
+|**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160v1](http://arxiv.org/abs/2312.03160v1)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973v1](http://arxiv.org/abs/2312.02973v1)|[link](https://github.com/skhu101/gauhuman)|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970v1](http://arxiv.org/abs/2312.02970v1)|null|
@@ -25,10 +32,3 @@
 |**2023-12-02**|**StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D**|Pengsheng Guo et.al.|[2312.02189v1](http://arxiv.org/abs/2312.02189v1)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|[link](https://github.com/lkeab/gaussian-grouping)|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
-|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|null|
-|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206v1](http://arxiv.org/abs/2312.00206v1)|null|
-|**2023-11-30**|**DNS SLAM: Dense Neural Semantic-Informed SLAM**|Kunyi Li et.al.|[2312.00204v1](http://arxiv.org/abs/2312.00204v1)|null|
-|**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
-|**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608v1](http://arxiv.org/abs/2311.18608v1)|null|
-|**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491v1](http://arxiv.org/abs/2311.18491v1)|null|
-|**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311v1](http://arxiv.org/abs/2311.18311v1)|null|
