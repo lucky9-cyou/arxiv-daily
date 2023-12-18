@@ -2,6 +2,12 @@
 ### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034v1](http://arxiv.org/abs/2312.10034v1)|[link](https://github.com/shiran-yuan/slimmerf)|
+|**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913v1](http://arxiv.org/abs/2312.09913v1)|null|
+|**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743v1](http://arxiv.org/abs/2312.09743v1)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558v1](http://arxiv.org/abs/2312.09558v1)|null|
+|**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313v1](http://arxiv.org/abs/2312.09313v1)|[link](https://github.com/umarkhalidAI/LatentEditor)|
+|**2023-12-14**|**Stable Score Distillation for High-Quality 3D Generation**|Boshi Tang et.al.|[2312.09305v1](http://arxiv.org/abs/2312.09305v1)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249v1](http://arxiv.org/abs/2312.09249v1)|null|
 |**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228v2](http://arxiv.org/abs/2312.09228v2)|null|
 |**2023-12-14**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095v2](http://arxiv.org/abs/2312.09095v2)|[link](https://github.com/eezkni/colnerf)|
@@ -26,9 +32,3 @@
 |**2023-12-09**|**Robo360: A 3D Omnispective Multi-Material Robotic Manipulation Dataset**|Litian Liang et.al.|[2312.06686v1](http://arxiv.org/abs/2312.06686v1)|null|
 |**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330v1](http://arxiv.org/abs/2312.05330v1)|null|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161v1](http://arxiv.org/abs/2312.05161v1)|null|
-|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820v1](http://arxiv.org/abs/2312.04820v1)|null|
-|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784v1](http://arxiv.org/abs/2312.04784v1)|null|
-|**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|[link](https://github.com/autonomousvision/murf)|
-|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564v1](http://arxiv.org/abs/2312.04564v1)|null|
-|**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
-|**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337v1](http://arxiv.org/abs/2312.04337v1)|null|
