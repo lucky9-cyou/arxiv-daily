@@ -1,20 +1,20 @@
 # arxiv-daily
- Automated deployment @ 2023-12-23 08:46:14 Asia/Shanghai
+ Automated deployment @ 2023-12-23 09:38:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
-## Robotics
+## Computer Science
 
-### SLAM
+### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-## Computer Science
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 
-### NeRF
+## Robotics
+
+### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
