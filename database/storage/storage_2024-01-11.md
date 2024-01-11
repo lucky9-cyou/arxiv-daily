@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-11 08:51:10 Asia/Shanghai
+ Automated deployment @ 2024-01-11 09:46:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620v1](http://arxiv.org/abs/2401.02620v1)|null|
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616v1](http://arxiv.org/abs/2401.02616v1)|[link](https://github.com/zhang1023/fed-nerf)|
 |**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588v1](http://arxiv.org/abs/2401.02588v1)|null|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
+|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647v1](http://arxiv.org/abs/2401.01647v1)|null|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339v1](http://arxiv.org/abs/2401.01339v1)|null|
@@ -81,7 +81,7 @@
 |**2024-01-07**|**Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**|Haobo Zhang et.al.|[2401.03453v1](http://arxiv.org/abs/2401.03453v1)|null|
 |**2024-01-07**|**Amplifying robotics capacities with a human touch: An immersive low-latency panoramic remote system**|Junjie Li et.al.|[2401.03398v2](http://arxiv.org/abs/2401.03398v2)|null|
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
+|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
 |**2024-01-02**|**NID-SLAM: Neural Implicit Representation-based RGB-D SLAM in dynamic environments**|Ziheng Xu et.al.|[2401.01189v1](http://arxiv.org/abs/2401.01189v1)|null|
 |**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|[link](https://github.com/hjmgarmin/ple-slam)|
