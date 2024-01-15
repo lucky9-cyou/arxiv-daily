@@ -2,8 +2,10 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925v1](http://arxiv.org/abs/2401.05925v1)|null|
+|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750v1](http://arxiv.org/abs/2401.05750v1)|null|
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
@@ -30,5 +32,3 @@
 |**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979v1](http://arxiv.org/abs/2401.00979v1)|null|
 |**2024-01-01**|**Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**|Byeonghyeon Lee et.al.|[2401.00825v1](http://arxiv.org/abs/2401.00825v1)|[link](https://github.com/benhenryl/sharpnerf)|
 |**2024-01-01**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616v2](http://arxiv.org/abs/2401.00616v2)|null|
-|**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208v1](http://arxiv.org/abs/2401.00208v1)|null|
-|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561v1](http://arxiv.org/abs/2312.17561v1)|null|

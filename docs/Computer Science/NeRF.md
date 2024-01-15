@@ -4,6 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925v1](http://arxiv.org/abs/2401.05925v1)|null|
+|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750v1](http://arxiv.org/abs/2401.05750v1)|null|
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
@@ -31,4 +32,3 @@
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215v1](http://arxiv.org/abs/2312.16215v1)|null|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258v1](http://arxiv.org/abs/2312.15258v1)|[link](https://github.com/longxiang-ai/human101)|
 |**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253v1](http://arxiv.org/abs/2312.15253v1)|[link](https://github.com/loping151/forplane)|
-|**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242v1](http://arxiv.org/abs/2312.15242v1)|null|
