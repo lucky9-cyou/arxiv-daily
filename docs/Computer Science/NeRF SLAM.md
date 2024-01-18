@@ -2,6 +2,11 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388v1](http://arxiv.org/abs/2401.09388v1)|null|
+|**2024-01-17**|**FIT-SLAM -- Fisher Information and Traversability estimation-based Active SLAM for exploration in 3D environments**|Suchetan Saravanan et.al.|[2401.09322v1](http://arxiv.org/abs/2401.09322v1)|null|
+|**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160v1](http://arxiv.org/abs/2401.09160v1)|null|
+|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
+|**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937v1](http://arxiv.org/abs/2401.08937v1)|null|
 |**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v1](http://arxiv.org/abs/2401.08140v1)|null|
 |**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134v1](http://arxiv.org/abs/2401.08134v1)|null|
 |**2024-01-16**|**Object-Oriented Semantic Mapping for Reliable UAVs Navigation**|Thanh Nguyen Canh et.al.|[2401.08132v1](http://arxiv.org/abs/2401.08132v1)|null|
@@ -27,8 +32,3 @@
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257v1](http://arxiv.org/abs/2401.03257v1)|null|
 |**2024-01-06**|**Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping**|Tongyan Hua et.al.|[2401.03203v1](http://arxiv.org/abs/2401.03203v1)|null|
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620v1](http://arxiv.org/abs/2401.02620v1)|null|
-|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616v1](http://arxiv.org/abs/2401.02616v1)|[link](https://github.com/zhang1023/fed-nerf)|
-|**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588v1](http://arxiv.org/abs/2401.02588v1)|null|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|[link](https://github.com/tjcunhao/distributed-pose-graph)|
-|**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647v1](http://arxiv.org/abs/2401.01647v1)|null|
