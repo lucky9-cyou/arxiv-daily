@@ -2,6 +2,7 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352v1](http://arxiv.org/abs/2401.13352v1)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568v1](http://arxiv.org/abs/2401.12568v1)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456v1](http://arxiv.org/abs/2401.12456v1)|null|
 |**2024-01-23**|**Methods and strategies for improving the novel view synthesis quality of neural radiation field**|Shun Fang et.al.|[2401.12451v1](http://arxiv.org/abs/2401.12451v1)|null|
@@ -31,4 +32,3 @@
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
 |**2024-01-10**|**Multi S-Graphs: an Efficient Real-time Distributed Semantic-Relational Collaborative SLAM**|Miguel Fernandez-Cortizas et.al.|[2401.05152v1](http://arxiv.org/abs/2401.05152v1)|[link](https://github.com/snt-arg/multi_s_graphs_docker)|
-|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861v1](http://arxiv.org/abs/2401.04861v1)|null|
