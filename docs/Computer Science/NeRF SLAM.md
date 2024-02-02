@@ -2,10 +2,14 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|[link](https://github.com/dongjiahua/vica-nerf)|
+|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
+|**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
+|**2024-02-01**|**The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2402.00438v1](http://arxiv.org/abs/2402.00438v1)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
-|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|null|
+|**2024-01-31**|**SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**|Olaya Álvarez-Tuñón et.al.|[2401.17907v1](http://arxiv.org/abs/2401.17907v1)|[link](https://github.com/remaro-network/subpipe-dataset)|
 |**2024-01-31**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v2](http://arxiv.org/abs/2401.17857v2)|null|
-|**2024-01-31**|**PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**|Xiangcheng Hu et.al.|[2401.17826v1](http://arxiv.org/abs/2401.17826v1)|null|
+|**2024-01-31**|**PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**|Xiangcheng Hu et.al.|[2401.17826v1](http://arxiv.org/abs/2401.17826v1)|[link](https://github.com/jokerjohn/paloc)|
 |**2024-01-31**|**Haris: an Advanced Autonomous Mobile Robot for Smart Parking Assistance**|Layth Hamad et.al.|[2401.17741v1](http://arxiv.org/abs/2401.17741v1)|null|
 |**2024-01-30**|**A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation**|Varun Agrawal et.al.|[2401.17463v1](http://arxiv.org/abs/2401.17463v1)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|[link](https://github.com/mercerai/paev3d)|
@@ -28,7 +32,3 @@
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711v1](http://arxiv.org/abs/2401.11711v1)|null|
 |**2024-01-19**|**360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**|Yichen Chen et.al.|[2401.10560v1](http://arxiv.org/abs/2401.10560v1)|null|
 |**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388v1](http://arxiv.org/abs/2401.09388v1)|null|
-|**2024-01-17**|**FIT-SLAM -- Fisher Information and Traversability estimation-based Active SLAM for exploration in 3D environments**|Suchetan Saravanan et.al.|[2401.09322v1](http://arxiv.org/abs/2401.09322v1)|null|
-|**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160v1](http://arxiv.org/abs/2401.09160v1)|null|
-|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|[link](https://github.com/prbonn/pin_slam)|
-|**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937v1](http://arxiv.org/abs/2401.08937v1)|null|
