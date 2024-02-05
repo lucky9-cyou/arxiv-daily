@@ -2,6 +2,11 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524v1](http://arxiv.org/abs/2402.01524v1)|[link](https://github.com/gmum/hyperplanes)|
+|**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
+|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v1](http://arxiv.org/abs/2402.01459v1)|[link](https://github.com/waczjoan/gaussian-mesh-splatting)|
+|**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380v1](http://arxiv.org/abs/2402.01380v1)|null|
+|**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217v1](http://arxiv.org/abs/2402.01217v1)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|[link](https://github.com/dongjiahua/vica-nerf)|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
@@ -27,8 +32,3 @@
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568v1](http://arxiv.org/abs/2401.12568v1)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456v1](http://arxiv.org/abs/2401.12456v1)|null|
 |**2024-01-23**|**Methods and strategies for improving the novel view synthesis quality of neural radiation field**|Shun Fang et.al.|[2401.12451v1](http://arxiv.org/abs/2401.12451v1)|null|
-|**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175v1](http://arxiv.org/abs/2401.12175v1)|null|
-|**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985v1](http://arxiv.org/abs/2401.11985v1)|null|
-|**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711v1](http://arxiv.org/abs/2401.11711v1)|null|
-|**2024-01-19**|**360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**|Yichen Chen et.al.|[2401.10560v1](http://arxiv.org/abs/2401.10560v1)|null|
-|**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388v1](http://arxiv.org/abs/2401.09388v1)|null|
