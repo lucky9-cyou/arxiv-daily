@@ -16333,3 +16333,6 @@ expected <block end>, but found '<block mapping start>'
 2024-02-13 20:54:37.568 | SUCCESS  | __main__:parse:182 - handle [1/3] | topic=`Computer Science` subtopic=`NeRF SLAM`
 2024-02-13 20:54:38.175 | SUCCESS  | __main__:parse:182 - handle [2/3] | topic=`Computer Science` subtopic=`NeRF`
 2024-02-13 20:54:38.392 | SUCCESS  | __main__:parse:182 - handle [3/3] | topic=`Robotics` subtopic=`SLAM`
+2024-02-13 21:09:08.172 | SUCCESS  | __main__:parse:182 - handle [1/3] | topic=`Robotics` subtopic=`SLAM`
+2024-02-13 21:09:08.425 | SUCCESS  | __main__:parse:182 - handle [2/3] | topic=`Computer Science` subtopic=`NeRF`
+2024-02-13 21:09:08.487 | SUCCESS  | __main__:parse:182 - handle [3/3] | topic=`Computer Science` subtopic=`NeRF SLAM`
