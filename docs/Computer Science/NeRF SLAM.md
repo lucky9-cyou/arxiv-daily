@@ -2,6 +2,11 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255v1](http://arxiv.org/abs/2402.13255v1)|null|
+|**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252v1](http://arxiv.org/abs/2402.13252v1)|[link](https://github.com/nemo1999/joint-tensorf)|
+|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226v1](http://arxiv.org/abs/2402.13226v1)|null|
+|**2024-02-20**|**OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**|Simon Boeder et.al.|[2402.12792v1](http://arxiv.org/abs/2402.12792v1)|null|
+|**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551v1](http://arxiv.org/abs/2402.12551v1)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184v1](http://arxiv.org/abs/2402.12184v1)|null|
 |**2024-02-19**|**MLFEF: Machine Learning Fusion Model with Empirical Formula to Explore the Momentum in Competitive Sports**|Ruixin Peng et.al.|[2402.12149v1](http://arxiv.org/abs/2402.12149v1)|null|
@@ -27,8 +32,3 @@
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131v1](http://arxiv.org/abs/2402.06131v1)|null|
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829v1](http://arxiv.org/abs/2402.04829v1)|null|
-|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
-|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554v2](http://arxiv.org/abs/2402.04554v2)|null|
-|**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081v1](http://arxiv.org/abs/2402.04081v1)|null|
-|**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|[link](https://github.com/unibwtas/yolopoint)|
-|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v2](http://arxiv.org/abs/2402.03762v2)|null|

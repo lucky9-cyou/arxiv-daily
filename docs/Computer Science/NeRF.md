@@ -2,6 +2,10 @@
 ### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255v1](http://arxiv.org/abs/2402.13255v1)|null|
+|**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252v1](http://arxiv.org/abs/2402.13252v1)|[link](https://github.com/nemo1999/joint-tensorf)|
+|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226v1](http://arxiv.org/abs/2402.13226v1)|null|
+|**2024-02-20**|**OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**|Simon Boeder et.al.|[2402.12792v1](http://arxiv.org/abs/2402.12792v1)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
 |**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184v1](http://arxiv.org/abs/2402.12184v1)|null|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141v1](http://arxiv.org/abs/2402.11141v1)|null|
@@ -28,7 +32,3 @@
 |**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217v2](http://arxiv.org/abs/2402.01217v2)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|[link](https://github.com/dongjiahua/vica-nerf)|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
-|**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
-|**2024-01-31**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v2](http://arxiv.org/abs/2401.17857v2)|null|
-|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|[link](https://github.com/mercerai/paev3d)|
-|**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
