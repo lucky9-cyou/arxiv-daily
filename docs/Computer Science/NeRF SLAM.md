@@ -2,6 +2,7 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771v1](http://arxiv.org/abs/2402.18771v1)|null|
 |**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
 |**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196v1](http://arxiv.org/abs/2402.18196v1)|null|
 |**2024-02-28**|**Generation of skill-specific maps from graph world models for robotic systems**|Koen de Vos et.al.|[2402.18174v1](http://arxiv.org/abs/2402.18174v1)|null|
@@ -31,4 +32,3 @@
 |**2024-02-21**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v2](http://arxiv.org/abs/2402.13609v2)|[link](https://github.com/yutongwangbit/voom)|
 |**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537v1](http://arxiv.org/abs/2402.13537v1)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510v1](http://arxiv.org/abs/2402.13510v1)|null|
-|**2024-02-21**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488v2](http://arxiv.org/abs/2402.13488v2)|null|
