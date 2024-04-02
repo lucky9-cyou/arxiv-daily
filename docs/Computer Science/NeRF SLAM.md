@@ -10,7 +10,7 @@
 |**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013v1](http://arxiv.org/abs/2403.20013v1)|null|
 |**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985v1](http://arxiv.org/abs/2403.19985v1)|null|
 |**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920v1](http://arxiv.org/abs/2403.19920v1)|null|
-|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v1](http://arxiv.org/abs/2403.19886v1)|null|
+|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885v1](http://arxiv.org/abs/2403.19885v1)|[link](https://github.com/neufieldrobotics/irslam_baseline)|
 |**2024-03-28**|**MAC: Maximizing Algebraic Connectivity for Graph Sparsification**|Kevin Doherty et.al.|[2403.19879v1](http://arxiv.org/abs/2403.19879v1)|null|
 |**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|[link](https://github.com/ga1i13o/jist)|
