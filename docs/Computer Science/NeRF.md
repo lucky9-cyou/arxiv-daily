@@ -26,7 +26,7 @@
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874v1](http://arxiv.org/abs/2404.00874v1)|null|
 |**2024-03-31**|**An Active Perception Game for Robust Autonomous Exploration**|Siming He et.al.|[2404.00769v1](http://arxiv.org/abs/2404.00769v1)|null|
 |**2024-03-31**|**Neural Radiance Field-based Visual Rendering: A Comprehensive Review**|Mingyuan Yao et.al.|[2404.00714v1](http://arxiv.org/abs/2404.00714v1)|null|
-|**2024-03-31**|**Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects**|Wenxiao Cai et.al.|[2404.00674v1](http://arxiv.org/abs/2404.00674v1)|[link](https://github.com/russrobin/knowledge_nerf)|
+|**2024-03-31**|**Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects**|Wenxiao Cai et.al.|[2404.00674v2](http://arxiv.org/abs/2404.00674v2)|[link](https://github.com/russrobin/knowledge_nerf)|
 |**2024-03-30**|**MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text**|Takayuki Hara et.al.|[2404.00345v1](http://arxiv.org/abs/2404.00345v1)|null|
 |**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159v1](http://arxiv.org/abs/2403.20159v1)|null|
 |**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153v1](http://arxiv.org/abs/2403.20153v1)|null|
