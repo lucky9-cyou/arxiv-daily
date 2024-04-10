@@ -2,6 +2,10 @@
 ### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
+|**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
+|**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
+|**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152v1](http://arxiv.org/abs/2404.06152v1)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236v1](http://arxiv.org/abs/2404.05236v1)|null|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220v1](http://arxiv.org/abs/2404.05220v1)|null|
 |**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163v1](http://arxiv.org/abs/2404.05163v1)|null|
@@ -28,7 +32,3 @@
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168v1](http://arxiv.org/abs/2404.01168v1)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992v1](http://arxiv.org/abs/2404.00992v1)|null|
 |**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|[link](https://github.com/zhaorw02/FlexiDreamer)|
-|**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|
-|**2024-04-01**|**DPA-Net: Structured 3D Abstraction from Sparse Views via Differentiable Primitive Assembly**|Fenggen Yu et.al.|[2404.00875v2](http://arxiv.org/abs/2404.00875v2)|null|
-|**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874v1](http://arxiv.org/abs/2404.00874v1)|null|
-|**2024-03-31**|**An Active Perception Game for Robust Autonomous Exploration**|Siming He et.al.|[2404.00769v1](http://arxiv.org/abs/2404.00769v1)|null|

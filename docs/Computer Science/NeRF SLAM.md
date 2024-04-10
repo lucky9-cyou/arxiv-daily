@@ -2,6 +2,10 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
+|**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
+|**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
+|**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152v1](http://arxiv.org/abs/2404.06152v1)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236v1](http://arxiv.org/abs/2404.05236v1)|null|
 |**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220v1](http://arxiv.org/abs/2404.05220v1)|null|
 |**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163v1](http://arxiv.org/abs/2404.05163v1)|null|
@@ -28,7 +32,3 @@
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
 |**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300v1](http://arxiv.org/abs/2404.01300v1)|null|
 |**2024-04-01**|**MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space**|Armand Comas-Massagué et.al.|[2404.01296v1](http://arxiv.org/abs/2404.01296v1)|null|
-|**2024-04-01**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241v2](http://arxiv.org/abs/2404.01241v2)|null|
-|**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168v1](http://arxiv.org/abs/2404.01168v1)|null|
-|**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992v1](http://arxiv.org/abs/2404.00992v1)|null|
-|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|[link](https://github.com/zhaorw02/FlexiDreamer)|
