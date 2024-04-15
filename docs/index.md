@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-14 22:40:01 Asia/Shanghai
+ Automated deployment @ 2024-04-15 11:12:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,16 +8,20 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563v1](http://arxiv.org/abs/2404.08563v1)|null|
+|**2024-04-12**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449v1](http://arxiv.org/abs/2404.08449v1)|null|
+|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312v1](http://arxiv.org/abs/2404.08312v1)|null|
+|**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|[link](https://github.com/keonhee-han/KDBTS)|
-|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v1](http://arxiv.org/abs/2404.07762v1)|[link](https://github.com/wljungbergh/neuroncap)|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v1](http://arxiv.org/abs/2404.07644v1)|null|
+|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v2](http://arxiv.org/abs/2404.07762v2)|[link](https://github.com/wljungbergh/neuroncap)|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|[link](https://github.com/littledang/2dliw-slam)|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474v1](http://arxiv.org/abs/2404.07474v1)|null|
 |**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|[link](https://github.com/m-kruse98/splatpose)|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727v1](http://arxiv.org/abs/2404.06727v1)|[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)|
-|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v2](http://arxiv.org/abs/2404.06710v2)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v3](http://arxiv.org/abs/2404.06710v3)|null|
 |**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v1](http://arxiv.org/abs/2404.06665v1)|[link](https://github.com/yongquan-qu/slams)|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
@@ -34,22 +38,21 @@
 |**2024-04-05**|**LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping**|Kurran Singh et.al.|[2404.04377v1](http://arxiv.org/abs/2404.04377v1)|null|
 |**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736v1](http://arxiv.org/abs/2404.03736v1)|null|
-|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v2](http://arxiv.org/abs/2404.03654v2)|null|
-|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
-|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349v1](http://arxiv.org/abs/2404.03349v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-12**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449v1](http://arxiv.org/abs/2404.08449v1)|null|
+|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312v1](http://arxiv.org/abs/2404.08312v1)|null|
+|**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|[link](https://github.com/keonhee-han/KDBTS)|
-|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v1](http://arxiv.org/abs/2404.07762v1)|[link](https://github.com/wljungbergh/neuroncap)|
+|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v2](http://arxiv.org/abs/2404.07762v2)|[link](https://github.com/wljungbergh/neuroncap)|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474v1](http://arxiv.org/abs/2404.07474v1)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|[link](https://github.com/m-kruse98/splatpose)|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727v1](http://arxiv.org/abs/2404.06727v1)|[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)|
-|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v2](http://arxiv.org/abs/2404.06710v2)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v3](http://arxiv.org/abs/2404.06710v3)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
@@ -69,16 +72,14 @@
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742v1](http://arxiv.org/abs/2404.02742v1)|[link](https://github.com/ispc-lab/lidar4d)|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617v1](http://arxiv.org/abs/2404.02617v1)|null|
-|**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514v1](http://arxiv.org/abs/2404.02514v1)|null|
-|**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155v1](http://arxiv.org/abs/2404.02155v1)|null|
-|**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185v1](http://arxiv.org/abs/2404.02185v1)|null|
 
 ## Robotics
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v1](http://arxiv.org/abs/2404.07644v1)|null|
+|**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563v1](http://arxiv.org/abs/2404.08563v1)|null|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|[link](https://github.com/littledang/2dliw-slam)|
 |**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
 |**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v1](http://arxiv.org/abs/2404.06665v1)|[link](https://github.com/yongquan-qu/slams)|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
@@ -107,4 +108,3 @@
 |**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
 |**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|[link](https://github.com/dlr-rm/umf)|
 |**2024-03-20**|**Tuning body shape and stiffness to mitigate water-entry forces**|Bart Boom et.al.|[2403.13262v1](http://arxiv.org/abs/2403.13262v1)|null|
-|**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v1](http://arxiv.org/abs/2403.12837v1)|null|
