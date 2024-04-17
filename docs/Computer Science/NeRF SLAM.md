@@ -20,7 +20,7 @@
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727v1](http://arxiv.org/abs/2404.06727v1)|[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)|
 |**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v3](http://arxiv.org/abs/2404.06710v3)|null|
-|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v1](http://arxiv.org/abs/2404.06665v1)|[link](https://github.com/yongquan-qu/slams)|
+|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v2](http://arxiv.org/abs/2404.06665v2)|[link](https://github.com/yongquan-qu/slams)|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v2](http://arxiv.org/abs/2404.06270v2)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
