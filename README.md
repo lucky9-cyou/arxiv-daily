@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-04 09:39:54 Asia/Shanghai
+ Automated deployment @ 2024-05-04 20:17:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -54,7 +54,7 @@
 |**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015v1](http://arxiv.org/abs/2404.19015v1)|null|
 |**2024-04-29**|**Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**|Xin Chen et.al.|[2404.18560v1](http://arxiv.org/abs/2404.18560v1)|null|
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
-|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|null|
+|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|[link](https://github.com/intrepidchw/distributed_msckf)|
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
 |**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng et.al.|[2404.18192v1](http://arxiv.org/abs/2404.18192v1)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890v1](http://arxiv.org/abs/2404.17890v1)|null|
@@ -81,7 +81,7 @@
 |**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706v2](http://arxiv.org/abs/2404.19706v2)|null|
 |**2024-04-29**|**Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**|Xin Chen et.al.|[2404.18560v1](http://arxiv.org/abs/2404.18560v1)|null|
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
-|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|null|
+|**2024-04-28**|**Multi-Robot Object SLAM using Distributed Variational Inference**|Hanwen Cao et.al.|[2404.18331v1](http://arxiv.org/abs/2404.18331v1)|[link](https://github.com/intrepidchw/distributed_msckf)|
 |**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
 |**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng et.al.|[2404.18192v1](http://arxiv.org/abs/2404.18192v1)|null|
 |**2024-04-27**|**DF-SLAM: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System**|Weifeng Wei et.al.|[2404.17876v1](http://arxiv.org/abs/2404.17876v1)|null|
