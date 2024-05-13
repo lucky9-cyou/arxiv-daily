@@ -21,7 +21,7 @@
 |**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425v1](http://arxiv.org/abs/2405.02425v1)|null|
 |**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386v1](http://arxiv.org/abs/2405.02386v1)|[link](https://github.com/junchenliu77/rip-nerf)|
 |**2024-05-03**|**X-SLAM: Scalable Dense SLAM for Task-aware Optimization using CSFD**|Zhexi Peng et.al.|[2405.02187v1](http://arxiv.org/abs/2405.02187v1)|null|
-|**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177v1](http://arxiv.org/abs/2405.02177v1)|null|
+|**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177v1](http://arxiv.org/abs/2405.02177v1)|[link](https://github.com/iit-dlslab/panoptic-slam)|
 |**2024-05-03**|**Multipath-based SLAM with Cooperation and Map Fusion**|Erik Leitinger et.al.|[2405.02126v1](http://arxiv.org/abs/2405.02126v1)|null|
 |**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066v1](http://arxiv.org/abs/2405.02066v1)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333v1](http://arxiv.org/abs/2405.01333v1)|null|
