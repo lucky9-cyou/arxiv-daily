@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-21 09:18:52 Asia/Shanghai
+ Automated deployment @ 2024-05-21 20:04:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,13 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
+|**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
+|**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057v1](http://arxiv.org/abs/2405.12057v1)|null|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629v1](http://arxiv.org/abs/2405.11629v1)|null|
+|**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541v1](http://arxiv.org/abs/2405.11541v1)|null|
+|**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176v1](http://arxiv.org/abs/2405.11176v1)|null|
+|**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|[link](https://github.com/antonio521/motiongs)|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793v1](http://arxiv.org/abs/2405.10793v1)|null|
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255v1](http://arxiv.org/abs/2405.10255v1)|null|
@@ -31,17 +38,16 @@
 |**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v2](http://arxiv.org/abs/2405.05749v2)|null|
 |**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702v2](http://arxiv.org/abs/2405.05702v2)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663v1](http://arxiv.org/abs/2405.05663v1)|null|
-|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
-|**2024-05-08**|**${M^2D}$NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010v1](http://arxiv.org/abs/2405.05010v1)|null|
-|**2024-05-08**|**General Place Recognition Survey: Towards Real-World Autonomy**|Peng Yin et.al.|[2405.04812v1](http://arxiv.org/abs/2405.04812v1)|[link](https://github.com/MetaSLAM/GPRS)|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
-|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
-|**2024-05-06**|**Neural Graph Mapping for Dense SLAM with Efficient Loop Closure**|Leonard Bruns et.al.|[2405.03633v1](http://arxiv.org/abs/2405.03633v1)|null|
-|**2024-05-06**|**SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**|Zhang Xiao et.al.|[2405.03413v2](http://arxiv.org/abs/2405.03413v2)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
+|**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
+|**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057v1](http://arxiv.org/abs/2405.12057v1)|null|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629v1](http://arxiv.org/abs/2405.11629v1)|null|
+|**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541v1](http://arxiv.org/abs/2405.11541v1)|null|
+|**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|[link](https://github.com/antonio521/motiongs)|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255v1](http://arxiv.org/abs/2405.10255v1)|null|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717v1](http://arxiv.org/abs/2405.09717v1)|[link](https://github.com/grasp-lyrl/nerftogsandback)|
 |**2024-05-14**|**Dynamic NeRF: A Review**|Jinwei Lin et.al.|[2405.08609v1](http://arxiv.org/abs/2405.08609v1)|null|
@@ -66,18 +72,14 @@
 |**2024-05-04**|**ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**|Hyunseo Kim et.al.|[2405.02568v1](http://arxiv.org/abs/2405.02568v1)|null|
 |**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425v1](http://arxiv.org/abs/2405.02425v1)|null|
 |**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386v1](http://arxiv.org/abs/2405.02386v1)|[link](https://github.com/junchenliu77/rip-nerf)|
-|**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066v2](http://arxiv.org/abs/2405.02066v2)|null|
-|**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333v1](http://arxiv.org/abs/2405.01333v1)|null|
-|**2024-05-01**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900v2](http://arxiv.org/abs/2405.00900v2)|null|
-|**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630v2](http://arxiv.org/abs/2405.00630v2)|null|
-|**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507v1](http://arxiv.org/abs/2405.00507v1)|null|
-|**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706v3](http://arxiv.org/abs/2404.19706v3)|null|
 
 ## Robotics
 
 ### SLAM
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176v1](http://arxiv.org/abs/2405.11176v1)|null|
+|**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|[link](https://github.com/antonio521/motiongs)|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793v1](http://arxiv.org/abs/2405.10793v1)|null|
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
 |**2024-05-14**|**IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**|Emilio Olivastri et.al.|[2405.08503v1](http://arxiv.org/abs/2405.08503v1)|null|
@@ -106,5 +108,3 @@
 |**2024-04-27**|**HIPer: A Human-Inspired Scene Perception Model for Multifunctional Mobile Robots**|Florenz Graf et.al.|[2404.17791v1](http://arxiv.org/abs/2404.17791v1)|null|
 |**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215v1](http://arxiv.org/abs/2404.17215v1)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263v1](http://arxiv.org/abs/2404.15263v1)|[link](https://github.com/princeton-vl/multislam_diffpose)|
-|**2024-04-22**|**MIMO Multipath-based SLAM for Non-Ideal Reflective Surfaces**|Lukas Wielandner et.al.|[2404.15375v1](http://arxiv.org/abs/2404.15375v1)|null|
-|**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077v1](http://arxiv.org/abs/2404.14077v1)|[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)|
