@@ -2,6 +2,13 @@
 ### NeRF
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871v1](http://arxiv.org/abs/2405.14871v1)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847v1](http://arxiv.org/abs/2405.14847v1)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824v1](http://arxiv.org/abs/2405.14824v1)|null|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580v1](http://arxiv.org/abs/2405.14580v1)|null|
+|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452v1](http://arxiv.org/abs/2405.14452v1)|null|
+|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943v1](http://arxiv.org/abs/2405.13943v1)|null|
+|**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694v1](http://arxiv.org/abs/2405.13694v1)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806v1](http://arxiv.org/abs/2405.12806v1)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728v1](http://arxiv.org/abs/2405.12728v1)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
@@ -25,10 +32,3 @@
 |**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v2](http://arxiv.org/abs/2405.05749v2)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663v1](http://arxiv.org/abs/2405.05663v1)|[link](https://github.com/qt-zhu/rpbg)|
 |**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
-|**2024-05-08**|**${M^2D}$NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010v1](http://arxiv.org/abs/2405.05010v1)|null|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
-|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
-|**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880v1](http://arxiv.org/abs/2405.02880v1)|null|
-|**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859v1](http://arxiv.org/abs/2405.02859v1)|null|
-|**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762v1](http://arxiv.org/abs/2405.02762v1)|null|
-|**2024-05-04**|**ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**|Hyunseo Kim et.al.|[2405.02568v1](http://arxiv.org/abs/2405.02568v1)|null|
