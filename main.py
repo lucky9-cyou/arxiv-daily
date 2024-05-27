@@ -138,7 +138,7 @@ class CoroutineSpeedup:
             messages=[
                 {
                     "role": "system",
-                    "content": "Summarize the key contributions and main ideas from the paper's abstract and introduction in a single concise sentence of less than 50 words, starting with 'Contributions:' Be specific and focus only on the most important elements, presenting them clearly and objectively without extraneous information.",
+                    "content": "Summarize the key contributions from the paper's abstract and introduction. Please ensure your reply is a single sentence under 50 words.",
                 },
                 {
                     "role": "user",
