@@ -34,6 +34,10 @@ from config import (
     logger
 )
 
+import arxiv2text
+from openai import OpenAI
+from os import getenv
+import time
 
 class ToolBox:
     @staticmethod
@@ -113,6 +117,39 @@ class CoroutineSpeedup:
 
         context.update({"response": res, "hook": context})
         self.worker.put_nowait(context)
+    
+    def extract_contr(self, result):
+        paper_abs = result.summary
+        paper_url = result.entry_id.replace('abs', 'pdf')
+        
+        text = arxiv2text.arxiv_to_text(paper_url)
+        intr_end = text.lower().find("background") if text.lower().find("background") != -1 else text.lower().find("related work")
+        paper_intr = text[text.lower().find('introduction'):intr_end]
+
+        
+        # gets API Key from environment variable OPENAI_API_KEY
+        client = OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=getenv("OPENROUTER_API_KEY"),
+        )
+
+        completion = client.chat.completions.create(
+            model="meta-llama/llama-3-8b-instruct",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "Summarize the key contributions and main ideas from the abstract and introduction sections in roughly 50 words. Structure your concise response as 'Contributions: ...', omitting any other text. Focus on the most important and novel aspects of the work.",
+                },
+                {
+                    "role": "user",
+                    "content": paper_abs + '\n' + paper_intr,
+                },
+            ],
+        )
+        
+        time.sleep(1)
+        
+        return completion.choices[0].message.content.replace("\n", "")
 
     def parse(self, context):
         base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
@@ -121,7 +158,6 @@ class CoroutineSpeedup:
         for result in arxiv_res:
             paper_id = result.get_short_id()
             paper_title = result.title
-            paper_abstract = result.summary
             paper_url = result.entry_id
 
             code_url = base_url + paper_id
@@ -132,7 +168,7 @@ class CoroutineSpeedup:
             ver_pos = paper_id.find('v')
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
             
-            # result.download_pdf(dirpath = './pdfs', filename = f'{paper_id}.pdf')
+            paper_contr = self.extract_contr(result)
 
             # 尝试获取仓库代码
             # ----------------------------------------------------------------------------------
@@ -174,14 +210,15 @@ class CoroutineSpeedup:
                     "authors": f"{paper_first_author} et.al.",
                     "id": paper_id,
                     "paper_url": paper_url,
-                    "repo": repo_url
+                    "repo": repo_url,
+                    "contr": paper_contr
                 },
             })
         self.channel.put_nowait({
             "paper": _paper,
             "topic": context["hook"]["topic"],
             "subtopic": context["hook"]["subtopic"],
-            "fields": ["Publish Date", "Title", "Authors", "PDF", "Code"]
+            "fields": ["Publish Date", "Title", "Authors", "Contributions", "PDF", "Code"]
         })
         logger.success(
             f"handle [{self.channel.qsize()}/{self.max_queue_size}]"
@@ -269,6 +306,7 @@ class _OverloadTasks:
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
                f"|{paper['authors']}" \
+               f"|{paper['contr']}" \
                f"|{_pdf}" \
                f"|{_repo}|\n"
 
