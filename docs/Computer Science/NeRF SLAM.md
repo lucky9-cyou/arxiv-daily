@@ -21,7 +21,7 @@
 |**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057v1](http://arxiv.org/abs/2405.12057v1)|null|
 |**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629v1](http://arxiv.org/abs/2405.11629v1)|null|
 |**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541v1](http://arxiv.org/abs/2405.11541v1)|null|
-|**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176v1](http://arxiv.org/abs/2405.11176v1)|null|
+|**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176v2](http://arxiv.org/abs/2405.11176v2)|null|
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|[link](https://github.com/antonio521/motiongs)|
 |**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793v1](http://arxiv.org/abs/2405.10793v1)|null|
 |**2024-05-17**|**Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**|Liang Zhao et.al.|[2405.10743v1](http://arxiv.org/abs/2405.10743v1)|null|
