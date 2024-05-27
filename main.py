@@ -103,12 +103,13 @@ class CoroutineSpeedup:
 
     def runtime(self, context: dict):
         keyword_ = context.get("keyword")
-
-        res = arxiv.Search(
+        client = arxiv.Client()
+        search = arxiv.Search(
             query=keyword_,
             max_results=self.max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
-        ).results()
+        )
+        res = client.results(search)
 
         context.update({"response": res, "hook": context})
         self.worker.put_nowait(context)
@@ -120,6 +121,7 @@ class CoroutineSpeedup:
         for result in arxiv_res:
             paper_id = result.get_short_id()
             paper_title = result.title
+            paper_abstract = result.summary
             paper_url = result.entry_id
 
             code_url = base_url + paper_id
@@ -129,6 +131,8 @@ class CoroutineSpeedup:
 
             ver_pos = paper_id.find('v')
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
+            
+            # result.download_pdf(dirpath = './pdfs', filename = f'{paper_id}.pdf')
 
             # 尝试获取仓库代码
             # ----------------------------------------------------------------------------------
@@ -350,6 +354,8 @@ class Scaffold:
         # Set tasks
         pending_atomic = [{"subtopic": subtopic, "keyword": keyword.replace('"', ""), "topic": topic}
                           for topic, subtopics in context.items() for subtopic, keyword in subtopics.items()]
+        
+        print(pending_atomic)
 
         # Offload tasks
         booster = CoroutineSpeedup(task_docker=pending_atomic)
