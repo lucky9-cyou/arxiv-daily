@@ -306,7 +306,6 @@ class _OverloadTasks:
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
                f"|{paper['authors']}" \
-               # f"|{paper['contr']}" \
                f"|{_pdf}" \
                f"|{_repo}|\n"
 
