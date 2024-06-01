@@ -168,7 +168,7 @@ class CoroutineSpeedup:
             ver_pos = paper_id.find('v')
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
             
-            paper_contr = self.extract_contr(result)
+            # paper_contr = self.extract_contr(result)
 
             # 尝试获取仓库代码
             # ----------------------------------------------------------------------------------
@@ -211,7 +211,7 @@ class CoroutineSpeedup:
                     "id": paper_id,
                     "paper_url": paper_url,
                     "repo": repo_url,
-                    "contr": paper_contr
+                    # "contr": paper_contr
                 },
             })
         self.channel.put_nowait({
@@ -306,7 +306,7 @@ class _OverloadTasks:
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
                f"|{paper['authors']}" \
-               f"|{paper['contr']}" \
+               # f"|{paper['contr']}" \
                f"|{_pdf}" \
                f"|{_repo}|\n"
 
