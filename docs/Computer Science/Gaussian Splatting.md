@@ -5,7 +5,7 @@
 |**2024-05-30**|**Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes**|Rachel D. Gidaro et.al.|[2405.20342v1](http://arxiv.org/abs/2405.20342v1)|null|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
 |**2024-05-30**|**Martingale central limit theorem for random multiplicative functions**|Ofir Gorodetsky et.al.|[2405.20311v1](http://arxiv.org/abs/2405.20311v1)|null|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310v1](http://arxiv.org/abs/2405.20310v1)|null|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
 |**2024-05-30**|**Gaussian factors, spectra, and $P$-entropy**|Valery V. Ryzhikov et.al.|[2405.20297v1](http://arxiv.org/abs/2405.20297v1)|null|
 |**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283v1](http://arxiv.org/abs/2405.20283v1)|null|
 |**2024-05-30**|**Item response parameter estimation performance using Gaussian quadrature and Laplace**|Leticia Arrington et.al.|[2405.20164v1](http://arxiv.org/abs/2405.20164v1)|null|
