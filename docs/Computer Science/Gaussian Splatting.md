@@ -25,7 +25,7 @@
 |**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671v1](http://arxiv.org/abs/2405.19671v1)|null|
 |**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657v1](http://arxiv.org/abs/2405.19657v1)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
-|**2024-05-29**|**Gaussian Flow Bridges for Audio Domain Transfer with Unpaired Data**|Eloi Moliner et.al.|[2405.19497v1](http://arxiv.org/abs/2405.19497v1)|null|
+|**2024-05-29**|**Gaussian Flow Bridges for Audio Domain Transfer with Unpaired Data**|Eloi Moliner et.al.|[2405.19497v1](http://arxiv.org/abs/2405.19497v1)|[link](https://github.com/microsoft/GFB-audio-control)|
 |**2024-05-29**|**Fast Gaussian Distributed Pseudorandom Number Generation in Java via the Ziggurat Algorithm**|Vincent A. Cicirello et.al.|[2405.19493v1](http://arxiv.org/abs/2405.19493v1)|null|
 |**2024-05-29**|**Detection of Low-Energy Electrons with Transition-Edge Sensors**|Carlo Pepe et.al.|[2405.19475v1](http://arxiv.org/abs/2405.19475v1)|null|
 |**2024-05-29**|**Quantitative hydrodynamics for a generalized contact model**|Julian Amorim et.al.|[2405.19437v1](http://arxiv.org/abs/2405.19437v1)|null|
