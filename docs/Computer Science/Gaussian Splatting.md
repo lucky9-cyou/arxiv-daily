@@ -2,6 +2,29 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-31**|**Quantum state preparation for multivariate functions**|Matthias Rosenkranz et.al.|[2405.21058v1](http://arxiv.org/abs/2405.21058v1)|null|
+|**2024-05-31**|**The Renormalization Group for Large-Scale Structure: Primordial non-Gaussianities**|Charalampos Nikolis et.al.|[2405.21002v1](http://arxiv.org/abs/2405.21002v1)|null|
+|**2024-05-31**|**Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise**|Jean Barbier et.al.|[2405.20993v1](http://arxiv.org/abs/2405.20993v1)|null|
+|**2024-05-31**|**Neural Gaussian Scale-Space Fields**|Felix Mujkanovic et.al.|[2405.20980v1](http://arxiv.org/abs/2405.20980v1)|null|
+|**2024-05-31**|**Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes**|Evangelos Dimitriou et.al.|[2405.20957v1](http://arxiv.org/abs/2405.20957v1)|null|
+|**2024-05-31**|**Concentration Bounds for Optimized Certainty Equivalent Risk Estimation**|Ayon Ghosh et.al.|[2405.20933v1](http://arxiv.org/abs/2405.20933v1)|null|
+|**2024-05-31**|**Gaussian Framework and Optimal Projection of Weather Fields for Prediction of Extreme Events**|Valeria Mascolo et.al.|[2405.20903v1](http://arxiv.org/abs/2405.20903v1)|null|
+|**2024-05-31**|**Parameter identification in linear non-Gaussian causal models under general confounding**|Daniele Tramontano et.al.|[2405.20856v1](http://arxiv.org/abs/2405.20856v1)|null|
+|**2024-05-31**|**Operators in the Fock-Toeplitz algebra**|Wolfram Bauer et.al.|[2405.20792v1](http://arxiv.org/abs/2405.20792v1)|null|
+|**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791v1](http://arxiv.org/abs/2405.20791v1)|null|
+|**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721v1](http://arxiv.org/abs/2405.20721v1)|[link](https://github.com/wyf0912/contextgs)|
+|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694v1](http://arxiv.org/abs/2405.20694v1)|null|
+|**2024-05-31**|**R$^2$-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693v1](http://arxiv.org/abs/2405.20693v1)|null|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669v1](http://arxiv.org/abs/2405.20669v1)|null|
+|**2024-05-31**|**Fixed-budget optimal designs for multi-fidelity computer experiments**|Gecheng Chen et.al.|[2405.20644v1](http://arxiv.org/abs/2405.20644v1)|null|
+|**2024-05-31**|**Class-Based Time Series Data Augmentation to Mitigate Extreme Class Imbalance for Solar Flare Prediction**|Junzhi Wen et.al.|[2405.20590v1](http://arxiv.org/abs/2405.20590v1)|null|
+|**2024-05-31**|**Towards accelerated nuclear-physics parameter estimation from binary neutron star mergers: Emulators for the Tolman-Oppenheimer-Volkoff equations**|Brendan T. Reed et.al.|[2405.20558v1](http://arxiv.org/abs/2405.20558v1)|null|
+|**2024-05-30**|**Deep Modeling of Non-Gaussian Aleatoric Uncertainty**|Aastha Acharya et.al.|[2405.20513v1](http://arxiv.org/abs/2405.20513v1)|null|
+|**2024-05-30**|**Robust Decentralized Control of Coupled Systems via Risk Sensitive Control of Decoupled or Simple Models with Measure Change**|Zachary Selk et.al.|[2405.20498v1](http://arxiv.org/abs/2405.20498v1)|null|
+|**2024-05-30**|**Slight Corruption in Pre-training Data Makes Better Diffusion Models**|Hao Chen et.al.|[2405.20494v1](http://arxiv.org/abs/2405.20494v1)|null|
+|**2024-05-30**|**What makes a cosmic filament? The dynamical origin and identity of filaments I. fundamentals in 2D**|Job Feldbrugge et.al.|[2405.20475v1](http://arxiv.org/abs/2405.20475v1)|null|
+|**2024-05-30**|**Fast leave-one-cluster-out cross-validation by clustered Network Information Criteria (NICc)**|Jiaxing Qiu et.al.|[2405.20400v1](http://arxiv.org/abs/2405.20400v1)|null|
+|**2024-05-30**|**On the D5-brane description of $\frac{1}{4}$-BPS Wilson loops in $\mathcal{N}=4$ super Yang-Mills theory**|Alberto Faraggi et.al.|[2405.20391v1](http://arxiv.org/abs/2405.20391v1)|null|
 |**2024-05-30**|**Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes**|Rachel D. Gidaro et.al.|[2405.20342v1](http://arxiv.org/abs/2405.20342v1)|null|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
 |**2024-05-30**|**Martingale central limit theorem for random multiplicative functions**|Ofir Gorodetsky et.al.|[2405.20311v1](http://arxiv.org/abs/2405.20311v1)|null|
@@ -9,26 +32,3 @@
 |**2024-05-30**|**Gaussian factors, spectra, and $P$-entropy**|Valery V. Ryzhikov et.al.|[2405.20297v1](http://arxiv.org/abs/2405.20297v1)|null|
 |**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283v1](http://arxiv.org/abs/2405.20283v1)|null|
 |**2024-05-30**|**Item response parameter estimation performance using Gaussian quadrature and Laplace**|Leticia Arrington et.al.|[2405.20164v1](http://arxiv.org/abs/2405.20164v1)|null|
-|**2024-05-30**|**An Analysis of AGN-Driven Outflows in the Seyfert 1 Galaxy NGC 3227**|Julia Falcone et.al.|[2405.20162v1](http://arxiv.org/abs/2405.20162v1)|null|
-|**2024-05-30**|**SLE and its partition function in multiply connected domains via the Gaussian Free Field and restriction measures**|Juhan Aru et.al.|[2405.20148v1](http://arxiv.org/abs/2405.20148v1)|null|
-|**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad et.al.|[2405.20104v1](http://arxiv.org/abs/2405.20104v1)|null|
-|**2024-05-30**|**Characterization of probability distributions on some locally compact Abelian groups containing an element of order 2**|Gennadiy Feldman et.al.|[2405.20087v1](http://arxiv.org/abs/2405.20087v1)|null|
-|**2024-05-30**|**N-Dimensional Gaussians for Fitting of High Dimensional Functions**|Stavros Diolatzis et.al.|[2405.20067v2](http://arxiv.org/abs/2405.20067v2)|null|
-|**2024-05-30**|**Iterative Learning Control of Fast, Nonlinear, Oscillatory Dynamics (Preprint)**|John W. Brooks et.al.|[2405.20045v1](http://arxiv.org/abs/2405.20045v1)|null|
-|**2024-05-30**|**Structure Gaussian SLAM with Manhattan World Hypothesis**|Shuhong Liu et.al.|[2405.20031v1](http://arxiv.org/abs/2405.20031v1)|null|
-|**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957v1](http://arxiv.org/abs/2405.19957v1)|null|
-|**2024-05-30**|**Statistical physics of principal minors: Cavity approach**|A. Ramezanpour et.al.|[2405.19904v1](http://arxiv.org/abs/2405.19904v1)|null|
-|**2024-05-30**|**On a new family of weighted Gaussian processes: an application to bat telemetry data**|Jose Hermenegildo Ramirez Gonzalez et.al.|[2405.19903v1](http://arxiv.org/abs/2405.19903v1)|null|
-|**2024-05-30**|**Out-of-distribution Reject Option Method for Dataset Shift Problem in Early Disease Onset Prediction**|Taisei Tosaki et.al.|[2405.19864v1](http://arxiv.org/abs/2405.19864v1)|null|
-|**2024-05-30**|**Machine learning to explore high-entropy alloys with desired enthalpy for room-temperature hydrogen storage: Prediction of density functional theory and experimental data**|Shivam Dangwal et.al.|[2405.19838v1](http://arxiv.org/abs/2405.19838v1)|null|
-|**2024-05-30**|**GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis**|Boming Zhao et.al.|[2405.19745v1](http://arxiv.org/abs/2405.19745v1)|null|
-|**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671v1](http://arxiv.org/abs/2405.19671v1)|null|
-|**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657v1](http://arxiv.org/abs/2405.19657v1)|null|
-|**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
-|**2024-05-29**|**Gaussian Flow Bridges for Audio Domain Transfer with Unpaired Data**|Eloi Moliner et.al.|[2405.19497v1](http://arxiv.org/abs/2405.19497v1)|[link](https://github.com/microsoft/GFB-audio-control)|
-|**2024-05-29**|**Fast Gaussian Distributed Pseudorandom Number Generation in Java via the Ziggurat Algorithm**|Vincent A. Cicirello et.al.|[2405.19493v1](http://arxiv.org/abs/2405.19493v1)|null|
-|**2024-05-29**|**Detection of Low-Energy Electrons with Transition-Edge Sensors**|Carlo Pepe et.al.|[2405.19475v1](http://arxiv.org/abs/2405.19475v1)|null|
-|**2024-05-29**|**Quantitative hydrodynamics for a generalized contact model**|Julian Amorim et.al.|[2405.19437v1](http://arxiv.org/abs/2405.19437v1)|null|
-|**2024-05-29**|**Tempered Multifidelity Importance Sampling for Gravitational Wave Parameter Estimation**|Bassel Saleh et.al.|[2405.19407v1](http://arxiv.org/abs/2405.19407v1)|null|
-|**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331v1](http://arxiv.org/abs/2405.19331v1)|null|
-|**2024-05-29**|**DGD: Dynamic 3D Gaussians Distillation**|Isaac Labe et.al.|[2405.19321v1](http://arxiv.org/abs/2405.19321v1)|null|
