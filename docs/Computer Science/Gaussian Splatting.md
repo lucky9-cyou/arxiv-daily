@@ -10,7 +10,7 @@
 |**2024-06-05**|**Discrete Autoregressive Switching Processes in Sparse Graphical Modeling of Multivariate Time Series Data**|Beniamino Hadj-Amar et.al.|[2406.03385v1](http://arxiv.org/abs/2406.03385v1)|null|
 |**2024-06-05**|**Bayesian Quantile Estimation and Regression with Martingale Posteriors**|Edwin Fong et.al.|[2406.03358v1](http://arxiv.org/abs/2406.03358v1)|null|
 |**2024-06-05**|**Entangled states are typically incomparable**|Vishesh Jain et.al.|[2406.03335v1](http://arxiv.org/abs/2406.03335v1)|null|
-|**2024-06-05**|**Photometric segregation of dwarf and giant FGK stars using the SVO Filter Profile Service and photometric tools**|Carlos Rodrigo et.al.|[2406.03310v1](http://arxiv.org/abs/2406.03310v1)|null|
+|**2024-06-05**|**Photometric segregation of dwarf and giant FGK stars using the SVO Filter Profile Service and photometric tools**|Carlos Rodrigo et.al.|[2406.03310v2](http://arxiv.org/abs/2406.03310v2)|null|
 |**2024-06-05**|**No-Regret Algorithms for Safe Bayesian Optimization with Monotonicity Constraints**|Arpan Losalka et.al.|[2406.03264v1](http://arxiv.org/abs/2406.03264v1)|null|
 |**2024-06-05**|**Feature learning in finite-width Bayesian deep linear networks with multiple outputs and convolutional layers**|Federico Bassetti et.al.|[2406.03260v1](http://arxiv.org/abs/2406.03260v1)|null|
 |**2024-06-05**|**The Heavier the Faster: A Sub-population of Heavy, Rapidly Spinning and Quickly Evolving Binary Black Holes**|Wei-Hua Guo et.al.|[2406.03257v1](http://arxiv.org/abs/2406.03257v1)|null|
