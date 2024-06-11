@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-06-11 20:31:18 Asia/Shanghai
+ Automated deployment @ 2024-06-11 20:46:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
-
-### NeRF
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
-|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
-|**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
-|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|null|
-|**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
-|**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649v1](http://arxiv.org/abs/2406.05649v1)|null|
-|**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|null|
-|**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
-|**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|[link](https://github.com/yihangchen-ee/cnc)|
-|**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
-|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
-|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
-|**2024-06-04**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541v3](http://arxiv.org/abs/2406.02541v3)|null|
-|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v2](http://arxiv.org/abs/2406.02370v2)|null|
-|**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
-|**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579v1](http://arxiv.org/abs/2406.01579v1)|[link](https://github.com/fudan-zvg/tet-splatting)|
-|**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042v1](http://arxiv.org/abs/2406.01042v1)|[link](https://github.com/fangli333/sc-4dgs)|
-|**2024-06-02**|**PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency**|Yeonsung Jung et.al.|[2406.00798v1](http://arxiv.org/abs/2406.00798v1)|null|
-|**2024-06-02**|**Representing Animatable Avatar via Factorized Neural Fields**|Chunjin Song et.al.|[2406.00637v1](http://arxiv.org/abs/2406.00637v1)|null|
-|**2024-06-02**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
-|**2024-06-02**|**Efficient Neural Light Fields (ENeLF) for Mobile Devices**|Austin Peng et.al.|[2406.00598v1](http://arxiv.org/abs/2406.00598v1)|null|
-|**2024-06-01**|**Bilateral Guided Radiance Field Processing**|Yuehao Wang et.al.|[2406.00448v1](http://arxiv.org/abs/2406.00448v1)|null|
-|**2024-06-01**|**MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos**|Qingming Liu et.al.|[2406.00434v1](http://arxiv.org/abs/2406.00434v1)|null|
-|**2024-05-31**|**R$^2$-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693v1](http://arxiv.org/abs/2405.20693v1)|[link](https://github.com/ruyi-zha/r2_gaussian)|
-|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674v1](http://arxiv.org/abs/2405.20674v1)|null|
-|**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
-|**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283v1](http://arxiv.org/abs/2405.20283v1)|null|
-|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078v2](http://arxiv.org/abs/2405.20078v2)|null|
-|**2024-05-30**|**IReNe: Instant Recoloring of Neural Radiance Fields**|Alessio Mazzucchelli et.al.|[2405.19876v2](http://arxiv.org/abs/2405.19876v2)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,39 +39,39 @@
 |**2024-06-02**|**Representing Animatable Avatar via Factorized Neural Fields**|Chunjin Song et.al.|[2406.00637v1](http://arxiv.org/abs/2406.00637v1)|null|
 |**2024-06-02**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
 
-### Gaussian Splatting SLAM
+### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
-|**2024-06-10**|**Nodewise Loreg: Nodewise $L_0$-penalized Regression for High-dimensional Sparse Precision Matrix Estimation**|Hai Shu et.al.|[2406.06481v1](http://arxiv.org/abs/2406.06481v1)|null|
-|**2024-06-10**|**QSSEP describes the fluctuations of quantum coherences in the Anderson model**|Ludwig Hruza et.al.|[2406.06444v1](http://arxiv.org/abs/2406.06444v1)|null|
-|**2024-06-10**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427v1](http://arxiv.org/abs/2406.06427v1)|null|
-|**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422v1](http://arxiv.org/abs/2406.06422v1)|null|
-|**2024-06-10**|**Bridging magic and non-Gaussian resources via Gottesman-Kitaev-Preskill encoding**|Oliver Hahn et.al.|[2406.06418v1](http://arxiv.org/abs/2406.06418v1)|null|
-|**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|[link](https://github.com/alterpang/multi_orb_slam)|
-|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
-|**2024-06-10**|**Latent Directions: A Simple Pathway to Bias Mitigation in Generative AI**|Carolina Lopez Olmos et.al.|[2406.06352v1](http://arxiv.org/abs/2406.06352v1)|null|
-|**2024-06-10**|**PAC-Bayes Analysis for Recalibration in Classification**|Masahiro Fujisawa et.al.|[2406.06227v1](http://arxiv.org/abs/2406.06227v1)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|null|
-|**2024-06-10**|**Hamonically trapped inertial run-and-tumble particle in one-dimension**|Debraj Dutta et.al.|[2406.06120v1](http://arxiv.org/abs/2406.06120v1)|null|
-|**2024-06-10**|**Multi-Generational Black Hole Population Analysis with an Astrophysically Informed Mass Function**|Yannick Ulrich et.al.|[2406.06109v1](http://arxiv.org/abs/2406.06109v1)|null|
-|**2024-06-10**|**Testably Learning Polynomial Threshold Functions**|Lucas Slot et.al.|[2406.06106v1](http://arxiv.org/abs/2406.06106v1)|null|
-|**2024-06-10**|**On the Consistency of Kernel Methods with Dependent Observations**|Pierre-François Massiani et.al.|[2406.06101v1](http://arxiv.org/abs/2406.06101v1)|null|
-|**2024-06-10**|**Generalizable Human Gaussians from Single-View Image**|Jinnan Chen et.al.|[2406.06050v1](http://arxiv.org/abs/2406.06050v1)|[link](https://github.com/jinnan-chen/HGM)|
-|**2024-06-10**|**Deformations of swallowtails in a 3-dimensional space form**|Kentaro Saji et.al.|[2406.05971v1](http://arxiv.org/abs/2406.05971v1)|null|
-|**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v1](http://arxiv.org/abs/2406.05969v1)|null|
-|**2024-06-09**|**Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering**|Yueyu Hu et.al.|[2406.05915v1](http://arxiv.org/abs/2406.05915v1)|null|
-|**2024-06-09**|**Some facts about the optimality of the LSE in the Gaussian sequence model with convex constraint**|Akshay Prasadan et.al.|[2406.05911v1](http://arxiv.org/abs/2406.05911v1)|null|
-|**2024-06-09**|**InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping**|Yunchao Zhang et.al.|[2406.05897v1](http://arxiv.org/abs/2406.05897v1)|null|
-|**2024-06-09**|**Information Theoretic Guarantees For Policy Alignment In Large Language Models**|Youssef Mroueh et.al.|[2406.05883v1](http://arxiv.org/abs/2406.05883v1)|null|
-|**2024-06-09**|**GANSky -- fast curved sky weak lensing simulations using Generative Adversarial Networks**|Supranta S. Boruah et.al.|[2406.05867v1](http://arxiv.org/abs/2406.05867v1)|null|
-|**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852v1](http://arxiv.org/abs/2406.05852v1)|null|
-|**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
-|**2024-06-09**|**Symmetric Matrix Completion with ReLU Sampling**|Huikang Liu et.al.|[2406.05822v1](http://arxiv.org/abs/2406.05822v1)|null|
-|**2024-06-09**|**VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction**|Hanlin Chen et.al.|[2406.05774v1](http://arxiv.org/abs/2406.05774v1)|null|
-|**2024-06-09**|**A Variational Approach to Learning Photonic Unitary Operators**|Hadrian Bezuidenhout et.al.|[2406.05727v1](http://arxiv.org/abs/2406.05727v1)|null|
-|**2024-06-09**|**Controlling Unknown Quantum States via Data-Driven State Representations**|Yan Zhu et.al.|[2406.05711v1](http://arxiv.org/abs/2406.05711v1)|null|
+|**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
+|**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649v1](http://arxiv.org/abs/2406.05649v1)|null|
+|**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|null|
+|**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
+|**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|[link](https://github.com/yihangchen-ee/cnc)|
+|**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
+|**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
+|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
+|**2024-06-04**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541v3](http://arxiv.org/abs/2406.02541v3)|null|
+|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v2](http://arxiv.org/abs/2406.02370v2)|null|
+|**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
+|**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579v1](http://arxiv.org/abs/2406.01579v1)|[link](https://github.com/fudan-zvg/tet-splatting)|
+|**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042v1](http://arxiv.org/abs/2406.01042v1)|[link](https://github.com/fangli333/sc-4dgs)|
+|**2024-06-02**|**PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency**|Yeonsung Jung et.al.|[2406.00798v1](http://arxiv.org/abs/2406.00798v1)|null|
+|**2024-06-02**|**Representing Animatable Avatar via Factorized Neural Fields**|Chunjin Song et.al.|[2406.00637v1](http://arxiv.org/abs/2406.00637v1)|null|
+|**2024-06-02**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
+|**2024-06-02**|**Efficient Neural Light Fields (ENeLF) for Mobile Devices**|Austin Peng et.al.|[2406.00598v1](http://arxiv.org/abs/2406.00598v1)|null|
+|**2024-06-01**|**Bilateral Guided Radiance Field Processing**|Yuehao Wang et.al.|[2406.00448v1](http://arxiv.org/abs/2406.00448v1)|null|
+|**2024-06-01**|**MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos**|Qingming Liu et.al.|[2406.00434v1](http://arxiv.org/abs/2406.00434v1)|null|
+|**2024-05-31**|**R$^2$-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693v1](http://arxiv.org/abs/2405.20693v1)|[link](https://github.com/ruyi-zha/r2_gaussian)|
+|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674v1](http://arxiv.org/abs/2405.20674v1)|null|
+|**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
+|**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283v1](http://arxiv.org/abs/2405.20283v1)|null|
+|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078v2](http://arxiv.org/abs/2405.20078v2)|null|
+|**2024-05-30**|**IReNe: Instant Recoloring of Neural Radiance Fields**|Alessio Mazzucchelli et.al.|[2405.19876v2](http://arxiv.org/abs/2405.19876v2)|null|
 
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -140,6 +106,40 @@
 |**2024-06-08**|**On a class of multi-fidelity methods for the semiclassical Schrödinger equation with uncertainties**|Yiwen Lin et.al.|[2406.05489v1](http://arxiv.org/abs/2406.05489v1)|null|
 |**2024-06-08**|**A Generalized Pointing Error Model for FSO Links with Fixed-Wing UAVs for 6G: Analysis and Trajectory Optimization**|Hyung-Joo Moon et.al.|[2406.05444v1](http://arxiv.org/abs/2406.05444v1)|null|
 |**2024-06-08**|**Two-weighted estimates for some sublinear operators on generalized weighted Morrey Spaces and applications**|Yusuf Ramadana et.al.|[2406.05435v1](http://arxiv.org/abs/2406.05435v1)|null|
+
+### Gaussian Splatting SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
+|**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
+|**2024-06-10**|**Nodewise Loreg: Nodewise $L_0$-penalized Regression for High-dimensional Sparse Precision Matrix Estimation**|Hai Shu et.al.|[2406.06481v1](http://arxiv.org/abs/2406.06481v1)|null|
+|**2024-06-10**|**QSSEP describes the fluctuations of quantum coherences in the Anderson model**|Ludwig Hruza et.al.|[2406.06444v1](http://arxiv.org/abs/2406.06444v1)|null|
+|**2024-06-10**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427v1](http://arxiv.org/abs/2406.06427v1)|null|
+|**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422v1](http://arxiv.org/abs/2406.06422v1)|null|
+|**2024-06-10**|**Bridging magic and non-Gaussian resources via Gottesman-Kitaev-Preskill encoding**|Oliver Hahn et.al.|[2406.06418v1](http://arxiv.org/abs/2406.06418v1)|null|
+|**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|[link](https://github.com/alterpang/multi_orb_slam)|
+|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
+|**2024-06-10**|**Latent Directions: A Simple Pathway to Bias Mitigation in Generative AI**|Carolina Lopez Olmos et.al.|[2406.06352v1](http://arxiv.org/abs/2406.06352v1)|null|
+|**2024-06-10**|**PAC-Bayes Analysis for Recalibration in Classification**|Masahiro Fujisawa et.al.|[2406.06227v1](http://arxiv.org/abs/2406.06227v1)|null|
+|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|null|
+|**2024-06-10**|**Hamonically trapped inertial run-and-tumble particle in one-dimension**|Debraj Dutta et.al.|[2406.06120v1](http://arxiv.org/abs/2406.06120v1)|null|
+|**2024-06-10**|**Multi-Generational Black Hole Population Analysis with an Astrophysically Informed Mass Function**|Yannick Ulrich et.al.|[2406.06109v1](http://arxiv.org/abs/2406.06109v1)|null|
+|**2024-06-10**|**Testably Learning Polynomial Threshold Functions**|Lucas Slot et.al.|[2406.06106v1](http://arxiv.org/abs/2406.06106v1)|null|
+|**2024-06-10**|**On the Consistency of Kernel Methods with Dependent Observations**|Pierre-François Massiani et.al.|[2406.06101v1](http://arxiv.org/abs/2406.06101v1)|null|
+|**2024-06-10**|**Generalizable Human Gaussians from Single-View Image**|Jinnan Chen et.al.|[2406.06050v1](http://arxiv.org/abs/2406.06050v1)|[link](https://github.com/jinnan-chen/HGM)|
+|**2024-06-10**|**Deformations of swallowtails in a 3-dimensional space form**|Kentaro Saji et.al.|[2406.05971v1](http://arxiv.org/abs/2406.05971v1)|null|
+|**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v1](http://arxiv.org/abs/2406.05969v1)|null|
+|**2024-06-09**|**Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering**|Yueyu Hu et.al.|[2406.05915v1](http://arxiv.org/abs/2406.05915v1)|null|
+|**2024-06-09**|**Some facts about the optimality of the LSE in the Gaussian sequence model with convex constraint**|Akshay Prasadan et.al.|[2406.05911v1](http://arxiv.org/abs/2406.05911v1)|null|
+|**2024-06-09**|**InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping**|Yunchao Zhang et.al.|[2406.05897v1](http://arxiv.org/abs/2406.05897v1)|null|
+|**2024-06-09**|**Information Theoretic Guarantees For Policy Alignment In Large Language Models**|Youssef Mroueh et.al.|[2406.05883v1](http://arxiv.org/abs/2406.05883v1)|null|
+|**2024-06-09**|**GANSky -- fast curved sky weak lensing simulations using Generative Adversarial Networks**|Supranta S. Boruah et.al.|[2406.05867v1](http://arxiv.org/abs/2406.05867v1)|null|
+|**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852v1](http://arxiv.org/abs/2406.05852v1)|null|
+|**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
+|**2024-06-09**|**Symmetric Matrix Completion with ReLU Sampling**|Huikang Liu et.al.|[2406.05822v1](http://arxiv.org/abs/2406.05822v1)|null|
+|**2024-06-09**|**VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction**|Hanlin Chen et.al.|[2406.05774v1](http://arxiv.org/abs/2406.05774v1)|null|
+|**2024-06-09**|**A Variational Approach to Learning Photonic Unitary Operators**|Hadrian Bezuidenhout et.al.|[2406.05727v1](http://arxiv.org/abs/2406.05727v1)|null|
+|**2024-06-09**|**Controlling Unknown Quantum States via Data-Driven State Representations**|Yan Zhu et.al.|[2406.05711v1](http://arxiv.org/abs/2406.05711v1)|null|
 
 ## Robotics
 
