@@ -10,7 +10,7 @@
 |**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
 |**2024-06-10**|**Latent Directions: A Simple Pathway to Bias Mitigation in Generative AI**|Carolina Lopez Olmos et.al.|[2406.06352v1](http://arxiv.org/abs/2406.06352v1)|null|
 |**2024-06-10**|**PAC-Bayes Analysis for Recalibration in Classification**|Masahiro Fujisawa et.al.|[2406.06227v1](http://arxiv.org/abs/2406.06227v1)|null|
-|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|null|
+|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|[link](https://github.com/srameo/le3d)|
 |**2024-06-10**|**Hamonically trapped inertial run-and-tumble particle in one-dimension**|Debraj Dutta et.al.|[2406.06120v1](http://arxiv.org/abs/2406.06120v1)|null|
 |**2024-06-10**|**Multi-Generational Black Hole Population Analysis with an Astrophysically Informed Mass Function**|Yannick Ulrich et.al.|[2406.06109v1](http://arxiv.org/abs/2406.06109v1)|null|
 |**2024-06-10**|**Testably Learning Polynomial Threshold Functions**|Lucas Slot et.al.|[2406.06106v1](http://arxiv.org/abs/2406.06106v1)|null|
