@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-06-13 08:27:58 Asia/Shanghai
+ Automated deployment @ 2024-06-13 08:50:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-11**|**Physics-guided weak-form discovery of reduced-order models for trapped ultracold hydrodynamics**|Reuben R. W. Wang et.al.|[2406.07519v1](http://arxiv.org/abs/2406.07519v1)|null|
@@ -36,8 +36,8 @@
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
 |**2024-06-10**|**Nodewise Loreg: Nodewise $L_0$-penalized Regression for High-dimensional Sparse Precision Matrix Estimation**|Hai Shu et.al.|[2406.06481v1](http://arxiv.org/abs/2406.06481v1)|null|
 |**2024-06-10**|**QSSEP describes the fluctuations of quantum coherences in the Anderson model**|Ludwig Hruza et.al.|[2406.06444v1](http://arxiv.org/abs/2406.06444v1)|null|
-|**2024-06-10**|**Bridging magic and non-Gaussian resources via Gottesman-Kitaev-Preskill encoding**|Oliver Hahn et.al.|[2406.06418v1](http://arxiv.org/abs/2406.06418v1)|null|
-|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
+|**2024-06-10**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427v1](http://arxiv.org/abs/2406.06427v1)|null|
+|**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422v1](http://arxiv.org/abs/2406.06422v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,7 +73,7 @@
 |**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674v1](http://arxiv.org/abs/2405.20674v1)|null|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-11**|**Physics-guided weak-form discovery of reduced-order models for trapped ultracold hydrodynamics**|Reuben R. W. Wang et.al.|[2406.07519v1](http://arxiv.org/abs/2406.07519v1)|null|
@@ -104,8 +104,8 @@
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
 |**2024-06-10**|**Nodewise Loreg: Nodewise $L_0$-penalized Regression for High-dimensional Sparse Precision Matrix Estimation**|Hai Shu et.al.|[2406.06481v1](http://arxiv.org/abs/2406.06481v1)|null|
 |**2024-06-10**|**QSSEP describes the fluctuations of quantum coherences in the Anderson model**|Ludwig Hruza et.al.|[2406.06444v1](http://arxiv.org/abs/2406.06444v1)|null|
-|**2024-06-10**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427v1](http://arxiv.org/abs/2406.06427v1)|null|
-|**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422v1](http://arxiv.org/abs/2406.06422v1)|null|
+|**2024-06-10**|**Bridging magic and non-Gaussian resources via Gottesman-Kitaev-Preskill encoding**|Oliver Hahn et.al.|[2406.06418v1](http://arxiv.org/abs/2406.06418v1)|null|
+|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
