@@ -2,6 +2,29 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395v1](http://arxiv.org/abs/2406.09395v1)|null|
+|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v1](http://arxiv.org/abs/2406.09394v1)|null|
+|**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377v1](http://arxiv.org/abs/2406.09377v1)|null|
+|**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358v1](http://arxiv.org/abs/2406.09358v1)|[link](https://github.com/locuslab/diffusion-model-hallucination)|
+|**2024-06-13**|**Advancing Graph Generation through Beta Diffusion**|Yilin He et.al.|[2406.09357v1](http://arxiv.org/abs/2406.09357v1)|null|
+|**2024-06-13**|**Different Planetary Eccentricity-Period (PEP) Distributions of Small- and Giant-Planets**|Dolev Bashi et.al.|[2406.09337v1](http://arxiv.org/abs/2406.09337v1)|null|
+|**2024-06-13**|**Flexible Heteroscedastic Count Regression with Deep Double Poisson Networks**|Spencer Young et.al.|[2406.09262v1](http://arxiv.org/abs/2406.09262v1)|null|
+|**2024-06-13**|**Wigner non-negative states that verify the Wigner entropy conjecture**|Qipeng Qian et.al.|[2406.09248v1](http://arxiv.org/abs/2406.09248v1)|null|
+|**2024-06-13**|**On averages of completely multiplicative functions over co-prime integer pairs**|Biao Wang et.al.|[2406.09243v1](http://arxiv.org/abs/2406.09243v1)|null|
+|**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154v1](http://arxiv.org/abs/2406.09154v1)|null|
+|**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044v1](http://arxiv.org/abs/2406.09044v1)|null|
+|**2024-06-13**|**Effective removal of global tilt from topography images of vicinal surfaces with narrow terraces**|A. Yu. Aladyshkin et.al.|[2406.08984v1](http://arxiv.org/abs/2406.08984v1)|null|
+|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920v1](http://arxiv.org/abs/2406.08920v1)|null|
+|**2024-06-13**|**Impact of potential and temperature fluctuations on charge and heat transport in quantum Hall edges in the heat Coulomb blockade regime**|Christian Spånslätt et.al.|[2406.08910v1](http://arxiv.org/abs/2406.08910v1)|null|
+|**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|[link](https://github.com/xylgroup/mlmc)|
+|**2024-06-13**|**Smoothed NPMLEs in nonparametric Poisson mixtures and beyond**|Keunwoo Lim et.al.|[2406.08808v1](http://arxiv.org/abs/2406.08808v1)|null|
+|**2024-06-13**|**Gaussian-Forest: Hierarchical-Hybrid 3D Gaussian Splatting for Compressed Scene Modeling**|Fengyi Zhang et.al.|[2406.08759v1](http://arxiv.org/abs/2406.08759v1)|null|
+|**2024-06-12**|**Variational Bayes Inference for Spatial Error Models with Missing Data**|Anjana Wijayawardhana et.al.|[2406.08685v1](http://arxiv.org/abs/2406.08685v1)|null|
+|**2024-06-12**|**Gaussian curvature on random planar maps and Liouville quantum gravity**|Andres Contreras Hip et.al.|[2406.08674v1](http://arxiv.org/abs/2406.08674v1)|null|
+|**2024-06-12**|**GRU-Net for breast histopathology image segmentation**|Ayush Roy et.al.|[2406.08604v1](http://arxiv.org/abs/2406.08604v1)|[link](https://github.com/ayushroy2001/gru-net)|
+|**2024-06-12**|**MEMO-QCD: Quantum Density Estimation through Memetic Optimisation for Quantum Circuit Design**|Juan E. Ardila-García et.al.|[2406.08591v1](http://arxiv.org/abs/2406.08591v1)|null|
+|**2024-06-12**|**The verification of periodicity with the use of recurrent neural networks**|Niall Miller et.al.|[2406.08571v1](http://arxiv.org/abs/2406.08571v1)|null|
+|**2024-06-12**|**Noise-Aware Differentially Private Regression via Meta-Learning**|Ossi Räisä et.al.|[2406.08569v1](http://arxiv.org/abs/2406.08569v1)|null|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
 |**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475v1](http://arxiv.org/abs/2406.08475v1)|null|
 |**2024-06-12**|**Observing formation and evolution of dislocation cells during plastic deformation**|Albert Zelenika et.al.|[2406.08468v1](http://arxiv.org/abs/2406.08468v1)|null|
@@ -9,26 +32,3 @@
 |**2024-06-12**|**Visualization of atomic structures on faceted and non-flat surfaces by difference-of-gaussians approach**|A. Yu. Aladyshkin et.al.|[2406.08436v1](http://arxiv.org/abs/2406.08436v1)|null|
 |**2024-06-12**|**Nyström Kernel Stein Discrepancy**|Florian Kalinke et.al.|[2406.08401v1](http://arxiv.org/abs/2406.08401v1)|[link](https://github.com/FlopsKa/nystroem-ksd)|
 |**2024-06-12**|**Resetting by rescaling: exact results for a diffusing particle in one-dimension**|Marco Biroli et.al.|[2406.08387v1](http://arxiv.org/abs/2406.08387v1)|null|
-|**2024-06-12**|**Moving Manifolds and General Relativity**|David V. Svintradze et.al.|[2406.08382v1](http://arxiv.org/abs/2406.08382v1)|null|
-|**2024-06-12**|**Weak coupling limit of KPZ with rougher than white noise**|Máté Gerencsér et.al.|[2406.08364v1](http://arxiv.org/abs/2406.08364v1)|null|
-|**2024-06-12**|**Deep learning from strongly mixing observations: Sparse-penalized regularization and minimax optimality**|William Kengne et.al.|[2406.08321v1](http://arxiv.org/abs/2406.08321v1)|null|
-|**2024-06-12**|**From Chaos to Clarity: 3DGS in the Dark**|Zhihao Li et.al.|[2406.08300v1](http://arxiv.org/abs/2406.08300v1)|null|
-|**2024-06-12**|**A minimalistic and general weighted averaging method for inconsistent data**|Martino Trassinelli et.al.|[2406.08293v1](http://arxiv.org/abs/2406.08293v1)|null|
-|**2024-06-12**|**Non-stationary Gaussian random fields on hypersurfaces: Sampling and strong error analysis**|Erik Jansson et.al.|[2406.08185v1](http://arxiv.org/abs/2406.08185v1)|null|
-|**2024-06-12**|**Global Tests for Smoothed Functions in Mean Field Variational Additive Models**|Mark J. Meyer et.al.|[2406.08168v1](http://arxiv.org/abs/2406.08168v1)|null|
-|**2024-06-12**|**Distribution spaces associated with elliptic operators**|Iryna Chepurukhina et.al.|[2406.08150v1](http://arxiv.org/abs/2406.08150v1)|null|
-|**2024-06-12**|**A Robust Pipeline for Classification and Detection of Bleeding Frames in Wireless Capsule Endoscopy using Swin Transformer and RT-DETR**|Sasidhar Alavala et.al.|[2406.08046v1](http://arxiv.org/abs/2406.08046v1)|null|
-|**2024-06-12**|**Interpetable Target-Feature Aggregation for Multi-Task Learning based on Bias-Variance Analysis**|Paolo Bonetti et.al.|[2406.07991v1](http://arxiv.org/abs/2406.07991v1)|[link](https://github.com/PaoloBonettiPolimi/NonLinCTFA)|
-|**2024-06-12**|**A Diagnostic Tool for Functional Causal Discovery**|Shreya Prakash et.al.|[2406.07787v1](http://arxiv.org/abs/2406.07787v1)|null|
-|**2024-06-11**|**Loss Gradient Gaussian Width based Generalization and Optimization Guarantees**|Arindam Banerjee et.al.|[2406.07712v1](http://arxiv.org/abs/2406.07712v1)|null|
-|**2024-06-11**|**AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation**|Kai Wang et.al.|[2406.07686v1](http://arxiv.org/abs/2406.07686v1)|null|
-|**2024-06-11**|**Treeffuser: Probabilistic Predictions via Conditional Diffusions with Gradient-Boosted Trees**|Nicolas Beltran-Velez et.al.|[2406.07658v1](http://arxiv.org/abs/2406.07658v1)|[link](https://github.com/blei-lab/treeffuser)|
-|**2024-06-11**|**Physics-guided weak-form discovery of reduced-order models for trapped ultracold hydrodynamics**|Reuben R. W. Wang et.al.|[2406.07519v1](http://arxiv.org/abs/2406.07519v1)|null|
-|**2024-06-11**|**Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement**|Yunzhen Feng et.al.|[2406.07515v1](http://arxiv.org/abs/2406.07515v1)|null|
-|**2024-06-11**|**Trim 3D Gaussian Splatting for Accurate Geometry Representation**|Lue Fan et.al.|[2406.07499v1](http://arxiv.org/abs/2406.07499v1)|null|
-|**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|null|
-|**2024-06-11**|**Single and merger soliton dynamics in scalar field dark matter with and without self-interactions**|Matthias Stallovits et.al.|[2406.07419v1](http://arxiv.org/abs/2406.07419v1)|null|
-|**2024-06-11**|**Closing the Computational-Query Depth Gap in Parallel Stochastic Convex Optimization**|Arun Jambulapati et.al.|[2406.07373v1](http://arxiv.org/abs/2406.07373v1)|null|
-|**2024-06-11**|**Fast and accurate evaluation of Biot-Savart integrals over spatial curves**|Juan Ignacio Polanco et.al.|[2406.07366v1](http://arxiv.org/abs/2406.07366v1)|null|
-|**2024-06-11**|**Targeting spectroscopic accuracy for dispersion bound systems from ab initio techniques: translational eigenstates of Ne@C$_{70}$**|K. Panchagnula et.al.|[2406.07343v1](http://arxiv.org/abs/2406.07343v1)|null|
-|**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332v1](http://arxiv.org/abs/2406.07332v1)|null|
