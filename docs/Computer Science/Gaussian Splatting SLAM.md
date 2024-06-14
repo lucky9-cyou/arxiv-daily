@@ -7,7 +7,7 @@
 |**2024-06-12**|**Observing formation and evolution of dislocation cells during plastic deformation**|Albert Zelenika et.al.|[2406.08468v1](http://arxiv.org/abs/2406.08468v1)|null|
 |**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466v1](http://arxiv.org/abs/2406.08466v1)|null|
 |**2024-06-12**|**Visualization of atomic structures on faceted and non-flat surfaces by difference-of-gaussians approach**|A. Yu. Aladyshkin et.al.|[2406.08436v1](http://arxiv.org/abs/2406.08436v1)|null|
-|**2024-06-12**|**Nyström Kernel Stein Discrepancy**|Florian Kalinke et.al.|[2406.08401v1](http://arxiv.org/abs/2406.08401v1)|null|
+|**2024-06-12**|**Nyström Kernel Stein Discrepancy**|Florian Kalinke et.al.|[2406.08401v1](http://arxiv.org/abs/2406.08401v1)|[link](https://github.com/FlopsKa/nystroem-ksd)|
 |**2024-06-12**|**Resetting by rescaling: exact results for a diffusing particle in one-dimension**|Marco Biroli et.al.|[2406.08387v1](http://arxiv.org/abs/2406.08387v1)|null|
 |**2024-06-12**|**Moving Manifolds and General Relativity**|David V. Svintradze et.al.|[2406.08382v1](http://arxiv.org/abs/2406.08382v1)|null|
 |**2024-06-12**|**Weak coupling limit of KPZ with rougher than white noise**|Máté Gerencsér et.al.|[2406.08364v1](http://arxiv.org/abs/2406.08364v1)|null|
@@ -18,7 +18,7 @@
 |**2024-06-12**|**Global Tests for Smoothed Functions in Mean Field Variational Additive Models**|Mark J. Meyer et.al.|[2406.08168v1](http://arxiv.org/abs/2406.08168v1)|null|
 |**2024-06-12**|**Distribution spaces associated with elliptic operators**|Iryna Chepurukhina et.al.|[2406.08150v1](http://arxiv.org/abs/2406.08150v1)|null|
 |**2024-06-12**|**A Robust Pipeline for Classification and Detection of Bleeding Frames in Wireless Capsule Endoscopy using Swin Transformer and RT-DETR**|Sasidhar Alavala et.al.|[2406.08046v1](http://arxiv.org/abs/2406.08046v1)|null|
-|**2024-06-12**|**Interpetable Target-Feature Aggregation for Multi-Task Learning based on Bias-Variance Analysis**|Paolo Bonetti et.al.|[2406.07991v1](http://arxiv.org/abs/2406.07991v1)|null|
+|**2024-06-12**|**Interpetable Target-Feature Aggregation for Multi-Task Learning based on Bias-Variance Analysis**|Paolo Bonetti et.al.|[2406.07991v1](http://arxiv.org/abs/2406.07991v1)|[link](https://github.com/PaoloBonettiPolimi/NonLinCTFA)|
 |**2024-06-12**|**A Diagnostic Tool for Functional Causal Discovery**|Shreya Prakash et.al.|[2406.07787v1](http://arxiv.org/abs/2406.07787v1)|null|
 |**2024-06-11**|**Loss Gradient Gaussian Width based Generalization and Optimization Guarantees**|Arindam Banerjee et.al.|[2406.07712v1](http://arxiv.org/abs/2406.07712v1)|null|
 |**2024-06-11**|**AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation**|Kai Wang et.al.|[2406.07686v1](http://arxiv.org/abs/2406.07686v1)|null|
