@@ -14,7 +14,7 @@
 |**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154v1](http://arxiv.org/abs/2406.09154v1)|null|
 |**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044v1](http://arxiv.org/abs/2406.09044v1)|null|
 |**2024-06-13**|**Effective removal of global tilt from topography images of vicinal surfaces with narrow terraces**|A. Yu. Aladyshkin et.al.|[2406.08984v1](http://arxiv.org/abs/2406.08984v1)|null|
-|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920v1](http://arxiv.org/abs/2406.08920v1)|null|
+|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920v2](http://arxiv.org/abs/2406.08920v2)|null|
 |**2024-06-13**|**Impact of potential and temperature fluctuations on charge and heat transport in quantum Hall edges in the heat Coulomb blockade regime**|Christian Spånslätt et.al.|[2406.08910v1](http://arxiv.org/abs/2406.08910v1)|null|
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|[link](https://github.com/xylgroup/mlmc)|
 |**2024-06-13**|**Smoothed NPMLEs in nonparametric Poisson mixtures and beyond**|Keunwoo Lim et.al.|[2406.08808v1](http://arxiv.org/abs/2406.08808v1)|null|
