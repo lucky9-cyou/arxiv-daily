@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-17 08:52:29 Asia/Shanghai
+ Automated deployment @ 2024-06-17 09:24:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,11 +39,11 @@
 |**2024-06-06**|**Open Problem: Active Representation Learning**|Nikola Milosevic et.al.|[2406.03845v1](http://arxiv.org/abs/2406.03845v1)|null|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395v1](http://arxiv.org/abs/2406.09395v1)|null|
-|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v1](http://arxiv.org/abs/2406.09394v1)|null|
+|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v2](http://arxiv.org/abs/2406.09394v2)|null|
 |**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377v1](http://arxiv.org/abs/2406.09377v1)|null|
 |**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358v1](http://arxiv.org/abs/2406.09358v1)|[link](https://github.com/locuslab/diffusion-model-hallucination)|
 |**2024-06-13**|**Advancing Graph Generation through Beta Diffusion**|Yilin He et.al.|[2406.09357v1](http://arxiv.org/abs/2406.09357v1)|null|
@@ -107,11 +107,11 @@
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579v1](http://arxiv.org/abs/2406.01579v1)|[link](https://github.com/fudan-zvg/tet-splatting)|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395v1](http://arxiv.org/abs/2406.09395v1)|null|
-|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v1](http://arxiv.org/abs/2406.09394v1)|null|
+|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v2](http://arxiv.org/abs/2406.09394v2)|null|
 |**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377v1](http://arxiv.org/abs/2406.09377v1)|null|
 |**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358v1](http://arxiv.org/abs/2406.09358v1)|[link](https://github.com/locuslab/diffusion-model-hallucination)|
 |**2024-06-13**|**Advancing Graph Generation through Beta Diffusion**|Yilin He et.al.|[2406.09357v1](http://arxiv.org/abs/2406.09357v1)|null|

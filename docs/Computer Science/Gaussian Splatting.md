@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395v1](http://arxiv.org/abs/2406.09395v1)|null|
-|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v1](http://arxiv.org/abs/2406.09394v1)|null|
+|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394v2](http://arxiv.org/abs/2406.09394v2)|null|
 |**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377v1](http://arxiv.org/abs/2406.09377v1)|null|
 |**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358v1](http://arxiv.org/abs/2406.09358v1)|[link](https://github.com/locuslab/diffusion-model-hallucination)|
 |**2024-06-13**|**Advancing Graph Generation through Beta Diffusion**|Yilin He et.al.|[2406.09357v1](http://arxiv.org/abs/2406.09357v1)|null|
