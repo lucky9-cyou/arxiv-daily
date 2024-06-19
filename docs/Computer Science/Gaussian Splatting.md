@@ -30,5 +30,5 @@
 |**2024-06-16**|**Diffusion Model With Optimal Covariance Matching**|Zijing Ou et.al.|[2406.10808v1](http://arxiv.org/abs/2406.10808v1)|null|
 |**2024-06-16**|**Quantum Analogues for Two Simple Classical Channels**|Miles Miller-Dickson et.al.|[2406.10791v1](http://arxiv.org/abs/2406.10791v1)|null|
 |**2024-06-16**|**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**|Jad Abou-Chakra et.al.|[2406.10788v1](http://arxiv.org/abs/2406.10788v1)|null|
-|**2024-06-16**|**A Rate-Distortion View of Uncertainty Quantification**|Ifigeneia Apostolopoulou et.al.|[2406.10775v1](http://arxiv.org/abs/2406.10775v1)|[link](https://github.com/ifiaposto/distance_aware_bottleneck)|
+|**2024-06-16**|**A Rate-Distortion View of Uncertainty Quantification**|Ifigeneia Apostolopoulou et.al.|[2406.10775v2](http://arxiv.org/abs/2406.10775v2)|[link](https://github.com/ifiaposto/distance_aware_bottleneck)|
 |**2024-06-16**|**Predicting Exoplanetary Features with a Residual Model for Uniform and Gaussian Distributions**|Andrew Sweet et.al.|[2406.10771v1](http://arxiv.org/abs/2406.10771v1)|null|
