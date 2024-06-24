@@ -31,4 +31,4 @@
 |**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099v1](http://arxiv.org/abs/2406.13099v1)|null|
 |**2024-06-18**|**Convergence Analysis of Ensemble Filters for Linear Stochastic Systems with Poisson-Sampled Observations**|Aneel Tanwani et.al.|[2406.13091v1](http://arxiv.org/abs/2406.13091v1)|null|
 |**2024-06-18**|**Exact Community Recovery (under Side Information): Optimality of Spectral Algorithms**|Julia Gaudio et.al.|[2406.13075v1](http://arxiv.org/abs/2406.13075v1)|null|
-|**2024-06-18**|**Sharp detection of low-dimensional structure in probability measures via dimensional logarithmic Sobolev inequalities**|Matthew T. C. Li et.al.|[2406.13036v1](http://arxiv.org/abs/2406.13036v1)|null|
+|**2024-06-18**|**Sharp detection of low-dimensional structure in probability measures via dimensional logarithmic Sobolev inequalities**|Matthew T. C. Li et.al.|[2406.13036v2](http://arxiv.org/abs/2406.13036v2)|null|
