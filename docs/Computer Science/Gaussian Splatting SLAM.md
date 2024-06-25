@@ -2,6 +2,29 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
+|**2024-06-24**|**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**|Yufei Liu et.al.|[2406.16815v1](http://arxiv.org/abs/2406.16815v1)|null|
+|**2024-06-24**|**Constraining Cosmological Parameters with Needlet Internal Linear Combination Maps II: Likelihood-Free Inference on NILC Power Spectra**|Kristen M. Surrao et.al.|[2406.16811v1](http://arxiv.org/abs/2406.16811v1)|null|
+|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792v1](http://arxiv.org/abs/2406.16792v1)|null|
+|**2024-06-24**|**Geometrically frustrated, mechanical metamaterial membranes: Large-scale stress accumulation and size-selective assembly**|Micheal Wang et.al.|[2406.16790v1](http://arxiv.org/abs/2406.16790v1)|null|
+|**2024-06-24**|**Probabilistic Subgoal Representations for Hierarchical Reinforcement learning**|Vivienne Huiling Wang et.al.|[2406.16707v1](http://arxiv.org/abs/2406.16707v1)|null|
+|**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695v1](http://arxiv.org/abs/2406.16695v1)|null|
+|**2024-06-24**|**Analyzing performance of $f$-deformed displaced Fock state in continuous-variable quantum teleportation**|Deepak et.al.|[2406.16538v1](http://arxiv.org/abs/2406.16538v1)|null|
+|**2024-06-24**|**Representation of even Gaussian integer à la Chen**|Soumyarup Banerjee et.al.|[2406.16311v1](http://arxiv.org/abs/2406.16311v1)|null|
+|**2024-06-24**|**Likelihood-based inference, identifiability and prediction using count data from lattice-based random walk models**|Yihan Liu et.al.|[2406.16296v1](http://arxiv.org/abs/2406.16296v1)|null|
+|**2024-06-24**|**Gravitational Echoes from Braneworlds**|Chun-Chun Zhu et.al.|[2406.16256v1](http://arxiv.org/abs/2406.16256v1)|null|
+|**2024-06-23**|**Non-Equilibrium Noise in V-Shape Linear Well Profiles**|Noah M. MacKay et.al.|[2406.16117v1](http://arxiv.org/abs/2406.16117v1)|null|
+|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073v1](http://arxiv.org/abs/2406.16073v1)|null|
+|**2024-06-23**|**Source anisotropies and pulsar timing arrays**|Bruce Allen et.al.|[2406.16031v1](http://arxiv.org/abs/2406.16031v1)|null|
+|**2024-06-23**|**Recursive variational Gaussian approximation with the Whittle likelihood for linear non-Gaussian state space models**|Bao Anh Vu et.al.|[2406.15998v1](http://arxiv.org/abs/2406.15998v1)|null|
+|**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982v1](http://arxiv.org/abs/2406.15982v1)|null|
+|**2024-06-22**|**Asymptotics for Some Logistic Maps and the Renormalization Group**|P. A. Faria da Veiga et.al.|[2406.15840v1](http://arxiv.org/abs/2406.15840v1)|null|
+|**2024-06-22**|**Limit theorems for Gaussian fields via Chaos Expansions and Applications**|Giacomo Giorgio et.al.|[2406.15801v1](http://arxiv.org/abs/2406.15801v1)|null|
+|**2024-06-21**|**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**|Saswat Subhajyoti Mallick et.al.|[2406.15643v1](http://arxiv.org/abs/2406.15643v1)|null|
+|**2024-06-21**|**BrowNNe: Brownian Nonlocal Neurons & Activation Functions**|Sriram Nagaraj et.al.|[2406.15617v1](http://arxiv.org/abs/2406.15617v1)|null|
+|**2024-06-21**|**Nonparametric FBST for Validating Linear Models**|Rodrigo F. L. Lassance et.al.|[2406.15608v1](http://arxiv.org/abs/2406.15608v1)|null|
+|**2024-06-21**|**Data-driven Aeroelastic Analyses of Structures in Turbulent Wind Conditions using Enhanced Gaussian Processes with Aerodynamic Priors**|Igor Kavrakov et.al.|[2406.15603v1](http://arxiv.org/abs/2406.15603v1)|null|
+|**2024-06-21**|**The Impact of Non-Gaussian Primordial Tails on Cosmological Observables**|William R. Coulton et.al.|[2406.15546v1](http://arxiv.org/abs/2406.15546v1)|null|
 |**2024-06-21**|**GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation**|Chubin Zhang et.al.|[2406.15333v1](http://arxiv.org/abs/2406.15333v1)|[link](https://github.com/alibaba-yuanjing-aigclab/geolrm)|
 |**2024-06-21**|**Discovery of Novel Silicon Allotropes with Optimized Band Gaps to Enhance Solar Cell Efficiency through Evolutionary Algorithms and Machine Learning**|Mostafa Yaghoobi et.al.|[2406.15316v2](http://arxiv.org/abs/2406.15316v2)|null|
 |**2024-06-21**|**ExDAG: Exact learning of DAGs**|Pavel Rytíř et.al.|[2406.15229v1](http://arxiv.org/abs/2406.15229v1)|null|
@@ -9,26 +32,3 @@
 |**2024-06-21**|**Inference for Delay Differential Equations Using Manifold-Constrained Gaussian Processes**|Yuxuan Zhao et.al.|[2406.15170v1](http://arxiv.org/abs/2406.15170v1)|null|
 |**2024-06-21**|**Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks**|Alex Quach et.al.|[2406.15149v1](http://arxiv.org/abs/2406.15149v1)|null|
 |**2024-06-21**|**KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty**|Philipp Becker et.al.|[2406.15131v1](http://arxiv.org/abs/2406.15131v1)|null|
-|**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093v1](http://arxiv.org/abs/2406.15093v1)|[link](https://github.com/cgcl-codes/eclipse)|
-|**2024-06-21**|**Neural Incremental Data Assimilation**|Matthieu Blanke et.al.|[2406.15076v1](http://arxiv.org/abs/2406.15076v1)|null|
-|**2024-06-21**|**3D-Localization of Single Point-Like Gamma Sources with a Coded Aperture Camera**|Tobias Meißner et.al.|[2406.15048v1](http://arxiv.org/abs/2406.15048v1)|null|
-|**2024-06-21**|**Early stopping for conjugate gradients in statistical inverse problems**|Laura Hucker et.al.|[2406.15001v1](http://arxiv.org/abs/2406.15001v1)|null|
-|**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|[link](https://github.com/deguchihiroyuki/e2gs)|
-|**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947v1](http://arxiv.org/abs/2406.14947v1)|[link](https://github.com/damanikjosh/the-barn-challenge)|
-|**2024-06-21**|**Gaussian-Informed Continuum for Physical Property Identification and Simulation**|Junhao Cai et.al.|[2406.14927v1](http://arxiv.org/abs/2406.14927v1)|null|
-|**2024-06-21**|**Extending GPU-Accelerated Gaussian Integrals in the TeraChem Software Package to f Type Orbitals: Implementation and Applications**|Yuanheng Wang et.al.|[2406.14920v1](http://arxiv.org/abs/2406.14920v1)|null|
-|**2024-06-21**|**PEANO-ViT: Power-Efficient Approximations of Non-Linearities in Vision Transformers**|Mohammad Erfan Sadeghi et.al.|[2406.14854v1](http://arxiv.org/abs/2406.14854v1)|null|
-|**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
-|**2024-06-20**|**Singular knee identification to support emergence recognition in physical swarm and cellular automata trajectories**|Imraan A. Faruque et.al.|[2406.14652v1](http://arxiv.org/abs/2406.14652v1)|null|
-|**2024-06-20**|**Universality in long-range interacting systems: the effective dimension approach**|Andrea Solfanelli et.al.|[2406.14651v1](http://arxiv.org/abs/2406.14651v1)|null|
-|**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519v1](http://arxiv.org/abs/2406.14519v1)|[link](https://github.com/yaojian95/ForSEplus)|
-|**2024-06-20**|**Control when confidence is costly**|Itzel Olivos-Castillo et.al.|[2406.14427v1](http://arxiv.org/abs/2406.14427v1)|null|
-|**2024-06-20**|**Double-tough and ultra-strong ceramics: leveraging multiscale toughening mechanisms through Bayesian Optimization**|Francesco Aiello et.al.|[2406.14423v1](http://arxiv.org/abs/2406.14423v1)|null|
-|**2024-06-20**|**An efficient singlet-triplet spin qubit to fiber interface assisted by a photonic crystal cavity**|Kui Wu et.al.|[2406.14392v1](http://arxiv.org/abs/2406.14392v1)|null|
-|**2024-06-20**|**Resource Optimization for Tail-Based Control in Wireless Networked Control Systems**|Rasika Vijithasena et.al.|[2406.14301v1](http://arxiv.org/abs/2406.14301v1)|null|
-|**2024-06-20**|**Concentration of a sparse Bayesian model with Horseshoe prior in estimating high-dimensional precision matrix**|The Tien Mai et.al.|[2406.14269v1](http://arxiv.org/abs/2406.14269v1)|null|
-|**2024-06-20**|**Sparse Sub-gaussian Random Projections for Semidefinite Programming Relaxations**|Monse Guedes-Ayala et.al.|[2406.14249v1](http://arxiv.org/abs/2406.14249v1)|null|
-|**2024-06-20**|**Gaussian approximation of dynamic cavity equations for linearly-coupled stochastic dynamics**|Mattia Tarabolo et.al.|[2406.14200v1](http://arxiv.org/abs/2406.14200v1)|null|
-|**2024-06-20**|**Emergent Universal Drag Law in a Model of Superflow**|M. T. M. Christenhusz et.al.|[2406.14049v1](http://arxiv.org/abs/2406.14049v1)|null|
-|**2024-06-20**|**Revealing asymmetry on midplane of proto-planetary disc through modelling of axisymmetric emission: methodology**|Masataka Aizawa et.al.|[2406.14006v1](http://arxiv.org/abs/2406.14006v1)|null|
-|**2024-06-19**|**Simultaneous Map and Object Reconstruction**|Nathaniel Chodosh et.al.|[2406.13896v1](http://arxiv.org/abs/2406.13896v1)|null|
