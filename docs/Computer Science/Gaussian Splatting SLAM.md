@@ -19,7 +19,7 @@
 |**2024-06-23**|**Recursive variational Gaussian approximation with the Whittle likelihood for linear non-Gaussian state space models**|Bao Anh Vu et.al.|[2406.15998v1](http://arxiv.org/abs/2406.15998v1)|null|
 |**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982v1](http://arxiv.org/abs/2406.15982v1)|null|
 |**2024-06-22**|**Asymptotics for Some Logistic Maps and the Renormalization Group**|P. A. Faria da Veiga et.al.|[2406.15840v1](http://arxiv.org/abs/2406.15840v1)|null|
-|**2024-06-22**|**Limit theorems for Gaussian fields via Chaos Expansions and Applications**|Giacomo Giorgio et.al.|[2406.15801v1](http://arxiv.org/abs/2406.15801v1)|null|
+|**2024-06-22**|**Limit theorems for Gaussian fields via Chaos Expansions and Applications**|Giacomo Giorgio et.al.|[2406.15801v2](http://arxiv.org/abs/2406.15801v2)|null|
 |**2024-06-21**|**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**|Saswat Subhajyoti Mallick et.al.|[2406.15643v1](http://arxiv.org/abs/2406.15643v1)|null|
 |**2024-06-21**|**BrowNNe: Brownian Nonlocal Neurons & Activation Functions**|Sriram Nagaraj et.al.|[2406.15617v1](http://arxiv.org/abs/2406.15617v1)|null|
 |**2024-06-21**|**Nonparametric FBST for Validating Linear Models**|Rodrigo F. L. Lassance et.al.|[2406.15608v1](http://arxiv.org/abs/2406.15608v1)|null|
