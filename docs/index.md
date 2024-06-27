@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-27 09:21:08 Asia/Shanghai
+ Automated deployment @ 2024-06-27 20:04:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,24 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533v1](http://arxiv.org/abs/2406.18533v1)|[link](https://github.com/nyu-systems/grendel-gs)|
+|**2024-06-26**|**Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning**|Alexandros Kontogiannis et.al.|[2406.18464v1](http://arxiv.org/abs/2406.18464v1)|null|
+|**2024-06-26**|**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**|Taoran Yi et.al.|[2406.18462v1](http://arxiv.org/abs/2406.18462v1)|null|
+|**2024-06-26**|**An Autotuning-based Optimization Framework for Mixed-kernel SVM Classifications in Smart Pixel Datasets and Heterojunction Transistors**|Xingfu Wu et.al.|[2406.18445v1](http://arxiv.org/abs/2406.18445v1)|null|
+|**2024-06-26**|**Upper Bounds on the Mass of Fundamental Fields from Primordial Universe**|Hassan Firouzjahi et.al.|[2406.18435v1](http://arxiv.org/abs/2406.18435v1)|null|
+|**2024-06-26**|**Neural Network Emulation of Flow in Heavy-Ion Collisions at Intermediate Energies**|Nicholas Cox et.al.|[2406.18421v1](http://arxiv.org/abs/2406.18421v1)|null|
+|**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417v1](http://arxiv.org/abs/2406.18417v1)|null|
+|**2024-06-26**|**Second Maximum of a Gaussian Random Field and Exact (t-)Spacing test**|Azaïs Jean-Marc et.al.|[2406.18397v1](http://arxiv.org/abs/2406.18397v1)|null|
+|**2024-06-26**|**The $\ell$-test: leveraging sparsity in the Gaussian linear model for improved inference**|Souhardya Sengupta et.al.|[2406.18390v1](http://arxiv.org/abs/2406.18390v1)|null|
+|**2024-06-26**|**Sub-Gaussian High-Dimensional Covariance Matrix Estimation under Elliptical Factor Model with 2 + εth Moment**|Yi Ding et.al.|[2406.18347v1](http://arxiv.org/abs/2406.18347v1)|null|
+|**2024-06-26**|**The power of prediction: spatiotemporal Gaussian process modeling for predictive control in slope-based wavefront sensing**|Jalo Nousiainen et.al.|[2406.18275v1](http://arxiv.org/abs/2406.18275v1)|null|
+|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214v1](http://arxiv.org/abs/2406.18214v1)|null|
+|**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199v1](http://arxiv.org/abs/2406.18199v1)|null|
+|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
+|**2024-06-26**|**Quasiparticle and fully self-consistent GW methods: an unbiased analysis using Gaussian orbitals**|Gaurav Harsha et.al.|[2406.18077v1](http://arxiv.org/abs/2406.18077v1)|null|
+|**2024-06-26**|**Rate-Distortion-Perception Tradeoff for Gaussian Vector Sources**|Jingjing Qian et.al.|[2406.18008v1](http://arxiv.org/abs/2406.18008v1)|null|
+|**2024-06-26**|**The dynamics of Tonks-Girardeau gas excited by a pulse drive**|Jia Li et.al.|[2406.17997v1](http://arxiv.org/abs/2406.17997v1)|null|
+|**2024-06-26**|**Computing linear optical spectra of molecules in complex environments on Graphics Processing Units using molecular dynamics simulations and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994v1](http://arxiv.org/abs/2406.17994v1)|null|
 |**2024-06-25**|**Fast Ground State to Ground State Separation of Small Ion Crystals**|Tyler H. Guglielmo et.al.|[2406.17750v1](http://arxiv.org/abs/2406.17750v1)|null|
 |**2024-06-25**|**Re-examination of the role of displacement and photon catalysis operation in continuous variable measurement device-independent quantum key distribution**|Chandan Kumar et.al.|[2406.17727v1](http://arxiv.org/abs/2406.17727v1)|null|
 |**2024-06-25**|**Infinitely divisible modified Bessel distributions**|Árpád Baricz et.al.|[2406.17721v1](http://arxiv.org/abs/2406.17721v1)|null|
@@ -18,26 +36,8 @@
 |**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|[link](https://github.com/imlixinyang/director3d)|
 |**2024-06-25**|**Constructing structured tensor priors for Bayesian inverse problems**|Kim Batselier et.al.|[2406.17597v1](http://arxiv.org/abs/2406.17597v1)|null|
 |**2024-06-25**|**Anisotropic Brownian particles under resetting**|Subhasish Chaki et.al.|[2406.17550v1](http://arxiv.org/abs/2406.17550v1)|null|
+|**2024-06-25**|**Fully heavy tetraquark resonant states with different flavors**|Wei-Lin Wu et.al.|[2406.17824v1](http://arxiv.org/abs/2406.17824v1)|null|
 |**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462v1](http://arxiv.org/abs/2406.17462v1)|null|
-|**2024-06-25**|**Higher Gaussian maps on the hyperelliptic locus and second fundamental form**|Dario Faro et.al.|[2406.17408v1](http://arxiv.org/abs/2406.17408v1)|null|
-|**2024-06-25**|**Stacked Confusion Reject Plots (SCORE)**|Stephan Hasler et.al.|[2406.17346v1](http://arxiv.org/abs/2406.17346v1)|null|
-|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
-|**2024-06-25**|**Model Uncertainty in Latent Gaussian Models with Univariate Link Function**|Mark F. J. Steel et.al.|[2406.17318v1](http://arxiv.org/abs/2406.17318v1)|null|
-|**2024-06-25**|**Scalable Sampling of Truncated Multivariate Normals Using Sequential Nearest-Neighbor Approximation**|Jian Cao et.al.|[2406.17307v1](http://arxiv.org/abs/2406.17307v1)|null|
-|**2024-06-25**|**Efficient, Multimodal, and Derivative-Free Bayesian Inference With Fisher-Rao Gradient Flows**|Yifan Chen et.al.|[2406.17263v1](http://arxiv.org/abs/2406.17263v1)|null|
-|**2024-06-25**|**Greedy equivalence search for nonparametric graphical models**|Bryon Aragam et.al.|[2406.17228v1](http://arxiv.org/abs/2406.17228v1)|null|
-|**2024-06-25**|**Machine Unlearning Fails to Remove Data Poisoning Attacks**|Martin Pawelczyk et.al.|[2406.17216v1](http://arxiv.org/abs/2406.17216v1)|null|
-|**2024-06-25**|**Coded Kalman Filtering over MIMO Gaussian Channels with Feedback**|Barron Han et.al.|[2406.17196v1](http://arxiv.org/abs/2406.17196v1)|null|
-|**2024-06-24**|**Thermal decay of two-spinon bound states in quasi-2D triangular antiferromagnets**|I. L. Pomponio et.al.|[2406.17165v1](http://arxiv.org/abs/2406.17165v1)|null|
-|**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074v1](http://arxiv.org/abs/2406.17074v1)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
-|**2024-06-24**|**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**|Yufei Liu et.al.|[2406.16815v1](http://arxiv.org/abs/2406.16815v1)|null|
-|**2024-06-24**|**Constraining Cosmological Parameters with Needlet Internal Linear Combination Maps II: Likelihood-Free Inference on NILC Power Spectra**|Kristen M. Surrao et.al.|[2406.16811v1](http://arxiv.org/abs/2406.16811v1)|null|
-|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792v1](http://arxiv.org/abs/2406.16792v1)|null|
-|**2024-06-24**|**Geometrically frustrated, mechanical metamaterial membranes: Large-scale stress accumulation and size-selective assembly**|Micheal Wang et.al.|[2406.16790v1](http://arxiv.org/abs/2406.16790v1)|null|
-|**2024-06-24**|**Probabilistic Subgoal Representations for Hierarchical Reinforcement learning**|Vivienne Huiling Wang et.al.|[2406.16707v1](http://arxiv.org/abs/2406.16707v1)|null|
-|**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695v1](http://arxiv.org/abs/2406.16695v1)|null|
-|**2024-06-24**|**Analyzing performance of $f$-deformed displaced Fock state in continuous-variable quantum teleportation**|Deepak et.al.|[2406.16538v1](http://arxiv.org/abs/2406.16538v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -76,6 +76,24 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533v1](http://arxiv.org/abs/2406.18533v1)|[link](https://github.com/nyu-systems/grendel-gs)|
+|**2024-06-26**|**Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning**|Alexandros Kontogiannis et.al.|[2406.18464v1](http://arxiv.org/abs/2406.18464v1)|null|
+|**2024-06-26**|**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**|Taoran Yi et.al.|[2406.18462v1](http://arxiv.org/abs/2406.18462v1)|null|
+|**2024-06-26**|**An Autotuning-based Optimization Framework for Mixed-kernel SVM Classifications in Smart Pixel Datasets and Heterojunction Transistors**|Xingfu Wu et.al.|[2406.18445v1](http://arxiv.org/abs/2406.18445v1)|null|
+|**2024-06-26**|**Upper Bounds on the Mass of Fundamental Fields from Primordial Universe**|Hassan Firouzjahi et.al.|[2406.18435v1](http://arxiv.org/abs/2406.18435v1)|null|
+|**2024-06-26**|**Neural Network Emulation of Flow in Heavy-Ion Collisions at Intermediate Energies**|Nicholas Cox et.al.|[2406.18421v1](http://arxiv.org/abs/2406.18421v1)|null|
+|**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417v1](http://arxiv.org/abs/2406.18417v1)|null|
+|**2024-06-26**|**Second Maximum of a Gaussian Random Field and Exact (t-)Spacing test**|Azaïs Jean-Marc et.al.|[2406.18397v1](http://arxiv.org/abs/2406.18397v1)|null|
+|**2024-06-26**|**The $\ell$-test: leveraging sparsity in the Gaussian linear model for improved inference**|Souhardya Sengupta et.al.|[2406.18390v1](http://arxiv.org/abs/2406.18390v1)|null|
+|**2024-06-26**|**Sub-Gaussian High-Dimensional Covariance Matrix Estimation under Elliptical Factor Model with 2 + εth Moment**|Yi Ding et.al.|[2406.18347v1](http://arxiv.org/abs/2406.18347v1)|null|
+|**2024-06-26**|**The power of prediction: spatiotemporal Gaussian process modeling for predictive control in slope-based wavefront sensing**|Jalo Nousiainen et.al.|[2406.18275v1](http://arxiv.org/abs/2406.18275v1)|null|
+|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214v1](http://arxiv.org/abs/2406.18214v1)|null|
+|**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199v1](http://arxiv.org/abs/2406.18199v1)|null|
+|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
+|**2024-06-26**|**Quasiparticle and fully self-consistent GW methods: an unbiased analysis using Gaussian orbitals**|Gaurav Harsha et.al.|[2406.18077v1](http://arxiv.org/abs/2406.18077v1)|null|
+|**2024-06-26**|**Rate-Distortion-Perception Tradeoff for Gaussian Vector Sources**|Jingjing Qian et.al.|[2406.18008v1](http://arxiv.org/abs/2406.18008v1)|null|
+|**2024-06-26**|**The dynamics of Tonks-Girardeau gas excited by a pulse drive**|Jia Li et.al.|[2406.17997v1](http://arxiv.org/abs/2406.17997v1)|null|
+|**2024-06-26**|**Computing linear optical spectra of molecules in complex environments on Graphics Processing Units using molecular dynamics simulations and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994v1](http://arxiv.org/abs/2406.17994v1)|null|
 |**2024-06-25**|**Fast Ground State to Ground State Separation of Small Ion Crystals**|Tyler H. Guglielmo et.al.|[2406.17750v1](http://arxiv.org/abs/2406.17750v1)|null|
 |**2024-06-25**|**Re-examination of the role of displacement and photon catalysis operation in continuous variable measurement device-independent quantum key distribution**|Chandan Kumar et.al.|[2406.17727v1](http://arxiv.org/abs/2406.17727v1)|null|
 |**2024-06-25**|**Infinitely divisible modified Bessel distributions**|Árpád Baricz et.al.|[2406.17721v1](http://arxiv.org/abs/2406.17721v1)|null|
@@ -87,25 +105,7 @@
 |**2024-06-25**|**Constructing structured tensor priors for Bayesian inverse problems**|Kim Batselier et.al.|[2406.17597v1](http://arxiv.org/abs/2406.17597v1)|null|
 |**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586v1](http://arxiv.org/abs/2406.17586v1)|null|
 |**2024-06-25**|**Anisotropic Brownian particles under resetting**|Subhasish Chaki et.al.|[2406.17550v1](http://arxiv.org/abs/2406.17550v1)|null|
-|**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462v1](http://arxiv.org/abs/2406.17462v1)|null|
-|**2024-06-25**|**Higher Gaussian maps on the hyperelliptic locus and second fundamental form**|Dario Faro et.al.|[2406.17408v1](http://arxiv.org/abs/2406.17408v1)|null|
-|**2024-06-25**|**Stacked Confusion Reject Plots (SCORE)**|Stephan Hasler et.al.|[2406.17346v1](http://arxiv.org/abs/2406.17346v1)|null|
-|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
-|**2024-06-25**|**Model Uncertainty in Latent Gaussian Models with Univariate Link Function**|Mark F. J. Steel et.al.|[2406.17318v1](http://arxiv.org/abs/2406.17318v1)|null|
-|**2024-06-25**|**Scalable Sampling of Truncated Multivariate Normals Using Sequential Nearest-Neighbor Approximation**|Jian Cao et.al.|[2406.17307v1](http://arxiv.org/abs/2406.17307v1)|null|
-|**2024-06-25**|**Efficient, Multimodal, and Derivative-Free Bayesian Inference With Fisher-Rao Gradient Flows**|Yifan Chen et.al.|[2406.17263v1](http://arxiv.org/abs/2406.17263v1)|null|
-|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v1](http://arxiv.org/abs/2406.17249v1)|null|
-|**2024-06-25**|**Greedy equivalence search for nonparametric graphical models**|Bryon Aragam et.al.|[2406.17228v1](http://arxiv.org/abs/2406.17228v1)|null|
-|**2024-06-25**|**Machine Unlearning Fails to Remove Data Poisoning Attacks**|Martin Pawelczyk et.al.|[2406.17216v1](http://arxiv.org/abs/2406.17216v1)|null|
-|**2024-06-25**|**Coded Kalman Filtering over MIMO Gaussian Channels with Feedback**|Barron Han et.al.|[2406.17196v1](http://arxiv.org/abs/2406.17196v1)|null|
-|**2024-06-24**|**Thermal decay of two-spinon bound states in quasi-2D triangular antiferromagnets**|I. L. Pomponio et.al.|[2406.17165v1](http://arxiv.org/abs/2406.17165v1)|null|
-|**2024-06-24**|**Reducing the Memory Footprint of 3D Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2406.17074v1](http://arxiv.org/abs/2406.17074v1)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
-|**2024-06-24**|**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**|Yufei Liu et.al.|[2406.16815v1](http://arxiv.org/abs/2406.16815v1)|null|
-|**2024-06-24**|**Constraining Cosmological Parameters with Needlet Internal Linear Combination Maps II: Likelihood-Free Inference on NILC Power Spectra**|Kristen M. Surrao et.al.|[2406.16811v1](http://arxiv.org/abs/2406.16811v1)|null|
-|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792v1](http://arxiv.org/abs/2406.16792v1)|null|
-|**2024-06-24**|**Geometrically frustrated, mechanical metamaterial membranes: Large-scale stress accumulation and size-selective assembly**|Micheal Wang et.al.|[2406.16790v1](http://arxiv.org/abs/2406.16790v1)|null|
-|**2024-06-24**|**Probabilistic Subgoal Representations for Hierarchical Reinforcement learning**|Vivienne Huiling Wang et.al.|[2406.16707v1](http://arxiv.org/abs/2406.16707v1)|null|
+|**2024-06-25**|**Fully heavy tetraquark resonant states with different flavors**|Wei-Lin Wu et.al.|[2406.17824v1](http://arxiv.org/abs/2406.17824v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
