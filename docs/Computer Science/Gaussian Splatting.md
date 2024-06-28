@@ -2,6 +2,27 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-27**|**Fractional Gaussian forms and gauge theory: an overview**|Sky Cao et.al.|[2406.19321v1](http://arxiv.org/abs/2406.19321v1)|null|
+|**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
+|**2024-06-27**|**Diffuse interstellar bands in the near-infrared: Expanding the reddening range**|R. Castellanos et.al.|[2406.19229v1](http://arxiv.org/abs/2406.19229v1)|null|
+|**2024-06-27**|**ProtoGMM: Multi-prototype Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2406.19225v1](http://arxiv.org/abs/2406.19225v1)|null|
+|**2024-06-27**|**On asymptotic independence in higher dimensions**|Bikramjit Das et.al.|[2406.19186v1](http://arxiv.org/abs/2406.19186v1)|null|
+|**2024-06-27**|**Infinite dimensional dynamical maps**|Bihalan Bhattacharya et.al.|[2406.19176v1](http://arxiv.org/abs/2406.19176v1)|null|
+|**2024-06-27**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070v1](http://arxiv.org/abs/2406.19070v1)|null|
+|**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061v1](http://arxiv.org/abs/2406.19061v1)|null|
+|**2024-06-27**|**Extended GeV $γ$-ray emission around the star forming region of the W3 complex**|Qihang Wu et.al.|[2406.19034v1](http://arxiv.org/abs/2406.19034v1)|null|
+|**2024-06-27**|**Lithium-Ion Battery System Health Monitoring and Fault Analysis from Field Data Using Gaussian Processes**|Joachim Schaeffer et.al.|[2406.19015v1](http://arxiv.org/abs/2406.19015v1)|null|
+|**2024-06-27**|**Correspondence-Free Non-Rigid Point Set Registration Using Unsupervised Clustering Analysis**|Mingyang Zhao et.al.|[2406.18817v1](http://arxiv.org/abs/2406.18817v1)|[link](https://github.com/zikai1/cvpr24_pointsetreg)|
+|**2024-06-27**|**Ksurf: Attention Kalman Filter and Principal Component Analysis for Prediction under Highly Variable Cloud Workloads**|Michael Dang'ana et.al.|[2406.18801v1](http://arxiv.org/abs/2406.18801v1)|null|
+|**2024-06-26**|**ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models**|Yuxuan Yin et.al.|[2406.18770v1](http://arxiv.org/abs/2406.18770v1)|null|
+|**2024-06-26**|**Robust Distributed Learning of Functional Data From Simulators through Data Sketching**|R. Jacob Andros et.al.|[2406.18751v1](http://arxiv.org/abs/2406.18751v1)|null|
+|**2024-06-26**|**Data-driven identification of port-Hamiltonian DAE systems by Gaussian processes**|Peter Zaspel et.al.|[2406.18726v1](http://arxiv.org/abs/2406.18726v1)|null|
+|**2024-06-26**|**Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos**|Colton Stearns et.al.|[2406.18717v1](http://arxiv.org/abs/2406.18717v1)|null|
+|**2024-06-26**|**Bounded asymptotics for high-order moments in wall turbulence**|Xi Chen et.al.|[2406.18711v1](http://arxiv.org/abs/2406.18711v1)|null|
+|**2024-06-26**|**Noise reduction via optimal control in a light-matter quantum system**|Francisco Albarrán-Arriagada et.al.|[2406.18693v1](http://arxiv.org/abs/2406.18693v1)|null|
+|**2024-06-26**|**Data Sketching and Stacking: A Confluence of Two Strategies for Predictive Inference in Gaussian Process Regressions with High-Dimensional Features**|Samuel Gailliot et.al.|[2406.18681v1](http://arxiv.org/abs/2406.18681v1)|null|
+|**2024-06-26**|**Scattering Neutrinos, Spin Models, and Permutations**|Duff Neill et.al.|[2406.18677v1](http://arxiv.org/abs/2406.18677v1)|null|
+|**2024-06-26**|**Improving Hyperparameter Optimization with Checkpointed Model Weights**|Nikhil Mehta et.al.|[2406.18630v1](http://arxiv.org/abs/2406.18630v1)|[link](https://github.com/nvlabs/forecasting-model-search)|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533v1](http://arxiv.org/abs/2406.18533v1)|[link](https://github.com/nyu-systems/grendel-gs)|
 |**2024-06-26**|**Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning**|Alexandros Kontogiannis et.al.|[2406.18464v1](http://arxiv.org/abs/2406.18464v1)|null|
 |**2024-06-26**|**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**|Taoran Yi et.al.|[2406.18462v1](http://arxiv.org/abs/2406.18462v1)|null|
@@ -11,24 +32,3 @@
 |**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417v1](http://arxiv.org/abs/2406.18417v1)|null|
 |**2024-06-26**|**Second Maximum of a Gaussian Random Field and Exact (t-)Spacing test**|Azaïs Jean-Marc et.al.|[2406.18397v1](http://arxiv.org/abs/2406.18397v1)|null|
 |**2024-06-26**|**The $\ell$-test: leveraging sparsity in the Gaussian linear model for improved inference**|Souhardya Sengupta et.al.|[2406.18390v1](http://arxiv.org/abs/2406.18390v1)|null|
-|**2024-06-26**|**Sub-Gaussian High-Dimensional Covariance Matrix Estimation under Elliptical Factor Model with 2 + εth Moment**|Yi Ding et.al.|[2406.18347v1](http://arxiv.org/abs/2406.18347v1)|null|
-|**2024-06-26**|**The power of prediction: spatiotemporal Gaussian process modeling for predictive control in slope-based wavefront sensing**|Jalo Nousiainen et.al.|[2406.18275v1](http://arxiv.org/abs/2406.18275v1)|null|
-|**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214v1](http://arxiv.org/abs/2406.18214v1)|null|
-|**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199v1](http://arxiv.org/abs/2406.18199v1)|null|
-|**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
-|**2024-06-26**|**Quasiparticle and fully self-consistent GW methods: an unbiased analysis using Gaussian orbitals**|Gaurav Harsha et.al.|[2406.18077v1](http://arxiv.org/abs/2406.18077v1)|null|
-|**2024-06-26**|**Rate-Distortion-Perception Tradeoff for Gaussian Vector Sources**|Jingjing Qian et.al.|[2406.18008v1](http://arxiv.org/abs/2406.18008v1)|null|
-|**2024-06-26**|**The dynamics of Tonks-Girardeau gas excited by a pulse drive**|Jia Li et.al.|[2406.17997v1](http://arxiv.org/abs/2406.17997v1)|null|
-|**2024-06-26**|**Computing linear optical spectra of molecules in complex environments on Graphics Processing Units using molecular dynamics simulations and tensor-network approaches**|Evan Lambertson et.al.|[2406.17994v1](http://arxiv.org/abs/2406.17994v1)|null|
-|**2024-06-25**|**Fast Ground State to Ground State Separation of Small Ion Crystals**|Tyler H. Guglielmo et.al.|[2406.17750v1](http://arxiv.org/abs/2406.17750v1)|null|
-|**2024-06-25**|**Re-examination of the role of displacement and photon catalysis operation in continuous variable measurement device-independent quantum key distribution**|Chandan Kumar et.al.|[2406.17727v1](http://arxiv.org/abs/2406.17727v1)|null|
-|**2024-06-25**|**Infinitely divisible modified Bessel distributions**|Árpád Baricz et.al.|[2406.17721v1](http://arxiv.org/abs/2406.17721v1)|null|
-|**2024-06-25**|**Alignment-Induced Self-Organization of Autonomously Steering Microswimmers: Turbulence, Vortices, and Jets**|Segun Goh et.al.|[2406.17704v1](http://arxiv.org/abs/2406.17704v1)|null|
-|**2024-06-25**|**Can independent Metropolis beat crude Monte Carlo?**|Siran Liu et.al.|[2406.17699v1](http://arxiv.org/abs/2406.17699v1)|null|
-|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|[link](https://github.com/philippe-eecs/small-vision)|
-|**2024-06-25**|**Unraveling the binary nature of HQ Tau: A brown dwarf companion revealed using multi-variate Gaussian process**|Kim Pouilly et.al.|[2406.17671v1](http://arxiv.org/abs/2406.17671v1)|null|
-|**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|[link](https://github.com/imlixinyang/director3d)|
-|**2024-06-25**|**Constructing structured tensor priors for Bayesian inverse problems**|Kim Batselier et.al.|[2406.17597v1](http://arxiv.org/abs/2406.17597v1)|[link](https://github.com/TUDelft-DeTAIL/AbTensors)|
-|**2024-06-25**|**Anisotropic Brownian particles under resetting**|Subhasish Chaki et.al.|[2406.17550v1](http://arxiv.org/abs/2406.17550v1)|null|
-|**2024-06-25**|**Fully heavy tetraquark resonant states with different flavors**|Wei-Lin Wu et.al.|[2406.17824v1](http://arxiv.org/abs/2406.17824v1)|null|
-|**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462v1](http://arxiv.org/abs/2406.17462v1)|null|
