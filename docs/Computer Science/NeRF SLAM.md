@@ -2,6 +2,9 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
+|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811v1](http://arxiv.org/abs/2406.19811v1)|null|
+|**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634v1](http://arxiv.org/abs/2406.19634v1)|null|
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840v1](http://arxiv.org/abs/2406.18840v1)|null|
 |**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586v1](http://arxiv.org/abs/2406.17586v1)|null|
 |**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438v1](http://arxiv.org/abs/2406.17438v1)|[link](https://github.com/qimaqi/Implicit-Zoo)|
@@ -29,6 +32,3 @@
 |**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082v1](http://arxiv.org/abs/2406.12082v1)|null|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840v1](http://arxiv.org/abs/2406.11840v1)|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766v1](http://arxiv.org/abs/2406.11766v1)|null|
-|**2024-06-17**|**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**|Clinton Wang et.al.|[2406.11737v1](http://arxiv.org/abs/2406.11737v1)|null|
-|**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259v1](http://arxiv.org/abs/2406.11259v1)|null|
-|**2024-06-15**|**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**|Zhenggang Tang et.al.|[2406.10543v1](http://arxiv.org/abs/2406.10543v1)|[link](https://github.com/nerfdeformer/nerfdeformer)|
