@@ -8,7 +8,7 @@
 |**2024-06-27**|**ProtoGMM: Multi-prototype Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2406.19225v1](http://arxiv.org/abs/2406.19225v1)|null|
 |**2024-06-27**|**On asymptotic independence in higher dimensions**|Bikramjit Das et.al.|[2406.19186v1](http://arxiv.org/abs/2406.19186v1)|null|
 |**2024-06-27**|**Infinite dimensional dynamical maps**|Bihalan Bhattacharya et.al.|[2406.19176v1](http://arxiv.org/abs/2406.19176v1)|null|
-|**2024-06-27**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070v1](http://arxiv.org/abs/2406.19070v1)|null|
+|**2024-06-27**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070v2](http://arxiv.org/abs/2406.19070v2)|null|
 |**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061v1](http://arxiv.org/abs/2406.19061v1)|null|
 |**2024-06-27**|**Extended GeV $γ$-ray emission around the star forming region of the W3 complex**|Qihang Wu et.al.|[2406.19034v1](http://arxiv.org/abs/2406.19034v1)|null|
 |**2024-06-27**|**Lithium-Ion Battery System Health Monitoring and Fault Analysis from Field Data Using Gaussian Processes**|Joachim Schaeffer et.al.|[2406.19015v1](http://arxiv.org/abs/2406.19015v1)|null|
