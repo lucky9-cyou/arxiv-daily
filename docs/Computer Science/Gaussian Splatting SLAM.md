@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-03**|**Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting**|Maike F. Holthuijzen et.al.|[2407.03312v1](http://arxiv.org/abs/2407.03312v1)|null|
-|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|null|
-|**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289v1](http://arxiv.org/abs/2407.03289v1)|null|
-|**2024-07-03**|**Finely Stratified Rerandomization Designs**|Max Cytrynbaum et.al.|[2407.03279v1](http://arxiv.org/abs/2407.03279v1)|null|
-|**2024-07-03**|**Lattices, Gates, and Curves: GKP codes as a Rosetta stone**|Jonathan Conrad et.al.|[2407.03270v1](http://arxiv.org/abs/2407.03270v1)|null|
-|**2024-07-03**|**Expressive Gaussian Human Avatars from Monocular RGB Video**|Hezhen Hu et.al.|[2407.03204v1](http://arxiv.org/abs/2407.03204v1)|null|
-|**2024-07-03**|**Ultra-Lightweight Collaborative Mapping for Robot Swarms**|Vlad Niculescu et.al.|[2407.03136v1](http://arxiv.org/abs/2407.03136v1)|null|
-|**2024-07-03**|**GMM-ResNext: Combining Generative and Discriminative Models for Speaker Verification**|Hui Yan et.al.|[2407.03135v1](http://arxiv.org/abs/2407.03135v1)|null|
-|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945v2](http://arxiv.org/abs/2407.02945v2)|null|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|[link](https://github.com/wrld/free-surgs)|
-|**2024-07-03**|**Non-Adversarial Learning: Vector-Quantized Common Latent Space for Multi-Sequence MRI**|Luyi Han et.al.|[2407.02911v1](http://arxiv.org/abs/2407.02911v1)|[link](https://github.com/fiy2w/mri_seq2seq)|
-|**2024-07-03**|**Bispectrum from inflation/bouncing Universe in VCDM**|Alexander Ganz et.al.|[2407.02882v1](http://arxiv.org/abs/2407.02882v1)|null|
-|**2024-07-03**|**Active Polar Ring Polymer in Shear Flow -- An Analytical Study**|Roland G. Winkler et.al.|[2407.02860v1](http://arxiv.org/abs/2407.02860v1)|null|
-|**2024-07-03**|**Spatially Coherent 3D Distributions of HI and CO in the Milky Way**|Laurin Söding et.al.|[2407.02859v1](http://arxiv.org/abs/2407.02859v1)|null|
-|**2024-07-03**|**Linear Relativistic Corrections in the Spherical Fourier-Bessel Power Spectrum**|Robin Y. Wen et.al.|[2407.02753v1](http://arxiv.org/abs/2407.02753v1)|null|
-|**2024-07-03**|**Implementation and Analysis of GPU Algorithms for Vecchia Approximation**|Zachary James et.al.|[2407.02740v1](http://arxiv.org/abs/2407.02740v1)|[link](https://github.com/zjames12/GpGpU)|
-|**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang et.al.|[2407.02712v1](http://arxiv.org/abs/2407.02712v1)|null|
-|**2024-07-02**|**Funny Valen-Tine: Solving visual abstract reasoning problems through defining the solution distribution**|Ruizhuo Song et.al.|[2407.02688v1](http://arxiv.org/abs/2407.02688v1)|null|
-|**2024-07-02**|**Uniform Transformation: Refining Latent Representation in Variational Autoencoders**|Ye Shi et.al.|[2407.02681v1](http://arxiv.org/abs/2407.02681v1)|[link](https://github.com/supershiye/UniformTransformationModule)|
-|**2024-07-02**|**Open quantum dynamics with variational non-Gaussian states and the truncated Wigner approximation**|Liam J. Bond et.al.|[2407.02617v1](http://arxiv.org/abs/2407.02617v1)|null|
-|**2024-07-02**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598v2](http://arxiv.org/abs/2407.02598v2)|null|
-|**2024-07-02**|**Youden's Demon is Sylvester's Problem**|Florian Frick et.al.|[2407.02589v1](http://arxiv.org/abs/2407.02589v1)|null|
-|**2024-07-02**|**A Max-Flow approach to Random Tensor Networks**|Khurshed Fitter et.al.|[2407.02559v1](http://arxiv.org/abs/2407.02559v1)|null|
-|**2024-07-02**|**Scalable Multi-Output Gaussian Processes with Stochastic Variational Inference**|Xiaoyu Jiang et.al.|[2407.02476v1](http://arxiv.org/abs/2407.02476v1)|null|
-|**2024-07-02**|**A new bump in the night: evidence of a new feature in the binary black hole mass distribution at $70~M_{\odot}$ from gravitational-wave observations**|Ignacio Magaña Hernandez et.al.|[2407.02460v1](http://arxiv.org/abs/2407.02460v1)|null|
-|**2024-07-02**|**Coding-Enhanced Cooperative Jamming for Secret Communication in Fluid Antenna Systems**|Hao Xu et.al.|[2407.02400v1](http://arxiv.org/abs/2407.02400v1)|null|
-|**2024-07-02**|**A refractory density approach to a multi-scale SEIRS epidemic model**|Anton Chizhov et.al.|[2407.02396v1](http://arxiv.org/abs/2407.02396v1)|null|
-|**2024-07-02**|**Finer-Grained Hardness of Kernel Density Estimation**|Josh Alman et.al.|[2407.02372v1](http://arxiv.org/abs/2407.02372v1)|null|
-|**2024-07-02**|**Transport Map Coupling Filter for State-Parameter Estimation**|Jan Grashorn et.al.|[2407.02198v1](http://arxiv.org/abs/2407.02198v1)|null|
-|**2024-07-02**|**Data-Driven Probabilistic Methodology for Aircraft Conflict Detection Under Wind Uncertainty**|Jaime de la Mota et.al.|[2407.02186v1](http://arxiv.org/abs/2407.02186v1)|null|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
+|**2024-07-05**|**Deep sections of the hypercube**|Lionel Pournin et.al.|[2407.04637v1](http://arxiv.org/abs/2407.04637v1)|null|
+|**2024-07-05**|**Linear causal disentanglement via higher-order cumulants**|Paula Leyes Carreno et.al.|[2407.04605v1](http://arxiv.org/abs/2407.04605v1)|null|
+|**2024-07-05**|**Unbalanced optimal transport for stochastic particle tracking**|Kairui Hao et.al.|[2407.04583v1](http://arxiv.org/abs/2407.04583v1)|null|
+|**2024-07-05**|**Gaussian Eigen Models for Human Heads**|Wojciech Zielonka et.al.|[2407.04545v1](http://arxiv.org/abs/2407.04545v1)|null|
+|**2024-07-05**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504v1](http://arxiv.org/abs/2407.04504v1)|null|
+|**2024-07-05**|**Sound Field Estimation Using Deep Kernel Learning Regularized by the Wave Equation**|David Sundström et.al.|[2407.04417v1](http://arxiv.org/abs/2407.04417v1)|null|
+|**2024-07-05**|**Gaps in the complex Farey sequence of an imaginary quadratic number field**|Rafael Sayous et.al.|[2407.04380v1](http://arxiv.org/abs/2407.04380v1)|null|
+|**2024-07-05**|**The study of propagation characteristics of millimeter-wave vortex in magnetized plasma by using FDTD Method**|Chenxu Wang et.al.|[2407.04296v1](http://arxiv.org/abs/2407.04296v1)|null|
+|**2024-07-05**|**Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling**|Jiawei Xu et.al.|[2407.04285v1](http://arxiv.org/abs/2407.04285v1)|null|
+|**2024-07-05**|**Parametric Curve Segment Extraction by Support Regions**|Cem Ünsalan et.al.|[2407.04265v1](http://arxiv.org/abs/2407.04265v1)|null|
+|**2024-07-05**|**Langevin Dynamics: A Unified Perspective on Optimization via Lyapunov Potentials**|August Y. Chen et.al.|[2407.04264v1](http://arxiv.org/abs/2407.04264v1)|null|
+|**2024-07-05**|**Machine Learning for Complex Systems with Abnormal Pattern by Exception Maximization Outlier Detection Method**|Zhikun Zhang et.al.|[2407.04248v1](http://arxiv.org/abs/2407.04248v1)|null|
+|**2024-07-05**|**GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**|Yuxuan Mu et.al.|[2407.04237v1](http://arxiv.org/abs/2407.04237v1)|null|
+|**2024-07-05**|**A Unified Intracellular pH Landscape with SITE-pHorin: a Quantum-Entanglement-Enhanced pH Probe**|Shu-Ang Li et.al.|[2407.04232v1](http://arxiv.org/abs/2407.04232v1)|null|
+|**2024-07-05**|**Exploring new physics in the late Universe's expansion through non-parametric inference**|Miguel A. Sabogal et.al.|[2407.04223v1](http://arxiv.org/abs/2407.04223v1)|null|
+|**2024-07-05**|**Using Synthetic Data to Regularize Maximum Likelihood Estimation**|Weihao Li et.al.|[2407.04194v1](http://arxiv.org/abs/2407.04194v1)|null|
+|**2024-07-04**|**Global well-posedness of 2D Navier-Stokes with Dirichlet boundary fractional noise**|Antonio Agresti et.al.|[2407.03988v1](http://arxiv.org/abs/2407.03988v1)|null|
+|**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923v1](http://arxiv.org/abs/2407.03923v1)|null|
+|**2024-07-04**|**Unsupervised speech enhancement with spectral kurtosis and double deep priors**|Hien Ohnaka et.al.|[2407.03887v1](http://arxiv.org/abs/2407.03887v1)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857v1](http://arxiv.org/abs/2407.03857v1)|null|
+|**2024-07-04**|**Role of clustered nuclear geometry in particle production through p-C and p-O collisions at the Large Hadron Collider**|Aswathy Menon K R et.al.|[2407.03823v1](http://arxiv.org/abs/2407.03823v1)|null|
+|**2024-07-04**|**Beyond Gaussian fluctuations of quantum anharmonic nuclei**|Antonio Siciliano et.al.|[2407.03802v1](http://arxiv.org/abs/2407.03802v1)|null|
+|**2024-07-04**|**SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors**|Yijia Guo et.al.|[2407.03771v1](http://arxiv.org/abs/2407.03771v1)|null|
+|**2024-07-04**|**Compositions of the Hercules-Aquila Cloud and Virgo Over-density**|Dashuang Ye et.al.|[2407.03713v1](http://arxiv.org/abs/2407.03713v1)|null|
+|**2024-07-04**|**A second-order direct Eulerian GRP scheme for ten-moment Gaussian closure equations with source terms**|Jiangfu Wang et.al.|[2407.03712v1](http://arxiv.org/abs/2407.03712v1)|null|
+|**2024-07-04**|**Wood Surface Inspection Using Structural and Conditional Statistical Features**|Cem Ünsalan et.al.|[2407.03630v1](http://arxiv.org/abs/2407.03630v1)|null|
+|**2024-07-04**|**Gaussian process regression with log-linear scaling for common non-stationary kernels**|P. Michael Kielstra et.al.|[2407.03608v1](http://arxiv.org/abs/2407.03608v1)|null|
+|**2024-07-04**|**Orthogonal Constrained Minimization with Tensor $\ell_{2,p}$ Regularization for HSI Denoising and Destriping**|Xiaoxia Liu et.al.|[2407.03605v1](http://arxiv.org/abs/2407.03605v1)|null|
+|**2024-07-04**|**Evidence for Inflation**|Deng Wang et.al.|[2407.03577v1](http://arxiv.org/abs/2407.03577v1)|null|
