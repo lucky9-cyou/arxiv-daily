@@ -10,7 +10,7 @@
 |**2024-07-03**|**Expressive Gaussian Human Avatars from Monocular RGB Video**|Hezhen Hu et.al.|[2407.03204v1](http://arxiv.org/abs/2407.03204v1)|null|
 |**2024-07-03**|**Ultra-Lightweight Collaborative Mapping for Robot Swarms**|Vlad Niculescu et.al.|[2407.03136v1](http://arxiv.org/abs/2407.03136v1)|null|
 |**2024-07-03**|**GMM-ResNext: Combining Generative and Discriminative Models for Speaker Verification**|Hui Yan et.al.|[2407.03135v1](http://arxiv.org/abs/2407.03135v1)|null|
-|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945v1](http://arxiv.org/abs/2407.02945v1)|null|
+|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945v2](http://arxiv.org/abs/2407.02945v2)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|[link](https://github.com/wrld/free-surgs)|
 |**2024-07-03**|**Non-Adversarial Learning: Vector-Quantized Common Latent Space for Multi-Sequence MRI**|Luyi Han et.al.|[2407.02911v1](http://arxiv.org/abs/2407.02911v1)|[link](https://github.com/fiy2w/mri_seq2seq)|
 |**2024-07-03**|**Bispectrum from inflation/bouncing Universe in VCDM**|Alexander Ganz et.al.|[2407.02882v1](http://arxiv.org/abs/2407.02882v1)|null|
@@ -22,7 +22,7 @@
 |**2024-07-02**|**Funny Valen-Tine: Solving visual abstract reasoning problems through defining the solution distribution**|Ruizhuo Song et.al.|[2407.02688v1](http://arxiv.org/abs/2407.02688v1)|null|
 |**2024-07-02**|**Uniform Transformation: Refining Latent Representation in Variational Autoencoders**|Ye Shi et.al.|[2407.02681v1](http://arxiv.org/abs/2407.02681v1)|[link](https://github.com/supershiye/UniformTransformationModule)|
 |**2024-07-02**|**Open quantum dynamics with variational non-Gaussian states and the truncated Wigner approximation**|Liam J. Bond et.al.|[2407.02617v1](http://arxiv.org/abs/2407.02617v1)|null|
-|**2024-07-02**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598v1](http://arxiv.org/abs/2407.02598v1)|null|
+|**2024-07-02**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598v2](http://arxiv.org/abs/2407.02598v2)|null|
 |**2024-07-02**|**Youden's Demon is Sylvester's Problem**|Florian Frick et.al.|[2407.02589v1](http://arxiv.org/abs/2407.02589v1)|null|
 |**2024-07-02**|**A Max-Flow approach to Random Tensor Networks**|Khurshed Fitter et.al.|[2407.02559v1](http://arxiv.org/abs/2407.02559v1)|null|
 |**2024-07-02**|**Scalable Multi-Output Gaussian Processes with Stochastic Variational Inference**|Xiaoyu Jiang et.al.|[2407.02476v1](http://arxiv.org/abs/2407.02476v1)|null|
