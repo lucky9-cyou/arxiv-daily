@@ -2,6 +2,12 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666v1](http://arxiv.org/abs/2407.05666v1)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
+|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586v1](http://arxiv.org/abs/2407.05586v1)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023v1](http://arxiv.org/abs/2407.05023v1)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923v1](http://arxiv.org/abs/2407.03923v1)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668v1](http://arxiv.org/abs/2407.02668v1)|null|
 |**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|[link](https://github.com/WU-CVGL/BeNeRF)|
@@ -26,9 +32,3 @@
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796v1](http://arxiv.org/abs/2406.13796v1)|null|
 |**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v2](http://arxiv.org/abs/2406.13393v2)|null|
-|**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251v1](http://arxiv.org/abs/2406.13251v1)|[link](https://github.com/yi0109/freqmipaa)|
-|**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099v1](http://arxiv.org/abs/2406.13099v1)|null|
-|**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048v1](http://arxiv.org/abs/2406.13048v1)|null|
-|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202v1](http://arxiv.org/abs/2406.12202v1)|null|
-|**2024-06-17**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121v2](http://arxiv.org/abs/2406.12121v2)|null|
-|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095v1](http://arxiv.org/abs/2406.12095v1)|null|

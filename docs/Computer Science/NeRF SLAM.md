@@ -2,6 +2,17 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
+|**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077v1](http://arxiv.org/abs/2407.06077v1)|null|
+|**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v1](http://arxiv.org/abs/2407.05820v1)|null|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666v1](http://arxiv.org/abs/2407.05666v1)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
+|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586v1](http://arxiv.org/abs/2407.05586v1)|null|
+|**2024-07-07**|**Active Collaborative Visual SLAM exploiting ORB Features**|Muhammad Farhan Ahmed et.al.|[2407.05453v1](http://arxiv.org/abs/2407.05453v1)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023v1](http://arxiv.org/abs/2407.05023v1)|null|
+|**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
+|**2024-07-06**|**Symmetric Linear Arc Monadic Datalog and Gadget Reductions**|Manuel Bodirsky et.al.|[2407.04924v1](http://arxiv.org/abs/2407.04924v1)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923v1](http://arxiv.org/abs/2407.03923v1)|null|
 |**2024-07-03**|**Ultra-Lightweight Collaborative Mapping for Robot Swarms**|Vlad Niculescu et.al.|[2407.03136v1](http://arxiv.org/abs/2407.03136v1)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668v1](http://arxiv.org/abs/2407.02668v1)|null|
@@ -21,14 +32,3 @@
 |**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586v1](http://arxiv.org/abs/2406.17586v1)|null|
 |**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438v1](http://arxiv.org/abs/2406.17438v1)|[link](https://github.com/qimaqi/Implicit-Zoo)|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
-|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v2](http://arxiv.org/abs/2406.17249v2)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
-|**2024-06-24**|**Compressing Search with Language Models**|Thomas Mulc et.al.|[2407.00085v1](http://arxiv.org/abs/2407.00085v1)|null|
-|**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623v1](http://arxiv.org/abs/2406.16623v1)|null|
-|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
-|**2024-06-23**|**Towards Real-Time Neural Volumetric Rendering on Mobile Devices: A Measurement Study**|Zhe Wang et.al.|[2406.16068v1](http://arxiv.org/abs/2406.16068v1)|null|
-|**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982v1](http://arxiv.org/abs/2406.15982v1)|null|
-|**2024-06-22**|**psPRF:Pansharpening Planar Neural Radiance Field for Generalized 3D Reconstruction Satellite Imagery**|Tongtong Zhang et.al.|[2406.15707v1](http://arxiv.org/abs/2406.15707v1)|null|
-|**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020v1](http://arxiv.org/abs/2406.15020v1)|null|
-|**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|[link](https://github.com/deguchihiroyuki/e2gs)|
-|**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
