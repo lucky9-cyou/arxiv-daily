@@ -2,6 +2,8 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613v1](http://arxiv.org/abs/2407.06613v1)|null|
+|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397v1](http://arxiv.org/abs/2407.06397v1)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666v1](http://arxiv.org/abs/2407.05666v1)|null|
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
@@ -30,5 +32,3 @@
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|[link](https://github.com/deguchihiroyuki/e2gs)|
 |**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
-|**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796v1](http://arxiv.org/abs/2406.13796v1)|null|
-|**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v2](http://arxiv.org/abs/2406.13393v2)|null|

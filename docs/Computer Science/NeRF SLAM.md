@@ -2,6 +2,10 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
+|**2024-07-09**|**A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**|Yasra Chandio et.al.|[2407.06889v1](http://arxiv.org/abs/2407.06889v1)|null|
+|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613v1](http://arxiv.org/abs/2407.06613v1)|null|
+|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397v1](http://arxiv.org/abs/2407.06397v1)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077v1](http://arxiv.org/abs/2407.06077v1)|null|
 |**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v1](http://arxiv.org/abs/2407.05820v1)|null|
@@ -28,7 +32,3 @@
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811v1](http://arxiv.org/abs/2406.19811v1)|null|
 |**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634v1](http://arxiv.org/abs/2406.19634v1)|null|
-|**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840v1](http://arxiv.org/abs/2406.18840v1)|null|
-|**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586v1](http://arxiv.org/abs/2406.17586v1)|null|
-|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438v1](http://arxiv.org/abs/2406.17438v1)|[link](https://github.com/qimaqi/Implicit-Zoo)|
-|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|

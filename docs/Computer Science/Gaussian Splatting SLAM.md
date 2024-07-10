@@ -2,6 +2,28 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v1](http://arxiv.org/abs/2407.07090v1)|null|
+|**2024-07-09**|**Integer Linear-Exponential Programming in NP by Quantifier Elimination**|Dmitry Chistikov et.al.|[2407.07083v1](http://arxiv.org/abs/2407.07083v1)|null|
+|**2024-07-09**|**Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**|David Hug et.al.|[2407.07074v1](http://arxiv.org/abs/2407.07074v1)|null|
+|**2024-07-09**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007v1](http://arxiv.org/abs/2407.07007v1)|null|
+|**2024-07-09**|**Reconfigurable unitary transformations of optical beam arrays**|Aldo C. Martinez-Becerril et.al.|[2407.06981v1](http://arxiv.org/abs/2407.06981v1)|null|
+|**2024-07-09**|**Variability and the existence of rough integrals with irregular coefficients**|Michael Hinz et.al.|[2407.06907v1](http://arxiv.org/abs/2407.06907v1)|null|
+|**2024-07-09**|**A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**|Yasra Chandio et.al.|[2407.06889v1](http://arxiv.org/abs/2407.06889v1)|null|
+|**2024-07-09**|**Efficient nonlocal linear image denoising: Bilevel optimization with Nonequispaced Fast Fourier Transform and matrix-free preconditioning**|Andrés Miniguano-Trujillo et.al.|[2407.06834v1](http://arxiv.org/abs/2407.06834v1)|null|
+|**2024-07-09**|**Two-photon charging of a quantum battery with a Gaussian pulse envelope**|C. A. Downing et.al.|[2407.06810v1](http://arxiv.org/abs/2407.06810v1)|null|
+|**2024-07-09**|**A Fubini-type limit theorem for the integrated hyperuniform infinitely divisible moving averages**|Evgeny Spodarev et.al.|[2407.06806v1](http://arxiv.org/abs/2407.06806v1)|null|
+|**2024-07-09**|**Countermeasures Against Adversarial Examples in Radio Signal Classification**|Lu Zhang et.al.|[2407.06796v1](http://arxiv.org/abs/2407.06796v1)|null|
+|**2024-07-09**|**Cosmological simulations of scale-dependent primordial non-Gaussianity**|Marco Baldi et.al.|[2407.06641v1](http://arxiv.org/abs/2407.06641v1)|null|
+|**2024-07-09**|**Learning operando impedance function for battery health with aging-aware equivalent circuit model**|Zihao Zhou et.al.|[2407.06639v1](http://arxiv.org/abs/2407.06639v1)|null|
+|**2024-07-09**|**SG-NNP: Species-separated Gaussian Neural Network Potential with Linear Elemental Scaling and Optimized Dimensions for Multi-component Materials**|Ji Wei Yoon et.al.|[2407.06615v1](http://arxiv.org/abs/2407.06615v1)|null|
+|**2024-07-09**|**Quantum coherence with generalized wave packets under Lorentz boost**|Arnab Mukherjee et.al.|[2407.06599v1](http://arxiv.org/abs/2407.06599v1)|null|
+|**2024-07-09**|**Gravitational orbital Hall effect of vortex photons in Lense-Thirring metric**|Wei-Si Qiu et.al.|[2407.06553v1](http://arxiv.org/abs/2407.06553v1)|null|
+|**2024-07-09**|**Visual-Geometry GP-based Navigable Space for Autonomous Navigation**|Mahmoud Ali et.al.|[2407.06545v1](http://arxiv.org/abs/2407.06545v1)|null|
+|**2024-07-08**|**The Most Sensitive Radio Recombination Line Measurements Ever Made of the Galactic Warm Ionized Medium**|T. M. Bania et.al.|[2407.06396v1](http://arxiv.org/abs/2407.06396v1)|null|
+|**2024-07-08**|**Investigating the off-axis GRB afterglow scenario for extragalactic fast X-ray transients**|H. C. I. Wichern et.al.|[2407.06371v1](http://arxiv.org/abs/2407.06371v1)|null|
+|**2024-07-08**|**Subadditivity and optimal matching of unbounded samples**|Emanuele Caglioti et.al.|[2407.06352v1](http://arxiv.org/abs/2407.06352v1)|null|
+|**2024-07-08**|**Decoupling Local Primordial non-Gaussianity from Relativistic Effects in the Galaxy Bispectrum**|Samantha Rossiter et.al.|[2407.06301v1](http://arxiv.org/abs/2407.06301v1)|null|
+|**2024-07-08**|**Gate-based quantum simulation of Gaussian bosonic circuits on exponentially many modes**|Alice Barthe et.al.|[2407.06290v1](http://arxiv.org/abs/2407.06290v1)|null|
 |**2024-07-08**|**Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**|Siva Krishna Ravipati et.al.|[2407.06077v1](http://arxiv.org/abs/2407.06077v1)|null|
 |**2024-07-08**|**Continuous variable quantum teleportation using photon subtracted and photon added two mode squeezed coherent state**|Shikhar Arora et.al.|[2407.06037v1](http://arxiv.org/abs/2407.06037v1)|null|
 |**2024-07-08**|**Heisenberg-limited Bayesian phase estimation with low-depth digital quantum circuits**|Su Direkci et.al.|[2407.06006v1](http://arxiv.org/abs/2407.06006v1)|null|
@@ -10,25 +32,3 @@
 |**2024-07-08**|**Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection**|Chenxu Wang et.al.|[2407.05909v1](http://arxiv.org/abs/2407.05909v1)|[link](https://github.com/facias914/sood-mcl)|
 |**2024-07-08**|**Link Representation Learning for Probabilistic Travel Time Estimation**|Chen Xu et.al.|[2407.05895v1](http://arxiv.org/abs/2407.05895v1)|[link](https://github.com/ChenXu02/ProbTTE)|
 |**2024-07-08**|**Almost Sure Convergence and Non-asymptotic Concentration Bounds for Stochastic Mirror Descent Algorithm**|Anik Kumar Paul et.al.|[2407.05863v1](http://arxiv.org/abs/2407.05863v1)|null|
-|**2024-07-08**|**A Low-Rank Bayesian Approach for Geoadditive Modeling**|Bryan Sumalinab et.al.|[2407.05854v1](http://arxiv.org/abs/2407.05854v1)|null|
-|**2024-07-08**|**A Data-Driven Machine Learning Approach for Detecting Albedo Anomalies on the Lunar Surface**|Sofia Strukova et.al.|[2407.05832v1](http://arxiv.org/abs/2407.05832v1)|null|
-|**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820v1](http://arxiv.org/abs/2407.05820v1)|null|
-|**2024-07-08**|**Normative brain mapping of 3-dimensional morphometry imaging data using skewed functional data analysis**|Marco Palma et.al.|[2407.05806v1](http://arxiv.org/abs/2407.05806v1)|null|
-|**2024-07-08**|**Smooth Path Planning Using a Gaussian Process Regression Map for Mobile Robot Navigation**|Quentin Serdel et.al.|[2407.05779v1](http://arxiv.org/abs/2407.05779v1)|null|
-|**2024-07-08**|**Preparation of Schrödinger cat quantum state using parametric down-conversion interaction**|V. L. Gorshenin et.al.|[2407.05759v1](http://arxiv.org/abs/2407.05759v1)|null|
-|**2024-07-08**|**An example of a small-time globally approximately controllable bilinear Schrödinger equation**|Karine Beauchard et.al.|[2407.05698v1](http://arxiv.org/abs/2407.05698v1)|null|
-|**2024-07-08**|**Two-Path GMM-ResNet and GMM-SENet for ASV Spoofing Detection**|Zhenchun Lei et.al.|[2407.05605v1](http://arxiv.org/abs/2407.05605v1)|null|
-|**2024-07-07**|**Exact convergence rates to derivatives of local time for some self-similar Gaussian processes**|Minhao Hong et.al.|[2407.05514v1](http://arxiv.org/abs/2407.05514v1)|null|
-|**2024-07-07**|**Gaussian Approximation and Output Analysis for High-Dimensional MCMC**|Ardjen Pengel et.al.|[2407.05492v1](http://arxiv.org/abs/2407.05492v1)|null|
-|**2024-07-07**|**Sequential Gaussian Variational Inference for Nonlinear State Estimation applied to Robotic Applications**|Min-Won Seo et.al.|[2407.05478v1](http://arxiv.org/abs/2407.05478v1)|null|
-|**2024-07-07**|**Bayesian Finite Mixture Models**|Bettina Grün et.al.|[2407.05470v1](http://arxiv.org/abs/2407.05470v1)|null|
-|**2024-07-07**|**Active Collaborative Visual SLAM exploiting ORB Features**|Muhammad Farhan Ahmed et.al.|[2407.05453v1](http://arxiv.org/abs/2407.05453v1)|null|
-|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324v1](http://arxiv.org/abs/2407.05324v1)|null|
-|**2024-07-07**|**Efficient Bayesian dynamic closed skew-normal model preserving mean and covariance for spatio-temporal data**|Hajime Kuno et.al.|[2407.05288v1](http://arxiv.org/abs/2407.05288v1)|null|
-|**2024-07-07**|**Towards the Quantum Limits of Phase Retrieval**|Jacob Trzaska et.al.|[2407.05265v1](http://arxiv.org/abs/2407.05265v1)|null|
-|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
-|**2024-07-06**|**Noncommutative wormhole in de Rham-Gabadadze-Tolley like massive gravity**|Piyali Bhar et.al.|[2407.05111v1](http://arxiv.org/abs/2407.05111v1)|null|
-|**2024-07-06**|**A Marginal Distributionally Robust Kalman Filter for Centralized Fusion**|Weizhi Chen et.al.|[2407.05052v1](http://arxiv.org/abs/2407.05052v1)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023v1](http://arxiv.org/abs/2407.05023v1)|null|
-|**2024-07-06**|**VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**|Xuefeng Jiang et.al.|[2407.05017v1](http://arxiv.org/abs/2407.05017v1)|null|
-|**2024-07-06**|**T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy**|Fan Duan et.al.|[2407.05008v1](http://arxiv.org/abs/2407.05008v1)|[link](https://github.com/df-boy/t-corresnet)|
