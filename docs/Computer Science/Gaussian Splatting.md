@@ -27,7 +27,7 @@
 |**2024-07-09**|**A Fubini-type limit theorem for the integrated hyperuniform infinitely divisible moving averages**|Evgeny Spodarev et.al.|[2407.06806v1](http://arxiv.org/abs/2407.06806v1)|null|
 |**2024-07-09**|**Countermeasures Against Adversarial Examples in Radio Signal Classification**|Lu Zhang et.al.|[2407.06796v1](http://arxiv.org/abs/2407.06796v1)|null|
 |**2024-07-09**|**A non-conservative kinetic framework for a closed-market society subject to shock events**|Marco Menale et.al.|[2407.07127v1](http://arxiv.org/abs/2407.07127v1)|null|
-|**2024-07-09**|**Cosmological simulations of scale-dependent primordial non-Gaussianity**|Marco Baldi et.al.|[2407.06641v1](http://arxiv.org/abs/2407.06641v1)|null|
+|**2024-07-09**|**Cosmological simulations of scale-dependent primordial non-Gaussianity**|Marco Baldi et.al.|[2407.06641v2](http://arxiv.org/abs/2407.06641v2)|null|
 |**2024-07-09**|**Learning operando impedance function for battery health with aging-aware equivalent circuit model**|Zihao Zhou et.al.|[2407.06639v2](http://arxiv.org/abs/2407.06639v2)|null|
 |**2024-07-09**|**SG-NNP: Species-separated Gaussian Neural Network Potential with Linear Elemental Scaling and Optimized Dimensions for Multi-component Materials**|Ji Wei Yoon et.al.|[2407.06615v1](http://arxiv.org/abs/2407.06615v1)|null|
 |**2024-07-09**|**Quantum coherence with generalized wave packets under Lorentz boost**|Arnab Mukherjee et.al.|[2407.06599v1](http://arxiv.org/abs/2407.06599v1)|null|
