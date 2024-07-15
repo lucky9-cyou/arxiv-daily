@@ -23,7 +23,7 @@
 |**2024-07-10**|**Gradual changes in functional time series**|Patrick Bastian et.al.|[2407.07996v1](http://arxiv.org/abs/2407.07996v1)|null|
 |**2024-07-10**|**Reinforcement Learning of Adaptive Acquisition Policies for Inverse Problems**|Gianluigi Silvestri et.al.|[2407.07794v1](http://arxiv.org/abs/2407.07794v1)|null|
 |**2024-07-10**|**Sequential Kalman Monte Carlo for gradient-free inference in Bayesian inverse problems**|Richard D. P. Grumitt et.al.|[2407.07781v1](http://arxiv.org/abs/2407.07781v1)|[link](https://github.com/richardgrumitt/kalmanmc)|
-|**2024-07-10**|**Finite Blocklength Performance of Capacity-achieving Codes in the Light of Complexity Theory**|Holger Boche et.al.|[2407.07773v1](http://arxiv.org/abs/2407.07773v1)|null|
+|**2024-07-10**|**Finite Blocklength Performance of Capacity-achieving Codes in the Light of Complexity Theory**|Holger Boche et.al.|[2407.07773v2](http://arxiv.org/abs/2407.07773v2)|null|
 |**2024-07-10**|**High-dimensional Covariance Estimation by Pairwise Likelihood Truncation**|Alessandro Casa et.al.|[2407.07717v1](http://arxiv.org/abs/2407.07717v1)|null|
 |**2024-07-10**|**Machine learning of discrete field theories with guaranteed convergence and uncertainty quantification**|Christian Offen et.al.|[2407.07642v1](http://arxiv.org/abs/2407.07642v1)|[link](https://github.com/Christian-Offen/Lagrangian_GP_PDE)|
 |**2024-07-10**|**MoVEInt: Mixture of Variational Experts for Learning Human-Robot Interactions from Demonstrations**|Vignesh Prasad et.al.|[2407.07636v1](http://arxiv.org/abs/2407.07636v1)|null|
