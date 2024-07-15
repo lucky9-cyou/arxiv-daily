@@ -2,6 +2,27 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
+|**2024-07-12**|**Stochastic proof of the sharp symmetrized Talagrand inequality**|Thomas A. Courtade et.al.|[2407.09465v1](http://arxiv.org/abs/2407.09465v1)|null|
+|**2024-07-12**|**Computationally Efficient Estimation of Large Probit Models**|Patrick Ding et.al.|[2407.09371v1](http://arxiv.org/abs/2407.09371v1)|null|
+|**2024-07-12**|**A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization**|Qiyu Chen et.al.|[2407.09359v1](http://arxiv.org/abs/2407.09359v1)|[link](https://github.com/cqylunlun/glass)|
+|**2024-07-12**|**Adaptive Bayesian Regression on Data with Low Intrinsic Dimensionality**|Tao Tang et.al.|[2407.09286v1](http://arxiv.org/abs/2407.09286v1)|null|
+|**2024-07-12**|**A Deep BSDE approximation of nonlinear integro-PDEs with unbounded nonlocal operators**|Espen Robstad Jakobsen et.al.|[2407.09284v1](http://arxiv.org/abs/2407.09284v1)|null|
+|**2024-07-12**|**High-dimensional maximally entangled photon pairs in parametric down-conversion**|Richard Bernecker et.al.|[2407.09280v1](http://arxiv.org/abs/2407.09280v1)|null|
+|**2024-07-12**|**Experimental photon addition and subtraction in multi-mode and entangled optical fields**|Kishore Thapliyal et.al.|[2407.09269v1](http://arxiv.org/abs/2407.09269v1)|null|
+|**2024-07-12**|**A software framework for stochastic model predictive control of nonlinear continuous-time systems (GRAMPC-S)**|Daniel Landgraf et.al.|[2407.09261v1](http://arxiv.org/abs/2407.09261v1)|null|
+|**2024-07-12**|**Informed FastICA: Semi-Blind Minimum Variance Distortionless Beamformer**|Zbyněk Koldovský et.al.|[2407.09259v1](http://arxiv.org/abs/2407.09259v1)|null|
+|**2024-07-12**|**An Adaptive Indoor Localization Approach Using WiFi RSSI Fingerprinting with SLAM-Enabled Robotic Platform and Deep Neural Networks**|Seyed Alireza Rahimi Azghadi et.al.|[2407.09242v1](http://arxiv.org/abs/2407.09242v1)|null|
+|**2024-07-12**|**Belief Propagation-based Rotation and Translation Estimation for Rigid Body Localization**|Volodymyr Vizitiv et.al.|[2407.09232v1](http://arxiv.org/abs/2407.09232v1)|null|
+|**2024-07-12**|**An improved formulation for the wake-added turbulence for intra-farm and farm-to-farm wake modeling**|Navid Zehtabiyan-Rezaie et.al.|[2407.09220v1](http://arxiv.org/abs/2407.09220v1)|null|
+|**2024-07-12**|**Non-equilibrium dynamics and atom-pair coherence in strongly interacting Bose-Fermi mixtures**|J. van de Kraats et.al.|[2407.09176v1](http://arxiv.org/abs/2407.09176v1)|null|
+|**2024-07-12**|**Multiple collisions of eigenvalues and singular values of matrix Gaussian field**|Wangjun Yuan et.al.|[2407.09070v1](http://arxiv.org/abs/2407.09070v1)|null|
+|**2024-07-12**|**Refusing Safe Prompts for Multi-modal Large Language Models**|Zedian Shao et.al.|[2407.09050v1](http://arxiv.org/abs/2407.09050v1)|null|
+|**2024-07-12**|**Error Bounds for a Kernel-Based Constrained Optimal Smoothing Approximation**|Laurence Grammont et.al.|[2407.09040v1](http://arxiv.org/abs/2407.09040v1)|null|
+|**2024-07-12**|**Dynamic protected states in the non-Hermitian system**|Lei Chen et.al.|[2407.09008v1](http://arxiv.org/abs/2407.09008v1)|null|
+|**2024-07-11**|**GRB Progenitor Classification from Gamma-Ray Burst Prompt and Afterglow Observations**|P. Nuessle et.al.|[2407.08857v1](http://arxiv.org/abs/2407.08857v1)|null|
+|**2024-07-11**|**TeV Analysis of a Source Rich Region with HAWC Observatory: Is HESS J1809-193 a Potential Hadronic PeVatron?**|A. Albert et.al.|[2407.08849v1](http://arxiv.org/abs/2407.08849v1)|null|
+|**2024-07-11**|**Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models**|Daniela de Albuquerque et.al.|[2407.08843v1](http://arxiv.org/abs/2407.08843v1)|null|
 |**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731v1](http://arxiv.org/abs/2407.08731v1)|null|
 |**2024-07-11**|**The exact non-Gaussian weak lensing likelihood: A framework to calculate analytic likelihoods for correlation functions on masked Gaussian random fields**|Veronika Oehl et.al.|[2407.08718v1](http://arxiv.org/abs/2407.08718v1)|null|
 |**2024-07-11**|**Scattering transforms on the sphere, application to large scale structure modelling**|Louise Mousset et.al.|[2407.08687v1](http://arxiv.org/abs/2407.08687v1)|null|
@@ -11,24 +32,3 @@
 |**2024-07-11**|**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks**|Zheng Wang et.al.|[2407.08454v1](http://arxiv.org/abs/2407.08454v1)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|null|
 |**2024-07-11**|**Typical ranks of random order-three tensors**|Paul Breiding et.al.|[2407.08371v1](http://arxiv.org/abs/2407.08371v1)|null|
-|**2024-07-11**|**Gaussian process interpolation with conformal prediction: methods and comparative analysis**|Aurélien Pion et.al.|[2407.08271v1](http://arxiv.org/abs/2407.08271v1)|null|
-|**2024-07-11**|**Conformal field theory of Gaussian free fields in a multiply connected domain**|Tom Alberts et.al.|[2407.08220v1](http://arxiv.org/abs/2407.08220v1)|null|
-|**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154v1](http://arxiv.org/abs/2407.08154v1)|null|
-|**2024-07-11**|**Variational Bayes for Mixture of Gaussian Structural Equation Models**|Khue-Dung Dang et.al.|[2407.08140v1](http://arxiv.org/abs/2407.08140v1)|null|
-|**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137v1](http://arxiv.org/abs/2407.08137v1)|null|
-|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
-|**2024-07-10**|**Massive Index Modulation with Combinatorics-Free Detection for Integrated Sensing and Communications**|Hyeon Seok Rou et.al.|[2407.08087v1](http://arxiv.org/abs/2407.08087v1)|null|
-|**2024-07-10**|**The GeometricKernels Package: Heat and Matérn Kernels for Geometric Learning on Manifolds, Meshes, and Graphs**|Peter Mostowsky et.al.|[2407.08086v1](http://arxiv.org/abs/2407.08086v1)|[link](https://github.com/geometric-kernels/GeometricKernels)|
-|**2024-07-10**|**Circumnuclear Dust in Luminous Early-Type Galaxies -- I. Sample Properties and Stellar Luminosity Models**|Jared R. Davidson et.al.|[2407.08076v1](http://arxiv.org/abs/2407.08076v1)|null|
-|**2024-07-10**|**What's the score? Automated Denoising Score Matching for Nonlinear Diffusions**|Raghav Singhal et.al.|[2407.07998v1](http://arxiv.org/abs/2407.07998v1)|null|
-|**2024-07-10**|**Gradual changes in functional time series**|Patrick Bastian et.al.|[2407.07996v1](http://arxiv.org/abs/2407.07996v1)|null|
-|**2024-07-10**|**Reinforcement Learning of Adaptive Acquisition Policies for Inverse Problems**|Gianluigi Silvestri et.al.|[2407.07794v1](http://arxiv.org/abs/2407.07794v1)|null|
-|**2024-07-10**|**Sequential Kalman Monte Carlo for gradient-free inference in Bayesian inverse problems**|Richard D. P. Grumitt et.al.|[2407.07781v1](http://arxiv.org/abs/2407.07781v1)|[link](https://github.com/richardgrumitt/kalmanmc)|
-|**2024-07-10**|**Finite Blocklength Performance of Capacity-achieving Codes in the Light of Complexity Theory**|Holger Boche et.al.|[2407.07773v2](http://arxiv.org/abs/2407.07773v2)|null|
-|**2024-07-10**|**High-dimensional Covariance Estimation by Pairwise Likelihood Truncation**|Alessandro Casa et.al.|[2407.07717v1](http://arxiv.org/abs/2407.07717v1)|null|
-|**2024-07-10**|**Machine learning of discrete field theories with guaranteed convergence and uncertainty quantification**|Christian Offen et.al.|[2407.07642v1](http://arxiv.org/abs/2407.07642v1)|[link](https://github.com/Christian-Offen/Lagrangian_GP_PDE)|
-|**2024-07-10**|**MoVEInt: Mixture of Variational Experts for Learning Human-Robot Interactions from Demonstrations**|Vignesh Prasad et.al.|[2407.07636v1](http://arxiv.org/abs/2407.07636v1)|null|
-|**2024-07-10**|**Nonlinear Langevin functionals for a driven probe**|Juliana Caspers et.al.|[2407.07628v1](http://arxiv.org/abs/2407.07628v1)|null|
-|**2024-07-10**|**Continuous variable dense coding under realistic non-ideal scenarios**|Mrinmoy Samanta et.al.|[2407.07609v1](http://arxiv.org/abs/2407.07609v1)|null|
-|**2024-07-10**|**Time evolutions of information entropies in a one-dimensional Vlasov-Poisson system**|K. Maekaku et.al.|[2407.07429v1](http://arxiv.org/abs/2407.07429v1)|null|
-|**2024-07-10**|**Token-Mol 1.0: Tokenized drug design with large language model**|Jike Wang et.al.|[2407.07930v1](http://arxiv.org/abs/2407.07930v1)|null|
