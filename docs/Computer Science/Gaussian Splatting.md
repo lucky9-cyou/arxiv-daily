@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-15**|**Optimal reconstruction of the Hellings and Downs correlation**|Bruce Allen et.al.|[2407.10968v1](http://arxiv.org/abs/2407.10968v1)|null|
+|**2024-07-15**|**Displacement memory for flyby**|P. -M. Zhang et.al.|[2407.10787v1](http://arxiv.org/abs/2407.10787v1)|null|
+|**2024-07-15**|**The moduli space of twisted Laplacians and random matrix theory**|Jens Marklof et.al.|[2407.10778v1](http://arxiv.org/abs/2407.10778v1)|null|
+|**2024-07-15**|**Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs**|W. J. Meijer et.al.|[2407.10743v1](http://arxiv.org/abs/2407.10743v1)|null|
+|**2024-07-15**|**Gaussian process regression + deep neural network autoencoder for probabilistic surrogate modeling in nonlinear mechanics of solids**|Saurabh Deshpande et.al.|[2407.10732v1](http://arxiv.org/abs/2407.10732v1)|null|
+|**2024-07-15**|**Interactive Rendering of Relightable and Animatable Gaussian Avatars**|Youyi Zhan et.al.|[2407.10707v1](http://arxiv.org/abs/2407.10707v1)|null|
+|**2024-07-15**|**Pathformer3D: A 3D Scanpath Transformer for 360° Images**|Rong Quan et.al.|[2407.10563v1](http://arxiv.org/abs/2407.10563v1)|[link](https://github.com/lsztzp/pathformer3d)|
+|**2024-07-15**|**The bilateral generalized inverse Gaussian process with applications to financial modeling**|Gaetano Agazzotti et.al.|[2407.10557v1](http://arxiv.org/abs/2407.10557v1)|null|
+|**2024-07-15**|**Forces from coarse-graining nonequilibrium degrees of freedom: exact results**|Ion Santra et.al.|[2407.10531v1](http://arxiv.org/abs/2407.10531v1)|null|
+|**2024-07-15**|**Pole Analysis of the Inter-Replica Correlation Function in a Two-Replica System as a Binary Mixture: Mean Overlap in the Cluster Glass Phase**|Hiroshi Frusawa et.al.|[2407.10519v1](http://arxiv.org/abs/2407.10519v1)|null|
+|**2024-07-15**|**Explosive percolation in finite dimensions**|Ming Li et.al.|[2407.10492v1](http://arxiv.org/abs/2407.10492v1)|null|
+|**2024-07-15**|**Inference at the data's edge: Gaussian processes for modeling and inference under model-dependency, poor overlap, and extrapolation**|Soonhong Cho et.al.|[2407.10442v1](http://arxiv.org/abs/2407.10442v1)|null|
+|**2024-07-14**|**RecGS: Removing Water Caustic with Recurrent Gaussian Splatting**|Tianyi Zhang et.al.|[2407.10318v1](http://arxiv.org/abs/2407.10318v1)|null|
+|**2024-07-14**|**The Error Analysis of the Secret Key Generation Algorithm Using Analog Function Computation**|Ertugrul Alper et.al.|[2407.10276v1](http://arxiv.org/abs/2407.10276v1)|null|
+|**2024-07-14**|**Atomic Decompositions of Periodic Electronic-Structure Simulations**|Luna Zamok et.al.|[2407.10148v1](http://arxiv.org/abs/2407.10148v1)|null|
+|**2024-07-14**|**FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**|Zheng Jiang et.al.|[2407.10135v1](http://arxiv.org/abs/2407.10135v1)|null|
+|**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102v1](http://arxiv.org/abs/2407.10102v1)|null|
+|**2024-07-14**|**Have ASkotch: Fast Methods for Large-scale, Memory-constrained Kernel Ridge Regression**|Pratik Rathore et.al.|[2407.10070v1](http://arxiv.org/abs/2407.10070v1)|null|
+|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062v1](http://arxiv.org/abs/2407.10062v1)|null|
+|**2024-07-13**|**Identification of Average Causal Effects in Confounded Additive Noise Models**|Muhammad Qasim Elahi et.al.|[2407.10014v1](http://arxiv.org/abs/2407.10014v1)|null|
+|**2024-07-13**|**Molecular clouds: do they deserve a non-Gaussian description?**|Pablo Richard et.al.|[2407.09832v1](http://arxiv.org/abs/2407.09832v1)|null|
+|**2024-07-13**|**On a class of oscillatory integrals and their application to the time dependent Schrödinger equation**|Jussi Behrndt et.al.|[2407.09830v1](http://arxiv.org/abs/2407.09830v1)|null|
+|**2024-07-13**|**Active Learning for Derivative-Based Global Sensitivity Analysis with Gaussian Processes**|Syrine Belakaria et.al.|[2407.09739v1](http://arxiv.org/abs/2407.09739v1)|null|
+|**2024-07-13**|**Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**|Zhentao Huang et.al.|[2407.09733v1](http://arxiv.org/abs/2407.09733v1)|null|
+|**2024-07-12**|**Statistical Inference for the Rough Homogenization Limit of Multiscale Fractional Ornstein-Uhlenbeck Processes**|Pablo Ramses Alonso-Martin et.al.|[2407.09703v1](http://arxiv.org/abs/2407.09703v1)|null|
+|**2024-07-12**|**Fast control of the transverse structure of a light beam using acousto-optic modulators**|Mahdieh Chartab Jabbari et.al.|[2407.09675v1](http://arxiv.org/abs/2407.09675v1)|null|
+|**2024-07-12**|**VDB-GPDF: Online Gaussian Process Distance Field with VDB Structure**|Lan Wu et.al.|[2407.09649v1](http://arxiv.org/abs/2407.09649v1)|null|
+|**2024-07-12**|**Bayesian inference of covariate-parameter relationships for population modelling**|Han Cheng Lie et.al.|[2407.09640v1](http://arxiv.org/abs/2407.09640v1)|null|
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
 |**2024-07-12**|**Stochastic proof of the sharp symmetrized Talagrand inequality**|Thomas A. Courtade et.al.|[2407.09465v1](http://arxiv.org/abs/2407.09465v1)|null|
-|**2024-07-12**|**Computationally Efficient Estimation of Large Probit Models**|Patrick Ding et.al.|[2407.09371v1](http://arxiv.org/abs/2407.09371v1)|null|
-|**2024-07-12**|**A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization**|Qiyu Chen et.al.|[2407.09359v1](http://arxiv.org/abs/2407.09359v1)|[link](https://github.com/cqylunlun/glass)|
-|**2024-07-12**|**Adaptive Bayesian Regression on Data with Low Intrinsic Dimensionality**|Tao Tang et.al.|[2407.09286v1](http://arxiv.org/abs/2407.09286v1)|null|
-|**2024-07-12**|**A Deep BSDE approximation of nonlinear integro-PDEs with unbounded nonlocal operators**|Espen Robstad Jakobsen et.al.|[2407.09284v1](http://arxiv.org/abs/2407.09284v1)|null|
-|**2024-07-12**|**High-dimensional maximally entangled photon pairs in parametric down-conversion**|Richard Bernecker et.al.|[2407.09280v1](http://arxiv.org/abs/2407.09280v1)|null|
-|**2024-07-12**|**Experimental photon addition and subtraction in multi-mode and entangled optical fields**|Kishore Thapliyal et.al.|[2407.09269v1](http://arxiv.org/abs/2407.09269v1)|null|
-|**2024-07-12**|**A software framework for stochastic model predictive control of nonlinear continuous-time systems (GRAMPC-S)**|Daniel Landgraf et.al.|[2407.09261v1](http://arxiv.org/abs/2407.09261v1)|null|
-|**2024-07-12**|**Informed FastICA: Semi-Blind Minimum Variance Distortionless Beamformer**|Zbyněk Koldovský et.al.|[2407.09259v1](http://arxiv.org/abs/2407.09259v1)|null|
-|**2024-07-12**|**Belief Propagation-based Rotation and Translation Estimation for Rigid Body Localization**|Volodymyr Vizitiv et.al.|[2407.09232v1](http://arxiv.org/abs/2407.09232v1)|null|
-|**2024-07-12**|**An improved formulation for the wake-added turbulence for intra-farm and farm-to-farm wake modeling**|Navid Zehtabiyan-Rezaie et.al.|[2407.09220v1](http://arxiv.org/abs/2407.09220v1)|null|
-|**2024-07-12**|**Non-equilibrium dynamics and atom-pair coherence in strongly interacting Bose-Fermi mixtures**|J. van de Kraats et.al.|[2407.09176v1](http://arxiv.org/abs/2407.09176v1)|null|
-|**2024-07-12**|**Multiple collisions of eigenvalues and singular values of matrix Gaussian field**|Wangjun Yuan et.al.|[2407.09070v1](http://arxiv.org/abs/2407.09070v1)|null|
-|**2024-07-12**|**Refusing Safe Prompts for Multi-modal Large Language Models**|Zedian Shao et.al.|[2407.09050v1](http://arxiv.org/abs/2407.09050v1)|null|
-|**2024-07-12**|**Error Bounds for a Kernel-Based Constrained Optimal Smoothing Approximation**|Laurence Grammont et.al.|[2407.09040v1](http://arxiv.org/abs/2407.09040v1)|null|
-|**2024-07-12**|**Dynamic protected states in the non-Hermitian system**|Lei Chen et.al.|[2407.09008v1](http://arxiv.org/abs/2407.09008v1)|null|
-|**2024-07-11**|**GRB Progenitor Classification from Gamma-Ray Burst Prompt and Afterglow Observations**|P. Nuessle et.al.|[2407.08857v1](http://arxiv.org/abs/2407.08857v1)|null|
-|**2024-07-11**|**TeV Analysis of a Source Rich Region with HAWC Observatory: Is HESS J1809-193 a Potential Hadronic PeVatron?**|A. Albert et.al.|[2407.08849v1](http://arxiv.org/abs/2407.08849v1)|null|
-|**2024-07-11**|**Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models**|Daniela de Albuquerque et.al.|[2407.08843v1](http://arxiv.org/abs/2407.08843v1)|null|
-|**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731v1](http://arxiv.org/abs/2407.08731v1)|null|
-|**2024-07-11**|**The exact non-Gaussian weak lensing likelihood: A framework to calculate analytic likelihoods for correlation functions on masked Gaussian random fields**|Veronika Oehl et.al.|[2407.08718v1](http://arxiv.org/abs/2407.08718v1)|null|
-|**2024-07-11**|**Scattering transforms on the sphere, application to large scale structure modelling**|Louise Mousset et.al.|[2407.08687v1](http://arxiv.org/abs/2407.08687v1)|null|
-|**2024-07-11**|**Non-convergence of some non-commuting double ergodic averages**|Tim Austin et.al.|[2407.08630v1](http://arxiv.org/abs/2407.08630v1)|null|
-|**2024-07-11**|**Centrality dependence of Lévy-stable two-pion Bose-Einstein correlations in $\sqrt{s_{_{NN}}}=200$ GeV Au$+$Au collisions**|PHENIX Collaboration et.al.|[2407.08586v1](http://arxiv.org/abs/2407.08586v1)|null|
-|**2024-07-11**|**JWST/NIRSpec insights into the circumnuclear region of Arp 220: A detailed kinematic study**|L. Ulivi et.al.|[2407.08505v1](http://arxiv.org/abs/2407.08505v1)|null|
-|**2024-07-11**|**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks**|Zheng Wang et.al.|[2407.08454v1](http://arxiv.org/abs/2407.08454v1)|null|
-|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|null|
-|**2024-07-11**|**Typical ranks of random order-three tensors**|Paul Breiding et.al.|[2407.08371v1](http://arxiv.org/abs/2407.08371v1)|null|
-|**2024-07-11**|**Gaussian process interpolation with conformal prediction: methods and comparative analysis**|Aurélien Pion et.al.|[2407.08271v1](http://arxiv.org/abs/2407.08271v1)|null|
