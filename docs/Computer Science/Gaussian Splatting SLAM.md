@@ -30,5 +30,5 @@
 |**2024-07-15**|**Data-Driven Controlled Invariant Sets for Gaussian Process State Space Models**|Paul Griffioen et.al.|[2407.11256v1](http://arxiv.org/abs/2407.11256v1)|null|
 |**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v1](http://arxiv.org/abs/2407.11238v1)|null|
 |**2024-07-15**|**Comparison of Controlled-Z operation and beam-splitter transformation for generation of squeezed Fock states by measurement**|E. N. Bashmakova et.al.|[2407.11193v1](http://arxiv.org/abs/2407.11193v1)|null|
-|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174v1](http://arxiv.org/abs/2407.11174v1)|null|
+|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174v1](http://arxiv.org/abs/2407.11174v1)|[link](https://github.com/pramishp/ihuman)|
 |**2024-07-15**|**Discrete generative diffusion models without stochastic differential equations: a tensor network approach**|Luke Causer et.al.|[2407.11133v1](http://arxiv.org/abs/2407.11133v1)|null|

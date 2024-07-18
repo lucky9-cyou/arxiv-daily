@@ -24,7 +24,7 @@
 |**2024-07-15**|**Heterogenous Multi-Source Data Fusion Through Input Mapping and Latent Variable Gaussian Process**|Yigitcan Comlek et.al.|[2407.11268v1](http://arxiv.org/abs/2407.11268v1)|null|
 |**2024-07-15**|**Data-Driven Controlled Invariant Sets for Gaussian Process State Space Models**|Paul Griffioen et.al.|[2407.11256v1](http://arxiv.org/abs/2407.11256v1)|null|
 |**2024-07-15**|**Comparison of Controlled-Z operation and beam-splitter transformation for generation of squeezed Fock states by measurement**|E. N. Bashmakova et.al.|[2407.11193v1](http://arxiv.org/abs/2407.11193v1)|null|
-|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174v1](http://arxiv.org/abs/2407.11174v1)|null|
+|**2024-07-15**|**iHuman: Instant Animatable Digital Humans From Monocular Videos**|Pramish Paudel et.al.|[2407.11174v1](http://arxiv.org/abs/2407.11174v1)|[link](https://github.com/pramishp/ihuman)|
 |**2024-07-15**|**Discrete generative diffusion models without stochastic differential equations: a tensor network approach**|Luke Causer et.al.|[2407.11133v1](http://arxiv.org/abs/2407.11133v1)|null|
 |**2024-07-15**|**Chaos and integrability in triangular billiards**|Vijay Balasubramanian et.al.|[2407.11114v1](http://arxiv.org/abs/2407.11114v1)|null|
 |**2024-07-15**|**Optimal reconstruction of the Hellings and Downs correlation**|Bruce Allen et.al.|[2407.10968v1](http://arxiv.org/abs/2407.10968v1)|null|
