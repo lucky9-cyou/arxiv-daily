@@ -13,7 +13,7 @@
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840v1](http://arxiv.org/abs/2407.11840v1)|null|
 |**2024-07-16**|**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**|Seokhun Choi et.al.|[2407.11793v1](http://arxiv.org/abs/2407.11793v1)|null|
 |**2024-07-16**|**SlingBAG: Sliding ball adaptive growth algorithm with differentiable radiation enables super-efficient iterative 3D photoacoustic image reconstruction**|Shuang Li et.al.|[2407.11781v1](http://arxiv.org/abs/2407.11781v1)|null|
-|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v1](http://arxiv.org/abs/2407.11736v1)|[link](https://github.com/jarvisyjw/gv-bench)|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|[link](https://github.com/jarvisyjw/gv-bench)|
 |**2024-07-16**|**Compressive Electron Backscatter Diffraction Imaging**|Zoë Broad et.al.|[2407.11724v1](http://arxiv.org/abs/2407.11724v1)|null|
 |**2024-07-16**|**Inferring the mass content of galaxy clusters with satellite kinematics and Jeans Anisotropic modeling**|Rui Shi et.al.|[2407.11721v1](http://arxiv.org/abs/2407.11721v1)|null|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v1](http://arxiv.org/abs/2407.11705v1)|null|
