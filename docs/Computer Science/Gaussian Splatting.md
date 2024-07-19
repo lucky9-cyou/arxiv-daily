@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-18**|**Training-Free Model Merging for Multi-target Domain Adaptation**|Wenyi Li et.al.|[2407.13771v1](http://arxiv.org/abs/2407.13771v1)|null|
+|**2024-07-18**|**Non-commuting transformations with non-converging 2-fold ergodic averages**|Valery V. Ryzhikov et.al.|[2407.13741v1](http://arxiv.org/abs/2407.13741v1)|null|
+|**2024-07-18**|**FSP-Laplace: Function-Space Priors for the Laplace Approximation in Bayesian Deep Learning**|Tristan Cinquin et.al.|[2407.13711v1](http://arxiv.org/abs/2407.13711v1)|null|
+|**2024-07-18**|**Enhancing gravitational-wave host localization with SKYFAST: rapid volume and inclination angle reconstruction**|Gabriele Demasi et.al.|[2407.13695v1](http://arxiv.org/abs/2407.13695v1)|null|
+|**2024-07-18**|**Joint modelling of time-to-event and longitudinal response using robust skew normal-independent distributions**|Srimanti Dutta et.al.|[2407.13678v1](http://arxiv.org/abs/2407.13678v1)|null|
+|**2024-07-18**|**Non-Asymptotic Uncertainty Quantification in High-Dimensional Learning**|Frederik Hoppe et.al.|[2407.13666v1](http://arxiv.org/abs/2407.13666v1)|null|
+|**2024-07-18**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584v1](http://arxiv.org/abs/2407.13584v1)|null|
+|**2024-07-18**|**With or Without Replacement? Improving Confidence in Fourier Imaging**|Frederik Hoppe et.al.|[2407.13575v1](http://arxiv.org/abs/2407.13575v1)|null|
+|**2024-07-18**|**Scalar Field Mapping with Adaptive High-Intensity Region Avoidance**|Muzaffar Qureshi et.al.|[2407.13543v1](http://arxiv.org/abs/2407.13543v1)|null|
+|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
+|**2024-07-18**|**Entropy factorization via curvature**|Pietro Caputo et.al.|[2407.13457v1](http://arxiv.org/abs/2407.13457v1)|null|
+|**2024-07-18**|**Precision bounds for quantum phase estimation using two-mode squeezed Gaussian states**|Jian-Dong Zhang et.al.|[2407.13433v1](http://arxiv.org/abs/2407.13433v1)|null|
+|**2024-07-18**|**The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations**|Jan Ole von Hartz et.al.|[2407.13432v1](http://arxiv.org/abs/2407.13432v1)|null|
+|**2024-07-18**|**Nonconvex landscapes for $\mathbf{Z}_2$ synchronization and graph clustering are benign near exact recovery thresholds**|Andrew D. McRae et.al.|[2407.13407v1](http://arxiv.org/abs/2407.13407v1)|null|
+|**2024-07-18**|**Unveiling the nonlinear dynamics of a rolling axion during inflation**|Angelo Caravano et.al.|[2407.13405v1](http://arxiv.org/abs/2407.13405v1)|null|
+|**2024-07-18**|**Block-Additive Gaussian Processes under Monotonicity Constraints**|M. Deronzier et.al.|[2407.13402v1](http://arxiv.org/abs/2407.13402v1)|null|
+|**2024-07-18**|**Movement-based models for abundance data**|Ricardo Carrizo Vergara et.al.|[2407.13384v1](http://arxiv.org/abs/2407.13384v1)|null|
+|**2024-07-18**|**NIRVAR: Network Informed Restricted Vector Autoregression**|Brendan Martin et.al.|[2407.13314v1](http://arxiv.org/abs/2407.13314v1)|null|
+|**2024-07-18**|**Heterogeneous Clinical Trial Outcomes via Multi-Output Gaussian Processes**|Owen Thomas et.al.|[2407.13283v1](http://arxiv.org/abs/2407.13283v1)|null|
+|**2024-07-18**|**Scaling limit of the KPZ equation with non-integrable spatial correlations**|Luca Gerolla et.al.|[2407.13215v1](http://arxiv.org/abs/2407.13215v1)|null|
+|**2024-07-18**|**Leveraging Machine Learning for High-Dimensional Option Pricing within the Uncertain Volatility Model**|Ludovic Goudenege et.al.|[2407.13213v1](http://arxiv.org/abs/2407.13213v1)|null|
+|**2024-07-18**|**HSEmotion Team at the 7th ABAW Challenge: Multi-Task Learning and Compound Facial Expression Recognition**|Andrey V. Savchenko et.al.|[2407.13184v1](http://arxiv.org/abs/2407.13184v1)|null|
+|**2024-07-17**|**Gaussian Channel Simulation with Rotated Dithered Quantization**|Szymon Kobus et.al.|[2407.12970v1](http://arxiv.org/abs/2407.12970v1)|null|
+|**2024-07-17**|**Distributions and correlation properties of offshore wind speeds and wind speed increments**|So-Kumneth Sim et.al.|[2407.12934v1](http://arxiv.org/abs/2407.12934v1)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777v1](http://arxiv.org/abs/2407.12777v1)|null|
 |**2024-07-17**|**Sharp isoperimetric inequalities on the Hamming cube near the critical exponent**|Polona Durcik et.al.|[2407.12674v1](http://arxiv.org/abs/2407.12674v1)|null|
 |**2024-07-17**|**Learning Gaussian Operations and the Matchgate Hierarchy**|Joshua Cudby et.al.|[2407.12649v1](http://arxiv.org/abs/2407.12649v1)|null|
 |**2024-07-17**|**Bayesian spatial functional data clustering: applications in disease surveillance**|Ruiman Zhong et.al.|[2407.12633v1](http://arxiv.org/abs/2407.12633v1)|null|
 |**2024-07-17**|**Exact Graph Matching in Correlated Gaussian-Attributed Erdős-Rényi Model**|Joonhyuk Yang et.al.|[2407.12604v1](http://arxiv.org/abs/2407.12604v1)|null|
 |**2024-07-17**|**Schmidt modes carrying orbital angular momentum generated by cascaded systems pumped with Laguerre-Gaussian beams**|D. Scharwald et.al.|[2407.12571v1](http://arxiv.org/abs/2407.12571v1)|null|
-|**2024-07-17**|**Efficient ensemble uncertainty estimation in Gaussian Processes Regression**|Mads-Peter Verner Christiansen et.al.|[2407.12525v1](http://arxiv.org/abs/2407.12525v1)|null|
-|**2024-07-17**|**Short-time Fourier transform and superoscillations**|Daniel Alpay et.al.|[2407.12502v1](http://arxiv.org/abs/2407.12502v1)|null|
-|**2024-07-17**|**Improvement of analysis for relaxation of fluctuations by the use of Gaussian process regression and extrapolation method**|Yuma Osada et.al.|[2407.12480v1](http://arxiv.org/abs/2407.12480v1)|null|
-|**2024-07-17**|**Asymptotic behaviour of the heat equation in an exterior domain with general boundary conditions I. The case of integrable data**|Joaquín Domínguez-de-Tena et.al.|[2407.12406v1](http://arxiv.org/abs/2407.12406v1)|null|
-|**2024-07-17**|**Gaussian Approximation for Lag-Window Estimators and the Construction of Confidence bands for the Spectral Density**|Jens-Peter Kreiss et.al.|[2407.12316v1](http://arxiv.org/abs/2407.12316v1)|null|
-|**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306v1](http://arxiv.org/abs/2407.12306v1)|null|
-|**2024-07-17**|**Narrowband, Fast, and Autonomous Drone Radio Mapping for Localization**|Paul S. Kudyba et.al.|[2407.12286v1](http://arxiv.org/abs/2407.12286v1)|null|
-|**2024-07-17**|**Testing the cosmic distance duality relation with Type Ia supernova and transverse BAO measurements**|Min Wang et.al.|[2407.12250v1](http://arxiv.org/abs/2407.12250v1)|null|
-|**2024-07-16**|**Statistical mechanics of passive Brownian particles in a fluctuating harmonic trap**|Derek Frydel et.al.|[2407.12213v1](http://arxiv.org/abs/2407.12213v1)|null|
-|**2024-07-16**|**This Probably Looks Exactly Like That: An Invertible Prototypical Network**|Zachariah Carmichael et.al.|[2407.12200v1](http://arxiv.org/abs/2407.12200v1)|[link](https://github.com/craymichael/protoflow)|
-|**2024-07-16**|**CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation**|Xianzhong Ding et.al.|[2407.12195v1](http://arxiv.org/abs/2407.12195v1)|null|
-|**2024-07-16**|**Outliers for deformed inhomogeneous random matrices**|Ruohan Geng et.al.|[2407.12182v1](http://arxiv.org/abs/2407.12182v1)|null|
-|**2024-07-16**|**Multigrid Monte Carlo Revisited: Theory and Bayesian Inference**|Yoshihito Kazashi et.al.|[2407.12149v1](http://arxiv.org/abs/2407.12149v1)|null|
-|**2024-07-16**|**Pseudorandomness, symmetry, smoothing: II**|Harm Derksen et.al.|[2407.12110v1](http://arxiv.org/abs/2407.12110v1)|null|
-|**2024-07-16**|**Entanglement Structure of Non-Gaussian States and How to Measure It**|Henry Froland et.al.|[2407.12083v1](http://arxiv.org/abs/2407.12083v1)|null|
-|**2024-07-16**|**Quantizing Carrollian field theories**|Jordan Cotler et.al.|[2407.11971v1](http://arxiv.org/abs/2407.11971v1)|null|
-|**2024-07-16**|**Growth estimates on optimal transport maps via concentration inequalities**|Max Fathi et.al.|[2407.11951v1](http://arxiv.org/abs/2407.11951v1)|null|
-|**2024-07-16**|**Impossibility of latent inner product recovery via rate distortion**|Cheng Mao et.al.|[2407.11932v1](http://arxiv.org/abs/2407.11932v1)|null|
-|**2024-07-16**|**Global Optimisation of Black-Box Functions with Generative Models in the Wasserstein Space**|Tigran Ramazyan et.al.|[2407.11917v1](http://arxiv.org/abs/2407.11917v1)|[link](https://github.com/ramazyant/wu-go)|
-|**2024-07-16**|**SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions -- An EndoVis'24 Challenge**|Hao Ding et.al.|[2407.11906v1](http://arxiv.org/abs/2407.11906v1)|null|
-|**2024-07-16**|**When does a Gaussian process have its paths in a reproducing kernel Hilbert space?**|Ingo Steinwart et.al.|[2407.11898v1](http://arxiv.org/abs/2407.11898v1)|null|
-|**2024-07-16**|**Variance Norms for Kernelized Anomaly Detection**|Thomas Cass et.al.|[2407.11873v1](http://arxiv.org/abs/2407.11873v1)|[link](https://github.com/nikitazozoulenko/kernel-timeseries-anomaly-detection)|
-|**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840v1](http://arxiv.org/abs/2407.11840v1)|null|
-|**2024-07-16**|**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**|Seokhun Choi et.al.|[2407.11793v1](http://arxiv.org/abs/2407.11793v1)|null|
