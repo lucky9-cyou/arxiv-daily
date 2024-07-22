@@ -21,7 +21,7 @@
 |**2024-07-19**|**A Unified Confidence Sequence for Generalized Linear Models, with Applications to Bandits**|Junghyun Lee et.al.|[2407.13977v1](http://arxiv.org/abs/2407.13977v1)|null|
 |**2024-07-19**|**PlacidDreamer: Advancing Harmony in Text-to-3D Generation**|Shuo Huang et.al.|[2407.13976v1](http://arxiv.org/abs/2407.13976v1)|[link](https://github.com/hansenhuang0823/placiddreamer)|
 |**2024-07-19**|**On the Frequentist Coverage of Bayes Posteriors in Nonlinear Inverse Problems**|Youngsoo Baek et.al.|[2407.13970v1](http://arxiv.org/abs/2407.13970v1)|null|
-|**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|null|
+|**2024-07-18**|**A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**|Jianxiang Xu et.al.|[2407.13878v1](http://arxiv.org/abs/2407.13878v1)|[link](https://github.com/UW-Advanced-Robotics-Lab/dual-VIO-MM)|
 |**2024-07-18**|**Temperature Distribution Prediction in Laser Powder Bed Fusion using Transferable and Scalable Graph Neural Networks**|Riddhiman Raut et.al.|[2407.13838v1](http://arxiv.org/abs/2407.13838v1)|null|
 |**2024-07-18**|**The Local Group L-Band Survey: The First Measurements of Localized Cold Neutral Medium Properties in the Low-Metallicity Dwarf Galaxy NGC 6822**|Nickolas M. Pingel et.al.|[2407.13829v1](http://arxiv.org/abs/2407.13829v1)|null|
 |**2024-07-18**|**Training-Free Model Merging for Multi-target Domain Adaptation**|Wenyi Li et.al.|[2407.13771v1](http://arxiv.org/abs/2407.13771v1)|null|
