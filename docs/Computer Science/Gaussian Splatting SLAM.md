@@ -20,7 +20,7 @@
 |**2024-07-21**|**Distributional limits of graph cuts on discretized grids**|Leo Suchan et.al.|[2407.15297v1](http://arxiv.org/abs/2407.15297v1)|null|
 |**2024-07-21**|**Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling**|Junn Yong Loo et.al.|[2407.15238v1](http://arxiv.org/abs/2407.15238v1)|null|
 |**2024-07-21**|**Variation Bayesian Interference for Multiple Extended Targets or Unresolved Group Targets Tracking**|Yuanhao Cheng et.al.|[2407.15226v1](http://arxiv.org/abs/2407.15226v1)|null|
-|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v1](http://arxiv.org/abs/2407.15212v1)|null|
+|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v2](http://arxiv.org/abs/2407.15212v2)|null|
 |**2024-07-21**|**HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions**|Haiyang Zhou et.al.|[2407.15187v1](http://arxiv.org/abs/2407.15187v1)|null|
 |**2024-07-21**|**FFHFlow: A Flow-based Variational Approach for Multi-fingered Grasp Synthesis in Real Time**|Qian Feng et.al.|[2407.15161v1](http://arxiv.org/abs/2407.15161v1)|null|
 |**2024-07-21**|**Practical multi-fidelity machine learning: fusion of deterministic and Bayesian models**|Jiaxiang Yi et.al.|[2407.15110v1](http://arxiv.org/abs/2407.15110v1)|null|
@@ -29,6 +29,6 @@
 |**2024-07-21**|**3D Gaussian Parametric Head Model**|Yuelang Xu et.al.|[2407.15070v1](http://arxiv.org/abs/2407.15070v1)|null|
 |**2024-07-21**|**VoxDepth: Rectification of Depth Images on Edge Devices**|Yashashwee Chakrabarty et.al.|[2407.15067v1](http://arxiv.org/abs/2407.15067v1)|null|
 |**2024-07-21**|**Enhancing K-user Interference Alignment for Discrete Constellations via Learning**|Rajesh Mishra et.al.|[2407.15054v1](http://arxiv.org/abs/2407.15054v1)|null|
-|**2024-07-20**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923v1](http://arxiv.org/abs/2407.14923v1)|null|
+|**2024-07-20**|**RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies**|Xiaomeng Chu et.al.|[2407.14923v2](http://arxiv.org/abs/2407.14923v2)|null|
 |**2024-07-20**|**Generalized Langevin equation for a tagged monomer in a Gaussian semiflexible polymer**|Xavier Durang et.al.|[2407.14886v1](http://arxiv.org/abs/2407.14886v1)|null|
 |**2024-07-20**|**Modeling the effects of natural disasters, wars, and migrations on sustainability or collapse of pre-industrial societies: Random perturbations of the Human and Nature Dynamics (HANDY) model**|Loic Patry et.al.|[2407.14860v1](http://arxiv.org/abs/2407.14860v1)|null|
