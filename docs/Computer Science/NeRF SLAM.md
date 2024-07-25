@@ -2,6 +2,8 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v2](http://arxiv.org/abs/2407.11921v2)|[link](https://github.com/jiang-wenxiang/ipa-nerf)|
 |**2024-07-16**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870v2](http://arxiv.org/abs/2407.11870v2)|null|
 |**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|[link](https://github.com/jarvisyjw/gv-bench)|
-|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
-|**2024-07-16**|**Batch SLAM with PMBM Data Association Sampling and Graph-Based Optimization**|Yu Ge et.al.|[2407.11643v1](http://arxiv.org/abs/2407.11643v1)|null|
