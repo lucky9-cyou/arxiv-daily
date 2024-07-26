@@ -1,14 +1,25 @@
 # arxiv-daily
- Automated deployment @ 2024-07-26 09:22:44 Asia/Shanghai
+ Automated deployment @ 2024-07-26 20:04:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-25**|**Detection of mode-intrinsic quantum entanglement**|Carlos E. Lopetegui et.al.|[2407.18095v1](http://arxiv.org/abs/2407.18095v1)|null|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046v1](http://arxiv.org/abs/2407.18046v1)|null|
+|**2024-07-25**|**Continuous time Stochastic optimal control under discrete time partial observations**|Christian Bayer et.al.|[2407.18018v1](http://arxiv.org/abs/2407.18018v1)|null|
+|**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach et.al.|[2407.17997v1](http://arxiv.org/abs/2407.17997v1)|null|
+|**2024-07-25**|**Amortized Active Learning for Nonparametric Functions**|Cen-You Li et.al.|[2407.17992v1](http://arxiv.org/abs/2407.17992v1)|null|
+|**2024-07-25**|**Toward a test of Gaussianity of a gravitational wave background**|Reginald Christian Bernardo et.al.|[2407.17987v1](http://arxiv.org/abs/2407.17987v1)|null|
+|**2024-07-25**|**Pfaffian structure of the eigenvector overlap for the symplectic Ginibre ensemble**|Gernot Akemann et.al.|[2407.17935v1](http://arxiv.org/abs/2407.17935v1)|null|
+|**2024-07-24**|**Simulating Passage through a Cascade of Conical Intersections with Collapse-to-a-Block Molecular Dynamics**|Fangchun Liang et.al.|[2407.17652v1](http://arxiv.org/abs/2407.17652v1)|null|
+|**2024-07-24**|**Robust Maximum $L_q$-Likelihood Covariance Estimation for Replicated Spatial Data**|Sihan Chen et.al.|[2407.17592v1](http://arxiv.org/abs/2407.17592v1)|null|
+|**2024-07-24**|**Periodicity significance testing with null-signal templates: reassessment of PTF's SMBH binary candidates**|Jakob Robnik et.al.|[2407.17565v1](http://arxiv.org/abs/2407.17565v1)|null|
 |**2024-07-24**|**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations**|Adrian E. Bayer et.al.|[2407.17462v1](http://arxiv.org/abs/2407.17462v1)|null|
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-24**|**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**|Yanqi Bao et.al.|[2407.17418v1](http://arxiv.org/abs/2407.17418v1)|[link](https://github.com/qqqqqqy0227/awesome-3dgs)|
 |**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399v1](http://arxiv.org/abs/2407.17399v1)|null|
 |**2024-07-24**|**Upscaling transport in heterogeneous media featuring local-scale dispersion: flow channeling, macro-retardation and parameter prediction**|Lian Zhou et.al.|[2407.17351v1](http://arxiv.org/abs/2407.17351v1)|null|
@@ -27,17 +38,6 @@
 |**2024-07-23**|**The dispersion measure and rotation measure from fast radio burst host galaxies based on the IllustrisTNG50 simulation**|Timea Orsolya Kovacs et.al.|[2407.16748v1](http://arxiv.org/abs/2407.16748v1)|null|
 |**2024-07-23**|**Evaluating Cosmological Biases using Photometric Redshifts for Type Ia Supernova Cosmology with the Dark Energy Survey Supernova Program**|R. Chen et.al.|[2407.16744v1](http://arxiv.org/abs/2407.16744v1)|null|
 |**2024-07-23**|**Anomalous Regularization in Kraichnan's Passive Scalar Model**|Lucio Galeati et.al.|[2407.16668v1](http://arxiv.org/abs/2407.16668v1)|null|
-|**2024-07-23**|**Repeated Block Averages: entropic time and mixing profiles**|Pietro Caputo et.al.|[2407.16656v1](http://arxiv.org/abs/2407.16656v1)|null|
-|**2024-07-23**|**Inverse Particle and Ensemble Kalman Filters**|Himali Singh et.al.|[2407.16623v1](http://arxiv.org/abs/2407.16623v1)|null|
-|**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600v1](http://arxiv.org/abs/2407.16600v1)|null|
-|**2024-07-23**|**Very-Large-Scale GPU-Accelerated Nuclear Gradient of Time-Dependent Density Functional Theory with Tamm-Dancoff Approximation and Range-Separated Hybrid Functionals**|Inkoo Kim et.al.|[2407.16586v1](http://arxiv.org/abs/2407.16586v1)|null|
-|**2024-07-23**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
-|**2024-07-23**|**A rectangular loop interferometer for scalar optical computations and controlled generation of higher-order vector vortex modes using spin-orbit interaction of light**|Ram Nandan Kumar et.al.|[2407.16501v1](http://arxiv.org/abs/2407.16501v1)|null|
-|**2024-07-23**|**Revisiting the dynamical masses of the transiting planets in the young AU Mic system: Potential AU Mic b inflation at $\sim$20 Myr**|M. Mallorquín et.al.|[2407.16461v1](http://arxiv.org/abs/2407.16461v1)|null|
-|**2024-07-23**|**Stochastic weight matrix dynamics during learning and Dyson Brownian motion**|Gert Aarts et.al.|[2407.16427v1](http://arxiv.org/abs/2407.16427v1)|null|
-|**2024-07-23**|**The enhancement of Gaussian mixture modelling as an application to the coherent WaveBurst algorithm in the search for short gravitational wave transients**|Leigh Smith et.al.|[2407.16414v1](http://arxiv.org/abs/2407.16414v1)|null|
-|**2024-07-23**|**Low Complexity Regularized Phase Retrieval**|Jean-Jacques Godeme et.al.|[2407.16413v1](http://arxiv.org/abs/2407.16413v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,11 +73,20 @@
 |**2024-07-16**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870v2](http://arxiv.org/abs/2407.11870v2)|null|
 |**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|[link](https://github.com/jarvisyjw/gv-bench)|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-25**|**Detection of mode-intrinsic quantum entanglement**|Carlos E. Lopetegui et.al.|[2407.18095v1](http://arxiv.org/abs/2407.18095v1)|null|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046v1](http://arxiv.org/abs/2407.18046v1)|null|
+|**2024-07-25**|**Continuous time Stochastic optimal control under discrete time partial observations**|Christian Bayer et.al.|[2407.18018v1](http://arxiv.org/abs/2407.18018v1)|null|
+|**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach et.al.|[2407.17997v1](http://arxiv.org/abs/2407.17997v1)|null|
+|**2024-07-25**|**Amortized Active Learning for Nonparametric Functions**|Cen-You Li et.al.|[2407.17992v1](http://arxiv.org/abs/2407.17992v1)|null|
+|**2024-07-25**|**Toward a test of Gaussianity of a gravitational wave background**|Reginald Christian Bernardo et.al.|[2407.17987v1](http://arxiv.org/abs/2407.17987v1)|null|
+|**2024-07-25**|**Pfaffian structure of the eigenvector overlap for the symplectic Ginibre ensemble**|Gernot Akemann et.al.|[2407.17935v1](http://arxiv.org/abs/2407.17935v1)|null|
+|**2024-07-24**|**Simulating Passage through a Cascade of Conical Intersections with Collapse-to-a-Block Molecular Dynamics**|Fangchun Liang et.al.|[2407.17652v1](http://arxiv.org/abs/2407.17652v1)|null|
+|**2024-07-24**|**Robust Maximum $L_q$-Likelihood Covariance Estimation for Replicated Spatial Data**|Sihan Chen et.al.|[2407.17592v1](http://arxiv.org/abs/2407.17592v1)|null|
+|**2024-07-24**|**Periodicity significance testing with null-signal templates: reassessment of PTF's SMBH binary candidates**|Jakob Robnik et.al.|[2407.17565v1](http://arxiv.org/abs/2407.17565v1)|null|
 |**2024-07-24**|**The HalfDome Multi-Survey Cosmological Simulations: N-body Simulations**|Adrian E. Bayer et.al.|[2407.17462v1](http://arxiv.org/abs/2407.17462v1)|null|
-|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-24**|**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**|Yanqi Bao et.al.|[2407.17418v1](http://arxiv.org/abs/2407.17418v1)|[link](https://github.com/qqqqqqy0227/awesome-3dgs)|
 |**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399v1](http://arxiv.org/abs/2407.17399v1)|null|
 |**2024-07-24**|**Upscaling transport in heterogeneous media featuring local-scale dispersion: flow channeling, macro-retardation and parameter prediction**|Lian Zhou et.al.|[2407.17351v1](http://arxiv.org/abs/2407.17351v1)|null|
@@ -97,15 +106,6 @@
 |**2024-07-23**|**Evaluating Cosmological Biases using Photometric Redshifts for Type Ia Supernova Cosmology with the Dark Energy Survey Supernova Program**|R. Chen et.al.|[2407.16744v1](http://arxiv.org/abs/2407.16744v1)|null|
 |**2024-07-23**|**Anomalous Regularization in Kraichnan's Passive Scalar Model**|Lucio Galeati et.al.|[2407.16668v1](http://arxiv.org/abs/2407.16668v1)|null|
 |**2024-07-23**|**Repeated Block Averages: entropic time and mixing profiles**|Pietro Caputo et.al.|[2407.16656v1](http://arxiv.org/abs/2407.16656v1)|null|
-|**2024-07-23**|**Inverse Particle and Ensemble Kalman Filters**|Himali Singh et.al.|[2407.16623v1](http://arxiv.org/abs/2407.16623v1)|null|
-|**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600v1](http://arxiv.org/abs/2407.16600v1)|null|
-|**2024-07-23**|**Very-Large-Scale GPU-Accelerated Nuclear Gradient of Time-Dependent Density Functional Theory with Tamm-Dancoff Approximation and Range-Separated Hybrid Functionals**|Inkoo Kim et.al.|[2407.16586v1](http://arxiv.org/abs/2407.16586v1)|null|
-|**2024-07-23**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
-|**2024-07-23**|**A rectangular loop interferometer for scalar optical computations and controlled generation of higher-order vector vortex modes using spin-orbit interaction of light**|Ram Nandan Kumar et.al.|[2407.16501v1](http://arxiv.org/abs/2407.16501v1)|null|
-|**2024-07-23**|**Revisiting the dynamical masses of the transiting planets in the young AU Mic system: Potential AU Mic b inflation at $\sim$20 Myr**|M. Mallorquín et.al.|[2407.16461v1](http://arxiv.org/abs/2407.16461v1)|null|
-|**2024-07-23**|**Stochastic weight matrix dynamics during learning and Dyson Brownian motion**|Gert Aarts et.al.|[2407.16427v1](http://arxiv.org/abs/2407.16427v1)|null|
-|**2024-07-23**|**The enhancement of Gaussian mixture modelling as an application to the coherent WaveBurst algorithm in the search for short gravitational wave transients**|Leigh Smith et.al.|[2407.16414v1](http://arxiv.org/abs/2407.16414v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
