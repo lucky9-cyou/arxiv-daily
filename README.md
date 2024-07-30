@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-07-30 20:04:44 Asia/Shanghai
+ Automated deployment @ 2024-07-30 20:16:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
-
-### Gaussian Splatting SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229v1](http://arxiv.org/abs/2407.20229v1)|null|
-|**2024-07-29**|**Ionospheric contributions to the excess power in high-redshift 21-cm power-spectrum observations with LOFAR**|S. A. Brackenhoff et.al.|[2407.20220v1](http://arxiv.org/abs/2407.20220v1)|null|
-|**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213v1](http://arxiv.org/abs/2407.20213v1)|null|
-|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
-|**2024-07-29**|**Non-standard boundary behaviour in binary mixture models**|Heather Battey et.al.|[2407.20162v1](http://arxiv.org/abs/2407.20162v1)|null|
-|**2024-07-29**|**Exponential change of relaxation rate by quenched disorder**|Jan Meibohm et.al.|[2407.20101v1](http://arxiv.org/abs/2407.20101v1)|null|
-|**2024-07-29**|**Bayesian optimization of laser wakefield acceleration in the self-modulated regime (SM-LWFA) aiming to produce molybdenum-99 via photonuclear reactions**|B. S. Nunes et.al.|[2407.20087v1](http://arxiv.org/abs/2407.20087v1)|null|
-|**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078v1](http://arxiv.org/abs/2407.20078v1)|[link](https://github.com/grokcv/bafe-net)|
-|**2024-07-29**|**FAUST. XVIII. Evidence for annular substructure in a very young Class 0 disk**|M. J. Maureira et.al.|[2407.20074v1](http://arxiv.org/abs/2407.20074v1)|null|
-|**2024-07-29**|**Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise**|Yuhan Liu et.al.|[2407.20068v1](http://arxiv.org/abs/2407.20068v1)|null|
-|**2024-07-29**|**The Weighted $L^p$ Minkowski Problem**|Dylan Langharst et.al.|[2407.20064v1](http://arxiv.org/abs/2407.20064v1)|null|
-|**2024-07-29**|**Systematic study of complete fusion suppression for 6,7 Li nuclei using artificial neural network**|D. Chattopadhyay et.al.|[2407.20049v1](http://arxiv.org/abs/2407.20049v1)|null|
-|**2024-07-29**|**Likely existence of bound states and the Efimov effect in the triple-$J/ψ$ system**|Ya-Wen Pan et.al.|[2407.20017v1](http://arxiv.org/abs/2407.20017v1)|null|
-|**2024-07-29**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944v1](http://arxiv.org/abs/2407.19944v1)|null|
-|**2024-07-29**|**Making Multi-Axis Gaussian Graphical Models Scalable to Millions of Samples and Features**|Bailey Andrew et.al.|[2407.19892v1](http://arxiv.org/abs/2407.19892v1)|null|
-|**2024-07-29**|**Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning**|Eduardo Fernandes Montesuma et.al.|[2407.19853v1](http://arxiv.org/abs/2407.19853v1)|null|
-|**2024-07-29**|**Normal approximation of Functionals of Point Processes: Application to Hawkes Processes**|Laure Coutin et.al.|[2407.19806v1](http://arxiv.org/abs/2407.19806v1)|null|
-|**2024-07-29**|**Twisted electron impact elastic cross sections of polyatomic molecules: All active electron multicentered approach**|Raul Sheldon Pinto et.al.|[2407.19801v1](http://arxiv.org/abs/2407.19801v1)|null|
-|**2024-07-29**|**Ultrafast bursts of tailored spatiotemporal vortex pulses**|Xin Liu et.al.|[2407.19747v1](http://arxiv.org/abs/2407.19747v1)|null|
-|**2024-07-29**|**Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting**|Shiyu Wang et.al.|[2407.19697v1](http://arxiv.org/abs/2407.19697v1)|null|
-|**2024-07-28**|**Causal effect estimation under network interference with mean-field methods**|Sohom Bhattacharya et.al.|[2407.19613v1](http://arxiv.org/abs/2407.19613v1)|null|
-|**2024-07-28**|**A Functional Principal Component Analysis Approach to Conditional Copula Estimation**|Toihir Soulaimana Djaloud et.al.|[2407.19596v1](http://arxiv.org/abs/2407.19596v1)|null|
-|**2024-07-28**|**The rank of a random triangular matrix over $\mathbb{F}_q$**|Roger Van Peski et.al.|[2407.19578v1](http://arxiv.org/abs/2407.19578v1)|null|
-|**2024-07-28**|**Filamentary mass accretion towards the high-mass protobinary system G11.92-0.61 MM2**|S. Zhang et.al.|[2407.19552v1](http://arxiv.org/abs/2407.19552v1)|null|
-|**2024-07-28**|**UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation**|Shuang Wu et.al.|[2407.19542v1](http://arxiv.org/abs/2407.19542v1)|[link](https://github.com/freemantom/univoxel)|
-|**2024-07-28**|**The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting**|Nelson A. Colón Vargas et.al.|[2407.19535v1](http://arxiv.org/abs/2407.19535v1)|null|
-|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
-|**2024-07-28**|**Hidden and double charm-strange tetraquarks and their decays in a potential quark model**|Feng-Xiao Liu et.al.|[2407.19494v1](http://arxiv.org/abs/2407.19494v1)|null|
-|**2024-07-28**|**What can we learn about Reionization astrophysical parameters using Gaussian Process Regression?**|Purba Mukherjee et.al.|[2407.19481v1](http://arxiv.org/abs/2407.19481v1)|null|
-|**2024-07-28**|**Crater-shaped Enrichment of $\mathrm{V}_\mathrm{Si}$ Color Centers in $4H$-SiC using Single-Pulse Near-Infrared Femtosecond Laser Processing**|Mengzhi Yan et.al.|[2407.19470v1](http://arxiv.org/abs/2407.19470v1)|null|
 
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,40 +39,6 @@
 |**2024-07-28**|**Crater-shaped Enrichment of $\mathrm{V}_\mathrm{Si}$ Color Centers in $4H$-SiC using Single-Pulse Near-Infrared Femtosecond Laser Processing**|Mengzhi Yan et.al.|[2407.19470v1](http://arxiv.org/abs/2407.19470v1)|null|
 |**2024-07-28**|**Piecewise deterministic generative models**|Andrea Bertazzi et.al.|[2407.19448v1](http://arxiv.org/abs/2407.19448v1)|null|
 
-### NeRF
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
-|**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774v1](http://arxiv.org/abs/2407.19774v1)|[link](https://github.com/wrk226/garmentanimationnerf)|
-|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v1](http://arxiv.org/abs/2407.19166v1)|null|
-|**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611v1](http://arxiv.org/abs/2407.18611v1)|null|
-|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|[link](https://github.com/shreyesss/hdrsplat)|
-|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
-|**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
-|**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435v1](http://arxiv.org/abs/2407.15435v1)|null|
-|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419v1](http://arxiv.org/abs/2407.14419v1)|null|
-|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053v1](http://arxiv.org/abs/2407.14053v1)|null|
-|**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992v1](http://arxiv.org/abs/2407.13992v1)|null|
-|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
-|**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390v1](http://arxiv.org/abs/2407.13390v1)|null|
-|**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185v1](http://arxiv.org/abs/2407.13185v1)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777v1](http://arxiv.org/abs/2407.12777v1)|null|
-|**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|
-|**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661v1](http://arxiv.org/abs/2407.12661v1)|[link](https://github.com/muliphein/infonorm)|
-|**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354v1](http://arxiv.org/abs/2407.12354v1)|null|
-|**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306v1](http://arxiv.org/abs/2407.12306v1)|null|
-|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v2](http://arxiv.org/abs/2407.11962v2)|null|
-|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v2](http://arxiv.org/abs/2407.11921v2)|[link](https://github.com/jiang-wenxiang/ipa-nerf)|
-|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|[link](https://github.com/kaist-cvml-lab/DreamCatalyst)|
-|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v2](http://arxiv.org/abs/2407.11238v2)|null|
-|**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865v1](http://arxiv.org/abs/2407.10865v1)|null|
-|**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762v1](http://arxiv.org/abs/2407.10762v1)|null|
-|**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695v1](http://arxiv.org/abs/2407.10695v1)|null|
-|**2024-07-15**|**NGP-RT: Fusing Multi-Level Hash Features with Lightweight Attention for Real-Time Novel View Synthesis**|Yubin Hu et.al.|[2407.10482v1](http://arxiv.org/abs/2407.10482v1)|null|
-|**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389v1](http://arxiv.org/abs/2407.10389v1)|null|
-|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|[link](https://github.com/myniuuu/rs-nerf)|
-
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -140,6 +72,74 @@
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|
 |**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661v1](http://arxiv.org/abs/2407.12661v1)|[link](https://github.com/muliphein/infonorm)|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
+
+### Gaussian Splatting SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229v1](http://arxiv.org/abs/2407.20229v1)|null|
+|**2024-07-29**|**Ionospheric contributions to the excess power in high-redshift 21-cm power-spectrum observations with LOFAR**|S. A. Brackenhoff et.al.|[2407.20220v1](http://arxiv.org/abs/2407.20220v1)|null|
+|**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213v1](http://arxiv.org/abs/2407.20213v1)|null|
+|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
+|**2024-07-29**|**Non-standard boundary behaviour in binary mixture models**|Heather Battey et.al.|[2407.20162v1](http://arxiv.org/abs/2407.20162v1)|null|
+|**2024-07-29**|**Exponential change of relaxation rate by quenched disorder**|Jan Meibohm et.al.|[2407.20101v1](http://arxiv.org/abs/2407.20101v1)|null|
+|**2024-07-29**|**Bayesian optimization of laser wakefield acceleration in the self-modulated regime (SM-LWFA) aiming to produce molybdenum-99 via photonuclear reactions**|B. S. Nunes et.al.|[2407.20087v1](http://arxiv.org/abs/2407.20087v1)|null|
+|**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078v1](http://arxiv.org/abs/2407.20078v1)|[link](https://github.com/grokcv/bafe-net)|
+|**2024-07-29**|**FAUST. XVIII. Evidence for annular substructure in a very young Class 0 disk**|M. J. Maureira et.al.|[2407.20074v1](http://arxiv.org/abs/2407.20074v1)|null|
+|**2024-07-29**|**Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise**|Yuhan Liu et.al.|[2407.20068v1](http://arxiv.org/abs/2407.20068v1)|null|
+|**2024-07-29**|**The Weighted $L^p$ Minkowski Problem**|Dylan Langharst et.al.|[2407.20064v1](http://arxiv.org/abs/2407.20064v1)|null|
+|**2024-07-29**|**Systematic study of complete fusion suppression for 6,7 Li nuclei using artificial neural network**|D. Chattopadhyay et.al.|[2407.20049v1](http://arxiv.org/abs/2407.20049v1)|null|
+|**2024-07-29**|**Likely existence of bound states and the Efimov effect in the triple-$J/ψ$ system**|Ya-Wen Pan et.al.|[2407.20017v1](http://arxiv.org/abs/2407.20017v1)|null|
+|**2024-07-29**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944v1](http://arxiv.org/abs/2407.19944v1)|null|
+|**2024-07-29**|**Making Multi-Axis Gaussian Graphical Models Scalable to Millions of Samples and Features**|Bailey Andrew et.al.|[2407.19892v1](http://arxiv.org/abs/2407.19892v1)|null|
+|**2024-07-29**|**Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning**|Eduardo Fernandes Montesuma et.al.|[2407.19853v1](http://arxiv.org/abs/2407.19853v1)|null|
+|**2024-07-29**|**Normal approximation of Functionals of Point Processes: Application to Hawkes Processes**|Laure Coutin et.al.|[2407.19806v1](http://arxiv.org/abs/2407.19806v1)|null|
+|**2024-07-29**|**Twisted electron impact elastic cross sections of polyatomic molecules: All active electron multicentered approach**|Raul Sheldon Pinto et.al.|[2407.19801v1](http://arxiv.org/abs/2407.19801v1)|null|
+|**2024-07-29**|**Ultrafast bursts of tailored spatiotemporal vortex pulses**|Xin Liu et.al.|[2407.19747v1](http://arxiv.org/abs/2407.19747v1)|null|
+|**2024-07-29**|**Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting**|Shiyu Wang et.al.|[2407.19697v1](http://arxiv.org/abs/2407.19697v1)|null|
+|**2024-07-28**|**Causal effect estimation under network interference with mean-field methods**|Sohom Bhattacharya et.al.|[2407.19613v1](http://arxiv.org/abs/2407.19613v1)|null|
+|**2024-07-28**|**A Functional Principal Component Analysis Approach to Conditional Copula Estimation**|Toihir Soulaimana Djaloud et.al.|[2407.19596v1](http://arxiv.org/abs/2407.19596v1)|null|
+|**2024-07-28**|**The rank of a random triangular matrix over $\mathbb{F}_q$**|Roger Van Peski et.al.|[2407.19578v1](http://arxiv.org/abs/2407.19578v1)|null|
+|**2024-07-28**|**Filamentary mass accretion towards the high-mass protobinary system G11.92-0.61 MM2**|S. Zhang et.al.|[2407.19552v1](http://arxiv.org/abs/2407.19552v1)|null|
+|**2024-07-28**|**UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation**|Shuang Wu et.al.|[2407.19542v1](http://arxiv.org/abs/2407.19542v1)|[link](https://github.com/freemantom/univoxel)|
+|**2024-07-28**|**The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting**|Nelson A. Colón Vargas et.al.|[2407.19535v1](http://arxiv.org/abs/2407.19535v1)|null|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
+|**2024-07-28**|**Hidden and double charm-strange tetraquarks and their decays in a potential quark model**|Feng-Xiao Liu et.al.|[2407.19494v1](http://arxiv.org/abs/2407.19494v1)|null|
+|**2024-07-28**|**What can we learn about Reionization astrophysical parameters using Gaussian Process Regression?**|Purba Mukherjee et.al.|[2407.19481v1](http://arxiv.org/abs/2407.19481v1)|null|
+|**2024-07-28**|**Crater-shaped Enrichment of $\mathrm{V}_\mathrm{Si}$ Color Centers in $4H$-SiC using Single-Pulse Near-Infrared Femtosecond Laser Processing**|Mengzhi Yan et.al.|[2407.19470v1](http://arxiv.org/abs/2407.19470v1)|null|
+
+### NeRF
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
+|**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774v1](http://arxiv.org/abs/2407.19774v1)|[link](https://github.com/wrk226/garmentanimationnerf)|
+|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v1](http://arxiv.org/abs/2407.19166v1)|null|
+|**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611v1](http://arxiv.org/abs/2407.18611v1)|null|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|[link](https://github.com/shreyesss/hdrsplat)|
+|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
+|**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
+|**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435v1](http://arxiv.org/abs/2407.15435v1)|null|
+|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419v1](http://arxiv.org/abs/2407.14419v1)|null|
+|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053v1](http://arxiv.org/abs/2407.14053v1)|null|
+|**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992v1](http://arxiv.org/abs/2407.13992v1)|null|
+|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
+|**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390v1](http://arxiv.org/abs/2407.13390v1)|null|
+|**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185v1](http://arxiv.org/abs/2407.13185v1)|null|
+|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777v1](http://arxiv.org/abs/2407.12777v1)|null|
+|**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|
+|**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661v1](http://arxiv.org/abs/2407.12661v1)|[link](https://github.com/muliphein/infonorm)|
+|**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354v1](http://arxiv.org/abs/2407.12354v1)|null|
+|**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306v1](http://arxiv.org/abs/2407.12306v1)|null|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v2](http://arxiv.org/abs/2407.11962v2)|null|
+|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v2](http://arxiv.org/abs/2407.11921v2)|[link](https://github.com/jiang-wenxiang/ipa-nerf)|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|[link](https://github.com/kaist-cvml-lab/DreamCatalyst)|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v2](http://arxiv.org/abs/2407.11238v2)|null|
+|**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865v1](http://arxiv.org/abs/2407.10865v1)|null|
+|**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762v1](http://arxiv.org/abs/2407.10762v1)|null|
+|**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695v1](http://arxiv.org/abs/2407.10695v1)|null|
+|**2024-07-15**|**NGP-RT: Fusing Multi-Level Hash Features with Lightweight Attention for Real-Time Novel View Synthesis**|Yubin Hu et.al.|[2407.10482v1](http://arxiv.org/abs/2407.10482v1)|null|
+|**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389v1](http://arxiv.org/abs/2407.10389v1)|null|
+|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|[link](https://github.com/myniuuu/rs-nerf)|
 
 ## Robotics
 
