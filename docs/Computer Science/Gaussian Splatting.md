@@ -2,6 +2,18 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Expressive Whole-Body 3D Gaussian Avatar**|Gyeongsik Moon et.al.|[2407.21686v1](http://arxiv.org/abs/2407.21686v1)|null|
+|**2024-07-31**|**Relaxation Fluctuations of Correlation Functions: Spin and Random Matrix Models**|Tanay Pathak et.al.|[2407.21644v1](http://arxiv.org/abs/2407.21644v1)|null|
+|**2024-07-31**|**Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors**|Shoujin Huang et.al.|[2407.21600v1](http://arxiv.org/abs/2407.21600v1)|null|
+|**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490v1](http://arxiv.org/abs/2407.21490v1)|null|
+|**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428v1](http://arxiv.org/abs/2407.21428v1)|null|
+|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v1](http://arxiv.org/abs/2407.21407v1)|null|
+|**2024-07-31**|**Differentially Private Block-wise Gradient Shuffle for Deep Learning**|David Zagardo et.al.|[2407.21347v1](http://arxiv.org/abs/2407.21347v1)|null|
+|**2024-07-31**|**High-order quasi-interpolation with generalized Gaussian kernels restricted over tori**|Wenwu Gao et.al.|[2407.21283v1](http://arxiv.org/abs/2407.21283v1)|null|
+|**2024-07-30**|**A Trek Rule for the Lyapunov Equation**|Niels Richard Hansen et.al.|[2407.21223v1](http://arxiv.org/abs/2407.21223v1)|null|
+|**2024-07-30**|**DKL-KAN: Scalable Deep Kernel Learning using Kolmogorov-Arnold Networks**|Shrenik Zinage et.al.|[2407.21176v1](http://arxiv.org/abs/2407.21176v1)|null|
+|**2024-07-30**|**Probing beyond local-type non-Gaussianity with kSZ tomography**|Peter Adshead et.al.|[2407.21094v1](http://arxiv.org/abs/2407.21094v1)|null|
+|**2024-07-30**|**A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data**|Nashwan Sabti et.al.|[2407.21097v1](http://arxiv.org/abs/2407.21097v1)|null|
 |**2024-07-30**|**Generalized Multivariate Functional Additive Mixed Models for Location, Scale, and Shape**|Alexander Volkmann et.al.|[2407.20995v1](http://arxiv.org/abs/2407.20995v1)|null|
 |**2024-07-30**|**Spin response of neutron matter in ab initio approach**|J. E. Sobczyk et.al.|[2407.20986v1](http://arxiv.org/abs/2407.20986v1)|null|
 |**2024-07-30**|**Secure Source Coding Resilient Against Compromised Users via an Access Structure**|Hassan ZivariFard et.al.|[2407.20901v1](http://arxiv.org/abs/2407.20901v1)|null|
@@ -20,15 +32,3 @@
 |**2024-07-29**|**Ionospheric contributions to the excess power in high-redshift 21-cm power-spectrum observations with LOFAR**|S. A. Brackenhoff et.al.|[2407.20220v1](http://arxiv.org/abs/2407.20220v1)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213v1](http://arxiv.org/abs/2407.20213v1)|null|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|[link](https://github.com/leggedrobotics/rf_ros)|
-|**2024-07-29**|**Non-standard boundary behaviour in binary mixture models**|Heather Battey et.al.|[2407.20162v1](http://arxiv.org/abs/2407.20162v1)|null|
-|**2024-07-29**|**Exponential change of relaxation rate by quenched disorder**|Jan Meibohm et.al.|[2407.20101v1](http://arxiv.org/abs/2407.20101v1)|null|
-|**2024-07-29**|**Bayesian optimization of laser wakefield acceleration in the self-modulated regime (SM-LWFA) aiming to produce molybdenum-99 via photonuclear reactions**|B. S. Nunes et.al.|[2407.20087v1](http://arxiv.org/abs/2407.20087v1)|null|
-|**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078v1](http://arxiv.org/abs/2407.20078v1)|[link](https://github.com/grokcv/bafe-net)|
-|**2024-07-29**|**FAUST. XVIII. Evidence for annular substructure in a very young Class 0 disk**|M. J. Maureira et.al.|[2407.20074v1](http://arxiv.org/abs/2407.20074v1)|null|
-|**2024-07-29**|**Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise**|Yuhan Liu et.al.|[2407.20068v1](http://arxiv.org/abs/2407.20068v1)|null|
-|**2024-07-29**|**The Weighted $L^p$ Minkowski Problem**|Dylan Langharst et.al.|[2407.20064v1](http://arxiv.org/abs/2407.20064v1)|null|
-|**2024-07-29**|**Systematic study of complete fusion suppression for 6,7 Li nuclei using artificial neural network**|D. Chattopadhyay et.al.|[2407.20049v1](http://arxiv.org/abs/2407.20049v1)|null|
-|**2024-07-29**|**Likely existence of bound states and the Efimov effect in the triple-$J/ψ$ system**|Ya-Wen Pan et.al.|[2407.20017v1](http://arxiv.org/abs/2407.20017v1)|null|
-|**2024-07-29**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944v1](http://arxiv.org/abs/2407.19944v1)|null|
-|**2024-07-29**|**Making Multi-Axis Gaussian Graphical Models Scalable to Millions of Samples and Features**|Bailey Andrew et.al.|[2407.19892v1](http://arxiv.org/abs/2407.19892v1)|null|
-|**2024-07-29**|**Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning**|Eduardo Fernandes Montesuma et.al.|[2407.19853v1](http://arxiv.org/abs/2407.19853v1)|null|

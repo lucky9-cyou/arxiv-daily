@@ -2,6 +2,7 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
 |**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
@@ -16,6 +17,7 @@
 |**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v2](http://arxiv.org/abs/2407.17438v2)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|[link](https://github.com/shreyesss/hdrsplat)|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
+|**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047v1](http://arxiv.org/abs/2407.21047v1)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435v1](http://arxiv.org/abs/2407.15435v1)|null|
 |**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé et.al.|[2407.15890v1](http://arxiv.org/abs/2407.15890v1)|null|
@@ -30,5 +32,3 @@
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
 |**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390v1](http://arxiv.org/abs/2407.13390v1)|null|
 |**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
-|**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185v1](http://arxiv.org/abs/2407.13185v1)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777v1](http://arxiv.org/abs/2407.12777v1)|null|
