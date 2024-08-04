@@ -2,6 +2,22 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766v1](http://arxiv.org/abs/2408.00766v1)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
+|**2024-08-01**|**Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**|Michael Baur et.al.|[2408.00634v1](http://arxiv.org/abs/2408.00634v1)|null|
+|**2024-08-01**|**A Space-Time Knife-Edge In Epsilon-Near-Zero Films for Ultrafast Pulse Characterization**|Adam Ball et.al.|[2408.00577v1](http://arxiv.org/abs/2408.00577v1)|null|
+|**2024-08-01**|**Outliers and bounded rank perturbation for non-Hermitian random band matrices**|Yi Han et.al.|[2408.00567v1](http://arxiv.org/abs/2408.00567v1)|null|
+|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
+|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538v1](http://arxiv.org/abs/2408.00538v1)|null|
+|**2024-08-01**|**Fully strange tetraquark resonant states as the cousins of $X(6900)$**|Yao Ma et.al.|[2408.00503v1](http://arxiv.org/abs/2408.00503v1)|null|
+|**2024-08-01**|**A Batch Update Using Multiplicative Noise Modelling for Extended Object Tracking**|Christian Gramsch et.al.|[2408.00417v1](http://arxiv.org/abs/2408.00417v1)|null|
+|**2024-08-01**|**EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**|Qianyun He et.al.|[2408.00297v1](http://arxiv.org/abs/2408.00297v1)|null|
+|**2024-08-01**|**DMESA: Densely Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2408.00279v1](http://arxiv.org/abs/2408.00279v1)|null|
+|**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254v1](http://arxiv.org/abs/2408.00254v1)|null|
+|**2024-08-01**|**Shadow of a Renormalization Group Improved Regular Rotating Black Hole**|Luis A. Sánchez et.al.|[2408.00226v1](http://arxiv.org/abs/2408.00226v1)|null|
+|**2024-08-01**|**Gaussian Processes Sampling with Sparse Grids under Additive Schwarz Preconditioner**|Haoyuan Chen et.al.|[2408.00206v1](http://arxiv.org/abs/2408.00206v1)|null|
+|**2024-07-31**|**Localized Gaussian Splatting Editing with Contextual Awareness**|Hanyuan Xiao et.al.|[2408.00083v1](http://arxiv.org/abs/2408.00083v1)|null|
+|**2024-07-31**|**TASI Lectures on Physics for Machine Learning**|Jim Halverson et.al.|[2408.00082v1](http://arxiv.org/abs/2408.00082v1)|null|
 |**2024-07-31**|**Expressive Whole-Body 3D Gaussian Avatar**|Gyeongsik Moon et.al.|[2407.21686v1](http://arxiv.org/abs/2407.21686v1)|null|
 |**2024-07-31**|**Relaxation Fluctuations of Correlation Functions: Spin and Random Matrix Models**|Tanay Pathak et.al.|[2407.21644v1](http://arxiv.org/abs/2407.21644v1)|null|
 |**2024-07-31**|**Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors**|Shoujin Huang et.al.|[2407.21600v1](http://arxiv.org/abs/2407.21600v1)|null|
@@ -16,19 +32,3 @@
 |**2024-07-30**|**Probing beyond local-type non-Gaussianity with kSZ tomography**|Peter Adshead et.al.|[2407.21094v1](http://arxiv.org/abs/2407.21094v1)|null|
 |**2024-07-30**|**A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data**|Nashwan Sabti et.al.|[2407.21097v1](http://arxiv.org/abs/2407.21097v1)|null|
 |**2024-07-30**|**Generalized Multivariate Functional Additive Mixed Models for Location, Scale, and Shape**|Alexander Volkmann et.al.|[2407.20995v1](http://arxiv.org/abs/2407.20995v1)|null|
-|**2024-07-30**|**Spin response of neutron matter in ab initio approach**|J. E. Sobczyk et.al.|[2407.20986v1](http://arxiv.org/abs/2407.20986v1)|null|
-|**2024-07-30**|**Secure Source Coding Resilient Against Compromised Users via an Access Structure**|Hassan ZivariFard et.al.|[2407.20901v1](http://arxiv.org/abs/2407.20901v1)|null|
-|**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
-|**2024-07-30**|**Precise Transit Photometry Using TESS II: Revisiting 28 Additional Transiting Systems With Updated Physical Properties**|Suman Saha et.al.|[2407.20846v1](http://arxiv.org/abs/2407.20846v1)|null|
-|**2024-07-30**|**Exact boundary-value solution for an electromagnetic wave propagating in a linearly-varying index of refraction**|N. A. Lopez et.al.|[2407.20838v1](http://arxiv.org/abs/2407.20838v1)|null|
-|**2024-07-30**|**Kramers-Kronig detection in the quantum regime**|Thomas Pousset et.al.|[2407.20827v1](http://arxiv.org/abs/2407.20827v1)|null|
-|**2024-07-30**|**SceneTeller: Language-to-3D Scene Generation**|Başak Melis Öcal et.al.|[2407.20727v1](http://arxiv.org/abs/2407.20727v1)|null|
-|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710v1](http://arxiv.org/abs/2407.20710v1)|null|
-|**2024-07-30**|**PIP: Prototypes-Injected Prompt for Federated Class Incremental Learning**|Muhammad Anwar Ma'sum et.al.|[2407.20705v1](http://arxiv.org/abs/2407.20705v1)|[link](https://github.com/anwarmaxsum/pip)|
-|**2024-07-30**|**A Constrained Optimization approach for Ultrasound Shear Wave Speed Estimation with Time-Lateral Plane Cleaning**|Md. Jahin Alam et.al.|[2407.20561v1](http://arxiv.org/abs/2407.20561v1)|null|
-|**2024-07-30**|**Photon counting statistics in Gaussian bosonic networks**|Kalle S. U. Kansanen et.al.|[2407.20477v1](http://arxiv.org/abs/2407.20477v1)|null|
-|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
-|**2024-07-29**|**Stage IV baryonic feedback correction for non-Gaussianity inference**|Daniela Grandón et.al.|[2407.20448v1](http://arxiv.org/abs/2407.20448v1)|null|
-|**2024-07-29**|**Functional Analytic Derivation and CP2K Implementation of the SCCS Model Based on the Solvent-Aware Interface**|Ziwei Chai et.al.|[2407.20404v1](http://arxiv.org/abs/2407.20404v1)|null|
-|**2024-07-29**|**Experimental quantum-enhanced kernels on a photonic processor**|Zhenghao Yin et.al.|[2407.20364v1](http://arxiv.org/abs/2407.20364v1)|null|
-|**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229v1](http://arxiv.org/abs/2407.20229v1)|null|
