@@ -31,4 +31,4 @@
 |**2024-08-01**|**EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**|Qianyun He et.al.|[2408.00297v1](http://arxiv.org/abs/2408.00297v1)|null|
 |**2024-08-01**|**DMESA: Densely Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2408.00279v1](http://arxiv.org/abs/2408.00279v1)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254v1](http://arxiv.org/abs/2408.00254v1)|null|
-|**2024-08-01**|**Shadow of a Renormalization Group Improved Regular Rotating Black Hole**|Luis A. Sánchez et.al.|[2408.00226v2](http://arxiv.org/abs/2408.00226v2)|null|
+|**2024-08-01**|**Shadow of a Renormalization Group Improved Rotating Black Hole**|Luis A. Sánchez et.al.|[2408.00226v3](http://arxiv.org/abs/2408.00226v3)|null|
