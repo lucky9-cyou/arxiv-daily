@@ -2,6 +2,9 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
+|**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
 |**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150v1](http://arxiv.org/abs/2408.00150v1)|null|
@@ -29,6 +32,3 @@
 |**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306v1](http://arxiv.org/abs/2407.12306v1)|null|
 |**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v2](http://arxiv.org/abs/2407.11962v2)|null|
 |**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v2](http://arxiv.org/abs/2407.11921v2)|[link](https://github.com/jiang-wenxiang/ipa-nerf)|
-|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|[link](https://github.com/kaist-cvml-lab/DreamCatalyst)|
-|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v2](http://arxiv.org/abs/2407.11238v2)|null|
-|**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865v1](http://arxiv.org/abs/2407.10865v1)|null|

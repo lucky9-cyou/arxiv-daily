@@ -2,6 +2,29 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**Vortex inverted pin beams: Mitigation of scintillations in strong atmospheric turbulence**|Sotiris Droulias et.al.|[2408.02659v1](http://arxiv.org/abs/2408.02659v1)|null|
+|**2024-08-05**|**Log-Gaussian Cox Processes for Spatiotemporal Traffic Fatality Estimation in Addis Ababa**|Yassin Tesfaw Abebe et.al.|[2408.02612v1](http://arxiv.org/abs/2408.02612v1)|null|
+|**2024-08-05**|**Estimating Pore Location of PBF-LB/M Processes with Segmentation Models**|Hans Aoyang Zhou et.al.|[2408.02507v1](http://arxiv.org/abs/2408.02507v1)|null|
+|**2024-08-05**|**Non-parametric late-time expansion history reconstruction and implications for the Hubble tension in light of DESI**|Jun-Qian Jiang et.al.|[2408.02365v1](http://arxiv.org/abs/2408.02365v1)|null|
+|**2024-08-05**|**Potential Hessian Ascent: The Sherrington-Kirkpatrick Model**|David Jekel et.al.|[2408.02360v1](http://arxiv.org/abs/2408.02360v1)|null|
+|**2024-08-05**|**Exploiting Hankel-Toeplitz Structures for Fast Computation of Kernel Precision Matrices**|Frida Viset et.al.|[2408.02346v1](http://arxiv.org/abs/2408.02346v1)|null|
+|**2024-08-05**|**Explaining and Connecting Kriging with Gaussian Process Regression**|Marius Marinescu et.al.|[2408.02331v1](http://arxiv.org/abs/2408.02331v1)|null|
+|**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295v1](http://arxiv.org/abs/2408.02295v1)|null|
+|**2024-08-05**|**Quantifying the randomness and scale invariance of the repeating fast radio bursts**|Yu Sang et.al.|[2408.02203v1](http://arxiv.org/abs/2408.02203v1)|null|
+|**2024-08-05**|**On the global Gaussian bending measure and its applications in stationary spacetimes**|Z. Zhang et.al.|[2408.02195v1](http://arxiv.org/abs/2408.02195v1)|null|
+|**2024-08-05**|**3D hard sphere Boltzmann equation: explicit structure and the transition process from polynomial tail to Gaussian tail**|Yu-Chu Lin et.al.|[2408.02183v1](http://arxiv.org/abs/2408.02183v1)|null|
+|**2024-08-04**|**Optimal Estimation of Structured Covariance Operators**|Omar Al-Ghattas et.al.|[2408.02109v1](http://arxiv.org/abs/2408.02109v1)|null|
+|**2024-08-04**|**Why Perturbing Symbolic Music is Necessary: Fitting the Distribution of Never-used Notes through a Joint Probabilistic Diffusion Model**|Shipei Liu et.al.|[2408.01950v1](http://arxiv.org/abs/2408.01950v1)|null|
+|**2024-08-03**|**Batch Active Learning in Gaussian Process Regression using Derivatives**|Hon Sum Alec Yu et.al.|[2408.01861v1](http://arxiv.org/abs/2408.01861v1)|null|
+|**2024-08-03**|**Using Linearized Optimal Transport to Predict the Evolution of Stochastic Particle Systems**|Nicholas Karris et.al.|[2408.01857v1](http://arxiv.org/abs/2408.01857v1)|null|
+|**2024-08-03**|**Calculation of Some Integrals over Gaussian Measure with Nuclear Covariance Operator in Separable Hilbert Space**|Nikita A. Ignatyuk et.al.|[2408.01814v1](http://arxiv.org/abs/2408.01814v1)|null|
+|**2024-08-03**|**Wigner-negative states in the steady-state emission of a two-level system driven by squeezed light**|Miriam. J. Leonhardt et.al.|[2408.01698v1](http://arxiv.org/abs/2408.01698v1)|null|
+|**2024-08-03**|**Dynamical toy model of interacting $N$ agents robustly exhibiting Zipf's law**|Tohru Tashiro et.al.|[2408.01674v1](http://arxiv.org/abs/2408.01674v1)|null|
+|**2024-08-02**|**On the two-dimensional harmonic oscillator with an electric field confined to a circular box**|Francisco M. Fernández et.al.|[2408.01593v1](http://arxiv.org/abs/2408.01593v1)|null|
+|**2024-08-02**|**Monotonic warpings for additive and deep Gaussian processes**|Steven D. Barnett et.al.|[2408.01540v1](http://arxiv.org/abs/2408.01540v1)|null|
+|**2024-08-02**|**YBa$_2$Cu$_3$O$_7$ Josephson diode operating as a high-efficiency ratchet**|Christoph Schmid et.al.|[2408.01521v1](http://arxiv.org/abs/2408.01521v1)|null|
+|**2024-08-02**|**Instanton analysis for the spin quantum Hall symmetry class: Non-perturbative corrections to physical observables and generalized multifractal spectrum**|Maksim Parfenov et.al.|[2408.01498v1](http://arxiv.org/abs/2408.01498v1)|null|
+|**2024-08-02**|**3D-Radial galaxy correlation function**|Francesco Spezzati et.al.|[2408.01495v1](http://arxiv.org/abs/2408.01495v1)|null|
 |**2024-08-02**|**Incorporating Control Inputs in the Estimation of Continuous Mobile Robot Trajectories and Continuum Robot Shapes**|Sven Lilge et.al.|[2408.01333v1](http://arxiv.org/abs/2408.01333v1)|null|
 |**2024-08-02**|**Point Prediction for Streaming Data**|Aleena Chanda et.al.|[2408.01318v1](http://arxiv.org/abs/2408.01318v1)|null|
 |**2024-08-02**|**Probabilistic Inversion Modeling of Gas Emissions: A Gradient-Based MCMC Estimation of Gaussian Plume Parameters**|Thomas Newman et.al.|[2408.01298v1](http://arxiv.org/abs/2408.01298v1)|null|
@@ -9,26 +32,3 @@
 |**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225v1](http://arxiv.org/abs/2408.01225v1)|null|
 |**2024-08-02**|**Efficient conversion from fermionic Gaussian states to matrix product states**|Tong Liu et.al.|[2408.01155v1](http://arxiv.org/abs/2408.01155v1)|null|
 |**2024-08-02**|**Fully metallic geodesic lenses as analog electromagnetic models of static and spherically symmetric gravitational fields**|Enderson Falcón-Gómez et.al.|[2408.01136v1](http://arxiv.org/abs/2408.01136v1)|null|
-|**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|Furkan Aykut Sarikamis et.al.|[2408.01126v1](http://arxiv.org/abs/2408.01126v1)|null|
-|**2024-08-02**|**Universality of kernel random matrices and kernel regression in the quadratic regime**|Parthe Pandit et.al.|[2408.01062v1](http://arxiv.org/abs/2408.01062v1)|null|
-|**2024-08-02**|**Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix**|Seungeun Oh et.al.|[2408.01040v1](http://arxiv.org/abs/2408.01040v1)|null|
-|**2024-08-02**|**Solving Caldeira-Leggett Model by Inchworm Method with Frozen Gaussian Approximation**|Geshuo Wang et.al.|[2408.01039v1](http://arxiv.org/abs/2408.01039v1)|null|
-|**2024-08-02**|**Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making**|Yang Luo et.al.|[2408.01000v1](http://arxiv.org/abs/2408.01000v1)|null|
-|**2024-08-01**|**Aggregation Models with Optimal Weights for Distributed Gaussian Processes**|Haoyuan Chen et.al.|[2408.00955v1](http://arxiv.org/abs/2408.00955v1)|null|
-|**2024-08-01**|**Gaussian Integral Method for Void Fraction**|Alireza Kianimoqadam et.al.|[2408.00909v1](http://arxiv.org/abs/2408.00909v1)|null|
-|**2024-08-01**|**The Harmonic Exponential Filter for Nonparametric Estimation on Motion Groups**|Miguel Saavedra-Ruiz et.al.|[2408.00907v1](http://arxiv.org/abs/2408.00907v1)|null|
-|**2024-08-01**|**Measuring the ICM velocity structure within the A3266 galaxy cluster**|E. Gatuzz et.al.|[2408.00837v1](http://arxiv.org/abs/2408.00837v1)|null|
-|**2024-08-01**|**Calibrating Bayesian Generative Machine Learning for Bayesiamplification**|Sebastian Bieringer et.al.|[2408.00838v1](http://arxiv.org/abs/2408.00838v1)|null|
-|**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766v1](http://arxiv.org/abs/2408.00766v1)|null|
-|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
-|**2024-08-01**|**Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**|Michael Baur et.al.|[2408.00634v1](http://arxiv.org/abs/2408.00634v1)|null|
-|**2024-08-01**|**A Space-Time Knife-Edge In Epsilon-Near-Zero Films for Ultrafast Pulse Characterization**|Adam Ball et.al.|[2408.00577v1](http://arxiv.org/abs/2408.00577v1)|null|
-|**2024-08-01**|**Outliers and bounded rank perturbation for non-Hermitian random band matrices**|Yi Han et.al.|[2408.00567v1](http://arxiv.org/abs/2408.00567v1)|null|
-|**2024-08-01**|**Fully strange tetraquark resonant states as the cousins of $X(6900)$**|Yao Ma et.al.|[2408.00503v1](http://arxiv.org/abs/2408.00503v1)|null|
-|**2024-08-01**|**A Batch Update Using Multiplicative Noise Modelling for Extended Object Tracking**|Christian Gramsch et.al.|[2408.00417v1](http://arxiv.org/abs/2408.00417v1)|null|
-|**2024-08-01**|**EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**|Qianyun He et.al.|[2408.00297v1](http://arxiv.org/abs/2408.00297v1)|null|
-|**2024-08-01**|**DMESA: Densely Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2408.00279v1](http://arxiv.org/abs/2408.00279v1)|null|
-|**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254v1](http://arxiv.org/abs/2408.00254v1)|null|
-|**2024-08-01**|**Shadow of a Renormalization Group Improved Rotating Black Hole**|Luis A. Sánchez et.al.|[2408.00226v3](http://arxiv.org/abs/2408.00226v3)|null|
-|**2024-08-01**|**Gaussian Processes Sampling with Sparse Grids under Additive Schwarz Preconditioner**|Haoyuan Chen et.al.|[2408.00206v1](http://arxiv.org/abs/2408.00206v1)|null|
-|**2024-07-31**|**Localized Gaussian Splatting Editing with Contextual Awareness**|Hanyuan Xiao et.al.|[2408.00083v1](http://arxiv.org/abs/2408.00083v1)|null|

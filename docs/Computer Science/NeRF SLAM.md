@@ -2,6 +2,13 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084v1](http://arxiv.org/abs/2408.02084v1)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
+|**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
+|**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|null|
+|**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu et.al.|[2408.01544v1](http://arxiv.org/abs/2408.01544v1)|null|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
 |**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|Furkan Aykut Sarikamis et.al.|[2408.01126v1](http://arxiv.org/abs/2408.01126v1)|null|
 |**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
@@ -25,10 +32,3 @@
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047v1](http://arxiv.org/abs/2407.21047v1)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
-|**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435v1](http://arxiv.org/abs/2407.15435v1)|null|
-|**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé et.al.|[2407.15890v1](http://arxiv.org/abs/2407.15890v1)|null|
-|**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe et.al.|[2407.15305v1](http://arxiv.org/abs/2407.15305v1)|null|
-|**2024-07-21**|**VoxDepth: Rectification of Depth Images on Edge Devices**|Yashashwee Chakrabarty et.al.|[2407.15067v1](http://arxiv.org/abs/2407.15067v1)|null|
-|**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván et.al.|[2407.14797v1](http://arxiv.org/abs/2407.14797v1)|null|
-|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419v1](http://arxiv.org/abs/2407.14419v1)|null|
-|**2024-07-19**|**MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion**|Qiyan Li et.al.|[2407.14102v1](http://arxiv.org/abs/2407.14102v1)|null|
