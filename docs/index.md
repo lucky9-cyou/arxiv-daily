@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-08-07 08:11:14 Asia/Shanghai
+ Automated deployment @ 2024-08-07 08:29:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
-
-### Gaussian Splatting SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-05**|**Vortex inverted pin beams: Mitigation of scintillations in strong atmospheric turbulence**|Sotiris Droulias et.al.|[2408.02659v1](http://arxiv.org/abs/2408.02659v1)|null|
-|**2024-08-05**|**Log-Gaussian Cox Processes for Spatiotemporal Traffic Fatality Estimation in Addis Ababa**|Yassin Tesfaw Abebe et.al.|[2408.02612v1](http://arxiv.org/abs/2408.02612v1)|null|
-|**2024-08-05**|**Estimating Pore Location of PBF-LB/M Processes with Segmentation Models**|Hans Aoyang Zhou et.al.|[2408.02507v1](http://arxiv.org/abs/2408.02507v1)|null|
-|**2024-08-05**|**Non-parametric late-time expansion history reconstruction and implications for the Hubble tension in light of DESI**|Jun-Qian Jiang et.al.|[2408.02365v1](http://arxiv.org/abs/2408.02365v1)|null|
-|**2024-08-05**|**Potential Hessian Ascent: The Sherrington-Kirkpatrick Model**|David Jekel et.al.|[2408.02360v1](http://arxiv.org/abs/2408.02360v1)|null|
-|**2024-08-05**|**Exploiting Hankel-Toeplitz Structures for Fast Computation of Kernel Precision Matrices**|Frida Viset et.al.|[2408.02346v1](http://arxiv.org/abs/2408.02346v1)|null|
-|**2024-08-05**|**Explaining and Connecting Kriging with Gaussian Process Regression**|Marius Marinescu et.al.|[2408.02331v1](http://arxiv.org/abs/2408.02331v1)|null|
-|**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295v1](http://arxiv.org/abs/2408.02295v1)|null|
-|**2024-08-05**|**Quantifying the randomness and scale invariance of the repeating fast radio bursts**|Yu Sang et.al.|[2408.02203v1](http://arxiv.org/abs/2408.02203v1)|null|
-|**2024-08-05**|**On the global Gaussian bending measure and its applications in stationary spacetimes**|Z. Zhang et.al.|[2408.02195v1](http://arxiv.org/abs/2408.02195v1)|null|
-|**2024-08-05**|**3D hard sphere Boltzmann equation: explicit structure and the transition process from polynomial tail to Gaussian tail**|Yu-Chu Lin et.al.|[2408.02183v1](http://arxiv.org/abs/2408.02183v1)|null|
-|**2024-08-04**|**Optimal Estimation of Structured Covariance Operators**|Omar Al-Ghattas et.al.|[2408.02109v1](http://arxiv.org/abs/2408.02109v1)|null|
-|**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084v1](http://arxiv.org/abs/2408.02084v1)|null|
-|**2024-08-04**|**Why Perturbing Symbolic Music is Necessary: Fitting the Distribution of Never-used Notes through a Joint Probabilistic Diffusion Model**|Shipei Liu et.al.|[2408.01950v1](http://arxiv.org/abs/2408.01950v1)|null|
-|**2024-08-03**|**Batch Active Learning in Gaussian Process Regression using Derivatives**|Hon Sum Alec Yu et.al.|[2408.01861v1](http://arxiv.org/abs/2408.01861v1)|null|
-|**2024-08-03**|**Using Linearized Optimal Transport to Predict the Evolution of Stochastic Particle Systems**|Nicholas Karris et.al.|[2408.01857v1](http://arxiv.org/abs/2408.01857v1)|null|
-|**2024-08-03**|**Calculation of Some Integrals over Gaussian Measure with Nuclear Covariance Operator in Separable Hilbert Space**|Nikita A. Ignatyuk et.al.|[2408.01814v1](http://arxiv.org/abs/2408.01814v1)|null|
-|**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
-|**2024-08-03**|**Wigner-negative states in the steady-state emission of a two-level system driven by squeezed light**|Miriam. J. Leonhardt et.al.|[2408.01698v1](http://arxiv.org/abs/2408.01698v1)|null|
-|**2024-08-03**|**Dynamical toy model of interacting $N$ agents robustly exhibiting Zipf's law**|Tohru Tashiro et.al.|[2408.01674v1](http://arxiv.org/abs/2408.01674v1)|null|
-|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|null|
-|**2024-08-02**|**On the two-dimensional harmonic oscillator with an electric field confined to a circular box**|Francisco M. Fernández et.al.|[2408.01593v1](http://arxiv.org/abs/2408.01593v1)|null|
-|**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu et.al.|[2408.01544v1](http://arxiv.org/abs/2408.01544v1)|null|
-|**2024-08-02**|**Monotonic warpings for additive and deep Gaussian processes**|Steven D. Barnett et.al.|[2408.01540v1](http://arxiv.org/abs/2408.01540v1)|null|
-|**2024-08-02**|**YBa$_2$Cu$_3$O$_7$ Josephson diode operating as a high-efficiency ratchet**|Christoph Schmid et.al.|[2408.01521v1](http://arxiv.org/abs/2408.01521v1)|null|
-|**2024-08-02**|**Instanton analysis for the spin quantum Hall symmetry class: Non-perturbative corrections to physical observables and generalized multifractal spectrum**|Maksim Parfenov et.al.|[2408.01498v1](http://arxiv.org/abs/2408.01498v1)|null|
-|**2024-08-02**|**3D-Radial galaxy correlation function**|Francesco Spezzati et.al.|[2408.01495v1](http://arxiv.org/abs/2408.01495v1)|null|
-|**2024-08-02**|**Incorporating Control Inputs in the Estimation of Continuous Mobile Robot Trajectories and Continuum Robot Shapes**|Sven Lilge et.al.|[2408.01333v1](http://arxiv.org/abs/2408.01333v1)|null|
-|**2024-08-02**|**Point Prediction for Streaming Data**|Aleena Chanda et.al.|[2408.01318v1](http://arxiv.org/abs/2408.01318v1)|null|
-|**2024-08-02**|**Probabilistic Inversion Modeling of Gas Emissions: A Gradient-Based MCMC Estimation of Gaussian Plume Parameters**|Thomas Newman et.al.|[2408.01298v1](http://arxiv.org/abs/2408.01298v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,6 +39,40 @@
 |**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v2](http://arxiv.org/abs/2407.11962v2)|null|
 |**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v2](http://arxiv.org/abs/2407.11921v2)|[link](https://github.com/jiang-wenxiang/ipa-nerf)|
 
+### NeRF SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084v1](http://arxiv.org/abs/2408.02084v1)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
+|**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
+|**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|null|
+|**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu et.al.|[2408.01544v1](http://arxiv.org/abs/2408.01544v1)|null|
+|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
+|**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|Furkan Aykut Sarikamis et.al.|[2408.01126v1](http://arxiv.org/abs/2408.01126v1)|null|
+|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
+|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
+|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538v1](http://arxiv.org/abs/2408.00538v1)|null|
+|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150v1](http://arxiv.org/abs/2408.00150v1)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|null|
+|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
+|**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
+|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|[link](https://github.com/leggedrobotics/rf_ros)|
+|**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774v1](http://arxiv.org/abs/2407.19774v1)|[link](https://github.com/wrk226/garmentanimationnerf)|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
+|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v1](http://arxiv.org/abs/2407.19166v1)|null|
+|**2024-07-26**|**Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation**|Aditya Penumarti et.al.|[2407.19046v1](http://arxiv.org/abs/2407.19046v1)|null|
+|**2024-07-26**|**HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM**|Zhe Xin et.al.|[2407.18813v1](http://arxiv.org/abs/2407.18813v1)|null|
+|**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611v1](http://arxiv.org/abs/2407.18611v1)|null|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
+|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v2](http://arxiv.org/abs/2407.17438v2)|[link](https://github.com/zhenzhiwang/humanvid)|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|[link](https://github.com/shreyesss/hdrsplat)|
+|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
+|**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047v1](http://arxiv.org/abs/2407.21047v1)|null|
+|**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
+
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -107,39 +107,39 @@
 |**2024-08-02**|**Efficient conversion from fermionic Gaussian states to matrix product states**|Tong Liu et.al.|[2408.01155v1](http://arxiv.org/abs/2408.01155v1)|null|
 |**2024-08-02**|**Fully metallic geodesic lenses as analog electromagnetic models of static and spherically symmetric gravitational fields**|Enderson Falcón-Gómez et.al.|[2408.01136v1](http://arxiv.org/abs/2408.01136v1)|null|
 
-### NeRF SLAM
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**Vortex inverted pin beams: Mitigation of scintillations in strong atmospheric turbulence**|Sotiris Droulias et.al.|[2408.02659v1](http://arxiv.org/abs/2408.02659v1)|null|
+|**2024-08-05**|**Log-Gaussian Cox Processes for Spatiotemporal Traffic Fatality Estimation in Addis Ababa**|Yassin Tesfaw Abebe et.al.|[2408.02612v1](http://arxiv.org/abs/2408.02612v1)|null|
+|**2024-08-05**|**Estimating Pore Location of PBF-LB/M Processes with Segmentation Models**|Hans Aoyang Zhou et.al.|[2408.02507v1](http://arxiv.org/abs/2408.02507v1)|null|
+|**2024-08-05**|**Non-parametric late-time expansion history reconstruction and implications for the Hubble tension in light of DESI**|Jun-Qian Jiang et.al.|[2408.02365v1](http://arxiv.org/abs/2408.02365v1)|null|
+|**2024-08-05**|**Potential Hessian Ascent: The Sherrington-Kirkpatrick Model**|David Jekel et.al.|[2408.02360v1](http://arxiv.org/abs/2408.02360v1)|null|
+|**2024-08-05**|**Exploiting Hankel-Toeplitz Structures for Fast Computation of Kernel Precision Matrices**|Frida Viset et.al.|[2408.02346v1](http://arxiv.org/abs/2408.02346v1)|null|
+|**2024-08-05**|**Explaining and Connecting Kriging with Gaussian Process Regression**|Marius Marinescu et.al.|[2408.02331v1](http://arxiv.org/abs/2408.02331v1)|null|
+|**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295v1](http://arxiv.org/abs/2408.02295v1)|null|
+|**2024-08-05**|**Quantifying the randomness and scale invariance of the repeating fast radio bursts**|Yu Sang et.al.|[2408.02203v1](http://arxiv.org/abs/2408.02203v1)|null|
+|**2024-08-05**|**On the global Gaussian bending measure and its applications in stationary spacetimes**|Z. Zhang et.al.|[2408.02195v1](http://arxiv.org/abs/2408.02195v1)|null|
+|**2024-08-05**|**3D hard sphere Boltzmann equation: explicit structure and the transition process from polynomial tail to Gaussian tail**|Yu-Chu Lin et.al.|[2408.02183v1](http://arxiv.org/abs/2408.02183v1)|null|
+|**2024-08-04**|**Optimal Estimation of Structured Covariance Operators**|Omar Al-Ghattas et.al.|[2408.02109v1](http://arxiv.org/abs/2408.02109v1)|null|
 |**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084v1](http://arxiv.org/abs/2408.02084v1)|null|
-|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
-|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
-|**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
+|**2024-08-04**|**Why Perturbing Symbolic Music is Necessary: Fitting the Distribution of Never-used Notes through a Joint Probabilistic Diffusion Model**|Shipei Liu et.al.|[2408.01950v1](http://arxiv.org/abs/2408.01950v1)|null|
+|**2024-08-03**|**Batch Active Learning in Gaussian Process Regression using Derivatives**|Hon Sum Alec Yu et.al.|[2408.01861v1](http://arxiv.org/abs/2408.01861v1)|null|
+|**2024-08-03**|**Using Linearized Optimal Transport to Predict the Evolution of Stochastic Particle Systems**|Nicholas Karris et.al.|[2408.01857v1](http://arxiv.org/abs/2408.01857v1)|null|
+|**2024-08-03**|**Calculation of Some Integrals over Gaussian Measure with Nuclear Covariance Operator in Separable Hilbert Space**|Nikita A. Ignatyuk et.al.|[2408.01814v1](http://arxiv.org/abs/2408.01814v1)|null|
 |**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716v1](http://arxiv.org/abs/2408.01716v1)|null|
+|**2024-08-03**|**Wigner-negative states in the steady-state emission of a two-level system driven by squeezed light**|Miriam. J. Leonhardt et.al.|[2408.01698v1](http://arxiv.org/abs/2408.01698v1)|null|
+|**2024-08-03**|**Dynamical toy model of interacting $N$ agents robustly exhibiting Zipf's law**|Tohru Tashiro et.al.|[2408.01674v1](http://arxiv.org/abs/2408.01674v1)|null|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|null|
+|**2024-08-02**|**On the two-dimensional harmonic oscillator with an electric field confined to a circular box**|Francisco M. Fernández et.al.|[2408.01593v1](http://arxiv.org/abs/2408.01593v1)|null|
 |**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu et.al.|[2408.01544v1](http://arxiv.org/abs/2408.01544v1)|null|
-|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
-|**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|Furkan Aykut Sarikamis et.al.|[2408.01126v1](http://arxiv.org/abs/2408.01126v1)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
-|**2024-08-01**|**Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**|Yuxin Lin et.al.|[2408.00545v1](http://arxiv.org/abs/2408.00545v1)|null|
-|**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538v1](http://arxiv.org/abs/2408.00538v1)|null|
-|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150v1](http://arxiv.org/abs/2408.00150v1)|null|
-|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|null|
-|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
-|**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
-|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
-|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|[link](https://github.com/leggedrobotics/rf_ros)|
-|**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774v1](http://arxiv.org/abs/2407.19774v1)|[link](https://github.com/wrk226/garmentanimationnerf)|
-|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
-|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v1](http://arxiv.org/abs/2407.19166v1)|null|
-|**2024-07-26**|**Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation**|Aditya Penumarti et.al.|[2407.19046v1](http://arxiv.org/abs/2407.19046v1)|null|
-|**2024-07-26**|**HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM**|Zhe Xin et.al.|[2407.18813v1](http://arxiv.org/abs/2407.18813v1)|null|
-|**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611v1](http://arxiv.org/abs/2407.18611v1)|null|
-|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
-|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v2](http://arxiv.org/abs/2407.17438v2)|[link](https://github.com/zhenzhiwang/humanvid)|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|[link](https://github.com/shreyesss/hdrsplat)|
-|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260v1](http://arxiv.org/abs/2407.16260v1)|null|
-|**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047v1](http://arxiv.org/abs/2407.21047v1)|null|
-|**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
+|**2024-08-02**|**Monotonic warpings for additive and deep Gaussian processes**|Steven D. Barnett et.al.|[2408.01540v1](http://arxiv.org/abs/2408.01540v1)|null|
+|**2024-08-02**|**YBa$_2$Cu$_3$O$_7$ Josephson diode operating as a high-efficiency ratchet**|Christoph Schmid et.al.|[2408.01521v1](http://arxiv.org/abs/2408.01521v1)|null|
+|**2024-08-02**|**Instanton analysis for the spin quantum Hall symmetry class: Non-perturbative corrections to physical observables and generalized multifractal spectrum**|Maksim Parfenov et.al.|[2408.01498v1](http://arxiv.org/abs/2408.01498v1)|null|
+|**2024-08-02**|**3D-Radial galaxy correlation function**|Francesco Spezzati et.al.|[2408.01495v1](http://arxiv.org/abs/2408.01495v1)|null|
+|**2024-08-02**|**Incorporating Control Inputs in the Estimation of Continuous Mobile Robot Trajectories and Continuum Robot Shapes**|Sven Lilge et.al.|[2408.01333v1](http://arxiv.org/abs/2408.01333v1)|null|
+|**2024-08-02**|**Point Prediction for Streaming Data**|Aleena Chanda et.al.|[2408.01318v1](http://arxiv.org/abs/2408.01318v1)|null|
+|**2024-08-02**|**Probabilistic Inversion Modeling of Gas Emissions: A Gradient-Based MCMC Estimation of Gaussian Plume Parameters**|Thomas Newman et.al.|[2408.01298v1](http://arxiv.org/abs/2408.01298v1)|null|
 
 ## Robotics
 
