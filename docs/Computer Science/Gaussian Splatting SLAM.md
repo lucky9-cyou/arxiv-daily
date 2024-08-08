@@ -10,7 +10,7 @@
 |**2024-08-06**|**The multivariate fractional Ornstein-Uhlenbeck process**|Ranieri Dugo et.al.|[2408.03051v1](http://arxiv.org/abs/2408.03051v1)|null|
 |**2024-08-06**|**Gaussian Approximations for the $k$th coordinate of sums of random vectors**|Yixi Ding et.al.|[2408.03039v1](http://arxiv.org/abs/2408.03039v1)|null|
 |**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949v1](http://arxiv.org/abs/2408.02949v1)|null|
-|**2024-08-06**|**Gaussian Approximation For Non-stationary Time Series with Optimal Rate and Explicit Construction**|Soham Bonnerjee et.al.|[2408.02913v1](http://arxiv.org/abs/2408.02913v1)|null|
+|**2024-08-06**|**Gaussian Approximation For Non-stationary Time Series with Optimal Rate and Explicit Construction**|Soham Bonnerjee et.al.|[2408.02913v2](http://arxiv.org/abs/2408.02913v2)|null|
 |**2024-08-06**|**Dirichlet Logistic Gaussian Processes for Evaluation of Black-Box Stochastic Systems under Complex Requirements**|Ryohei Oura et.al.|[2408.02908v1](http://arxiv.org/abs/2408.02908v1)|null|
 |**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855v1](http://arxiv.org/abs/2408.02855v1)|null|
 |**2024-08-05**|**On Continuous Terminal Embeddings of Sets of Positive Reach**|Simone Brugiapaglia et.al.|[2408.02812v1](http://arxiv.org/abs/2408.02812v1)|null|
