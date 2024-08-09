@@ -11,7 +11,7 @@
 |**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753v1](http://arxiv.org/abs/2408.03753v1)|null|
 |**2024-08-07**|**Flexible Bayesian Last Layer Models Using Implicit Priors and Diffusion Posterior Sampling**|Jian Xu et.al.|[2408.03746v1](http://arxiv.org/abs/2408.03746v1)|null|
 |**2024-08-07**|**A molecular dynamics framework coupled with smoothed particle hydrodynamics for quantum plasma simulations**|Thomas Campbell et.al.|[2408.03693v1](http://arxiv.org/abs/2408.03693v1)|null|
-|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685v1](http://arxiv.org/abs/2408.03685v1)|null|
+|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685v2](http://arxiv.org/abs/2408.03685v2)|null|
 |**2024-08-07**|**Superdiffusion of energetic particles at shocks: A Lévy Flight model for acceleration**|Sophie Aerdker et.al.|[2408.03638v1](http://arxiv.org/abs/2408.03638v1)|null|
 |**2024-08-07**|**Background dependent cutoff for Wilson actions**|Carlo Pagani et.al.|[2408.03625v1](http://arxiv.org/abs/2408.03625v1)|null|
 |**2024-08-07**|**PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting**|Yijia Guo et.al.|[2408.03538v1](http://arxiv.org/abs/2408.03538v1)|null|
