@@ -2,6 +2,19 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**Geometric bounds for low Steklov eigenvalues of finite volume hyperbolic surfaces**|Asma Hassannezhad et.al.|[2408.04534v1](http://arxiv.org/abs/2408.04534v1)|null|
+|**2024-08-08**|**A Learning-Based Model Predictive Contouring Control for Vehicle Evasive Manoeuvres**|Alberto Bertipaglia et.al.|[2408.04485v1](http://arxiv.org/abs/2408.04485v1)|null|
+|**2024-08-08**|**Statistical Framework for Clustering MU-MIMO Wireless via Second Order Statistics**|Roberto Pereira et.al.|[2408.04484v1](http://arxiv.org/abs/2408.04484v1)|null|
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426v1](http://arxiv.org/abs/2408.04426v1)|[link](https://github.com/epsilon404/surgicalnerf)|
+|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
+|**2024-08-08**|**Beyond Nearest-neighbour Universality of Spectral Fluctuations in Quantum Chaotic and Complex Many-body Systems**|Debojyoti Kundu et.al.|[2408.04345v1](http://arxiv.org/abs/2408.04345v1)|null|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268v1](http://arxiv.org/abs/2408.04268v1)|null|
+|**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249v1](http://arxiv.org/abs/2408.04249v1)|null|
+|**2024-08-08**|**DC Algorithm for Estimation of Sparse Gaussian Graphical Models**|Tomokaze Shiratori et.al.|[2408.04206v1](http://arxiv.org/abs/2408.04206v1)|[link](https://github.com/torikaze/dc-ggm)|
+|**2024-08-08**|**High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements**|Xinwei Chen et.al.|[2408.04205v1](http://arxiv.org/abs/2408.04205v1)|null|
+|**2024-08-08**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks**|Zepu Wang et.al.|[2408.04193v1](http://arxiv.org/abs/2408.04193v1)|null|
+|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
+|**2024-08-07**|**Linear Circuit Synthesis using Weighted Steiner Trees**|Nir Gavrielov et.al.|[2408.04060v1](http://arxiv.org/abs/2408.04060v1)|null|
 |**2024-08-07**|**Building spectral templates and reconstructing parameters for core collapse supernovae with CASTOR**|Andrea Simongini et.al.|[2408.03916v1](http://arxiv.org/abs/2408.03916v1)|null|
 |**2024-08-07**|**Role of time-frequency correlations in two-photon-two-atom resonance energy transfer**|Roberto de J. León-Montiel et.al.|[2408.03903v1](http://arxiv.org/abs/2408.03903v1)|null|
 |**2024-08-07**|**Using a Distance Sensor to Detect Deviations in a Planar Surface**|Carter Sifferman et.al.|[2408.03838v1](http://arxiv.org/abs/2408.03838v1)|null|
@@ -11,24 +24,11 @@
 |**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753v1](http://arxiv.org/abs/2408.03753v1)|null|
 |**2024-08-07**|**Flexible Bayesian Last Layer Models Using Implicit Priors and Diffusion Posterior Sampling**|Jian Xu et.al.|[2408.03746v1](http://arxiv.org/abs/2408.03746v1)|null|
 |**2024-08-07**|**A molecular dynamics framework coupled with smoothed particle hydrodynamics for quantum plasma simulations**|Thomas Campbell et.al.|[2408.03693v1](http://arxiv.org/abs/2408.03693v1)|null|
-|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685v2](http://arxiv.org/abs/2408.03685v2)|null|
+|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685v2](http://arxiv.org/abs/2408.03685v2)|[link](https://github.com/distributionnetworkstudelft/rl-adn)|
 |**2024-08-07**|**Superdiffusion of energetic particles at shocks: A Lévy Flight model for acceleration**|Sophie Aerdker et.al.|[2408.03638v1](http://arxiv.org/abs/2408.03638v1)|null|
 |**2024-08-07**|**Background dependent cutoff for Wilson actions**|Carlo Pagani et.al.|[2408.03625v1](http://arxiv.org/abs/2408.03625v1)|null|
 |**2024-08-07**|**PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting**|Yijia Guo et.al.|[2408.03538v1](http://arxiv.org/abs/2408.03538v1)|null|
 |**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516v1](http://arxiv.org/abs/2408.03516v1)|null|
 |**2024-08-07**|**Simultaneous and Meshfree Topology Optimization with Physics-informed Gaussian Processes**|Amin Yousefpour et.al.|[2408.03490v1](http://arxiv.org/abs/2408.03490v1)|null|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474v1](http://arxiv.org/abs/2408.04474v1)|null|
 |**2024-08-06**|**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**|Shane A. McQuarrie et.al.|[2408.03455v1](http://arxiv.org/abs/2408.03455v1)|null|
-|**2024-08-06**|**Probabilistic Surrogate Model for Accelerating the Design of Electric Vehicle Battery Enclosures for Crash Performance**|Shadab Anwar Shaikh et.al.|[2408.03450v1](http://arxiv.org/abs/2408.03450v1)|null|
-|**2024-08-06**|**A Non-negative VAE:the Generalized Gamma Belief Network**|Zhibin Duan et.al.|[2408.03388v1](http://arxiv.org/abs/2408.03388v1)|null|
-|**2024-08-06**|**Heat production in a stochastic system with nonlinear time-delayed feedback**|Robin A. Kopp et.al.|[2408.03316v1](http://arxiv.org/abs/2408.03316v1)|null|
-|**2024-08-06**|**Regression analysis of elliptically symmetric direction data**|Zehao Yu et.al.|[2408.03268v1](http://arxiv.org/abs/2408.03268v1)|null|
-|**2024-08-06**|**Active Learning for Level Set Estimation Using Randomized Straddle Algorithms**|Yu Inatsu et.al.|[2408.03144v1](http://arxiv.org/abs/2408.03144v1)|null|
-|**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356v1](http://arxiv.org/abs/2408.03356v1)|null|
-|**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060v1](http://arxiv.org/abs/2408.03060v1)|null|
-|**2024-08-06**|**The multivariate fractional Ornstein-Uhlenbeck process**|Ranieri Dugo et.al.|[2408.03051v1](http://arxiv.org/abs/2408.03051v1)|null|
-|**2024-08-06**|**Gaussian Approximations for the $k$th coordinate of sums of random vectors**|Yixi Ding et.al.|[2408.03039v1](http://arxiv.org/abs/2408.03039v1)|null|
-|**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949v1](http://arxiv.org/abs/2408.02949v1)|null|
-|**2024-08-06**|**Gaussian Approximation For Non-stationary Time Series with Optimal Rate and Explicit Construction**|Soham Bonnerjee et.al.|[2408.02913v2](http://arxiv.org/abs/2408.02913v2)|null|
-|**2024-08-06**|**Dirichlet Logistic Gaussian Processes for Evaluation of Black-Box Stochastic Systems under Complex Requirements**|Ryohei Oura et.al.|[2408.02908v1](http://arxiv.org/abs/2408.02908v1)|null|
-|**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855v1](http://arxiv.org/abs/2408.02855v1)|null|
-|**2024-08-05**|**On Continuous Terminal Embeddings of Sets of Positive Reach**|Simone Brugiapaglia et.al.|[2408.02812v1](http://arxiv.org/abs/2408.02812v1)|null|

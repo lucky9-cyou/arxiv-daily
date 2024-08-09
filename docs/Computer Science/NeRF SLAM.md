@@ -2,9 +2,12 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426v1](http://arxiv.org/abs/2408.04426v1)|[link](https://github.com/epsilon404/surgicalnerf)|
+|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268v1](http://arxiv.org/abs/2408.04268v1)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646v1](http://arxiv.org/abs/2408.03646v1)|null|
 |**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520v1](http://arxiv.org/abs/2408.03520v1)|null|
+|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474v1](http://arxiv.org/abs/2408.04474v1)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
 |**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356v1](http://arxiv.org/abs/2408.03356v1)|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|[link](https://github.com/GuidoManni/BodySLAM)|
@@ -29,6 +32,3 @@
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|[link](https://github.com/leggedrobotics/rf_ros)|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774v1](http://arxiv.org/abs/2407.19774v1)|[link](https://github.com/wrk226/garmentanimationnerf)|
 |**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
-|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v2](http://arxiv.org/abs/2407.19166v2)|null|
-|**2024-07-26**|**Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation**|Aditya Penumarti et.al.|[2407.19046v1](http://arxiv.org/abs/2407.19046v1)|null|
-|**2024-07-26**|**HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM**|Zhe Xin et.al.|[2407.18813v1](http://arxiv.org/abs/2407.18813v1)|null|
