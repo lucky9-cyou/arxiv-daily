@@ -2,6 +2,18 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-09**|**Robust Backstepping Control of a Quadrotor Unmanned Aerial Vehicle Under Colored Noises**|Mehmet Karahan et.al.|[2408.05022v1](http://arxiv.org/abs/2408.05022v1)|null|
+|**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008v1](http://arxiv.org/abs/2408.05008v1)|null|
+|**2024-08-09**|**Improving 3D Cellular Positioning Integrity with Bayesian RAIM**|Liqin Ding et.al.|[2408.04994v1](http://arxiv.org/abs/2408.04994v1)|null|
+|**2024-08-09**|**Towards aerodynamic surrogate modeling based on $β$-variational autoencoders**|Víctor Francés-Belda et.al.|[2408.04969v1](http://arxiv.org/abs/2408.04969v1)|null|
+|**2024-08-09**|**GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data**|Haochen Zhao et.al.|[2408.04914v1](http://arxiv.org/abs/2408.04914v1)|null|
+|**2024-08-09**|**Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding**|Daniela Schkoda et.al.|[2408.04907v1](http://arxiv.org/abs/2408.04907v1)|[link](https://github.com/danielaschkoda/relvlingam)|
+|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901v1](http://arxiv.org/abs/2408.04901v1)|null|
+|**2024-08-09**|**High dimensional Bayesian Optimization via Condensing-Expansion Projection**|Jiaming Lu et.al.|[2408.04860v1](http://arxiv.org/abs/2408.04860v1)|null|
+|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831v1](http://arxiv.org/abs/2408.04831v1)|null|
+|**2024-08-08**|**Performance Analysis of FAS-Aided NOMA-ISAC: A Backscattering Scenario**|Farshad Rostami Ghadi et.al.|[2408.04724v1](http://arxiv.org/abs/2408.04724v1)|null|
+|**2024-08-08**|**Kolmogorov turbulence in atomic Bose-Einstein condensates**|Mingshu Zhao et.al.|[2408.04715v1](http://arxiv.org/abs/2408.04715v1)|null|
+|**2024-08-08**|**A Quantum Description of Wave Dark Matter**|Dhong Yeon Cheong et.al.|[2408.04696v1](http://arxiv.org/abs/2408.04696v1)|null|
 |**2024-08-08**|**Geometric bounds for low Steklov eigenvalues of finite volume hyperbolic surfaces**|Asma Hassannezhad et.al.|[2408.04534v1](http://arxiv.org/abs/2408.04534v1)|null|
 |**2024-08-08**|**A Learning-Based Model Predictive Contouring Control for Vehicle Evasive Manoeuvres**|Alberto Bertipaglia et.al.|[2408.04485v1](http://arxiv.org/abs/2408.04485v1)|null|
 |**2024-08-08**|**Statistical Framework for Clustering MU-MIMO Wireless via Second Order Statistics**|Roberto Pereira et.al.|[2408.04484v1](http://arxiv.org/abs/2408.04484v1)|null|
@@ -20,15 +32,3 @@
 |**2024-08-07**|**Using a Distance Sensor to Detect Deviations in a Planar Surface**|Carter Sifferman et.al.|[2408.03838v1](http://arxiv.org/abs/2408.03838v1)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
 |**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822v1](http://arxiv.org/abs/2408.03822v1)|null|
-|**2024-08-07**|**A Versatile Pilot Design Scheme for FDD Systems Utilizing Gaussian Mixture Models**|Nurettin Turan et.al.|[2408.03756v1](http://arxiv.org/abs/2408.03756v1)|null|
-|**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753v1](http://arxiv.org/abs/2408.03753v1)|null|
-|**2024-08-07**|**Flexible Bayesian Last Layer Models Using Implicit Priors and Diffusion Posterior Sampling**|Jian Xu et.al.|[2408.03746v1](http://arxiv.org/abs/2408.03746v1)|null|
-|**2024-08-07**|**A molecular dynamics framework coupled with smoothed particle hydrodynamics for quantum plasma simulations**|Thomas Campbell et.al.|[2408.03693v1](http://arxiv.org/abs/2408.03693v1)|null|
-|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685v2](http://arxiv.org/abs/2408.03685v2)|[link](https://github.com/distributionnetworkstudelft/rl-adn)|
-|**2024-08-07**|**Superdiffusion of energetic particles at shocks: A Lévy Flight model for acceleration**|Sophie Aerdker et.al.|[2408.03638v1](http://arxiv.org/abs/2408.03638v1)|null|
-|**2024-08-07**|**Background dependent cutoff for Wilson actions**|Carlo Pagani et.al.|[2408.03625v1](http://arxiv.org/abs/2408.03625v1)|null|
-|**2024-08-07**|**PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting**|Yijia Guo et.al.|[2408.03538v1](http://arxiv.org/abs/2408.03538v1)|null|
-|**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520v1](http://arxiv.org/abs/2408.03520v1)|null|
-|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516v1](http://arxiv.org/abs/2408.03516v1)|null|
-|**2024-08-07**|**Simultaneous and Meshfree Topology Optimization with Physics-informed Gaussian Processes**|Amin Yousefpour et.al.|[2408.03490v1](http://arxiv.org/abs/2408.03490v1)|null|
-|**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474v1](http://arxiv.org/abs/2408.04474v1)|null|
