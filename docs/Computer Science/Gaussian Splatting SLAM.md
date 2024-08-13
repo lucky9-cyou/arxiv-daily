@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-09**|**Robust Backstepping Control of a Quadrotor Unmanned Aerial Vehicle Under Colored Noises**|Mehmet Karahan et.al.|[2408.05022v1](http://arxiv.org/abs/2408.05022v1)|null|
-|**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008v1](http://arxiv.org/abs/2408.05008v1)|null|
-|**2024-08-09**|**Improving 3D Cellular Positioning Integrity with Bayesian RAIM**|Liqin Ding et.al.|[2408.04994v1](http://arxiv.org/abs/2408.04994v1)|null|
-|**2024-08-09**|**Towards aerodynamic surrogate modeling based on $β$-variational autoencoders**|Víctor Francés-Belda et.al.|[2408.04969v1](http://arxiv.org/abs/2408.04969v1)|null|
-|**2024-08-09**|**GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data**|Haochen Zhao et.al.|[2408.04914v1](http://arxiv.org/abs/2408.04914v1)|null|
-|**2024-08-09**|**Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding**|Daniela Schkoda et.al.|[2408.04907v1](http://arxiv.org/abs/2408.04907v1)|[link](https://github.com/danielaschkoda/relvlingam)|
-|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901v1](http://arxiv.org/abs/2408.04901v1)|null|
-|**2024-08-09**|**High dimensional Bayesian Optimization via Condensing-Expansion Projection**|Jiaming Lu et.al.|[2408.04860v1](http://arxiv.org/abs/2408.04860v1)|null|
-|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831v1](http://arxiv.org/abs/2408.04831v1)|null|
-|**2024-08-08**|**Performance Analysis of FAS-Aided NOMA-ISAC: A Backscattering Scenario**|Farshad Rostami Ghadi et.al.|[2408.04724v1](http://arxiv.org/abs/2408.04724v1)|null|
-|**2024-08-08**|**Kolmogorov turbulence in atomic Bose-Einstein condensates**|Mingshu Zhao et.al.|[2408.04715v1](http://arxiv.org/abs/2408.04715v1)|null|
-|**2024-08-08**|**A Quantum Description of Wave Dark Matter**|Dhong Yeon Cheong et.al.|[2408.04696v1](http://arxiv.org/abs/2408.04696v1)|null|
-|**2024-08-08**|**Geometric bounds for low Steklov eigenvalues of finite volume hyperbolic surfaces**|Asma Hassannezhad et.al.|[2408.04534v1](http://arxiv.org/abs/2408.04534v1)|null|
-|**2024-08-08**|**A Learning-Based Model Predictive Contouring Control for Vehicle Evasive Manoeuvres**|Alberto Bertipaglia et.al.|[2408.04485v1](http://arxiv.org/abs/2408.04485v1)|null|
-|**2024-08-08**|**Statistical Framework for Clustering MU-MIMO Wireless via Second Order Statistics**|Roberto Pereira et.al.|[2408.04484v1](http://arxiv.org/abs/2408.04484v1)|null|
-|**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426v1](http://arxiv.org/abs/2408.04426v1)|[link](https://github.com/epsilon404/surgicalnerf)|
-|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
-|**2024-08-08**|**Beyond Nearest-neighbour Universality of Spectral Fluctuations in Quantum Chaotic and Complex Many-body Systems**|Debojyoti Kundu et.al.|[2408.04345v1](http://arxiv.org/abs/2408.04345v1)|null|
-|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268v1](http://arxiv.org/abs/2408.04268v1)|null|
-|**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249v1](http://arxiv.org/abs/2408.04249v1)|null|
-|**2024-08-08**|**DC Algorithm for Estimation of Sparse Gaussian Graphical Models**|Tomokaze Shiratori et.al.|[2408.04206v1](http://arxiv.org/abs/2408.04206v1)|[link](https://github.com/torikaze/dc-ggm)|
-|**2024-08-08**|**High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements**|Xinwei Chen et.al.|[2408.04205v1](http://arxiv.org/abs/2408.04205v1)|null|
-|**2024-08-08**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks**|Zepu Wang et.al.|[2408.04193v1](http://arxiv.org/abs/2408.04193v1)|null|
-|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
-|**2024-08-07**|**Linear Circuit Synthesis using Weighted Steiner Trees**|Nir Gavrielov et.al.|[2408.04060v1](http://arxiv.org/abs/2408.04060v1)|null|
-|**2024-08-07**|**Building spectral templates and reconstructing parameters for core collapse supernovae with CASTOR**|Andrea Simongini et.al.|[2408.03916v1](http://arxiv.org/abs/2408.03916v1)|null|
-|**2024-08-07**|**Role of time-frequency correlations in two-photon-two-atom resonance energy transfer**|Roberto de J. León-Montiel et.al.|[2408.03903v1](http://arxiv.org/abs/2408.03903v1)|null|
-|**2024-08-07**|**Using a Distance Sensor to Detect Deviations in a Planar Surface**|Carter Sifferman et.al.|[2408.03838v1](http://arxiv.org/abs/2408.03838v1)|null|
-|**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825v1](http://arxiv.org/abs/2408.03825v1)|null|
-|**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822v1](http://arxiv.org/abs/2408.03822v1)|null|
+|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286v1](http://arxiv.org/abs/2408.06286v1)|null|
+|**2024-08-12**|**Robust Instance Optimal Phase-Only Compressed Sensing**|Junren Chen et.al.|[2408.06275v1](http://arxiv.org/abs/2408.06275v1)|null|
+|**2024-08-12**|**Testing the Isotropic Cauchy Hypothesis**|Jihad Fahs et.al.|[2408.06269v1](http://arxiv.org/abs/2408.06269v1)|null|
+|**2024-08-12**|**A probabilistic computation of a Mehta integral**|Liviu I. Nicolaescu et.al.|[2408.06203v1](http://arxiv.org/abs/2408.06203v1)|null|
+|**2024-08-12**|**Gaussian Volume Bounds Under Hypercube Translations and Generalizations**|Gleb Smirnov et.al.|[2408.06166v1](http://arxiv.org/abs/2408.06166v1)|null|
+|**2024-08-12**|**Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics**|Xingyu Chen et.al.|[2408.06103v1](http://arxiv.org/abs/2408.06103v1)|[link](https://github.com/cxy0714/method-of-moments-inference-for-glms)|
+|**2024-08-12**|**Quasi Monolithic Fiber Collimators**|Jonathan Joseph Carter et.al.|[2408.06090v1](http://arxiv.org/abs/2408.06090v1)|null|
+|**2024-08-12**|**Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations**|Jian Xu et.al.|[2408.06069v1](http://arxiv.org/abs/2408.06069v1)|null|
+|**2024-08-12**|**Developing Smart MAVs for Autonomous Inspection in GPS-denied Constructions**|Paoqiang Pan et.al.|[2408.06030v1](http://arxiv.org/abs/2408.06030v1)|null|
+|**2024-08-12**|**HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors**|Xiaozheng Zheng et.al.|[2408.06019v1](http://arxiv.org/abs/2408.06019v1)|null|
+|**2024-08-12**|**Generative Design of Multimodal Soft Pneumatic Actuators**|Saswath Ghosh et.al.|[2408.06002v1](http://arxiv.org/abs/2408.06002v1)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
+|**2024-08-12**|**Comparison of uncertainty propagation techniques in small-body environment**|Niccolò Michelotti et.al.|[2408.05970v1](http://arxiv.org/abs/2408.05970v1)|null|
+|**2024-08-12**|**Uncertainty Quantification of Spectral Estimator and MLE for Orthogonal Group Synchronization**|Ziliang Samuel Zhong et.al.|[2408.05944v1](http://arxiv.org/abs/2408.05944v1)|null|
+|**2024-08-12**|**On the Exactness of SDP Relaxation for Quadratic Assignment Problem**|Shuyang Ling et.al.|[2408.05942v1](http://arxiv.org/abs/2408.05942v1)|null|
+|**2024-08-12**|**Statistically Optimal Uncertainty Quantification for Expensive Black-Box Models**|Shengyi He et.al.|[2408.05887v1](http://arxiv.org/abs/2408.05887v1)|null|
+|**2024-08-11**|**RALTPER: A Risk-Aware Local Trajectory Planner for Complex Environment with Gaussian Uncertainty**|Cheng Chi et.al.|[2408.05838v1](http://arxiv.org/abs/2408.05838v1)|null|
+|**2024-08-11**|**Divergence Maximizing Linear Projection for Supervised Dimension Reduction**|Biao Chen et.al.|[2408.05827v1](http://arxiv.org/abs/2408.05827v1)|null|
+|**2024-08-11**|**Kernel Density Estimators in Large Dimensions**|Giulio Biroli et.al.|[2408.05807v1](http://arxiv.org/abs/2408.05807v1)|null|
+|**2024-08-11**|**Deep Learning with Data Privacy via Residual Perturbation**|Wenqi Tao et.al.|[2408.05723v1](http://arxiv.org/abs/2408.05723v1)|null|
+|**2024-08-10**|**Controlling for discrete unmeasured confounding in nonlinear causal models**|Patrick Burauel et.al.|[2408.05647v1](http://arxiv.org/abs/2408.05647v1)|null|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
+|**2024-08-10**|**PRTGaussian: Efficient Relighting Using 3D Gaussians with Precomputed Radiance Transfer**|Libo Zhang et.al.|[2408.05631v1](http://arxiv.org/abs/2408.05631v1)|[link](https://github.com/zhanglbthu/prtgaussian)|
+|**2024-08-10**|**ICGMM: CXL-enabled Memory Expansion with Intelligent Caching Using Gaussian Mixture Model**|Hanqiu Chen et.al.|[2408.05614v1](http://arxiv.org/abs/2408.05614v1)|null|
+|**2024-08-10**|**TOSS: Real-time Tracking and Moving Object Segmentation for Static Scene Mapping**|Seoyeon Jang et.al.|[2408.05453v1](http://arxiv.org/abs/2408.05453v1)|null|
+|**2024-08-10**|**Perfect t-embeddings and Lozenge Tilings**|Tomas Berggren et.al.|[2408.05441v1](http://arxiv.org/abs/2408.05441v1)|null|
+|**2024-08-09**|**Nonlinear Propagation of Non-Gaussian Uncertainties: Theory and Applications to Spacecraft Trajectory Design**|Giacomo Acciarini et.al.|[2408.05384v1](http://arxiv.org/abs/2408.05384v1)|null|
+|**2024-08-09**|**Fast fitting of phylogenetic mixed effects models**|Bert van der Veen et.al.|[2408.05333v1](http://arxiv.org/abs/2408.05333v1)|null|
+|**2024-08-09**|**Learning-based Parameterized Barrier Function for Safety-Critical Control of Unknown Systems**|Sihua Zhang et.al.|[2408.05319v1](http://arxiv.org/abs/2408.05319v1)|null|
+|**2024-08-09**|**Differences in the Physical Properties of Satellite Galaxies within Relaxed and Disturbed Galaxy Groups and Clusters**|F. Aldás et.al.|[2408.05305v1](http://arxiv.org/abs/2408.05305v1)|null|
