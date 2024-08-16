@@ -2,6 +2,18 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
+|**2024-08-15**|**Eigenvalues approximation of integral covariance operators with applications to weighted $L^2$ statistics**|Bruno Ebner et.al.|[2408.08064v1](http://arxiv.org/abs/2408.08064v1)|null|
+|**2024-08-15**|**COTODE: COntinuous Trajectory neural Ordinary Differential Equations for modelling event sequences**|Ilya Kuleshov et.al.|[2408.08055v1](http://arxiv.org/abs/2408.08055v1)|null|
+|**2024-08-15**|**On the adelic Gaussian hypergeometric function**|Masanori Asakura et.al.|[2408.08012v1](http://arxiv.org/abs/2408.08012v1)|null|
+|**2024-08-15**|**The Causal Complementation Algorithm for Lifting Factorization of Perfect Reconstruction Multirate Filter Banks**|Christopher M. Brislawn et.al.|[2408.07970v1](http://arxiv.org/abs/2408.07970v1)|null|
+|**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967v1](http://arxiv.org/abs/2408.07967v1)|null|
+|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
+|**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905v1](http://arxiv.org/abs/2408.07905v1)|[link](https://github.com/hrlblab/topologicaldataanalysis3d)|
+|**2024-08-15**|**Incremental Structure Discovery of Classification via Sequential Monte Carlo**|Changze Huang et.al.|[2408.07875v1](http://arxiv.org/abs/2408.07875v1)|null|
+|**2024-08-14**|**Is Lattice Quantum Gravity Asymptotically Safe? Making contact between Causal Dynamical Triangulations and the Functional Renormalization Group**|Jan Ambjørn et.al.|[2408.07808v1](http://arxiv.org/abs/2408.07808v1)|null|
+|**2024-08-14**|**Simultaneous Information and Energy Transmission with Short Packets and Finite Constellations**|Sadaf ul Zuhra et.al.|[2408.07807v1](http://arxiv.org/abs/2408.07807v1)|null|
+|**2024-08-14**|**Inverse k-visibility for RSSI-based Indoor Geometric Mapping**|Junseo Kim et.al.|[2408.07757v1](http://arxiv.org/abs/2408.07757v1)|null|
 |**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700v1](http://arxiv.org/abs/2408.07700v1)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687v1](http://arxiv.org/abs/2408.07687v1)|null|
 |**2024-08-14**|**Stylized facts in Web3**|Wei-Ru Chen et.al.|[2408.07653v2](http://arxiv.org/abs/2408.07653v2)|null|
@@ -20,15 +32,3 @@
 |**2024-08-14**|**q-exponential family for policy optimization**|Lingwei Zhu et.al.|[2408.07245v1](http://arxiv.org/abs/2408.07245v1)|[link](https://github.com/lingweizhu/qexp)|
 |**2024-08-13**|**Estimating the FDR of variable selection**|Yixiang Luo et.al.|[2408.07231v1](http://arxiv.org/abs/2408.07231v1)|null|
 |**2024-08-13**|**BERT's Conceptual Cartography: Mapping the Landscapes of Meaning**|Nina Haket et.al.|[2408.07190v1](http://arxiv.org/abs/2408.07190v1)|null|
-|**2024-08-13**|**Probing cluster magnetism with embedded and background radio sources in Planck clusters**|Erik Osinga et.al.|[2408.07178v1](http://arxiv.org/abs/2408.07178v1)|null|
-|**2024-08-13**|**Study of the Log-third-difference method for the computation of even-odd staggering in fission yields**|Belén Montenegro Viñas et.al.|[2408.07173v1](http://arxiv.org/abs/2408.07173v1)|null|
-|**2024-08-13**|**Cosmological collider non-Gaussianity from multiple scalars and $R^2$ gravity**|Shuntaro Aoki et.al.|[2408.07069v1](http://arxiv.org/abs/2408.07069v1)|null|
-|**2024-08-13**|**Atomic fluorescence collection into planar photonic devices**|Orion Smedley et.al.|[2408.07068v1](http://arxiv.org/abs/2408.07068v1)|null|
-|**2024-08-13**|**Improved Counting under Continual Observation with Pure Differential Privacy**|Joel Daniel Andersson et.al.|[2408.07021v1](http://arxiv.org/abs/2408.07021v1)|null|
-|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995v1](http://arxiv.org/abs/2408.06995v1)|null|
-|**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975v1](http://arxiv.org/abs/2408.06975v1)|null|
-|**2024-08-13**|**Simple fluctuations in simple glass formers**|Corentin C. L. Laudicina et.al.|[2408.06933v1](http://arxiv.org/abs/2408.06933v1)|null|
-|**2024-08-13**|**An Information Geometry Interpretation for Approximate Message Passing**|Bingyan Liu et.al.|[2408.06907v1](http://arxiv.org/abs/2408.06907v1)|null|
-|**2024-08-13**|**Better Gaussian Mechanism using Correlated Noise**|Christian Janos Lebeda et.al.|[2408.06853v1](http://arxiv.org/abs/2408.06853v1)|null|
-|**2024-08-13**|**Quantifying Bursty Star Formation in Dwarf Galaxies**|Yuan-Sen Ting et.al.|[2408.06807v1](http://arxiv.org/abs/2408.06807v1)|null|
-|**2024-08-13**|**Extreme events in locally coupled bursting neurons**|Ardhanareeswaran R Sree et.al.|[2408.06805v1](http://arxiv.org/abs/2408.06805v1)|null|
