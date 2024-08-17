@@ -7,7 +7,7 @@
 |**2024-08-15**|**COTODE: COntinuous Trajectory neural Ordinary Differential Equations for modelling event sequences**|Ilya Kuleshov et.al.|[2408.08055v1](http://arxiv.org/abs/2408.08055v1)|null|
 |**2024-08-15**|**On the adelic Gaussian hypergeometric function**|Masanori Asakura et.al.|[2408.08012v1](http://arxiv.org/abs/2408.08012v1)|null|
 |**2024-08-15**|**The Causal Complementation Algorithm for Lifting Factorization of Perfect Reconstruction Multirate Filter Banks**|Christopher M. Brislawn et.al.|[2408.07970v1](http://arxiv.org/abs/2408.07970v1)|null|
-|**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967v1](http://arxiv.org/abs/2408.07967v1)|null|
+|**2024-08-15**|**FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering**|Guofeng Feng et.al.|[2408.07967v1](http://arxiv.org/abs/2408.07967v1)|[link](https://github.com/internlandmark/flashgs)|
 |**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905v1](http://arxiv.org/abs/2408.07905v1)|[link](https://github.com/hrlblab/topologicaldataanalysis3d)|
 |**2024-08-15**|**Incremental Structure Discovery of Classification via Sequential Monte Carlo**|Changze Huang et.al.|[2408.07875v1](http://arxiv.org/abs/2408.07875v1)|null|
 |**2024-08-14**|**Is Lattice Quantum Gravity Asymptotically Safe? Making contact between Causal Dynamical Triangulations and the Functional Renormalization Group**|Jan Ambjørn et.al.|[2408.07808v1](http://arxiv.org/abs/2408.07808v1)|null|
