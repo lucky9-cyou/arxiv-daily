@@ -2,6 +2,22 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-16**|**Gaussian Processes with Noisy Regression Inputs for Dynamical Systems**|Tobias M. Wolff et.al.|[2408.08834v1](http://arxiv.org/abs/2408.08834v1)|null|
+|**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774v1](http://arxiv.org/abs/2408.08774v1)|null|
+|**2024-08-16**|**Dynamic factor analysis for sparse and irregular longitudinal data: an application to metabolite measurements in a COVID-19 study**|Jiachen Cai et.al.|[2408.08771v1](http://arxiv.org/abs/2408.08771v1)|null|
+|**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742v1](http://arxiv.org/abs/2408.08742v1)|null|
+|**2024-08-16**|**Higher Moments for Polynomial Chowla**|Cameron Wilson et.al.|[2408.08726v1](http://arxiv.org/abs/2408.08726v1)|null|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
+|**2024-08-16**|**Fluctuation-driven dynamics of liquid nano-threads with external hydrodynamic perturbations**|Zhao Zhang et.al.|[2408.08705v1](http://arxiv.org/abs/2408.08705v1)|null|
+|**2024-08-16**|**Partitioned Surrogates and Thompson Sampling for Multidisciplinary Bayesian Optimization**|Susanna Baars et.al.|[2408.08691v1](http://arxiv.org/abs/2408.08691v1)|null|
+|**2024-08-16**|**Improving Gaussian channel simulation using non-unity gain heralded quantum teleportation**|Biveen Shajilal et.al.|[2408.08667v1](http://arxiv.org/abs/2408.08667v1)|null|
+|**2024-08-16**|**Linear combinations of latents in diffusion models: interpolation and beyond**|Erik Bodin et.al.|[2408.08558v1](http://arxiv.org/abs/2408.08558v1)|null|
+|**2024-08-16**|**Covariance Linkage Assimilation method for Unobserved Data Exploration**|Yosuke Harashima et.al.|[2408.08539v1](http://arxiv.org/abs/2408.08539v1)|null|
+|**2024-08-16**|**GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization**|Kang Du et.al.|[2408.08524v1](http://arxiv.org/abs/2408.08524v1)|[link](https://github.com/dukang/gs-id)|
+|**2024-08-16**|**The Steepest Slope to a Quantum Few-body Solution:Gradient Variational Methods to the Quantum Few-body Problem**|Paolo Recchia et.al.|[2408.08522v1](http://arxiv.org/abs/2408.08522v1)|null|
+|**2024-08-15**|**A controlled-squeeze gate in superconducting quantum circuits**|Nicolás F. Del Grosso et.al.|[2408.08404v1](http://arxiv.org/abs/2408.08404v1)|null|
+|**2024-08-15**|**An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains**|Weijie Xia et.al.|[2408.08399v1](http://arxiv.org/abs/2408.08399v1)|[link](https://github.com/xiaweijie1996/transformerem-gmm)|
+|**2024-08-15**|**On the full non-Gaussian Surprise statistic and the cosmological concordance between DESI, SDSS and Pantheon+**|Pedro Riba Mello et.al.|[2408.08385v1](http://arxiv.org/abs/2408.08385v1)|null|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
 |**2024-08-15**|**Eigenvalues approximation of integral covariance operators with applications to weighted $L^2$ statistics**|Bruno Ebner et.al.|[2408.08064v1](http://arxiv.org/abs/2408.08064v1)|null|
 |**2024-08-15**|**COTODE: COntinuous Trajectory neural Ordinary Differential Equations for modelling event sequences**|Ilya Kuleshov et.al.|[2408.08055v1](http://arxiv.org/abs/2408.08055v1)|null|
@@ -16,19 +32,3 @@
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687v1](http://arxiv.org/abs/2408.07687v1)|null|
 |**2024-08-14**|**Stylized facts in Web3**|Wei-Ru Chen et.al.|[2408.07653v2](http://arxiv.org/abs/2408.07653v2)|null|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
-|**2024-08-14**|**"How Big is Big Enough?" Adjusting Model Size in Continual Gaussian Processes**|Guiomar Pescador-Barrios et.al.|[2408.07588v1](http://arxiv.org/abs/2408.07588v1)|null|
-|**2024-08-14**|**Geometric constraints on Ekman boundary layer solutions in non-flat regions with well-prepared data**|Yifei Jia et.al.|[2408.07582v1](http://arxiv.org/abs/2408.07582v1)|null|
-|**2024-08-14**|**3D Gaussian Editing with A Single Image**|Guan Luo et.al.|[2408.07540v1](http://arxiv.org/abs/2408.07540v1)|null|
-|**2024-08-14**|**Predicting the distributions of stock returns around the globe in the era of big data and learning**|Jozef Barunik et.al.|[2408.07497v1](http://arxiv.org/abs/2408.07497v1)|null|
-|**2024-08-14**|**Steady-state entanglement of interacting masses in free space through optimal feedback control**|Klemens Winkler et.al.|[2408.07492v1](http://arxiv.org/abs/2408.07492v1)|null|
-|**2024-08-14**|**Adaptive Basis Function Selection for Computationally Efficient Predictions**|Anton Kullberg et.al.|[2408.07480v1](http://arxiv.org/abs/2408.07480v1)|[link](https://github.com/aokullberg/adaptive-bf-selection)|
-|**2024-08-14**|**Superflare of a Sun-like star observed with XMM-Newton and SRG/eROSITA**|Andrey Mukhin et.al.|[2408.07442v1](http://arxiv.org/abs/2408.07442v1)|null|
-|**2024-08-14**|**Posterior Covariance Structures in Gaussian Processes**|Difeng Cai et.al.|[2408.07379v1](http://arxiv.org/abs/2408.07379v1)|null|
-|**2024-08-14**|**Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**|Peter Romero et.al.|[2408.07377v2](http://arxiv.org/abs/2408.07377v2)|null|
-|**2024-08-14**|**Imaginary Poynting momentum driven particle rotation by cylindrically polarized Gaussian beams**|Xue Yun et.al.|[2408.07301v1](http://arxiv.org/abs/2408.07301v1)|null|
-|**2024-08-14**|**q-exponential family for policy optimization**|Lingwei Zhu et.al.|[2408.07245v1](http://arxiv.org/abs/2408.07245v1)|[link](https://github.com/lingweizhu/qexp)|
-|**2024-08-13**|**Estimating the FDR of variable selection**|Yixiang Luo et.al.|[2408.07231v1](http://arxiv.org/abs/2408.07231v1)|null|
-|**2024-08-13**|**BERT's Conceptual Cartography: Mapping the Landscapes of Meaning**|Nina Haket et.al.|[2408.07190v1](http://arxiv.org/abs/2408.07190v1)|null|
-|**2024-08-13**|**Probing cluster magnetism with embedded and background radio sources in Planck clusters**|Erik Osinga et.al.|[2408.07178v1](http://arxiv.org/abs/2408.07178v1)|null|
-|**2024-08-13**|**Study of the Log-third-difference method for the computation of even-odd staggering in fission yields**|Belén Montenegro Viñas et.al.|[2408.07173v1](http://arxiv.org/abs/2408.07173v1)|null|
-|**2024-08-13**|**Cosmological collider non-Gaussianity from multiple scalars and $R^2$ gravity**|Shuntaro Aoki et.al.|[2408.07069v1](http://arxiv.org/abs/2408.07069v1)|null|
