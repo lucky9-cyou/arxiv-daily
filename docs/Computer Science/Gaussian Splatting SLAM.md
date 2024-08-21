@@ -2,6 +2,19 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20**|**Search for GeV gamma-ray emission from SPT-CL J2012-5649 with six years of DAMPE data**|Siddhant Manna et.al.|[2408.10983v1](http://arxiv.org/abs/2408.10983v1)|null|
+|**2024-08-20**|**Large Point-to-Gaussian Model for Image-to-3D Generation**|Longfei Lu et.al.|[2408.10935v1](http://arxiv.org/abs/2408.10935v1)|null|
+|**2024-08-20**|**Neural Networks for Parameter Estimation in Geometrically Anisotropic Geostatistical Models**|Alejandro Villazón et.al.|[2408.10915v1](http://arxiv.org/abs/2408.10915v1)|null|
+|**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906v1](http://arxiv.org/abs/2408.10906v1)|null|
+|**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
+|**2024-08-20**|**Room-temperature cavity exciton-polariton condensation in perovskite quantum dots**|Ioannis Georgakilas et.al.|[2408.10667v1](http://arxiv.org/abs/2408.10667v1)|null|
+|**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588v1](http://arxiv.org/abs/2408.10588v1)|null|
+|**2024-08-20**|**Multi-dimensional continuous time quantum walks related to the birth and death chains**|Yusuke Ide et.al.|[2408.10574v1](http://arxiv.org/abs/2408.10574v1)|null|
+|**2024-08-20**|**Impurities induced vortex lattice melting and turbulence in rotating Bose-Einstein condensates**|Rony Boral et.al.|[2408.10565v1](http://arxiv.org/abs/2408.10565v1)|null|
+|**2024-08-20**|**Optimizing the $L$-$σ$ Relation of HII Galaxies for Improving Cosmological Application**|Jiaze Gao et.al.|[2408.10560v1](http://arxiv.org/abs/2408.10560v1)|null|
+|**2024-08-19**|**Spatial Knockoff Bayesian Variable Selection in Genome-Wide Association Studies**|Justin J. Van Ee et.al.|[2408.10401v1](http://arxiv.org/abs/2408.10401v1)|null|
+|**2024-08-19**|**Galaxy cluster profiles: A Gaussian mixture model approach to halo miscentering**|Matthew Currie et.al.|[2408.10371v1](http://arxiv.org/abs/2408.10371v1)|null|
+|**2024-08-19**|**On the Identifiability of Sparse ICA without Assuming Non-Gaussianity**|Ignavier Ng et.al.|[2408.10353v1](http://arxiv.org/abs/2408.10353v1)|null|
 |**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|null|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147v1](http://arxiv.org/abs/2408.10147v1)|null|
 |**2024-08-19**|**Bayesian Uncertainty Quantification and Reliability Assessment for Mars Sample Return**|Dawn L. Sanderson et.al.|[2408.10083v1](http://arxiv.org/abs/2408.10083v1)|null|
@@ -19,16 +32,3 @@
 |**2024-08-19**|**Confirmation Bias in Gaussian Mixture Models**|Amnon Balanov et.al.|[2408.09718v1](http://arxiv.org/abs/2408.09718v1)|null|
 |**2024-08-19**|**HYDEN: Hyperbolic Density Representations for Medical Images and Reports**|Zhi Qiao et.al.|[2408.09715v2](http://arxiv.org/abs/2408.09715v2)|null|
 |**2024-08-19**|**Continuous-Time Dynamic Decision Making with Costly Information**|Christoph Knochenhauer et.al.|[2408.09693v1](http://arxiv.org/abs/2408.09693v1)|null|
-|**2024-08-19**|**Towards the Information-Theoretic Limit of Programmable Photonics**|Ryan Hamerly et.al.|[2408.09673v1](http://arxiv.org/abs/2408.09673v1)|null|
-|**2024-08-19**|**SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting**|Haoyu Zhao et.al.|[2408.09665v1](http://arxiv.org/abs/2408.09665v1)|null|
-|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
-|**2024-08-18**|**Convolutional Conditional Neural Processes**|Wessel P. Bruinsma et.al.|[2408.09583v1](http://arxiv.org/abs/2408.09583v1)|null|
-|**2024-08-18**|**Deconvoluting Thermomechanical Effects in X-ray Diffraction Data using Machine Learning**|Rachel E. Lim et.al.|[2408.09447v1](http://arxiv.org/abs/2408.09447v1)|null|
-|**2024-08-18**|**Mutual Information Multinomial Estimation**|Yanzhi Chen et.al.|[2408.09377v1](http://arxiv.org/abs/2408.09377v1)|null|
-|**2024-08-18**|**All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation**|Imam S. Wahyutama et.al.|[2408.09372v1](http://arxiv.org/abs/2408.09372v1)|null|
-|**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191v1](http://arxiv.org/abs/2408.09191v1)|null|
-|**2024-08-17**|**Fractional Gaussian noise: Projections, prediction, norms**|Iryna Bodnarchuk et.al.|[2408.09188v1](http://arxiv.org/abs/2408.09188v1)|null|
-|**2024-08-17**|**Boundedness of fractional integrals and fractional derivatives on Laguerre Lipschitz spaces**|He Wang et.al.|[2408.09165v1](http://arxiv.org/abs/2408.09165v1)|null|
-|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v2](http://arxiv.org/abs/2408.09130v2)|null|
-|**2024-08-17**|**Time Series Analysis by State Space Learning**|André Ramos et.al.|[2408.09120v1](http://arxiv.org/abs/2408.09120v1)|null|
-|**2024-08-17**|**Identification via Gaussian Multiple Access Channels in the Presence of Feedback**|Yaning Zhao et.al.|[2408.09119v1](http://arxiv.org/abs/2408.09119v1)|null|
