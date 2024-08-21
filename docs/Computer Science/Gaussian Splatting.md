@@ -5,7 +5,7 @@
 |**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|null|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147v1](http://arxiv.org/abs/2408.10147v1)|null|
 |**2024-08-19**|**Bayesian Uncertainty Quantification and Reliability Assessment for Mars Sample Return**|Dawn L. Sanderson et.al.|[2408.10083v1](http://arxiv.org/abs/2408.10083v1)|null|
-|**2024-08-19**|**Revised LOFAR upper limits on the 21-cm signal power spectrum at $\mathbf{z\approx9.1}$ using Machine Learning and Gaussian Process Regression**|Anshuman Acharya et.al.|[2408.10051v1](http://arxiv.org/abs/2408.10051v1)|null|
+|**2024-08-19**|**Revised LOFAR upper limits on the 21-cm signal power spectrum at $\mathbf{z\approx9.1}$ using Machine Learning and Gaussian Process Regression**|Anshuman Acharya et.al.|[2408.10051v2](http://arxiv.org/abs/2408.10051v2)|null|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041v1](http://arxiv.org/abs/2408.10041v1)|null|
 |**2024-08-19**|**On the Optimal Radius and Subcarrier Mapping for Binary Modulation on Conjugate-Reciprocal Zeros**|Parker Huggins et.al.|[2408.10029v1](http://arxiv.org/abs/2408.10029v1)|null|
 |**2024-08-19**|**Conditional Image Prior for Uncertainty Quantification in Full Waveform Inversion**|Lingyun Yang et.al.|[2408.09975v1](http://arxiv.org/abs/2408.09975v1)|null|
@@ -27,7 +27,7 @@
 |**2024-08-18**|**All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation**|Imam S. Wahyutama et.al.|[2408.09372v1](http://arxiv.org/abs/2408.09372v1)|null|
 |**2024-08-17**|**Fractional Gaussian noise: Projections, prediction, norms**|Iryna Bodnarchuk et.al.|[2408.09188v1](http://arxiv.org/abs/2408.09188v1)|null|
 |**2024-08-17**|**Boundedness of fractional integrals and fractional derivatives on Laguerre Lipschitz spaces**|He Wang et.al.|[2408.09165v1](http://arxiv.org/abs/2408.09165v1)|null|
-|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v1](http://arxiv.org/abs/2408.09130v1)|null|
+|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v2](http://arxiv.org/abs/2408.09130v2)|null|
 |**2024-08-17**|**Time Series Analysis by State Space Learning**|André Ramos et.al.|[2408.09120v1](http://arxiv.org/abs/2408.09120v1)|null|
 |**2024-08-17**|**Identification via Gaussian Multiple Access Channels in the Presence of Feedback**|Yaning Zhao et.al.|[2408.09119v1](http://arxiv.org/abs/2408.09119v1)|null|
 |**2024-08-17**|**Automatic Mitigation of Dynamic Atmospheric Turbulence Using Optical Phase Conjugation for Coherent Free-Space Optical Communications**|Huibin Zhou et.al.|[2408.09114v1](http://arxiv.org/abs/2408.09114v1)|null|
