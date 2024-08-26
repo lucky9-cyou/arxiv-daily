@@ -2,6 +2,24 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
+|**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252v1](http://arxiv.org/abs/2408.13252v1)|null|
+|**2024-08-23**|**On the design of scalable, high-precision spherical-radial Fourier features**|Ayoub Belhadji et.al.|[2408.13231v1](http://arxiv.org/abs/2408.13231v1)|null|
+|**2024-08-23**|**Bussgang revisited: effect of quantization on signal to distortion plus noise ratio with non-Gaussian signals**|Alister Burr et.al.|[2408.13205v1](http://arxiv.org/abs/2408.13205v1)|null|
+|**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135v1](http://arxiv.org/abs/2408.13135v1)|null|
+|**2024-08-23**|**Enhancing Gaussian quantum metrology with position-momentum correlations**|João C. P. Porto et.al.|[2408.13060v1](http://arxiv.org/abs/2408.13060v1)|null|
+|**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055v1](http://arxiv.org/abs/2408.13055v1)|null|
+|**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036v1](http://arxiv.org/abs/2408.13036v1)|null|
+|**2024-08-23**|**Estimation of ratios of normalizing constants using stochastic approximation : the SARIS algorithm**|Tom Guédon et.al.|[2408.13022v1](http://arxiv.org/abs/2408.13022v1)|null|
+|**2024-08-23**|**Smooth InfoMax -- Towards easier Post-Hoc interpretability**|Fabian Denoodt et.al.|[2408.12936v1](http://arxiv.org/abs/2408.12936v1)|null|
+|**2024-08-23**|**Beam focusing and consequences for Doppler Backscattering measurements**|Juan Ruiz Ruiz et.al.|[2408.12919v1](http://arxiv.org/abs/2408.12919v1)|null|
+|**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894v1](http://arxiv.org/abs/2408.12894v1)|null|
+|**2024-08-23**|**The local limit theorem for complex valued sequences: the parabolic case**|Jean-François Coulombel et.al.|[2408.12876v1](http://arxiv.org/abs/2408.12876v1)|null|
+|**2024-08-23**|**Broad-band X-ray spectral and timing properties of the accreting millisecond X-ray pulsar IGR J17498$-$2921 during the 2023 outburst**|Zhaosheng Li et.al.|[2408.12786v1](http://arxiv.org/abs/2408.12786v1)|null|
+|**2024-08-22**|**The distribution of the length of the longest path in random acyclic orientations of a complete bipartite graph**|Jessica Khera et.al.|[2408.12716v1](http://arxiv.org/abs/2408.12716v1)|null|
+|**2024-08-22**|**CasualGaze: Towards Modeling and Recognizing Casual Gaze Behavior for Efficient Gaze-based Object Selection**|Yingtian Shi et.al.|[2408.12710v1](http://arxiv.org/abs/2408.12710v1)|null|
+|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v1](http://arxiv.org/abs/2408.12677v1)|[link](https://github.com/goldoak/gsfusion)|
+|**2024-08-22**|**Quantum transport under oscillatory drive with disordered amplitude**|Vatsana Tiwari et.al.|[2408.12653v1](http://arxiv.org/abs/2408.12653v1)|null|
 |**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567v1](http://arxiv.org/abs/2408.12567v1)|null|
 |**2024-08-22**|**Characterization of Multipartite non-Gaussian Entanglement Structure**|Mingsheng Tian et.al.|[2408.12554v1](http://arxiv.org/abs/2408.12554v1)|null|
 |**2024-08-22**|**Latent Gaussian Graphical Models with Golazo Penalty**|Ignacio Echave-Sustaeta Rodríguez et.al.|[2408.12482v1](http://arxiv.org/abs/2408.12482v1)|null|
@@ -14,21 +32,3 @@
 |**2024-08-22**|**Information Scrambling in Bosonic Gaussian Dynamics**|Ali Mollabashi et.al.|[2408.12089v1](http://arxiv.org/abs/2408.12089v1)|null|
 |**2024-08-22**|**MAC protocol classification in the ISM band using machine learning methods**|Hanieh Rashidpour et.al.|[2408.12059v1](http://arxiv.org/abs/2408.12059v1)|null|
 |**2024-08-21**|**QuaCK-TSF: Quantum-Classical Kernelized Time Series Forecasting**|Abdallah Aaraba et.al.|[2408.12007v1](http://arxiv.org/abs/2408.12007v1)|[link](https://github.com/abdo-aar/quack-tsf)|
-|**2024-08-21**|**Fast and robust cross-validation-based scoring rule inference for spatial statistics**|Helga Kristin Olafsdottir et.al.|[2408.11994v1](http://arxiv.org/abs/2408.11994v1)|null|
-|**2024-08-21**|**An Asymptotically Optimal Coordinate Descent Algorithm for Learning Bayesian Networks from Gaussian Models**|Tong Xu et.al.|[2408.11977v1](http://arxiv.org/abs/2408.11977v1)|[link](https://github.com/AtomXT/coordinate-descent-for-bayesian-networks)|
-|**2024-08-21**|**Asymmetric Cauchy-Riemann Beams**|N. Korneev et.al.|[2408.11953v1](http://arxiv.org/abs/2408.11953v1)|null|
-|**2024-08-21**|**Exponential Expansion of Massive Schrödinger Cats for Sensing and Entanglement**|Lorenzo Braccini et.al.|[2408.11930v1](http://arxiv.org/abs/2408.11930v1)|null|
-|**2024-08-21**|**A Unified Theory of Quantum Neural Network Loss Landscapes**|Eric R. Anschuetz et.al.|[2408.11901v1](http://arxiv.org/abs/2408.11901v1)|null|
-|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
-|**2024-08-21**|**NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**|Zhenye Lou et.al.|[2408.11787v1](http://arxiv.org/abs/2408.11787v1)|[link](https://github.com/xq141839/nusegdg)|
-|**2024-08-21**|**Testing Gravity with Realistic Gravitational Waveforms in Pulsar Timing Arrays**|Wayne Hu et.al.|[2408.11774v1](http://arxiv.org/abs/2408.11774v1)|null|
-|**2024-08-21**|**Scalable and non-iterative graphical model estimation**|Kshitij Khare et.al.|[2408.11718v1](http://arxiv.org/abs/2408.11718v1)|null|
-|**2024-08-21**|**Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors**|Paul Ungermann et.al.|[2408.11697v1](http://arxiv.org/abs/2408.11697v1)|[link](https://github.com/paulungermann/Robust3DGaussians)|
-|**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
-|**2024-08-21**|**First line of defense: A robust first layer mitigates adversarial attacks**|Janani Suresh et.al.|[2408.11680v1](http://arxiv.org/abs/2408.11680v1)|[link](https://github.com/janani-suresh-97/first-line-defence)|
-|**2024-08-21**|**Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids**|Anoop Mutneja et.al.|[2408.11647v1](http://arxiv.org/abs/2408.11647v1)|null|
-|**2024-08-21**|**Losses resistant verification of quantum non-Gaussian photon statistics**|Riccardo Checchinato et.al.|[2408.11590v1](http://arxiv.org/abs/2408.11590v1)|null|
-|**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
-|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576v1](http://arxiv.org/abs/2408.11576v1)|null|
-|**2024-08-21**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments**|Shuhong Liu et.al.|[2408.11540v2](http://arxiv.org/abs/2408.11540v2)|null|
-|**2024-08-21**|**The Vizier Gaussian Process Bandit Algorithm**|Xingyou Song et.al.|[2408.11527v1](http://arxiv.org/abs/2408.11527v1)|[link](https://github.com/google/vizier)|
