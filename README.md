@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-08-27 08:30:18 Asia/Shanghai
+ Automated deployment @ 2024-08-27 08:53:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
@@ -24,7 +24,7 @@
 |**2024-08-23**|**Broad-band X-ray spectral and timing properties of the accreting millisecond X-ray pulsar IGR J17498$-$2921 during the 2023 outburst**|Zhaosheng Li et.al.|[2408.12786v1](http://arxiv.org/abs/2408.12786v1)|null|
 |**2024-08-22**|**The distribution of the length of the longest path in random acyclic orientations of a complete bipartite graph**|Jessica Khera et.al.|[2408.12716v1](http://arxiv.org/abs/2408.12716v1)|null|
 |**2024-08-22**|**CasualGaze: Towards Modeling and Recognizing Casual Gaze Behavior for Efficient Gaze-based Object Selection**|Yingtian Shi et.al.|[2408.12710v1](http://arxiv.org/abs/2408.12710v1)|null|
-|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v1](http://arxiv.org/abs/2408.12677v1)|[link](https://github.com/goldoak/gsfusion)|
+|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v2](http://arxiv.org/abs/2408.12677v2)|[link](https://github.com/goldoak/gsfusion)|
 |**2024-08-22**|**Quantum transport under oscillatory drive with disordered amplitude**|Vatsana Tiwari et.al.|[2408.12653v1](http://arxiv.org/abs/2408.12653v1)|null|
 |**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567v1](http://arxiv.org/abs/2408.12567v1)|null|
 |**2024-08-22**|**Characterization of Multipartite non-Gaussian Entanglement Structure**|Mingsheng Tian et.al.|[2408.12554v1](http://arxiv.org/abs/2408.12554v1)|null|
@@ -73,7 +73,7 @@
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543v1](http://arxiv.org/abs/2408.06543v1)|[link](https://github.com/wujh2001/hdrgs)|
 |**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286v1](http://arxiv.org/abs/2408.06286v1)|[link](https://github.com/renaissanceee/mipmap-gs)|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
@@ -92,7 +92,7 @@
 |**2024-08-23**|**Broad-band X-ray spectral and timing properties of the accreting millisecond X-ray pulsar IGR J17498$-$2921 during the 2023 outburst**|Zhaosheng Li et.al.|[2408.12786v1](http://arxiv.org/abs/2408.12786v1)|null|
 |**2024-08-22**|**The distribution of the length of the longest path in random acyclic orientations of a complete bipartite graph**|Jessica Khera et.al.|[2408.12716v1](http://arxiv.org/abs/2408.12716v1)|null|
 |**2024-08-22**|**CasualGaze: Towards Modeling and Recognizing Casual Gaze Behavior for Efficient Gaze-based Object Selection**|Yingtian Shi et.al.|[2408.12710v1](http://arxiv.org/abs/2408.12710v1)|null|
-|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v1](http://arxiv.org/abs/2408.12677v1)|[link](https://github.com/goldoak/gsfusion)|
+|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v2](http://arxiv.org/abs/2408.12677v2)|[link](https://github.com/goldoak/gsfusion)|
 |**2024-08-22**|**Quantum transport under oscillatory drive with disordered amplitude**|Vatsana Tiwari et.al.|[2408.12653v1](http://arxiv.org/abs/2408.12653v1)|null|
 |**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567v1](http://arxiv.org/abs/2408.12567v1)|null|
 |**2024-08-22**|**Characterization of Multipartite non-Gaussian Entanglement Structure**|Mingsheng Tian et.al.|[2408.12554v1](http://arxiv.org/abs/2408.12554v1)|null|
