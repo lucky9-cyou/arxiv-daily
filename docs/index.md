@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-08-27 08:53:41 Asia/Shanghai
+ Automated deployment @ 2024-08-27 09:26:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
@@ -73,7 +73,7 @@
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543v1](http://arxiv.org/abs/2408.06543v1)|[link](https://github.com/wujh2001/hdrgs)|
 |**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286v1](http://arxiv.org/abs/2408.06286v1)|[link](https://github.com/renaissanceee/mipmap-gs)|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
