@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
-|**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252v1](http://arxiv.org/abs/2408.13252v1)|null|
-|**2024-08-23**|**On the design of scalable, high-precision spherical-radial Fourier features**|Ayoub Belhadji et.al.|[2408.13231v1](http://arxiv.org/abs/2408.13231v1)|null|
-|**2024-08-23**|**Bussgang revisited: effect of quantization on signal to distortion plus noise ratio with non-Gaussian signals**|Alister Burr et.al.|[2408.13205v1](http://arxiv.org/abs/2408.13205v1)|null|
-|**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135v1](http://arxiv.org/abs/2408.13135v1)|null|
-|**2024-08-23**|**Enhancing Gaussian quantum metrology with position-momentum correlations**|João C. P. Porto et.al.|[2408.13060v1](http://arxiv.org/abs/2408.13060v1)|null|
-|**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055v1](http://arxiv.org/abs/2408.13055v1)|null|
-|**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036v1](http://arxiv.org/abs/2408.13036v1)|null|
-|**2024-08-23**|**Estimation of ratios of normalizing constants using stochastic approximation : the SARIS algorithm**|Tom Guédon et.al.|[2408.13022v1](http://arxiv.org/abs/2408.13022v1)|null|
-|**2024-08-23**|**Smooth InfoMax -- Towards easier Post-Hoc interpretability**|Fabian Denoodt et.al.|[2408.12936v1](http://arxiv.org/abs/2408.12936v1)|null|
-|**2024-08-23**|**Beam focusing and consequences for Doppler Backscattering measurements**|Juan Ruiz Ruiz et.al.|[2408.12919v1](http://arxiv.org/abs/2408.12919v1)|null|
-|**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894v1](http://arxiv.org/abs/2408.12894v1)|null|
-|**2024-08-23**|**The local limit theorem for complex valued sequences: the parabolic case**|Jean-François Coulombel et.al.|[2408.12876v1](http://arxiv.org/abs/2408.12876v1)|null|
-|**2024-08-23**|**Broad-band X-ray spectral and timing properties of the accreting millisecond X-ray pulsar IGR J17498$-$2921 during the 2023 outburst**|Zhaosheng Li et.al.|[2408.12786v1](http://arxiv.org/abs/2408.12786v1)|null|
-|**2024-08-22**|**The distribution of the length of the longest path in random acyclic orientations of a complete bipartite graph**|Jessica Khera et.al.|[2408.12716v1](http://arxiv.org/abs/2408.12716v1)|null|
-|**2024-08-22**|**CasualGaze: Towards Modeling and Recognizing Casual Gaze Behavior for Efficient Gaze-based Object Selection**|Yingtian Shi et.al.|[2408.12710v1](http://arxiv.org/abs/2408.12710v1)|null|
-|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v2](http://arxiv.org/abs/2408.12677v2)|[link](https://github.com/goldoak/gsfusion)|
-|**2024-08-22**|**Quantum transport under oscillatory drive with disordered amplitude**|Vatsana Tiwari et.al.|[2408.12653v1](http://arxiv.org/abs/2408.12653v1)|null|
-|**2024-08-22**|**FRB 20121102A monitoring: updated periodicity at L-band**|C. A. Braga et.al.|[2408.12567v1](http://arxiv.org/abs/2408.12567v1)|null|
-|**2024-08-22**|**Characterization of Multipartite non-Gaussian Entanglement Structure**|Mingsheng Tian et.al.|[2408.12554v1](http://arxiv.org/abs/2408.12554v1)|null|
-|**2024-08-22**|**Latent Gaussian Graphical Models with Golazo Penalty**|Ignacio Echave-Sustaeta Rodríguez et.al.|[2408.12482v1](http://arxiv.org/abs/2408.12482v1)|null|
-|**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann et.al.|[2408.12282v1](http://arxiv.org/abs/2408.12282v1)|null|
-|**2024-08-22**|**Weight Scope Alignment: A Frustratingly Easy Method for Model Merging**|Yichu Xu et.al.|[2408.12237v1](http://arxiv.org/abs/2408.12237v1)|null|
-|**2024-08-22**|**Input-Output Hierarchical Equations Of Motion**|Mauro Cirio et.al.|[2408.12221v1](http://arxiv.org/abs/2408.12221v1)|null|
-|**2024-08-22**|**How disentangled are your classification uncertainties?**|Ivo Pascal de Jong et.al.|[2408.12175v1](http://arxiv.org/abs/2408.12175v1)|null|
-|**2024-08-22**|**Statistical inference on kurtosis of elliptical distributions**|Bowen Zhou et.al.|[2408.12131v1](http://arxiv.org/abs/2408.12131v1)|null|
-|**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
-|**2024-08-22**|**Information Scrambling in Bosonic Gaussian Dynamics**|Ali Mollabashi et.al.|[2408.12089v1](http://arxiv.org/abs/2408.12089v1)|null|
-|**2024-08-22**|**MAC protocol classification in the ISM band using machine learning methods**|Hanieh Rashidpour et.al.|[2408.12059v1](http://arxiv.org/abs/2408.12059v1)|null|
-|**2024-08-21**|**QuaCK-TSF: Quantum-Classical Kernelized Time Series Forecasting**|Abdallah Aaraba et.al.|[2408.12007v1](http://arxiv.org/abs/2408.12007v1)|[link](https://github.com/abdo-aar/quack-tsf)|
+|**2024-08-26**|**Dense Center-Direction Regression for Object Counting and Localization with Point Supervision**|Domen Tabernik et.al.|[2408.14457v1](http://arxiv.org/abs/2408.14457v1)|[link](https://github.com/vicoslab/cedirnet)|
+|**2024-08-26**|**Collisional and Radiative Energy Loss in Small Systems**|Coleridge Faraday et.al.|[2408.14426v1](http://arxiv.org/abs/2408.14426v1)|null|
+|**2024-08-26**|**A quasi-Bayesian sequential approach to deconvolution density estimation**|Stefano Favaro et.al.|[2408.14402v1](http://arxiv.org/abs/2408.14402v1)|null|
+|**2024-08-26**|**A law of large numbers concerning the number of critical points of isotropic Gaussian functions**|Liviu I. Nicolaescu et.al.|[2408.14383v1](http://arxiv.org/abs/2408.14383v1)|null|
+|**2024-08-26**|**Efficiently deciding if an ideal is toric after a linear coordinate change**|Thomas Kahle et.al.|[2408.14323v1](http://arxiv.org/abs/2408.14323v1)|null|
+|**2024-08-26**|**The XRISM First Light Observation: Velocity Structure and Thermal Properties of the Supernova Remnant N132D**|XRISM Collaboration et.al.|[2408.14301v1](http://arxiv.org/abs/2408.14301v1)|null|
+|**2024-08-26**|**Universality of the mean-field equations of networks of Hopfield-like neurons**|Olivier Faugeras et.al.|[2408.14290v1](http://arxiv.org/abs/2408.14290v1)|null|
+|**2024-08-26**|**Bounds in partition functions of the continuous random field Ising model**|G. O. Heymans et.al.|[2408.14184v1](http://arxiv.org/abs/2408.14184v1)|null|
+|**2024-08-26**|**Single-photon scattering in giant-atom topological-waveguide-QED systems**|Hai Zhu et.al.|[2408.14178v1](http://arxiv.org/abs/2408.14178v1)|null|
+|**2024-08-26**|**Robust subgroup-classifier learning and testing in change-plane regressions**|Xu Liu et.al.|[2408.14036v1](http://arxiv.org/abs/2408.14036v1)|null|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
+|**2024-08-26**|**A Multiscale Gradient Fusion Method for Edge Detection in Color Images Utilizing the CBM3D Filter**|Zhuoyue Wang et.al.|[2408.14013v1](http://arxiv.org/abs/2408.14013v1)|null|
+|**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995v1](http://arxiv.org/abs/2408.13995v1)|null|
+|**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972v1](http://arxiv.org/abs/2408.13972v1)|[link](https://github.com/open3dvlab/dynasurfgs)|
+|**2024-08-25**|**A higher-order Otto calculus approach to the Gaussian completely monotone conjecture**|Guillaume Wang et.al.|[2408.13957v1](http://arxiv.org/abs/2408.13957v1)|null|
+|**2024-08-25**|**COMPOSE: Comprehensive Portrait Shadow Editing**|Andrew Hou et.al.|[2408.13922v1](http://arxiv.org/abs/2408.13922v1)|null|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912v1](http://arxiv.org/abs/2408.13912v1)|null|
+|**2024-08-25**|**Capturing primordial non-Gaussian signatures in the late Universe by multi-scale extrema of the cosmic log-density field**|Yun Wang et.al.|[2408.13876v1](http://arxiv.org/abs/2408.13876v1)|null|
+|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
+|**2024-08-25**|**DESI Peculiar Velocity Survey -- Fundamental Plane**|Khaled Said et.al.|[2408.13842v1](http://arxiv.org/abs/2408.13842v1)|null|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
+|**2024-08-25**|**Tunneling in a Lorenz-like model for an active wave-particle entity**|Runze Xu et.al.|[2408.13761v1](http://arxiv.org/abs/2408.13761v1)|null|
+|**2024-08-25**|**Revisit the Partial Coloring Method: Prefix Spencer and Sampling**|Dongrun Cai et.al.|[2408.13756v1](http://arxiv.org/abs/2408.13756v1)|null|
+|**2024-08-25**|**Literary and Colloquial Tamil Dialect Identification**|M. Nanmalar et.al.|[2408.13739v1](http://arxiv.org/abs/2408.13739v1)|null|
+|**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711v1](http://arxiv.org/abs/2408.13711v1)|[link](https://github.com/liwrui/scenedreamer360)|
+|**2024-08-24**|**A Topological Gaussian Mixture Model for Bone Marrow Morphology in Leukaemia**|Qiquan Wang et.al.|[2408.13685v1](http://arxiv.org/abs/2408.13685v1)|null|
+|**2024-08-24**|**A toy model for 2-dimensional spin-fluctuation-induced unconventional superconductivity**|Tu M. Cao et.al.|[2408.13663v1](http://arxiv.org/abs/2408.13663v1)|null|
+|**2024-08-24**|**Variational Autoencoder for Anomaly Detection: A Comparative Study**|Huy Hoang Nguyen et.al.|[2408.13561v1](http://arxiv.org/abs/2408.13561v1)|[link](https://github.com/endtheme123/vae-compare)|
+|**2024-08-24**|**Learning a Factorized Orthogonal Latent Space using Encoder-only Architecture for Fault Detection; An Alarm management perspective**|Vahid MohammadZadeh Eivaghi et.al.|[2408.13526v1](http://arxiv.org/abs/2408.13526v1)|null|
+|**2024-08-24**|**Quantum Illumination Advantage for Classification Among an Arbitrary Library of Targets**|Ali Cox et.al.|[2408.13489v1](http://arxiv.org/abs/2408.13489v1)|null|
