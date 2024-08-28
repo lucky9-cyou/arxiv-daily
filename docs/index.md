@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-28 09:26:02 Asia/Shanghai
+ Automated deployment @ 2024-08-28 20:04:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,24 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242v1](http://arxiv.org/abs/2408.15242v1)|[link](https://github.com/sainingzhang/uc-gs)|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
+|**2024-08-27**|**Logarithmic Finite-Size Scaling of the Four-Dimensional Ising Model**|Zhiyi Li et.al.|[2408.15230v1](http://arxiv.org/abs/2408.15230v1)|null|
+|**2024-08-27**|**Spectral properties of Levy Rosenzweig-Porter model via supersymmetric approach**|Elizaveta Safonova et.al.|[2408.15072v1](http://arxiv.org/abs/2408.15072v1)|null|
+|**2024-08-27**|**Secrecy Performance Analysis of RIS-Aided Fluid Antenna Systems**|Farshad Rostami Ghadi et.al.|[2408.14969v1](http://arxiv.org/abs/2408.14969v1)|null|
+|**2024-08-27**|**Towards turbine-location-aware multi-decadal wind power predictions with CMIP6**|Nina Effenberger et.al.|[2408.14889v1](http://arxiv.org/abs/2408.14889v1)|null|
+|**2024-08-27**|**Literary and Colloquial Dialect Identification for Tamil using Acoustic Features**|M. Nanmalar et.al.|[2408.14887v1](http://arxiv.org/abs/2408.14887v1)|null|
+|**2024-08-27**|**Source Count Distribution of Fermi LAT Gamma-Ray Blazars Using Novel Nonparametric Methods**|Xuhang Yin et.al.|[2408.14877v1](http://arxiv.org/abs/2408.14877v1)|null|
+|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873v1](http://arxiv.org/abs/2408.14873v1)|null|
+|**2024-08-27**|**Correntropy-Based Improper Likelihood Model for Robust Electrophysiological Source Imaging**|Yuanhao Li et.al.|[2408.14843v1](http://arxiv.org/abs/2408.14843v1)|null|
+|**2024-08-27**|**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**|Yuang Shi et.al.|[2408.14823v1](http://arxiv.org/abs/2408.14823v1)|null|
+|**2024-08-27**|**Spherical quasi-interpolation using scaled zonal kernels**|Zhengjie Sun et.al.|[2408.14803v1](http://arxiv.org/abs/2408.14803v1)|null|
+|**2024-08-27**|**A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis**|Lei Huang et.al.|[2408.14801v1](http://arxiv.org/abs/2408.14801v1)|null|
+|**2024-08-27**|**Quartered Chirp Spectral Envelope for Whispered vs Normal Speech Classification**|S. Johanan Joysingh et.al.|[2408.14777v1](http://arxiv.org/abs/2408.14777v1)|null|
+|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
+|**2024-08-26**|**Majorana constellations for scalar beams and light fields**|F. Torres-Leal et.al.|[2408.14634v1](http://arxiv.org/abs/2408.14634v1)|null|
+|**2024-08-26**|**High-dimensional Gaussian linear processes: Marchenko-Pastur beyond simultaneous diagonalizability**|Ben Deitmar et.al.|[2408.14618v1](http://arxiv.org/abs/2408.14618v1)|null|
+|**2024-08-26**|**DIAGen: Diverse Image Augmentation with Generative Models**|Tobias Lingenberg et.al.|[2408.14584v1](http://arxiv.org/abs/2408.14584v1)|null|
 |**2024-08-26**|**Dense Center-Direction Regression for Object Counting and Localization with Point Supervision**|Domen Tabernik et.al.|[2408.14457v1](http://arxiv.org/abs/2408.14457v1)|[link](https://github.com/vicoslab/cedirnet)|
 |**2024-08-26**|**Collisional and Radiative Energy Loss in Small Systems**|Coleridge Faraday et.al.|[2408.14426v1](http://arxiv.org/abs/2408.14426v1)|null|
 |**2024-08-26**|**A quasi-Bayesian sequential approach to deconvolution density estimation**|Stefano Favaro et.al.|[2408.14402v1](http://arxiv.org/abs/2408.14402v1)|null|
@@ -20,28 +38,46 @@
 |**2024-08-26**|**Robust subgroup-classifier learning and testing in change-plane regressions**|Xu Liu et.al.|[2408.14036v1](http://arxiv.org/abs/2408.14036v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
 |**2024-08-26**|**A Multiscale Gradient Fusion Method for Edge Detection in Color Images Utilizing the CBM3D Filter**|Zhuoyue Wang et.al.|[2408.14013v1](http://arxiv.org/abs/2408.14013v1)|null|
-|**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995v1](http://arxiv.org/abs/2408.13995v1)|null|
-|**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972v1](http://arxiv.org/abs/2408.13972v1)|[link](https://github.com/open3dvlab/dynasurfgs)|
-|**2024-08-25**|**A higher-order Otto calculus approach to the Gaussian completely monotone conjecture**|Guillaume Wang et.al.|[2408.13957v1](http://arxiv.org/abs/2408.13957v1)|null|
-|**2024-08-25**|**COMPOSE: Comprehensive Portrait Shadow Editing**|Andrew Hou et.al.|[2408.13922v1](http://arxiv.org/abs/2408.13922v1)|null|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912v1](http://arxiv.org/abs/2408.13912v1)|null|
-|**2024-08-25**|**Capturing primordial non-Gaussian signatures in the late Universe by multi-scale extrema of the cosmic log-density field**|Yun Wang et.al.|[2408.13876v1](http://arxiv.org/abs/2408.13876v1)|null|
-|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
-|**2024-08-25**|**DESI Peculiar Velocity Survey -- Fundamental Plane**|Khaled Said et.al.|[2408.13842v1](http://arxiv.org/abs/2408.13842v1)|null|
+
+### NeRF SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
+|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
+|**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724v1](http://arxiv.org/abs/2408.14724v1)|null|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
+|**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518v1](http://arxiv.org/abs/2408.14518v1)|null|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
-|**2024-08-25**|**Tunneling in a Lorenz-like model for an active wave-particle entity**|Runze Xu et.al.|[2408.13761v1](http://arxiv.org/abs/2408.13761v1)|null|
-|**2024-08-25**|**Revisit the Partial Coloring Method: Prefix Spencer and Sampling**|Dongrun Cai et.al.|[2408.13756v1](http://arxiv.org/abs/2408.13756v1)|null|
-|**2024-08-25**|**Literary and Colloquial Tamil Dialect Identification**|M. Nanmalar et.al.|[2408.13739v1](http://arxiv.org/abs/2408.13739v1)|null|
-|**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711v1](http://arxiv.org/abs/2408.13711v1)|[link](https://github.com/liwrui/scenedreamer360)|
-|**2024-08-24**|**A Topological Gaussian Mixture Model for Bone Marrow Morphology in Leukaemia**|Qiquan Wang et.al.|[2408.13685v1](http://arxiv.org/abs/2408.13685v1)|null|
-|**2024-08-24**|**A toy model for 2-dimensional spin-fluctuation-induced unconventional superconductivity**|Tu M. Cao et.al.|[2408.13663v1](http://arxiv.org/abs/2408.13663v1)|null|
-|**2024-08-24**|**Variational Autoencoder for Anomaly Detection: A Comparative Study**|Huy Hoang Nguyen et.al.|[2408.13561v1](http://arxiv.org/abs/2408.13561v1)|[link](https://github.com/endtheme123/vae-compare)|
-|**2024-08-24**|**Learning a Factorized Orthogonal Latent Space using Encoder-only Architecture for Fault Detection; An Alarm management perspective**|Vahid MohammadZadeh Eivaghi et.al.|[2408.13526v1](http://arxiv.org/abs/2408.13526v1)|null|
-|**2024-08-24**|**Quantum Illumination Advantage for Classification Among an Arbitrary Library of Targets**|Ali Cox et.al.|[2408.13489v1](http://arxiv.org/abs/2408.13489v1)|null|
+|**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
+|**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285v1](http://arxiv.org/abs/2408.13285v1)|[link](https://github.com/kaistchangmin/sin-nerf2nerf)|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
+|**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
+|**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
+|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576v1](http://arxiv.org/abs/2408.11576v1)|null|
+|**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380v1](http://arxiv.org/abs/2408.11380v1)|null|
+|**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251v1](http://arxiv.org/abs/2408.11251v1)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
+|**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
+|**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
+|**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|[link](https://github.com/GradientSpaces/LoopSplat)|
+|**2024-08-19**|**$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135v1](http://arxiv.org/abs/2408.10135v1)|null|
+|**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v1](http://arxiv.org/abs/2408.09928v1)|null|
+|**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727v1](http://arxiv.org/abs/2408.09727v1)|null|
+|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
+|**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347v1](http://arxiv.org/abs/2408.09347v1)|null|
+|**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191v1](http://arxiv.org/abs/2408.09191v1)|null|
+|**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144v1](http://arxiv.org/abs/2408.09144v1)|null|
+|**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104v1](http://arxiv.org/abs/2408.09104v1)|null|
+|**2024-08-16**|**VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**|Albert Gassol Puigjaner et.al.|[2408.08766v1](http://arxiv.org/abs/2408.08766v1)|[link](https://github.com/albertgassol1/vf-nerf)|
+|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
+|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
+|**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724v1](http://arxiv.org/abs/2408.14724v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
 |**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
@@ -70,46 +106,27 @@
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008v1](http://arxiv.org/abs/2408.05008v1)|null|
 |**2024-08-09**|**FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**|Piraveen Sivakumar et.al.|[2408.04803v1](http://arxiv.org/abs/2408.04803v1)|null|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426v1](http://arxiv.org/abs/2408.04426v1)|[link](https://github.com/epsilon404/surgicalnerf)|
-|**2024-08-08**|**Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**|Yiming Zhou et.al.|[2408.04268v1](http://arxiv.org/abs/2408.04268v1)|null|
-|**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646v1](http://arxiv.org/abs/2408.03646v1)|null|
-
-### NeRF SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
-|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
-|**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
-|**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285v1](http://arxiv.org/abs/2408.13285v1)|[link](https://github.com/kaistchangmin/sin-nerf2nerf)|
-|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
-|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
-|**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
-|**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
-|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576v1](http://arxiv.org/abs/2408.11576v1)|null|
-|**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380v1](http://arxiv.org/abs/2408.11380v1)|null|
-|**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251v1](http://arxiv.org/abs/2408.11251v1)|null|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
-|**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
-|**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
-|**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|[link](https://github.com/GradientSpaces/LoopSplat)|
-|**2024-08-19**|**$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135v1](http://arxiv.org/abs/2408.10135v1)|null|
-|**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v1](http://arxiv.org/abs/2408.09928v1)|null|
-|**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727v1](http://arxiv.org/abs/2408.09727v1)|null|
-|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
-|**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347v1](http://arxiv.org/abs/2408.09347v1)|null|
-|**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191v1](http://arxiv.org/abs/2408.09191v1)|null|
-|**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144v1](http://arxiv.org/abs/2408.09144v1)|null|
-|**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104v1](http://arxiv.org/abs/2408.09104v1)|null|
-|**2024-08-16**|**VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**|Albert Gassol Puigjaner et.al.|[2408.08766v1](http://arxiv.org/abs/2408.08766v1)|[link](https://github.com/albertgassol1/vf-nerf)|
-|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
-|**2024-08-15**|**GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**|Yutong Wang et.al.|[2408.07917v1](http://arxiv.org/abs/2408.07917v1)|[link](https://github.com/yutongwangbit/goreloc)|
-|**2024-08-14**|**Inverse k-visibility for RSSI-based Indoor Geometric Mapping**|Junseo Kim et.al.|[2408.07757v1](http://arxiv.org/abs/2408.07757v1)|null|
-|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416v2](http://arxiv.org/abs/2408.07416v2)|null|
-|**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330v2](http://arxiv.org/abs/2408.07330v2)|[link](https://github.com/sparolab/solid)|
-|**2024-08-13**|**NeRF-US: Removing Ultrasound Imaging Artifacts from Neural Radiance Fields in the Wild**|Rishit Dagli et.al.|[2408.10258v2](http://arxiv.org/abs/2408.10258v2)|null|
 
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242v1](http://arxiv.org/abs/2408.15242v1)|[link](https://github.com/sainingzhang/uc-gs)|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
+|**2024-08-27**|**Logarithmic Finite-Size Scaling of the Four-Dimensional Ising Model**|Zhiyi Li et.al.|[2408.15230v1](http://arxiv.org/abs/2408.15230v1)|null|
+|**2024-08-27**|**Spectral properties of Levy Rosenzweig-Porter model via supersymmetric approach**|Elizaveta Safonova et.al.|[2408.15072v1](http://arxiv.org/abs/2408.15072v1)|null|
+|**2024-08-27**|**Secrecy Performance Analysis of RIS-Aided Fluid Antenna Systems**|Farshad Rostami Ghadi et.al.|[2408.14969v1](http://arxiv.org/abs/2408.14969v1)|null|
+|**2024-08-27**|**Towards turbine-location-aware multi-decadal wind power predictions with CMIP6**|Nina Effenberger et.al.|[2408.14889v1](http://arxiv.org/abs/2408.14889v1)|null|
+|**2024-08-27**|**Literary and Colloquial Dialect Identification for Tamil using Acoustic Features**|M. Nanmalar et.al.|[2408.14887v1](http://arxiv.org/abs/2408.14887v1)|null|
+|**2024-08-27**|**Source Count Distribution of Fermi LAT Gamma-Ray Blazars Using Novel Nonparametric Methods**|Xuhang Yin et.al.|[2408.14877v1](http://arxiv.org/abs/2408.14877v1)|null|
+|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873v1](http://arxiv.org/abs/2408.14873v1)|null|
+|**2024-08-27**|**Correntropy-Based Improper Likelihood Model for Robust Electrophysiological Source Imaging**|Yuanhao Li et.al.|[2408.14843v1](http://arxiv.org/abs/2408.14843v1)|null|
+|**2024-08-27**|**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**|Yuang Shi et.al.|[2408.14823v1](http://arxiv.org/abs/2408.14823v1)|null|
+|**2024-08-27**|**Spherical quasi-interpolation using scaled zonal kernels**|Zhengjie Sun et.al.|[2408.14803v1](http://arxiv.org/abs/2408.14803v1)|null|
+|**2024-08-27**|**A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis**|Lei Huang et.al.|[2408.14801v1](http://arxiv.org/abs/2408.14801v1)|null|
+|**2024-08-27**|**Quartered Chirp Spectral Envelope for Whispered vs Normal Speech Classification**|S. Johanan Joysingh et.al.|[2408.14777v1](http://arxiv.org/abs/2408.14777v1)|null|
+|**2024-08-26**|**Majorana constellations for scalar beams and light fields**|F. Torres-Leal et.al.|[2408.14634v1](http://arxiv.org/abs/2408.14634v1)|null|
+|**2024-08-26**|**High-dimensional Gaussian linear processes: Marchenko-Pastur beyond simultaneous diagonalizability**|Ben Deitmar et.al.|[2408.14618v1](http://arxiv.org/abs/2408.14618v1)|null|
+|**2024-08-26**|**DIAGen: Diverse Image Augmentation with Generative Models**|Tobias Lingenberg et.al.|[2408.14584v1](http://arxiv.org/abs/2408.14584v1)|null|
 |**2024-08-26**|**Dense Center-Direction Regression for Object Counting and Localization with Point Supervision**|Domen Tabernik et.al.|[2408.14457v1](http://arxiv.org/abs/2408.14457v1)|[link](https://github.com/vicoslab/cedirnet)|
 |**2024-08-26**|**Collisional and Radiative Energy Loss in Small Systems**|Coleridge Faraday et.al.|[2408.14426v1](http://arxiv.org/abs/2408.14426v1)|null|
 |**2024-08-26**|**A quasi-Bayesian sequential approach to deconvolution density estimation**|Stefano Favaro et.al.|[2408.14402v1](http://arxiv.org/abs/2408.14402v1)|null|
@@ -123,30 +140,15 @@
 |**2024-08-26**|**A Multiscale Gradient Fusion Method for Edge Detection in Color Images Utilizing the CBM3D Filter**|Zhuoyue Wang et.al.|[2408.14013v1](http://arxiv.org/abs/2408.14013v1)|null|
 |**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995v1](http://arxiv.org/abs/2408.13995v1)|null|
 |**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972v1](http://arxiv.org/abs/2408.13972v1)|[link](https://github.com/open3dvlab/dynasurfgs)|
-|**2024-08-25**|**A higher-order Otto calculus approach to the Gaussian completely monotone conjecture**|Guillaume Wang et.al.|[2408.13957v1](http://arxiv.org/abs/2408.13957v1)|null|
-|**2024-08-25**|**COMPOSE: Comprehensive Portrait Shadow Editing**|Andrew Hou et.al.|[2408.13922v1](http://arxiv.org/abs/2408.13922v1)|null|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912v1](http://arxiv.org/abs/2408.13912v1)|null|
-|**2024-08-25**|**Capturing primordial non-Gaussian signatures in the late Universe by multi-scale extrema of the cosmic log-density field**|Yun Wang et.al.|[2408.13876v1](http://arxiv.org/abs/2408.13876v1)|null|
-|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
-|**2024-08-25**|**DESI Peculiar Velocity Survey -- Fundamental Plane**|Khaled Said et.al.|[2408.13842v1](http://arxiv.org/abs/2408.13842v1)|null|
-|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
-|**2024-08-25**|**Tunneling in a Lorenz-like model for an active wave-particle entity**|Runze Xu et.al.|[2408.13761v1](http://arxiv.org/abs/2408.13761v1)|null|
-|**2024-08-25**|**Revisit the Partial Coloring Method: Prefix Spencer and Sampling**|Dongrun Cai et.al.|[2408.13756v1](http://arxiv.org/abs/2408.13756v1)|null|
-|**2024-08-25**|**Literary and Colloquial Tamil Dialect Identification**|M. Nanmalar et.al.|[2408.13739v1](http://arxiv.org/abs/2408.13739v1)|null|
-|**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711v1](http://arxiv.org/abs/2408.13711v1)|[link](https://github.com/liwrui/scenedreamer360)|
-|**2024-08-24**|**A Topological Gaussian Mixture Model for Bone Marrow Morphology in Leukaemia**|Qiquan Wang et.al.|[2408.13685v1](http://arxiv.org/abs/2408.13685v1)|null|
-|**2024-08-24**|**A toy model for 2-dimensional spin-fluctuation-induced unconventional superconductivity**|Tu M. Cao et.al.|[2408.13663v1](http://arxiv.org/abs/2408.13663v1)|null|
-|**2024-08-24**|**Variational Autoencoder for Anomaly Detection: A Comparative Study**|Huy Hoang Nguyen et.al.|[2408.13561v1](http://arxiv.org/abs/2408.13561v1)|[link](https://github.com/endtheme123/vae-compare)|
-|**2024-08-24**|**Learning a Factorized Orthogonal Latent Space using Encoder-only Architecture for Fault Detection; An Alarm management perspective**|Vahid MohammadZadeh Eivaghi et.al.|[2408.13526v1](http://arxiv.org/abs/2408.13526v1)|null|
-|**2024-08-24**|**Quantum Illumination Advantage for Classification Among an Arbitrary Library of Targets**|Ali Cox et.al.|[2408.13489v1](http://arxiv.org/abs/2408.13489v1)|null|
-|**2024-08-24**|**Detection of gamma-ray burst Amati relation based on Hubble data set and Pantheon+ samples**|Yufen Han et.al.|[2408.13466v1](http://arxiv.org/abs/2408.13466v1)|null|
 
 ## Robotics
 
 ### SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
+|**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518v1](http://arxiv.org/abs/2408.14518v1)|null|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
 |**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582v1](http://arxiv.org/abs/2408.11582v1)|null|
@@ -174,5 +176,3 @@
 |**2024-08-01**|**High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**|Jian Li et.al.|[2408.00538v1](http://arxiv.org/abs/2408.00538v1)|null|
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|[link](https://github.com/luohongk/supervins)|
 |**2024-07-30**|**NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**|Hongjia Zhai et.al.|[2407.20853v1](http://arxiv.org/abs/2407.20853v1)|null|
-|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|[link](https://github.com/molaorg/mola)|
-|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518v1](http://arxiv.org/abs/2407.19518v1)|null|
