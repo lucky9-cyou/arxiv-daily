@@ -30,5 +30,5 @@
 |**2024-08-26**|**Bounds in partition functions of the continuous random field Ising model**|G. O. Heymans et.al.|[2408.14184v1](http://arxiv.org/abs/2408.14184v1)|null|
 |**2024-08-26**|**Single-photon scattering in giant-atom topological-waveguide-QED systems**|Hai Zhu et.al.|[2408.14178v1](http://arxiv.org/abs/2408.14178v1)|null|
 |**2024-08-26**|**Robust subgroup-classifier learning and testing in change-plane regressions**|Xu Liu et.al.|[2408.14036v1](http://arxiv.org/abs/2408.14036v1)|null|
-|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|[link](https://github.com/hku-mars/fast-livo2)|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|[link](https://github.com/hku-mars/fast-livo2)|
 |**2024-08-26**|**A Multiscale Gradient Fusion Method for Edge Detection in Color Images Utilizing the CBM3D Filter**|Zhuoyue Wang et.al.|[2408.14013v1](http://arxiv.org/abs/2408.14013v1)|null|
