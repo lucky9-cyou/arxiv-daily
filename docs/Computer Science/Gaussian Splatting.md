@@ -2,6 +2,23 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-30**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414v1](http://arxiv.org/abs/2408.17414v1)|null|
+|**2024-08-30**|**Fairness-Aware Estimation of Graphical Models**|Zhuoping Zhou et.al.|[2408.17396v1](http://arxiv.org/abs/2408.17396v1)|[link](https://github.com/pennshenlab/fair_gms)|
+|**2024-08-30**|**On Nonparanormal Likelihoods**|Torsten Hothorn et.al.|[2408.17346v1](http://arxiv.org/abs/2408.17346v1)|null|
+|**2024-08-30**|**Data-Driven Modeling of Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl**|Christian Gilbertson et.al.|[2408.17289v1](http://arxiv.org/abs/2408.17289v1)|null|
+|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251v1](http://arxiv.org/abs/2408.17251v1)|[link](https://github.com/bosonphoton/abstractedgaussianprototypes)|
+|**2024-08-30**|**The Pristine Survey -- XXVII. Journey to the Galactic outskirts -- Mapping the outer halo red giant stars down to the very metal-poor end**|Akshara Viswanathan et.al.|[2408.17250v1](http://arxiv.org/abs/2408.17250v1)|null|
+|**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223v1](http://arxiv.org/abs/2408.17223v1)|null|
+|**2024-08-30**|**Reconstruction of log-correlated fields from multiplicative chaos measures**|Sami Vihko et.al.|[2408.17219v1](http://arxiv.org/abs/2408.17219v1)|null|
+|**2024-08-30**|**Efficient Testable Learning of General Halfspaces with Adversarial Label Noise**|Ilias Diakonikolas et.al.|[2408.17165v1](http://arxiv.org/abs/2408.17165v1)|null|
+|**2024-08-30**|**GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring**|Emanuele Santellani et.al.|[2408.17149v1](http://arxiv.org/abs/2408.17149v1)|null|
+|**2024-08-30**|**Particle Flows for Source Localization in 3-D Using TDOA Measurements**|Wenyu Zhang et.al.|[2408.17096v1](http://arxiv.org/abs/2408.17096v1)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v1](http://arxiv.org/abs/2408.17064v1)|null|
+|**2024-08-30**|**Secure Integrated Sensing and Communication Under Correlated Rayleigh Fading**|Martin Mittelbach et.al.|[2408.17050v1](http://arxiv.org/abs/2408.17050v1)|null|
+|**2024-08-30**|**When does a Fermi puddle become a Fermi sea? Emergence of Pairing in Two-Dimensional Trapped Mesoscopic Fermi Gases**|Emma Laird et.al.|[2408.17015v1](http://arxiv.org/abs/2408.17015v1)|null|
+|**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982v1](http://arxiv.org/abs/2408.16982v1)|null|
+|**2024-08-30**|**Universal Stochastic Equations of Monitored Quantum Dynamics**|Zhenyu Xiao et.al.|[2408.16974v1](http://arxiv.org/abs/2408.16974v1)|null|
+|**2024-08-29**|**Trajectory Surfaces of Framed Curvature Flow**|Jiří Minarčík et.al.|[2408.16855v1](http://arxiv.org/abs/2408.16855v1)|null|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769v1](http://arxiv.org/abs/2408.16769v1)|[link](https://github.com/nhussein/promptsmooth)|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
@@ -14,21 +31,4 @@
 |**2024-08-29**|**Gradient-free variational learning with conditional mixture networks**|Conor Heins et.al.|[2408.16429v1](http://arxiv.org/abs/2408.16429v1)|[link](https://github.com/versestech/cavi-cmn)|
 |**2024-08-29**|**Pair Counting without Binning -- A New Approach to Correlation Functions in Clustering Statistics**|Shiyu Yue et.al.|[2408.16398v1](http://arxiv.org/abs/2408.16398v1)|null|
 |**2024-08-29**|**Dust mineralogy and variability of the inner PDS 70 disk**|Hyerin Jang et.al.|[2408.16367v1](http://arxiv.org/abs/2408.16367v1)|null|
-|**2024-08-29**|**Safe Bayesian Optimization for High-Dimensional Control Systems via Additive Gaussian Processes**|Hongxuan Wang et.al.|[2408.16307v1](http://arxiv.org/abs/2408.16307v1)|null|
-|**2024-08-29**|**Iterated Energy-based Flow Matching for Sampling from Boltzmann Densities**|Dongyeop Woo et.al.|[2408.16249v1](http://arxiv.org/abs/2408.16249v1)|null|
-|**2024-08-29**|**LMT-GP: Combined Latent Mean-Teacher and Gaussian Process for Semi-supervised Low-light Image Enhancement**|Ye Yu et.al.|[2408.16235v1](http://arxiv.org/abs/2408.16235v1)|[link](https://github.com/hfut-cv/lmt-gp)|
-|**2024-08-28**|**Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning**|Armin Lederer et.al.|[2408.16144v1](http://arxiv.org/abs/2408.16144v1)|null|
-|**2024-08-28**|**Effects of kinetic energy on heat fluctuations of passive and active overdamped driven particles**|Pedro V. Paraguassú et.al.|[2408.16104v1](http://arxiv.org/abs/2408.16104v1)|null|
-|**2024-08-28**|**A Control Theoretic Approach to Simultaneously Estimate Average Value of Time and Determine Dynamic Price for High-occupancy Toll Lanes**|Xuting Wang et.al.|[2408.15990v1](http://arxiv.org/abs/2408.15990v1)|null|
-|**2024-08-28**|**The Tidal Torque Theory Revisited. I. Protohalo Angular Momentum**|Eduard Salvador-Solé et.al.|[2408.15939v1](http://arxiv.org/abs/2408.15939v1)|null|
-|**2024-08-28**|**Halo bias in the peak model. A first-principles non-parametric approach**|Eduard Salvador-Solé et.al.|[2408.15918v1](http://arxiv.org/abs/2408.15918v1)|null|
-|**2024-08-28**|**Surrogate Models studies for laser-plasma accelerator electron source design through numerical optimisation**|G. Kane et.al.|[2408.15845v1](http://arxiv.org/abs/2408.15845v1)|null|
-|**2024-08-28**|**Fast and accurate machine-learned interatomic potentials for large-scale simulations of Cu, Al and Ni**|Aslak Fellman et.al.|[2408.15779v1](http://arxiv.org/abs/2408.15779v1)|null|
-|**2024-08-28**|**Turán-Type Inequalities for Gaussian Hypergeometric Functions, and Baricz's Conjecture**|Song-Liang Qiu et.al.|[2408.15723v1](http://arxiv.org/abs/2408.15723v1)|null|
-|**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708v1](http://arxiv.org/abs/2408.15708v1)|null|
-|**2024-08-28**|**G-Style: Stylized Gaussian Splatting**|Áron Samuel Kovács et.al.|[2408.15695v1](http://arxiv.org/abs/2408.15695v1)|null|
-|**2024-08-28**|**Learning latent tree models with small query complexity**|Luc Devroye et.al.|[2408.15624v1](http://arxiv.org/abs/2408.15624v1)|null|
-|**2024-08-28**|**Bayesian optimization of atomic structures with prior probabilities from universal interatomic potentials**|Peder Lyngby et.al.|[2408.15590v1](http://arxiv.org/abs/2408.15590v1)|null|
-|**2024-08-28**|**Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection**|Jinglun Li et.al.|[2408.15580v1](http://arxiv.org/abs/2408.15580v1)|null|
-|**2024-08-28**|**Redshift evolution of the X-ray and UV luminosity relation of quasars: calibrated results from SNe Ia**|Xiaolei Li et.al.|[2408.15547v1](http://arxiv.org/abs/2408.15547v1)|null|
-|**2024-08-28**|**Quasi-Lindblad pseudomode theory for open quantum systems**|Gunhee Park et.al.|[2408.15529v1](http://arxiv.org/abs/2408.15529v1)|null|
+|**2024-08-29**|**Generative AI in Ship Design**|Sahil Thakur et.al.|[2408.16798v1](http://arxiv.org/abs/2408.16798v1)|null|
