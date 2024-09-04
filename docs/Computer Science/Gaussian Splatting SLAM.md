@@ -23,7 +23,7 @@
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769v1](http://arxiv.org/abs/2408.16769v1)|[link](https://github.com/nhussein/promptsmooth)|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
-|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v1](http://arxiv.org/abs/2408.16690v1)|null|
+|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v2](http://arxiv.org/abs/2408.16690v2)|null|
 |**2024-08-29**|**Decay of correlations for the massless hierarchical Liouville model in infinite volume**|Michael Hofstetter et.al.|[2408.16649v1](http://arxiv.org/abs/2408.16649v1)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626v1](http://arxiv.org/abs/2408.16626v1)|null|
 |**2024-08-29**|**Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors**|Rafael Flock et.al.|[2408.16594v1](http://arxiv.org/abs/2408.16594v1)|null|
