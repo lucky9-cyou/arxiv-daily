@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2024-09-04 20:17:40 Asia/Shanghai
+ Automated deployment @ 2024-09-04 20:33:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
+
+### Gaussian Splatting SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-30**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414v2](http://arxiv.org/abs/2408.17414v2)|null|
+|**2024-08-30**|**Fairness-Aware Estimation of Graphical Models**|Zhuoping Zhou et.al.|[2408.17396v1](http://arxiv.org/abs/2408.17396v1)|[link](https://github.com/pennshenlab/fair_gms)|
+|**2024-08-30**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v2](http://arxiv.org/abs/2408.17373v2)|null|
+|**2024-08-30**|**On Nonparanormal Likelihoods**|Torsten Hothorn et.al.|[2408.17346v1](http://arxiv.org/abs/2408.17346v1)|null|
+|**2024-08-30**|**Data-Driven Modeling of Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl**|Christian Gilbertson et.al.|[2408.17289v1](http://arxiv.org/abs/2408.17289v1)|null|
+|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251v1](http://arxiv.org/abs/2408.17251v1)|[link](https://github.com/bosonphoton/abstractedgaussianprototypes)|
+|**2024-08-30**|**The Pristine Survey -- XXVII. Journey to the Galactic outskirts -- Mapping the outer halo red giant stars down to the very metal-poor end**|Akshara Viswanathan et.al.|[2408.17250v1](http://arxiv.org/abs/2408.17250v1)|null|
+|**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223v1](http://arxiv.org/abs/2408.17223v1)|null|
+|**2024-08-30**|**Reconstruction of log-correlated fields from multiplicative chaos measures**|Sami Vihko et.al.|[2408.17219v1](http://arxiv.org/abs/2408.17219v1)|null|
+|**2024-08-30**|**Efficient Testable Learning of General Halfspaces with Adversarial Label Noise**|Ilias Diakonikolas et.al.|[2408.17165v1](http://arxiv.org/abs/2408.17165v1)|null|
+|**2024-08-30**|**GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring**|Emanuele Santellani et.al.|[2408.17149v1](http://arxiv.org/abs/2408.17149v1)|null|
+|**2024-08-30**|**Particle Flows for Source Localization in 3-D Using TDOA Measurements**|Wenyu Zhang et.al.|[2408.17096v1](http://arxiv.org/abs/2408.17096v1)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v2](http://arxiv.org/abs/2408.17064v2)|null|
+|**2024-08-30**|**Secure Integrated Sensing and Communication Under Correlated Rayleigh Fading**|Martin Mittelbach et.al.|[2408.17050v1](http://arxiv.org/abs/2408.17050v1)|null|
+|**2024-08-30**|**When does a Fermi puddle become a Fermi sea? Emergence of Pairing in Two-Dimensional Trapped Mesoscopic Fermi Gases**|Emma Laird et.al.|[2408.17015v1](http://arxiv.org/abs/2408.17015v1)|null|
+|**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982v1](http://arxiv.org/abs/2408.16982v1)|null|
+|**2024-08-30**|**Universal Stochastic Equations of Monitored Quantum Dynamics**|Zhenyu Xiao et.al.|[2408.16974v1](http://arxiv.org/abs/2408.16974v1)|null|
+|**2024-08-29**|**Trajectory Surfaces of Framed Curvature Flow**|Jiří Minarčík et.al.|[2408.16855v1](http://arxiv.org/abs/2408.16855v1)|null|
+|**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769v1](http://arxiv.org/abs/2408.16769v1)|[link](https://github.com/nhussein/promptsmooth)|
+|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
+|**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
+|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v2](http://arxiv.org/abs/2408.16690v2)|null|
+|**2024-08-29**|**Decay of correlations for the massless hierarchical Liouville model in infinite volume**|Michael Hofstetter et.al.|[2408.16649v1](http://arxiv.org/abs/2408.16649v1)|null|
+|**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626v1](http://arxiv.org/abs/2408.16626v1)|null|
+|**2024-08-29**|**Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors**|Rafael Flock et.al.|[2408.16594v1](http://arxiv.org/abs/2408.16594v1)|null|
+|**2024-08-29**|**Small deviations of Gaussian multiplicative chaos and the free energy of the two-dimensional massless Sinh--Gordon model**|Nikolay Barashkov et.al.|[2408.16574v1](http://arxiv.org/abs/2408.16574v1)|null|
+|**2024-08-29**|**Two-dimensional Fireballs as a Lagrangian Ermakov System**|Fernando Haas et.al.|[2408.16521v1](http://arxiv.org/abs/2408.16521v1)|null|
+|**2024-08-29**|**Gradient-free variational learning with conditional mixture networks**|Conor Heins et.al.|[2408.16429v1](http://arxiv.org/abs/2408.16429v1)|[link](https://github.com/versestech/cavi-cmn)|
+|**2024-08-29**|**Pair Counting without Binning -- A New Approach to Correlation Functions in Clustering Statistics**|Shiyu Yue et.al.|[2408.16398v1](http://arxiv.org/abs/2408.16398v1)|null|
+|**2024-08-29**|**Dust mineralogy and variability of the inner PDS 70 disk**|Hyerin Jang et.al.|[2408.16367v1](http://arxiv.org/abs/2408.16367v1)|null|
 
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -106,40 +140,6 @@
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
 |**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|[link](https://github.com/GradientSpaces/LoopSplat)|
-
-### Gaussian Splatting SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-30**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414v2](http://arxiv.org/abs/2408.17414v2)|null|
-|**2024-08-30**|**Fairness-Aware Estimation of Graphical Models**|Zhuoping Zhou et.al.|[2408.17396v1](http://arxiv.org/abs/2408.17396v1)|[link](https://github.com/pennshenlab/fair_gms)|
-|**2024-08-30**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v2](http://arxiv.org/abs/2408.17373v2)|null|
-|**2024-08-30**|**On Nonparanormal Likelihoods**|Torsten Hothorn et.al.|[2408.17346v1](http://arxiv.org/abs/2408.17346v1)|null|
-|**2024-08-30**|**Data-Driven Modeling of Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl**|Christian Gilbertson et.al.|[2408.17289v1](http://arxiv.org/abs/2408.17289v1)|null|
-|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251v1](http://arxiv.org/abs/2408.17251v1)|[link](https://github.com/bosonphoton/abstractedgaussianprototypes)|
-|**2024-08-30**|**The Pristine Survey -- XXVII. Journey to the Galactic outskirts -- Mapping the outer halo red giant stars down to the very metal-poor end**|Akshara Viswanathan et.al.|[2408.17250v1](http://arxiv.org/abs/2408.17250v1)|null|
-|**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223v1](http://arxiv.org/abs/2408.17223v1)|null|
-|**2024-08-30**|**Reconstruction of log-correlated fields from multiplicative chaos measures**|Sami Vihko et.al.|[2408.17219v1](http://arxiv.org/abs/2408.17219v1)|null|
-|**2024-08-30**|**Efficient Testable Learning of General Halfspaces with Adversarial Label Noise**|Ilias Diakonikolas et.al.|[2408.17165v1](http://arxiv.org/abs/2408.17165v1)|null|
-|**2024-08-30**|**GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring**|Emanuele Santellani et.al.|[2408.17149v1](http://arxiv.org/abs/2408.17149v1)|null|
-|**2024-08-30**|**Particle Flows for Source Localization in 3-D Using TDOA Measurements**|Wenyu Zhang et.al.|[2408.17096v1](http://arxiv.org/abs/2408.17096v1)|null|
-|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v2](http://arxiv.org/abs/2408.17064v2)|null|
-|**2024-08-30**|**Secure Integrated Sensing and Communication Under Correlated Rayleigh Fading**|Martin Mittelbach et.al.|[2408.17050v1](http://arxiv.org/abs/2408.17050v1)|null|
-|**2024-08-30**|**When does a Fermi puddle become a Fermi sea? Emergence of Pairing in Two-Dimensional Trapped Mesoscopic Fermi Gases**|Emma Laird et.al.|[2408.17015v1](http://arxiv.org/abs/2408.17015v1)|null|
-|**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982v1](http://arxiv.org/abs/2408.16982v1)|null|
-|**2024-08-30**|**Universal Stochastic Equations of Monitored Quantum Dynamics**|Zhenyu Xiao et.al.|[2408.16974v1](http://arxiv.org/abs/2408.16974v1)|null|
-|**2024-08-29**|**Trajectory Surfaces of Framed Curvature Flow**|Jiří Minarčík et.al.|[2408.16855v1](http://arxiv.org/abs/2408.16855v1)|null|
-|**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769v1](http://arxiv.org/abs/2408.16769v1)|[link](https://github.com/nhussein/promptsmooth)|
-|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
-|**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
-|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v2](http://arxiv.org/abs/2408.16690v2)|null|
-|**2024-08-29**|**Decay of correlations for the massless hierarchical Liouville model in infinite volume**|Michael Hofstetter et.al.|[2408.16649v1](http://arxiv.org/abs/2408.16649v1)|null|
-|**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626v1](http://arxiv.org/abs/2408.16626v1)|null|
-|**2024-08-29**|**Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors**|Rafael Flock et.al.|[2408.16594v1](http://arxiv.org/abs/2408.16594v1)|null|
-|**2024-08-29**|**Small deviations of Gaussian multiplicative chaos and the free energy of the two-dimensional massless Sinh--Gordon model**|Nikolay Barashkov et.al.|[2408.16574v1](http://arxiv.org/abs/2408.16574v1)|null|
-|**2024-08-29**|**Two-dimensional Fireballs as a Lagrangian Ermakov System**|Fernando Haas et.al.|[2408.16521v1](http://arxiv.org/abs/2408.16521v1)|null|
-|**2024-08-29**|**Gradient-free variational learning with conditional mixture networks**|Conor Heins et.al.|[2408.16429v1](http://arxiv.org/abs/2408.16429v1)|[link](https://github.com/versestech/cavi-cmn)|
-|**2024-08-29**|**Pair Counting without Binning -- A New Approach to Correlation Functions in Clustering Statistics**|Shiyu Yue et.al.|[2408.16398v1](http://arxiv.org/abs/2408.16398v1)|null|
-|**2024-08-29**|**Dust mineralogy and variability of the inner PDS 70 disk**|Hyerin Jang et.al.|[2408.16367v1](http://arxiv.org/abs/2408.16367v1)|null|
 
 ## Robotics
 
