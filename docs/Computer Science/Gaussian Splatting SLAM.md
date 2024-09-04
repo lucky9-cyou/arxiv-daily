@@ -2,7 +2,7 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-30**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414v1](http://arxiv.org/abs/2408.17414v1)|null|
+|**2024-08-30**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414v2](http://arxiv.org/abs/2408.17414v2)|null|
 |**2024-08-30**|**Fairness-Aware Estimation of Graphical Models**|Zhuoping Zhou et.al.|[2408.17396v1](http://arxiv.org/abs/2408.17396v1)|[link](https://github.com/pennshenlab/fair_gms)|
 |**2024-08-30**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v1](http://arxiv.org/abs/2408.17373v1)|null|
 |**2024-08-30**|**On Nonparanormal Likelihoods**|Torsten Hothorn et.al.|[2408.17346v1](http://arxiv.org/abs/2408.17346v1)|null|
@@ -14,7 +14,7 @@
 |**2024-08-30**|**Efficient Testable Learning of General Halfspaces with Adversarial Label Noise**|Ilias Diakonikolas et.al.|[2408.17165v1](http://arxiv.org/abs/2408.17165v1)|null|
 |**2024-08-30**|**GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring**|Emanuele Santellani et.al.|[2408.17149v1](http://arxiv.org/abs/2408.17149v1)|null|
 |**2024-08-30**|**Particle Flows for Source Localization in 3-D Using TDOA Measurements**|Wenyu Zhang et.al.|[2408.17096v1](http://arxiv.org/abs/2408.17096v1)|null|
-|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v1](http://arxiv.org/abs/2408.17064v1)|null|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v2](http://arxiv.org/abs/2408.17064v2)|null|
 |**2024-08-30**|**Secure Integrated Sensing and Communication Under Correlated Rayleigh Fading**|Martin Mittelbach et.al.|[2408.17050v1](http://arxiv.org/abs/2408.17050v1)|null|
 |**2024-08-30**|**When does a Fermi puddle become a Fermi sea? Emergence of Pairing in Two-Dimensional Trapped Mesoscopic Fermi Gases**|Emma Laird et.al.|[2408.17015v1](http://arxiv.org/abs/2408.17015v1)|null|
 |**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982v1](http://arxiv.org/abs/2408.16982v1)|null|
