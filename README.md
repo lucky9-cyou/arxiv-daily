@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-09-06 08:31:29 Asia/Shanghai
+ Automated deployment @ 2024-09-06 08:55:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-04**|**Bulk Spectra of Truncated Sample Covariance Matrices**|Subhroshekhar Ghosh et.al.|[2409.02911v1](http://arxiv.org/abs/2409.02911v1)|null|
@@ -39,7 +39,7 @@
 |**2024-09-03**|**Interaction imbalanced spin-orbit coupled quantum droplets**|Sonali Gangwar et.al.|[2409.01945v1](http://arxiv.org/abs/2409.01945v1)|null|
 |**2024-09-03**|**Spatially-dependent Indian Buffet Processes**|Shonosuke Sugasawa et.al.|[2409.01943v1](http://arxiv.org/abs/2409.01943v1)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-04**|**Bulk Spectra of Truncated Sample Covariance Matrices**|Subhroshekhar Ghosh et.al.|[2409.02911v1](http://arxiv.org/abs/2409.02911v1)|null|
