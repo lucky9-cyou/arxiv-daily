@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-06**|**Bayesian solution to the inverse problem and its relation to Backus-Gilbert methods**|Luigi Del Debbio et.al.|[2409.04413v1](http://arxiv.org/abs/2409.04413v1)|null|
+|**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390v1](http://arxiv.org/abs/2409.04390v1)|null|
+|**2024-09-06**|**Local times of self-intersection and sample path properties of Volterra Gaussian processes**|Olga Izyumtseva et.al.|[2409.04377v1](http://arxiv.org/abs/2409.04377v1)|null|
+|**2024-09-06**|**Gaussian-Mixture-Model Q-Functions for Reinforcement Learning by Riemannian Optimization**|Minh Vu et.al.|[2409.04374v1](http://arxiv.org/abs/2409.04374v1)|null|
+|**2024-09-06**|**Spatial-Mode Diversity and Multiplexing for Continuous Variables Quantum Communications**|Seid Koudia et.al.|[2409.04334v1](http://arxiv.org/abs/2409.04334v1)|null|
+|**2024-09-06**|**Theoretical Analysis of the Coherence Properties of a Grating**|Ivan A. Vartanyants et.al.|[2409.04327v1](http://arxiv.org/abs/2409.04327v1)|null|
+|**2024-09-06**|**Enhancing Uncertainty Quantification in Drug Discovery with Censored Regression Labels**|Emma Svensson et.al.|[2409.04313v1](http://arxiv.org/abs/2409.04313v1)|null|
+|**2024-09-06**|**Cumulants in rectangular finite free probability and beta-deformed singular values**|Cesar Cuenca et.al.|[2409.04305v1](http://arxiv.org/abs/2409.04305v1)|null|
+|**2024-09-06**|**Extended Weyl-Wigner phase-space framework for non-linear systems: typical and modified prey-predator-like dynamics**|Alex E. Bernardini et.al.|[2409.04291v1](http://arxiv.org/abs/2409.04291v1)|null|
+|**2024-09-06**|**The $\infty$-S test via regression quantile affine LASSO**|Sylvain Sardy et.al.|[2409.04256v1](http://arxiv.org/abs/2409.04256v1)|null|
+|**2024-09-06**|**Higher-order symmetry plane correlations in Pb$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 5.02 TeV**|ALICE Collaboration et.al.|[2409.04238v1](http://arxiv.org/abs/2409.04238v1)|null|
+|**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199v1](http://arxiv.org/abs/2409.04199v1)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|null|
+|**2024-09-06**|**Optimal Fidelity Estimation from Binary Measurements for Discrete and Continuous Variable Systems**|Omar Fawzi et.al.|[2409.04189v1](http://arxiv.org/abs/2409.04189v1)|null|
+|**2024-09-06**|**Formation of stable wormhole solution with non-commutative geometry in the framework of $f(R,\mathcal{L}_m, T)$ gravity**|Niklas Loewer et.al.|[2409.04172v1](http://arxiv.org/abs/2409.04172v1)|null|
+|**2024-09-06**|**Blind-Adaptive Quantizers**|Aman Rishal Chemmala et.al.|[2409.04077v1](http://arxiv.org/abs/2409.04077v1)|null|
+|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013v1](http://arxiv.org/abs/2409.04013v1)|null|
+|**2024-09-06**|**On the Specialisation of Gaussian Basis Sets for Core-Dependent Properties**|Robbie T. Ireland et.al.|[2409.03994v1](http://arxiv.org/abs/2409.03994v1)|null|
+|**2024-09-06**|**Benchmarking Basis Sets for Density Functional Theory Thermochemistry Calculations: Why unpolarised basis sets and the polarised 6-311G family should be avoided**|Samuel J. Pitman et.al.|[2409.03964v1](http://arxiv.org/abs/2409.03964v1)|null|
+|**2024-09-06**|**Epistemic Uncertainty and Observation Noise with the Neural Tangent Kernel**|Sergio Calvo-Ordoñez et.al.|[2409.03953v1](http://arxiv.org/abs/2409.03953v1)|null|
+|**2024-09-05**|**The anti-aligned spin of GW191109: glitch mitigation and its implications**|Rhiannon Udall et.al.|[2409.03912v1](http://arxiv.org/abs/2409.03912v1)|null|
+|**2024-09-05**|**WaterMAS: Sharpness-Aware Maximization for Neural Network Watermarking**|Carl De Sousa Trias et.al.|[2409.03902v1](http://arxiv.org/abs/2409.03902v1)|null|
+|**2024-09-05**|**Overfitting Behaviour of Gaussian Kernel Ridgeless Regression: Varying Bandwidth or Dimensionality**|Marko Medvedev et.al.|[2409.03891v1](http://arxiv.org/abs/2409.03891v1)|null|
+|**2024-09-05**|**STAR NRE: Solving supernova selection effects with set-based truncated auto-regressive neural ratio estimation**|Konstantin Karchev et.al.|[2409.03837v1](http://arxiv.org/abs/2409.03837v1)|null|
+|**2024-09-05**|**Unified Framework for Matchgate Classical Shadows**|Valentin Heyraud et.al.|[2409.03836v1](http://arxiv.org/abs/2409.03836v1)|null|
+|**2024-09-05**|**McFine: python-based Monte-Carlo multi-component hyperfine structure fitting**|Thomas G. Williams et.al.|[2409.03835v1](http://arxiv.org/abs/2409.03835v1)|null|
+|**2024-09-05**|**Higher-Rank Spin Liquids and Spin Nematics from Competing Orders in Pyrochlore Magnets**|Niccolò Francini et.al.|[2409.03825v1](http://arxiv.org/abs/2409.03825v1)|null|
 |**2024-09-05**|**Spectra of adjacency and Laplacian matrices of Erdős-Rényi hypergraphs**|Soumendu Sundar Mukherjee et.al.|[2409.03756v1](http://arxiv.org/abs/2409.03756v1)|null|
 |**2024-09-05**|**Iterative thresholding for non-linear learning in the strong $\varepsilon$-contamination model**|Arvind Rathnashyam et.al.|[2409.03703v1](http://arxiv.org/abs/2409.03703v1)|null|
 |**2024-09-05**|**The Kneser--Poulsen phenomena for entropy**|Gautam Aishwarya et.al.|[2409.03664v1](http://arxiv.org/abs/2409.03664v1)|null|
-|**2024-09-05**|**Periodic Pitman transforms and jointly invariant measures**|Ivan Corwin et.al.|[2409.03613v1](http://arxiv.org/abs/2409.03613v1)|null|
-|**2024-09-05**|**VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data**|Xun Yuan et.al.|[2409.03612v1](http://arxiv.org/abs/2409.03612v1)|null|
-|**2024-09-05**|**Communication-Assisted Sensing Systems: Fundamental Limits and ISAC Waveform Design**|Fuwang Dong et.al.|[2409.03561v1](http://arxiv.org/abs/2409.03561v1)|null|
-|**2024-09-05**|**Critical domains for certain Dirichlet integrals in weighted manifolds**|Levi Lopes de Lima et.al.|[2409.03554v1](http://arxiv.org/abs/2409.03554v1)|null|
-|**2024-09-05**|**Submodularity of Mutual Information for Multivariate Gaussian Sources with Additive Noise**|George Crowley et.al.|[2409.03541v1](http://arxiv.org/abs/2409.03541v1)|null|
-|**2024-09-05**|**Physics-informed Neural Networks with Fourier Features for Seismic Wavefield Simulation in Time-Domain Nonsmooth Complex Media**|Yi Ding et.al.|[2409.03536v1](http://arxiv.org/abs/2409.03536v1)|null|
-|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523v1](http://arxiv.org/abs/2409.03523v1)|null|
-|**2024-09-05**|**Coupled unidirectional chaotic microwave graphs**|Omer Farooq et.al.|[2409.03493v1](http://arxiv.org/abs/2409.03493v1)|null|
-|**2024-09-05**|**ESCAPE project: fundamental detection limits of JWST/NIRCam coronographic observations**|N. Godoy et.al.|[2409.03485v1](http://arxiv.org/abs/2409.03485v1)|null|
-|**2024-09-05**|**Generating arbitrary superpositions of nonclassical quantum harmonic oscillator states**|S. Saner et.al.|[2409.03482v1](http://arxiv.org/abs/2409.03482v1)|null|
-|**2024-09-05**|**Purification of Gaussian States by Photon Subtraction**|Kun Zhang et.al.|[2409.03473v1](http://arxiv.org/abs/2409.03473v1)|null|
-|**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456v1](http://arxiv.org/abs/2409.03456v1)|null|
-|**2024-09-05**|**Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design**|Maximilian Siebel et.al.|[2409.03417v1](http://arxiv.org/abs/2409.03417v1)|null|
-|**2024-09-05**|**Error bounds of Median-of-means estimators with VC-dimension**|Yuxuan Wang et.al.|[2409.03410v1](http://arxiv.org/abs/2409.03410v1)|null|
-|**2024-09-05**|**Recursive Quantization for $\mathcal{L}_2$ Stabilization of a Finite Capacity Stochastic Control Loop with Intermittent State Observations**|Shrija Karmakar et.al.|[2409.03398v1](http://arxiv.org/abs/2409.03398v1)|null|
-|**2024-09-05**|**Doubly heavy tetraquark bound and resonant states**|Wei-Lin Wu et.al.|[2409.03373v1](http://arxiv.org/abs/2409.03373v1)|null|
-|**2024-09-05**|**Rethinking Improved Privacy-Utility Trade-off with Pre-existing Knowledge for DP Training**|Yu Zheng et.al.|[2409.03344v1](http://arxiv.org/abs/2409.03344v1)|null|
-|**2024-09-05**|**Semi-Supervised Sparse Gaussian Classification: Provable Benefits of Unlabeled Data**|Eyar Azar et.al.|[2409.03335v1](http://arxiv.org/abs/2409.03335v1)|null|
-|**2024-09-05**|**Small gaps of GSE**|Renjie Feng et.al.|[2409.03324v1](http://arxiv.org/abs/2409.03324v1)|null|
-|**2024-09-05**|**Gaussian Process Phase Interpolation for estimating the asymptotic phase of a limit cycle oscillator from time series data**|Taichi Yamamoto et.al.|[2409.03290v1](http://arxiv.org/abs/2409.03290v1)|null|
-|**2024-09-05**|**Open charm mesons in variational scheme and HQET**|K. K. Vishwakarma et.al.|[2409.03285v2](http://arxiv.org/abs/2409.03285v2)|null|
-|**2024-09-05**|**Tensor network square root Kalman filter for online Gaussian process regression**|Clara Menzen et.al.|[2409.03276v1](http://arxiv.org/abs/2409.03276v1)|null|
-|**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270v1](http://arxiv.org/abs/2409.03270v1)|null|
-|**2024-09-05**|**Inertial Proximal Difference-of-Convex Algorithm with Convergent Bregman Plug-and-Play for Nonconvex Imaging**|Tsz Ching Chow et.al.|[2409.03262v1](http://arxiv.org/abs/2409.03262v1)|[link](https://github.com/nicholechow/PnP-iBPDCA)|
-|**2024-09-05**|**A Stochastic Approach to Reconstructing the Speed of Light in Cosmology**|Cheng-Yu Zhang et.al.|[2409.03248v1](http://arxiv.org/abs/2409.03248v1)|null|
-|**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213v1](http://arxiv.org/abs/2409.03213v1)|null|
-|**2024-09-05**|**Cosmic ray north-south anisotropy: rigidity spectrum and solar cycle variations observed by ground-based muon detectors**|M. Kozai et.al.|[2409.03182v1](http://arxiv.org/abs/2409.03182v1)|null|
