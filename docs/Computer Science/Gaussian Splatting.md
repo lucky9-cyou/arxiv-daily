@@ -25,7 +25,7 @@
 |**2024-09-05**|**Semi-Supervised Sparse Gaussian Classification: Provable Benefits of Unlabeled Data**|Eyar Azar et.al.|[2409.03335v1](http://arxiv.org/abs/2409.03335v1)|null|
 |**2024-09-05**|**Small gaps of GSE**|Renjie Feng et.al.|[2409.03324v1](http://arxiv.org/abs/2409.03324v1)|null|
 |**2024-09-05**|**Gaussian Process Phase Interpolation for estimating the asymptotic phase of a limit cycle oscillator from time series data**|Taichi Yamamoto et.al.|[2409.03290v1](http://arxiv.org/abs/2409.03290v1)|null|
-|**2024-09-05**|**Open charm mesons in variational scheme and HQET**|K. K. Vishwakarma et.al.|[2409.03285v1](http://arxiv.org/abs/2409.03285v1)|null|
+|**2024-09-05**|**Open charm mesons in variational scheme and HQET**|K. K. Vishwakarma et.al.|[2409.03285v2](http://arxiv.org/abs/2409.03285v2)|null|
 |**2024-09-05**|**Tensor network square root Kalman filter for online Gaussian process regression**|Clara Menzen et.al.|[2409.03276v1](http://arxiv.org/abs/2409.03276v1)|null|
 |**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270v1](http://arxiv.org/abs/2409.03270v1)|null|
 |**2024-09-05**|**Inertial Proximal Difference-of-Convex Algorithm with Convergent Bregman Plug-and-Play for Nonconvex Imaging**|Tsz Ching Chow et.al.|[2409.03262v1](http://arxiv.org/abs/2409.03262v1)|[link](https://github.com/nicholechow/PnP-iBPDCA)|
