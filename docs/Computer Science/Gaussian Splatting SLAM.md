@@ -16,7 +16,7 @@
 |**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199v1](http://arxiv.org/abs/2409.04199v1)|null|
 |**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|null|
 |**2024-09-06**|**Optimal Fidelity Estimation from Binary Measurements for Discrete and Continuous Variable Systems**|Omar Fawzi et.al.|[2409.04189v1](http://arxiv.org/abs/2409.04189v1)|null|
-|**2024-09-06**|**Formation of stable wormhole solution with non-commutative geometry in the framework of $f(R,\mathcal{L}_m, T)$ gravity**|Niklas Loewer et.al.|[2409.04172v1](http://arxiv.org/abs/2409.04172v1)|null|
+|**2024-09-06**|**Formation of stable wormhole solution with non-commutative geometry in the framework of $f(R,\mathcal{L}_m, T)$ gravity**|Niklas Loewer et.al.|[2409.04172v2](http://arxiv.org/abs/2409.04172v2)|null|
 |**2024-09-06**|**Blind-Adaptive Quantizers**|Aman Rishal Chemmala et.al.|[2409.04077v1](http://arxiv.org/abs/2409.04077v1)|null|
 |**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013v1](http://arxiv.org/abs/2409.04013v1)|null|
 |**2024-09-06**|**On the Specialisation of Gaussian Basis Sets for Core-Dependent Properties**|Robbie T. Ireland et.al.|[2409.03994v1](http://arxiv.org/abs/2409.03994v1)|null|
