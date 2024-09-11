@@ -29,6 +29,6 @@
 |**2024-09-08**|**Deep Self-cleansing for Medical Image Segmentation with Noisy Labels**|Jiahua Dong et.al.|[2409.05024v1](http://arxiv.org/abs/2409.05024v1)|null|
 |**2024-09-08**|**Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks**|Tran Viet Khoa et.al.|[2409.04972v1](http://arxiv.org/abs/2409.04972v1)|null|
 |**2024-09-08**|**GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning**|Keyi Liu et.al.|[2409.04963v1](http://arxiv.org/abs/2409.04963v1)|null|
-|**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961v1](http://arxiv.org/abs/2409.04961v1)|null|
+|**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961v2](http://arxiv.org/abs/2409.04961v2)|null|
 |**2024-09-07**|**Performance Analysis of Joint Antenna Selection and Precoding Methods in Multi-user Massive MISO**|Xiuxiu Ma et.al.|[2409.04924v1](http://arxiv.org/abs/2409.04924v1)|null|
 |**2024-09-07**|**Plug-and-Hide: Provable and Adjustable Diffusion Generative Steganography**|Jiahao Zhu et.al.|[2409.04878v1](http://arxiv.org/abs/2409.04878v1)|null|
