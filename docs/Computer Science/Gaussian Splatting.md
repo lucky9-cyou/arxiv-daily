@@ -10,7 +10,7 @@
 |**2024-09-10**|**A Short Information-Theoretic Analysis of Linear Auto-Regressive Learning**|Ingvar Ziemann et.al.|[2409.06437v1](http://arxiv.org/abs/2409.06437v1)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407v1](http://arxiv.org/abs/2409.06407v1)|[link](https://github.com/aaltoml/uncertainty-nerf-gs)|
 |**2024-09-10**|**Gaussian Approximation and Moderate Deviations of Poisson Shot Noises with Application to Compound Generalized Hawkes Processes**|Mahmoud Khabou et.al.|[2409.06394v1](http://arxiv.org/abs/2409.06394v1)|null|
-|**2024-09-10**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329v1](http://arxiv.org/abs/2409.06329v1)|null|
+|**2024-09-10**|**Modified Meta-Thompson Sampling for Linear Bandits and Its Bayes Regret Analysis**|Hao Li et.al.|[2409.06329v2](http://arxiv.org/abs/2409.06329v2)|null|
 |**2024-09-10**|**SDF-Net: A Hybrid Detection Network for Mediastinal Lymph Node Detection on Contrast CT Images**|Jiuli Xiong et.al.|[2409.06324v1](http://arxiv.org/abs/2409.06324v1)|null|
 |**2024-09-10**|**On Sparsity and Sub-Gaussianity in the Johnson-Lindenstrauss Lemma**|Aurélien Garivier et.al.|[2409.06275v1](http://arxiv.org/abs/2409.06275v1)|null|
 |**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v1](http://arxiv.org/abs/2409.06190v1)|[link](https://github.com/xzwy/msldm)|
