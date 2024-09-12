@@ -28,7 +28,7 @@
 |**2024-09-09**|**GASP: Gaussian Splatting for Physic-Based Simulations**|Piotr Borycki et.al.|[2409.05819v1](http://arxiv.org/abs/2409.05819v1)|null|
 |**2024-09-09**|**The Error Probability of Spatially Coupled Sparse Regression Codes over Memoryless Channels**|Yuhao Liu et.al.|[2409.05745v1](http://arxiv.org/abs/2409.05745v1)|null|
 |**2024-09-09**|**Predicting Electricity Consumption with Random Walks on Gaussian Processes**|Chloé Hashimoto-Cullen et.al.|[2409.05934v1](http://arxiv.org/abs/2409.05934v1)|null|
-|**2024-09-09**|**Distributionally Robust Stochastic Data-Driven Predictive Control with Optimized Feedback Gain**|Ruiqi Li et.al.|[2409.05727v1](http://arxiv.org/abs/2409.05727v1)|null|
+|**2024-09-09**|**Distributionally Robust Stochastic Data-Driven Predictive Control with Optimized Feedback Gain**|Ruiqi Li et.al.|[2409.05727v2](http://arxiv.org/abs/2409.05727v2)|null|
 |**2024-09-09**|**Hitting the mark: Optimising Marked Power Spectra for Cosmology**|Jessica A. Cowell et.al.|[2409.05695v1](http://arxiv.org/abs/2409.05695v1)|null|
 |**2024-09-09**|**Optimizing VarLiNGAM for Scalable and Efficient Time Series Causal Discovery**|Ziyang Jiao et.al.|[2409.05500v1](http://arxiv.org/abs/2409.05500v1)|null|
 |**2024-09-09**|**Vortex structures under dimples and scars in turbulent free-surface flows**|Jørgen R. Aarnes et.al.|[2409.05409v1](http://arxiv.org/abs/2409.05409v1)|null|
