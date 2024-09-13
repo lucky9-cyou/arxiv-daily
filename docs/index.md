@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-09-12 21:00:53 Asia/Shanghai
+ Automated deployment @ 2024-09-13 08:11:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456v1](http://arxiv.org/abs/2409.07456v1)|null|
@@ -23,7 +23,6 @@
 |**2024-09-11**|**Active Learning for Discovering Complex Phase Diagrams with Gaussian Processes**|Max Zhu et.al.|[2409.07042v1](http://arxiv.org/abs/2409.07042v1)|null|
 |**2024-09-11**|**Symbol Level Precoding for Systems with Improper Gaussian Interference**|Lu Liu et.al.|[2409.07034v1](http://arxiv.org/abs/2409.07034v1)|null|
 |**2024-09-11**|**Robust Square Root Unscented Kalman filter of graph signals**|Jinhui Hu et.al.|[2409.06981v1](http://arxiv.org/abs/2409.06981v1)|null|
-|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
 |**2024-09-11**|**Active Brownian particle under stochastic position and orientation resetting in a harmonic trap**|Amir Shee et.al.|[2409.06920v1](http://arxiv.org/abs/2409.06920v1)|null|
 |**2024-09-10**|**A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch**|Haodong Zheng et.al.|[2409.06912v1](http://arxiv.org/abs/2409.06912v1)|null|
 |**2024-09-10**|**Learning Deep Kernels for Non-Parametric Independence Testing**|Nathaniel Xu et.al.|[2409.06890v1](http://arxiv.org/abs/2409.06890v1)|null|
@@ -33,11 +32,12 @@
 |**2024-09-10**|**A Liang-Kleeman Causality Analysis based on Linear Inverse Modeling**|Justin Lien et.al.|[2409.06797v1](http://arxiv.org/abs/2409.06797v1)|null|
 |**2024-09-10**|**Inferring the density, spin-temperature and neutral-fraction fields of HI from its 21-cm brightness temperature field using machine learning**|Bohdan Bidenko et.al.|[2409.06769v1](http://arxiv.org/abs/2409.06769v1)|null|
 |**2024-09-10**|**gsplat: An Open-Source Library for Gaussian Splatting**|Vickie Ye et.al.|[2409.06765v1](http://arxiv.org/abs/2409.06765v1)|[link](https://github.com/nerfstudio-project/gsplat)|
-|**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693v1](http://arxiv.org/abs/2409.06693v1)|null|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
 |**2024-09-10**|**KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems**|Alireza Afzal Aghaei et.al.|[2409.06649v1](http://arxiv.org/abs/2409.06649v1)|null|
 |**2024-09-10**|**MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification**|Phu Pham et.al.|[2409.06620v1](http://arxiv.org/abs/2409.06620v1)|null|
 |**2024-09-10**|**Source Enumeration using the Distribution of Angles: A Robust and Parameter-Free Approach**|Gokularam Muthukrishnan et.al.|[2409.06563v1](http://arxiv.org/abs/2409.06563v1)|null|
+|**2024-09-10**|**Continual Domain Incremental Learning for Privacy-aware Digital Pathology**|Pratibha Kumari et.al.|[2409.06455v1](http://arxiv.org/abs/2409.06455v1)|null|
+|**2024-09-10**|**A Short Information-Theoretic Analysis of Linear Auto-Regressive Learning**|Ingvar Ziemann et.al.|[2409.06437v1](http://arxiv.org/abs/2409.06437v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,7 +73,7 @@
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966v1](http://arxiv.org/abs/2408.11966v1)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251v1](http://arxiv.org/abs/2408.11251v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456v1](http://arxiv.org/abs/2409.07456v1)|null|
@@ -91,6 +91,7 @@
 |**2024-09-11**|**Active Learning for Discovering Complex Phase Diagrams with Gaussian Processes**|Max Zhu et.al.|[2409.07042v1](http://arxiv.org/abs/2409.07042v1)|null|
 |**2024-09-11**|**Symbol Level Precoding for Systems with Improper Gaussian Interference**|Lu Liu et.al.|[2409.07034v1](http://arxiv.org/abs/2409.07034v1)|null|
 |**2024-09-11**|**Robust Square Root Unscented Kalman filter of graph signals**|Jinhui Hu et.al.|[2409.06981v1](http://arxiv.org/abs/2409.06981v1)|null|
+|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
 |**2024-09-11**|**Active Brownian particle under stochastic position and orientation resetting in a harmonic trap**|Amir Shee et.al.|[2409.06920v1](http://arxiv.org/abs/2409.06920v1)|null|
 |**2024-09-10**|**A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch**|Haodong Zheng et.al.|[2409.06912v1](http://arxiv.org/abs/2409.06912v1)|null|
 |**2024-09-10**|**Learning Deep Kernels for Non-Parametric Independence Testing**|Nathaniel Xu et.al.|[2409.06890v1](http://arxiv.org/abs/2409.06890v1)|null|
@@ -100,12 +101,11 @@
 |**2024-09-10**|**A Liang-Kleeman Causality Analysis based on Linear Inverse Modeling**|Justin Lien et.al.|[2409.06797v1](http://arxiv.org/abs/2409.06797v1)|null|
 |**2024-09-10**|**Inferring the density, spin-temperature and neutral-fraction fields of HI from its 21-cm brightness temperature field using machine learning**|Bohdan Bidenko et.al.|[2409.06769v1](http://arxiv.org/abs/2409.06769v1)|null|
 |**2024-09-10**|**gsplat: An Open-Source Library for Gaussian Splatting**|Vickie Ye et.al.|[2409.06765v1](http://arxiv.org/abs/2409.06765v1)|[link](https://github.com/nerfstudio-project/gsplat)|
+|**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693v1](http://arxiv.org/abs/2409.06693v1)|null|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
 |**2024-09-10**|**KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems**|Alireza Afzal Aghaei et.al.|[2409.06649v1](http://arxiv.org/abs/2409.06649v1)|null|
 |**2024-09-10**|**MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification**|Phu Pham et.al.|[2409.06620v1](http://arxiv.org/abs/2409.06620v1)|null|
 |**2024-09-10**|**Source Enumeration using the Distribution of Angles: A Robust and Parameter-Free Approach**|Gokularam Muthukrishnan et.al.|[2409.06563v1](http://arxiv.org/abs/2409.06563v1)|null|
-|**2024-09-10**|**Continual Domain Incremental Learning for Privacy-aware Digital Pathology**|Pratibha Kumari et.al.|[2409.06455v1](http://arxiv.org/abs/2409.06455v1)|null|
-|**2024-09-10**|**A Short Information-Theoretic Analysis of Linear Auto-Regressive Learning**|Ingvar Ziemann et.al.|[2409.06437v1](http://arxiv.org/abs/2409.06437v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
