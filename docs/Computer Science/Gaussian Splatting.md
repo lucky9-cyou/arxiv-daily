@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456v1](http://arxiv.org/abs/2409.07456v1)|null|
-|**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452v1](http://arxiv.org/abs/2409.07452v1)|[link](https://github.com/yanghb22-fdu/hi3d-official)|
-|**2024-09-11**|**StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos**|Sijie Zhao et.al.|[2409.07447v1](http://arxiv.org/abs/2409.07447v1)|null|
-|**2024-09-11**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441v1](http://arxiv.org/abs/2409.07441v1)|null|
-|**2024-09-11**|**Almost sure central limit theorems for parabolic/hyperbolic Anderson models with Gaussian colored noises**|Panqiu Xia et.al.|[2409.07358v1](http://arxiv.org/abs/2409.07358v1)|null|
-|**2024-09-11**|**Graphical Calculus for Non-Gaussian Quantum States**|Lina Vandré et.al.|[2409.07300v1](http://arxiv.org/abs/2409.07300v1)|null|
-|**2024-09-11**|**List-based Optimization of Proximal Decoding for LDPC Codes**|Andreas Tsouchlos et.al.|[2409.07278v1](http://arxiv.org/abs/2409.07278v1)|null|
-|**2024-09-11**|**Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks**|Ruihan Xu et.al.|[2409.07245v1](http://arxiv.org/abs/2409.07245v1)|null|
-|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200v1](http://arxiv.org/abs/2409.07200v1)|null|
-|**2024-09-11**|**Low-energy critical behavior in two-dimensional tilted semi-Dirac semimetals driven by fermion-fermion interactions**|Wen Liu et.al.|[2409.07126v1](http://arxiv.org/abs/2409.07126v1)|null|
-|**2024-09-11**|**Local Sequential MCMC for Data Assimilation with Applications in Geoscience**|Hamza Ruzayqat et.al.|[2409.07111v1](http://arxiv.org/abs/2409.07111v1)|null|
-|**2024-09-11**|**Addressing Pilot Contamination in Channel Estimation with Variational Autoencoders**|Amar Kasibovic et.al.|[2409.07071v1](http://arxiv.org/abs/2409.07071v1)|null|
-|**2024-09-11**|**Active Learning for Discovering Complex Phase Diagrams with Gaussian Processes**|Max Zhu et.al.|[2409.07042v1](http://arxiv.org/abs/2409.07042v1)|null|
-|**2024-09-11**|**Symbol Level Precoding for Systems with Improper Gaussian Interference**|Lu Liu et.al.|[2409.07034v1](http://arxiv.org/abs/2409.07034v1)|null|
-|**2024-09-11**|**Robust Square Root Unscented Kalman filter of graph signals**|Jinhui Hu et.al.|[2409.06981v1](http://arxiv.org/abs/2409.06981v1)|null|
-|**2024-09-11**|**Active Brownian particle under stochastic position and orientation resetting in a harmonic trap**|Amir Shee et.al.|[2409.06920v1](http://arxiv.org/abs/2409.06920v1)|null|
-|**2024-09-10**|**A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch**|Haodong Zheng et.al.|[2409.06912v1](http://arxiv.org/abs/2409.06912v1)|null|
-|**2024-09-10**|**Learning Deep Kernels for Non-Parametric Independence Testing**|Nathaniel Xu et.al.|[2409.06890v1](http://arxiv.org/abs/2409.06890v1)|null|
-|**2024-09-10**|**Concentration of quantum channels with random Kraus operators via matrix Bernstein inequality**|Motohisa Fukuda et.al.|[2409.06862v1](http://arxiv.org/abs/2409.06862v1)|null|
-|**2024-09-10**|**On the limit law of the superdiffusive elephant random walk**|Hélène Guérin et.al.|[2409.06836v1](http://arxiv.org/abs/2409.06836v1)|null|
-|**2024-09-10**|**Atom dimension adaptation for infinite set dictionary learning**|Andra Băltoiu et.al.|[2409.06831v1](http://arxiv.org/abs/2409.06831v1)|null|
-|**2024-09-10**|**A Liang-Kleeman Causality Analysis based on Linear Inverse Modeling**|Justin Lien et.al.|[2409.06797v1](http://arxiv.org/abs/2409.06797v1)|null|
-|**2024-09-10**|**Inferring the density, spin-temperature and neutral-fraction fields of HI from its 21-cm brightness temperature field using machine learning**|Bohdan Bidenko et.al.|[2409.06769v1](http://arxiv.org/abs/2409.06769v1)|null|
-|**2024-09-10**|**gsplat: An Open-Source Library for Gaussian Splatting**|Vickie Ye et.al.|[2409.06765v1](http://arxiv.org/abs/2409.06765v1)|[link](https://github.com/nerfstudio-project/gsplat)|
-|**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
-|**2024-09-10**|**KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems**|Alireza Afzal Aghaei et.al.|[2409.06649v1](http://arxiv.org/abs/2409.06649v1)|null|
-|**2024-09-10**|**MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification**|Phu Pham et.al.|[2409.06620v1](http://arxiv.org/abs/2409.06620v1)|null|
-|**2024-09-10**|**Source Enumeration using the Distribution of Angles: A Robust and Parameter-Free Approach**|Gokularam Muthukrishnan et.al.|[2409.06563v1](http://arxiv.org/abs/2409.06563v1)|null|
-|**2024-09-10**|**Continual Domain Incremental Learning for Privacy-aware Digital Pathology**|Pratibha Kumari et.al.|[2409.06455v1](http://arxiv.org/abs/2409.06455v1)|null|
-|**2024-09-10**|**A Short Information-Theoretic Analysis of Linear Auto-Regressive Learning**|Ingvar Ziemann et.al.|[2409.06437v1](http://arxiv.org/abs/2409.06437v1)|null|
+|**2024-09-12**|**The Role of the Curvaton Post-Planck**|Gongjun Choi et.al.|[2409.08279v1](http://arxiv.org/abs/2409.08279v1)|null|
+|**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270v1](http://arxiv.org/abs/2409.08270v1)|[link](https://github.com/florinshen/flashsplat)|
+|**2024-09-12**|**Photon pair generation via down-conversion in III-V semiconductor microrings: modal dispersion and quasi-phase matching**|Samuel E. Fontaine et.al.|[2409.08230v1](http://arxiv.org/abs/2409.08230v1)|null|
+|**2024-09-12**|**Graph Laplacian-based Bayesian Multi-fidelity Modeling**|Orazio Pinti et.al.|[2409.08211v1](http://arxiv.org/abs/2409.08211v1)|null|
+|**2024-09-12**|**Optimizing Qubit Control Pulses for State Preparation**|Annika S. Wiening et.al.|[2409.08204v1](http://arxiv.org/abs/2409.08204v1)|null|
+|**2024-09-12**|**Unifying the description of hydrocarbons and hydrogenated carbon materials with a chemically reactive machine learning interatomic potential**|Rina Ibragimova et.al.|[2409.08194v1](http://arxiv.org/abs/2409.08194v1)|null|
+|**2024-09-12**|**Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video**|Boxiang Rong et.al.|[2409.08189v1](http://arxiv.org/abs/2409.08189v1)|null|
+|**2024-09-12**|**Fermionic Gaussian Testing and Non-Gaussian Measures via Convolution**|Nicholas Lyu et.al.|[2409.08180v1](http://arxiv.org/abs/2409.08180v1)|null|
+|**2024-09-12**|**Review of Recent Advances in Gaussian Process Regression Methods**|Chenyi Lyu et.al.|[2409.08112v1](http://arxiv.org/abs/2409.08112v1)|null|
+|**2024-09-12**|**Using the Simba cosmological simulations to measure the planar relation between stellar specific angular momentum, mass and effective surface brightness**|E. Elson et.al.|[2409.08076v1](http://arxiv.org/abs/2409.08076v1)|null|
+|**2024-09-12**|**Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis**|Qian Chen et.al.|[2409.08042v1](http://arxiv.org/abs/2409.08042v1)|[link](https://github.com/mzzcdf/thermal3dgs)|
+|**2024-09-12**|**Near-optimal coherent state discrimination via continuously labelled non-Gaussian measurements**|James Moran et.al.|[2409.08032v1](http://arxiv.org/abs/2409.08032v1)|null|
+|**2024-09-12**|**The small-mass limit for some constrained wave equations with nonlinear conservative noise**|Sandra Cerrai et.al.|[2409.08021v1](http://arxiv.org/abs/2409.08021v1)|null|
+|**2024-09-12**|**Fast Projected Bispectra: the filter-square approach**|Lea Harscouet et.al.|[2409.07980v1](http://arxiv.org/abs/2409.07980v1)|null|
+|**2024-09-12**|**Localized Schrödinger Bridge Sampler**|Georg A. Gottwald et.al.|[2409.07968v1](http://arxiv.org/abs/2409.07968v1)|null|
+|**2024-09-12**|**Hamiltonian Lorenz-like models**|Francesco Fedele et.al.|[2409.07920v1](http://arxiv.org/abs/2409.07920v1)|null|
+|**2024-09-12**|**Follow-up of Neutron Star Mergers with CTA and Prospects for Joint Detection with Gravitational-Wave Detectors**|T. Mondal et.al.|[2409.07916v1](http://arxiv.org/abs/2409.07916v1)|null|
+|**2024-09-12**|**Classifying Multipartite Continuous Variable Entanglement Structures through Data-augmented Neural Networks**|Xiaoting Gao et.al.|[2409.07909v1](http://arxiv.org/abs/2409.07909v1)|null|
+|**2024-09-12**|**Limit Profile for the Bernoulli--Laplace Urn**|Sam Olesker-Taylor et.al.|[2409.07900v1](http://arxiv.org/abs/2409.07900v1)|null|
+|**2024-09-12**|**Cellwise outlier detection in heterogeneous populations**|Giorgia Zaccaria et.al.|[2409.07881v1](http://arxiv.org/abs/2409.07881v1)|null|
+|**2024-09-12**|**Fused $L_{1/2}$ prior for large scale linear inverse problem with Gibbs bouncy particle sampler**|Xiongwen Ke et.al.|[2409.07874v1](http://arxiv.org/abs/2409.07874v1)|null|
+|**2024-09-12**|**Fate of Boltzmann's breathers: kinetic theory perspective**|P. Maynar et.al.|[2409.07831v1](http://arxiv.org/abs/2409.07831v1)|null|
+|**2024-09-12**|**FedHide: Federated Learning by Hiding in the Neighbors**|Hyunsin Park et.al.|[2409.07808v1](http://arxiv.org/abs/2409.07808v1)|null|
+|**2024-09-12**|**Bounds on Covert Capacity in the Sub-Exponential Slotted Asynchronous Regime**|Shi-Yuan Wang et.al.|[2409.07777v1](http://arxiv.org/abs/2409.07777v1)|null|
+|**2024-09-12**|**SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length**|Bangya Liu et.al.|[2409.07759v1](http://arxiv.org/abs/2409.07759v1)|null|
+|**2024-09-12**|**Contrasting Statistical Phase Estimation with the Variational Quantum Eigensolver in the era of Early Fault Tolerant Quantum Computation**|Ming-Zhi Chung et.al.|[2409.07749v1](http://arxiv.org/abs/2409.07749v1)|null|
+|**2024-09-12**|**Dataset-Free Weight-Initialization on Restricted Boltzmann Machine**|Muneki Yasuda et.al.|[2409.07708v1](http://arxiv.org/abs/2409.07708v1)|null|
+|**2024-09-12**|**Generalized inflation in the context of $κ$-deformed theories**|B W Ribeiro et.al.|[2409.07678v1](http://arxiv.org/abs/2409.07678v1)|null|
+|**2024-09-11**|**Gaussian Process Upper Confidence Bounds in Distributed Point Target Tracking over Wireless Sensor Networks**|Xingchi Liu et.al.|[2409.07652v1](http://arxiv.org/abs/2409.07652v1)|null|
+|**2024-09-11**|**Weather-Informed Probabilistic Forecasting and Scenario Generation in Power Systems**|Hanyu Zhang et.al.|[2409.07637v1](http://arxiv.org/abs/2409.07637v1)|null|
