@@ -23,7 +23,7 @@
 |**2024-09-13**|**Quantum Metrology via Floquet-Engineered Two-axis Twisting and Turn Dynamics**|Jihao Ma et.al.|[2409.08524v1](http://arxiv.org/abs/2409.08524v1)|null|
 |**2024-09-13**|**Integration by parts and invariant measure for KPZ**|Yu Gu et.al.|[2409.08465v1](http://arxiv.org/abs/2409.08465v1)|null|
 |**2024-09-13**|**An Entropy-Based Test and Development Framework for Uncertainty Modeling in Level-Set Visualizations**|Robert Sisneros et.al.|[2409.08445v1](http://arxiv.org/abs/2409.08445v1)|null|
-|**2024-09-12**|**Graphical Structural Learning of rs-fMRI data in Heavy Smokers**|Yiru Gong et.al.|[2409.08395v1](http://arxiv.org/abs/2409.08395v1)|null|
+|**2024-09-12**|**Graphical Structural Learning of rs-fMRI data in Heavy Smokers**|Yiru Gong et.al.|[2409.08395v2](http://arxiv.org/abs/2409.08395v2)|null|
 |**2024-09-12**|**Upper tails for arithmetic progressions revisited**|Matan Harel et.al.|[2409.08383v1](http://arxiv.org/abs/2409.08383v1)|null|
 |**2024-09-12**|**Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos**|Yuheng Jiang et.al.|[2409.08353v1](http://arxiv.org/abs/2409.08353v1)|null|
 |**2024-09-12**|**The Role of the Curvaton Post-Planck**|Gongjun Choi et.al.|[2409.08279v1](http://arxiv.org/abs/2409.08279v1)|null|
