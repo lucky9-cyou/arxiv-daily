@@ -2,7 +2,7 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-16**|**Beth-Uhlenbeck equation for the thermodynamics of fluctuations in a generalised 2+1D Gross-Neveu model**|Biplab Mahato et.al.|[2409.10507v1](http://arxiv.org/abs/2409.10507v1)|null|
+|**2024-09-16**|**Beth-Uhlenbeck equation for the thermodynamics of fluctuations in a generalised 2+1D Gross-Neveu model**|Biplab Mahato et.al.|[2409.10507v1](http://arxiv.org/abs/2409.10507v1)|[link](https://github.com/biplab37/PhaseGN)|
 |**2024-09-16**|**Uniform-in-$N$ log-Sobolev inequality for the mean-field Langevin dynamics with convex energy**|Sinho Chewi et.al.|[2409.10440v1](http://arxiv.org/abs/2409.10440v1)|null|
 |**2024-09-16**|**Multidimensional Deconvolution with Profiling**|Huanbiao Zhu et.al.|[2409.10421v1](http://arxiv.org/abs/2409.10421v1)|null|
 |**2024-09-16**|**On interactive anisotropic walks in two dimensions generated from a three state opinion dynamics model**|Surajit Saha et.al.|[2409.10413v1](http://arxiv.org/abs/2409.10413v1)|null|
