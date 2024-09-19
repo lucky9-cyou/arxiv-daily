@@ -20,7 +20,7 @@
 |**2024-09-17**|**Valid Credible Ellipsoids for Linear Functionals by a Renormalized Bernstein-von Mises Theorem**|Gustav Rømer et.al.|[2409.10947v1](http://arxiv.org/abs/2409.10947v1)|null|
 |**2024-09-17**|**On the normalized signal to noise ratio in covariance estimation**|Tzvi Diskin et.al.|[2409.10896v1](http://arxiv.org/abs/2409.10896v1)|null|
 |**2024-09-17**|**Semi-analytical model of optothermal fluidics in a confinement**|Tetsuro Tsuji et.al.|[2409.10837v1](http://arxiv.org/abs/2409.10837v1)|null|
-|**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802v1](http://arxiv.org/abs/2409.10802v1)|null|
+|**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802v2](http://arxiv.org/abs/2409.10802v2)|null|
 |**2024-09-16**|**On massive particle surfaces, partial umbilicity and circular orbits**|Boris Bermúdez-Cárdenas et.al.|[2409.10789v1](http://arxiv.org/abs/2409.10789v1)|null|
 |**2024-09-16**|**Tight Lower Bounds under Asymmetric High-Order Hölder Smoothness and Uniform Convexity**|Site Bai et.al.|[2409.10773v1](http://arxiv.org/abs/2409.10773v1)|null|
 |**2024-09-16**|**A Spectral Representation of a Weighted Random Vectorial Field: Potential Applications to Turbulence and the Problem of Anomalous Dissipation in the Inviscid Limit**|Steven D Miller et.al.|[2409.10636v1](http://arxiv.org/abs/2409.10636v1)|null|
