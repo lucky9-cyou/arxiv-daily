@@ -2,6 +2,26 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193v1](http://arxiv.org/abs/2409.12193v1)|[link](https://github.com/florinshen/vista3d)|
+|**2024-09-18**|**Blind Deconvolution on Graphs: Exact and Stable Recovery**|Chang Ye et.al.|[2409.12164v1](http://arxiv.org/abs/2409.12164v1)|null|
+|**2024-09-18**|**Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling**|W. S. Porter et.al.|[2409.12141v1](http://arxiv.org/abs/2409.12141v1)|null|
+|**2024-09-18**|**X-ray view of emission lines in optical spectra: Spectral analysis of the two low-mass X-ray binary systems Swift J1357.2-0933 and MAXI J1305-704**|A. Anitra et.al.|[2409.11988v1](http://arxiv.org/abs/2409.11988v1)|null|
+|**2024-09-18**|**End-to-End Learning of Transmitter and Receiver Filters in Bandwidth Limited Fiber Optic Communication Systems**|Søren Føns Nielsen et.al.|[2409.11980v1](http://arxiv.org/abs/2409.11980v1)|null|
+|**2024-09-18**|**Inhomogeneous Abelian Chern-Simons Higgs Model with New Inhomogeneous BPS Vacuum and Solitons**|Yoonbai Kim et.al.|[2409.11978v1](http://arxiv.org/abs/2409.11978v1)|null|
+|**2024-09-18**|**GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**|Kartik Teotia et.al.|[2409.11951v1](http://arxiv.org/abs/2409.11951v1)|null|
+|**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941v1](http://arxiv.org/abs/2409.11941v1)|null|
+|**2024-09-18**|**Conformal Prediction for Manifold-based Source Localization with Gaussian Processes**|Vadim Rozenfeld et.al.|[2409.11804v1](http://arxiv.org/abs/2409.11804v1)|null|
+|**2024-09-18**|**Consistent Estimation of a Class of Distances Between Covariance Matrices**|Roberto Pereira et.al.|[2409.11761v1](http://arxiv.org/abs/2409.11761v1)|[link](https://github.com/robertomatheuspp/rmtclustering)|
+|**2024-09-18**|**Covert Communications Without Pre-Sharing of Side Information and Channel Estimation Over Quasi-Static Fading Channels**|Hiroki Fukada et.al.|[2409.11755v1](http://arxiv.org/abs/2409.11755v1)|null|
+|**2024-09-18**|**Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System**|Ying Zhou et.al.|[2409.11745v1](http://arxiv.org/abs/2409.11745v1)|null|
+|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682v1](http://arxiv.org/abs/2409.11682v1)|null|
+|**2024-09-18**|**Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks**|Joji Joseph et.al.|[2409.11681v1](http://arxiv.org/abs/2409.11681v1)|[link](https://github.com/JojiJoseph/3dgs-gradient-segmentation)|
+|**2024-09-18**|**Representation theory of Gaussian unitary transformations for bosonic and fermionic systems**|Tommaso Guaita et.al.|[2409.11628v1](http://arxiv.org/abs/2409.11628v1)|null|
+|**2024-09-17**|**A Robust Approach to Gaussian Processes Implementation**|Juliette Mukangango et.al.|[2409.11577v1](http://arxiv.org/abs/2409.11577v1)|null|
+|**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541v1](http://arxiv.org/abs/2409.11541v1)|null|
+|**2024-09-17**|**Balancing Optimality and Diversity: Human-Centered Decision Making through Generative Curation**|Michael Lingzhi Li et.al.|[2409.11535v1](http://arxiv.org/abs/2409.11535v1)|null|
+|**2024-09-17**|**On weighted Blaschke--Santalo and strong Brascamp--Lieb inequalities**|Andrea Colesanti et.al.|[2409.11503v1](http://arxiv.org/abs/2409.11503v1)|null|
+|**2024-09-17**|**Decomposing Gaussians with Unknown Covariance**|Ameer Dharamshi et.al.|[2409.11497v1](http://arxiv.org/abs/2409.11497v1)|[link](https://github.com/ameerd/gaussians)|
 |**2024-09-17**|**Edge spectra of Gaussian random symmetric matrices with correlated entries**|Debapratim Banerjee et.al.|[2409.11381v1](http://arxiv.org/abs/2409.11381v1)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-17**|**Gravitational waves from primordial black hole isocurvature: the effect of non-Gaussianities**|Xin-Chen He et.al.|[2409.11333v1](http://arxiv.org/abs/2409.11333v1)|null|
@@ -12,23 +32,3 @@
 |**2024-09-17**|**Scale generalisation properties of extended scale-covariant and scale-invariant Gaussian derivative networks on image datasets with spatial scaling variations**|Andrzej Perzanowski et.al.|[2409.11140v1](http://arxiv.org/abs/2409.11140v1)|null|
 |**2024-09-17**|**E-Values for Exponential Families: the General Case**|Yunda Hao et.al.|[2409.11134v1](http://arxiv.org/abs/2409.11134v1)|null|
 |**2024-09-17**|**Data-driven stochastic 3D modeling of the nanoporous binder-conductive additive phase in battery cathodes**|Phillip Gräfensteiner et.al.|[2409.11080v1](http://arxiv.org/abs/2409.11080v1)|null|
-|**2024-09-17**|**Force Myography based Torque Estimation in Human Knee and Ankle Joints**|Charlotte Marquardt et.al.|[2409.11061v1](http://arxiv.org/abs/2409.11061v1)|null|
-|**2024-09-17**|**Functional Adaptive Huber Linear Regression**|Ling Peng et.al.|[2409.11053v1](http://arxiv.org/abs/2409.11053v1)|null|
-|**2024-09-17**|**Latent mixed-effect models for high-dimensional longitudinal data**|Priscilla Ong et.al.|[2409.11008v1](http://arxiv.org/abs/2409.11008v1)|null|
-|**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982v1](http://arxiv.org/abs/2409.10982v1)|null|
-|**2024-09-17**|**Towards Gaussian Process for operator learning: an uncertainty aware resolution independent operator learning algorithm for computational mechanics**|Sawan Kumar et.al.|[2409.10972v1](http://arxiv.org/abs/2409.10972v1)|null|
-|**2024-09-17**|**Valid Credible Ellipsoids for Linear Functionals by a Renormalized Bernstein-von Mises Theorem**|Gustav Rømer et.al.|[2409.10947v1](http://arxiv.org/abs/2409.10947v1)|null|
-|**2024-09-17**|**On the normalized signal to noise ratio in covariance estimation**|Tzvi Diskin et.al.|[2409.10896v1](http://arxiv.org/abs/2409.10896v1)|null|
-|**2024-09-17**|**Semi-analytical model of optothermal fluidics in a confinement**|Tetsuro Tsuji et.al.|[2409.10837v1](http://arxiv.org/abs/2409.10837v1)|null|
-|**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802v2](http://arxiv.org/abs/2409.10802v2)|null|
-|**2024-09-16**|**On massive particle surfaces, partial umbilicity and circular orbits**|Boris Bermúdez-Cárdenas et.al.|[2409.10789v1](http://arxiv.org/abs/2409.10789v1)|null|
-|**2024-09-16**|**Tight Lower Bounds under Asymmetric High-Order Hölder Smoothness and Uniform Convexity**|Site Bai et.al.|[2409.10773v1](http://arxiv.org/abs/2409.10773v1)|null|
-|**2024-09-16**|**A Spectral Representation of a Weighted Random Vectorial Field: Potential Applications to Turbulence and the Problem of Anomalous Dissipation in the Inviscid Limit**|Steven D Miller et.al.|[2409.10636v1](http://arxiv.org/abs/2409.10636v1)|null|
-|**2024-09-16**|**A machine learning framework to generate star cluster realisations**|George P. Prodan et.al.|[2409.10627v1](http://arxiv.org/abs/2409.10627v1)|null|
-|**2024-09-16**|**Deciphering spatially resolved Lyman-alpha profiles in reionization analogs: the Sunburst Arc at cosmic noon**|E. Solhaug et.al.|[2409.10604v1](http://arxiv.org/abs/2409.10604v1)|null|
-|**2024-09-16**|**Non-Gaussianity Beyond the Scalar Sector: A Search for Tensor and Mixed Tensor-Scalar Bispectra with Planck Data**|Oliver H. E. Philcox et.al.|[2409.10595v1](http://arxiv.org/abs/2409.10595v1)|null|
-|**2024-09-16**|**Beth-Uhlenbeck equation for the thermodynamics of fluctuations in a generalised 2+1D Gross-Neveu model**|Biplab Mahato et.al.|[2409.10507v1](http://arxiv.org/abs/2409.10507v1)|[link](https://github.com/biplab37/PhaseGN)|
-|**2024-09-16**|**Uniform-in-$N$ log-Sobolev inequality for the mean-field Langevin dynamics with convex energy**|Sinho Chewi et.al.|[2409.10440v1](http://arxiv.org/abs/2409.10440v1)|null|
-|**2024-09-16**|**Multidimensional Deconvolution with Profiling**|Huanbiao Zhu et.al.|[2409.10421v1](http://arxiv.org/abs/2409.10421v1)|null|
-|**2024-09-16**|**On interactive anisotropic walks in two dimensions generated from a three state opinion dynamics model**|Surajit Saha et.al.|[2409.10413v1](http://arxiv.org/abs/2409.10413v1)|null|
-|**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339v1](http://arxiv.org/abs/2409.10339v1)|null|
