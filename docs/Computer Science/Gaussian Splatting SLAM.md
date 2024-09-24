@@ -6,7 +6,7 @@
 |**2024-09-18**|**Bundle Adjustment in the Eager Mode**|Zitong Zhan et.al.|[2409.12190v1](http://arxiv.org/abs/2409.12190v1)|null|
 |**2024-09-18**|**Blind Deconvolution on Graphs: Exact and Stable Recovery**|Chang Ye et.al.|[2409.12164v1](http://arxiv.org/abs/2409.12164v1)|null|
 |**2024-09-18**|**Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling**|W. S. Porter et.al.|[2409.12141v1](http://arxiv.org/abs/2409.12141v1)|null|
-|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v1](http://arxiv.org/abs/2409.12051v1)|null|
+|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v2](http://arxiv.org/abs/2409.12051v2)|null|
 |**2024-09-18**|**X-ray view of emission lines in optical spectra: Spectral analysis of the two low-mass X-ray binary systems Swift J1357.2-0933 and MAXI J1305-704**|A. Anitra et.al.|[2409.11988v1](http://arxiv.org/abs/2409.11988v1)|null|
 |**2024-09-18**|**End-to-End Learning of Transmitter and Receiver Filters in Bandwidth Limited Fiber Optic Communication Systems**|Søren Føns Nielsen et.al.|[2409.11980v1](http://arxiv.org/abs/2409.11980v1)|null|
 |**2024-09-18**|**Inhomogeneous Abelian Chern-Simons Higgs Model with New Inhomogeneous BPS Vacuum and Solitons**|Yoonbai Kim et.al.|[2409.11978v1](http://arxiv.org/abs/2409.11978v1)|null|
