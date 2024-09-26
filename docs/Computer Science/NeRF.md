@@ -2,6 +2,13 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715v1](http://arxiv.org/abs/2409.15715v1)|null|
+|**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689v1](http://arxiv.org/abs/2409.15689v1)|null|
+|**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487v1](http://arxiv.org/abs/2409.15487v1)|null|
+|**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147v1](http://arxiv.org/abs/2409.16147v1)|null|
+|**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316v1](http://arxiv.org/abs/2409.14316v1)|null|
+|**2024-09-21**|**MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors**|Zhenhua Du et.al.|[2409.14019v1](http://arxiv.org/abs/2409.14019v1)|null|
+|**2024-09-19**|**CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**|Vladimir Frolov et.al.|[2409.12617v1](http://arxiv.org/abs/2409.12617v1)|null|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156v1](http://arxiv.org/abs/2409.12156v1)|null|
 |**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v2](http://arxiv.org/abs/2409.12014v2)|[link](https://github.com/lulinzhang/brdf-nerf)|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
@@ -25,10 +32,3 @@
 |**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213v1](http://arxiv.org/abs/2409.03213v1)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917v1](http://arxiv.org/abs/2409.02917v1)|[link](https://github.com/wrld/uc-nerf)|
 |**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084v1](http://arxiv.org/abs/2409.02084v1)|null|
-|**2024-09-03**|**$S^2$NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661v1](http://arxiv.org/abs/2409.01661v1)|[link](https://github.com/lucky9-cyou/S2-NeRF)|
-|**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027v1](http://arxiv.org/abs/2408.17027v1)|null|
-|**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866v1](http://arxiv.org/abs/2408.16866v1)|null|
-|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v2](http://arxiv.org/abs/2408.16690v2)|null|
-|**2024-08-29**|**Spurfies: Sparse Surface Reconstruction using Local Geometry Priors**|Kevin Raj et.al.|[2408.16544v1](http://arxiv.org/abs/2408.16544v1)|null|
-|**2024-08-29**|**NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**|Kirsten W. H. Maas et.al.|[2408.16355v1](http://arxiv.org/abs/2408.16355v1)|[link](https://github.com/kirstenmaas/nerf-ca)|
-|**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708v1](http://arxiv.org/abs/2408.15708v1)|null|
