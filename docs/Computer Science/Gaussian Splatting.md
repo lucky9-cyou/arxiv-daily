@@ -2,6 +2,27 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-27**|**Entanglement distribution in pure non-Gaussian tripartite states: a Schmidt decomposition approach**|Abdeldjalil Merdaci et.al.|[2409.18923v1](http://arxiv.org/abs/2409.18923v1)|null|
+|**2024-09-27**|**Energy-momentum correlators of fermions at finite temperature and density**|Sourav Dey et.al.|[2409.18912v1](http://arxiv.org/abs/2409.18912v1)|null|
+|**2024-09-27**|**Probabilistic Analysis of Least Squares, Orthogonal Projection, and QR Factorization Algorithms Subject to Gaussian Noise**|Ali Lotfi et.al.|[2409.18905v1](http://arxiv.org/abs/2409.18905v1)|null|
+|**2024-09-27**|**Enhancing Characterization of Near-Surface Velocity Structure(s) in the San Francisco Bay Area: A Stationary and Spatially Varying Approach**|Grigorios Lavrentiadis et.al.|[2409.18856v1](http://arxiv.org/abs/2409.18856v1)|null|
+|**2024-09-27**|**Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes**|Shuo Wang et.al.|[2409.18852v1](http://arxiv.org/abs/2409.18852v1)|null|
+|**2024-09-27**|**Temperature anisotropy instabilities driven by intermittent velocity shears in the solar wind**|Simon Opie et.al.|[2409.18849v1](http://arxiv.org/abs/2409.18849v1)|null|
+|**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804v1](http://arxiv.org/abs/2409.18804v1)|null|
+|**2024-09-27**|**A Novel Unified Architecture for Low-Shot Counting by Detection and Segmentation**|Jer Pelhan et.al.|[2409.18686v1](http://arxiv.org/abs/2409.18686v1)|null|
+|**2024-09-27**|**DP-SCC-PL:Differentially Private Decentralized Byzantine-Resilient Stochastic Optimization via Self-Centered Clipping Under Polyak-Łojasiewicz Condition**|Jinhui Hu et.al.|[2409.18632v1](http://arxiv.org/abs/2409.18632v1)|null|
+|**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543v1](http://arxiv.org/abs/2409.18543v1)|[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)|
+|**2024-09-27**|**Tightness for random walks driven by the two-dimensional Gaussian free field at high temperature**|Jian Ding et.al.|[2409.18492v1](http://arxiv.org/abs/2409.18492v1)|null|
+|**2024-09-27**|**Moment varieties of the inverse Gaussian and gamma distributions are nondefective**|Oskar Henriksson et.al.|[2409.18421v1](http://arxiv.org/abs/2409.18421v1)|null|
+|**2024-09-27**|**Consistency of variational Bayesian inference for non-linear inverse problems of partial differential equations**|Shaokang Zu et.al.|[2409.18415v1](http://arxiv.org/abs/2409.18415v1)|null|
+|**2024-09-27**|**Short-time large deviations of first-passage functionals for high-order stochastic processes**|Lulu Tian et.al.|[2409.18398v1](http://arxiv.org/abs/2409.18398v1)|null|
+|**2024-09-27**|**Gaussian $\text{JN}_p$ spaces**|Jorge J. Betancor et.al.|[2409.18354v1](http://arxiv.org/abs/2409.18354v1)|null|
+|**2024-09-26**|**Effect of Dispersity on Dynamic Properties of Polymer Melts: Insights from Coarse-Grained Molecular Dynamics Simulations**|Taofeek Tejuosho et.al.|[2409.18315v1](http://arxiv.org/abs/2409.18315v1)|null|
+|**2024-09-26**|**Heterogeneous populations of quadratic integrate-and-fire neurons: on the generality of Lorentzian distributions**|Bastian Pietras et.al.|[2409.18278v1](http://arxiv.org/abs/2409.18278v1)|null|
+|**2024-09-26**|**Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning**|Grzegorz Rypeść et.al.|[2409.18265v1](http://arxiv.org/abs/2409.18265v1)|[link](https://github.com/grypesc/adagauss)|
+|**2024-09-26**|**Coupled-Cluster Calculations of Infinite Nuclear Matter in the Complete Basis Limit Using Bayesian Machine Learning**|Julie Butler et.al.|[2409.18234v1](http://arxiv.org/abs/2409.18234v1)|null|
+|**2024-09-26**|**Revisiting the Vertical Distribution of HI Absorbing Clouds in the Solar Neighborhood. II. Constraints from a Large Catalog of 21 cm Absorption Observations at High Galactic Latitudes**|Daniel R. Rybarczyk et.al.|[2409.18190v1](http://arxiv.org/abs/2409.18190v1)|null|
+|**2024-09-26**|**Cosmology on point: modelling spectroscopic tracer one-point statistics**|Beth McCarthy Gould et.al.|[2409.18182v1](http://arxiv.org/abs/2409.18182v1)|null|
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122v1](http://arxiv.org/abs/2409.18122v1)|null|
 |**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108v1](http://arxiv.org/abs/2409.18108v1)|null|
 |**2024-09-26**|**Conformally invariant boundary arcs in double dimers**|Marcin Lis et.al.|[2409.18015v1](http://arxiv.org/abs/2409.18015v1)|null|
@@ -11,24 +32,3 @@
 |**2024-09-26**|**Quantum entanglement in phase space**|Shuheng Liu et.al.|[2409.17891v1](http://arxiv.org/abs/2409.17891v1)|null|
 |**2024-09-26**|**Prototype based Masked Audio Model for Self-Supervised Learning of Sound Event Detection**|Pengfei Cai et.al.|[2409.17656v1](http://arxiv.org/abs/2409.17656v1)|[link](https://github.com/cai525/transformer4sed)|
 |**2024-09-26**|**HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting**|Zijun Xu et.al.|[2409.17624v1](http://arxiv.org/abs/2409.17624v1)|null|
-|**2024-09-26**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|Jiahao Lyu et.al.|[2409.17608v1](http://arxiv.org/abs/2409.17608v1)|null|
-|**2024-09-26**|**Translation-based completeness on compact intervals**|Lukas Liehr et.al.|[2409.17563v1](http://arxiv.org/abs/2409.17563v1)|null|
-|**2024-09-26**|**On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy**|Saber Malekmohammadi et.al.|[2409.17538v1](http://arxiv.org/abs/2409.17538v1)|null|
-|**2024-09-26**|**Factor pre-training in Bayesian multivariate logistic models**|Lorenzo Mauri et.al.|[2409.17441v1](http://arxiv.org/abs/2409.17441v1)|null|
-|**2024-09-25**|**6x2pt: Forecasting gains from joint weak lensing and galaxy clustering analyses with spectroscopic-photometric galaxy cross-correlations**|Harry Johnston et.al.|[2409.17377v1](http://arxiv.org/abs/2409.17377v1)|null|
-|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345v1](http://arxiv.org/abs/2409.17345v1)|null|
-|**2024-09-25**|**KIPPS: Knowledge infusion in Privacy Preserving Synthetic Data Generation**|Anantaa Kotal et.al.|[2409.17315v1](http://arxiv.org/abs/2409.17315v1)|null|
-|**2024-09-25**|**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**|Hui En Pang et.al.|[2409.17280v1](http://arxiv.org/abs/2409.17280v1)|null|
-|**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145v1](http://arxiv.org/abs/2409.17145v1)|null|
-|**2024-09-25**|**An Analytically Tractable Marked Power Spectrum**|Haruki Ebina et.al.|[2409.17133v1](http://arxiv.org/abs/2409.17133v1)|null|
-|**2024-09-25**|**Interlacing Eigenvectors of Large Gaussian Matrices**|Elie Attal et.al.|[2409.17086v1](http://arxiv.org/abs/2409.17086v1)|null|
-|**2024-09-25**|**Gaussian Processes for Observational Dose-Response Inference**|Jake R. Dailey et.al.|[2409.17043v1](http://arxiv.org/abs/2409.17043v1)|null|
-|**2024-09-25**|**t^{1/3} fluctuation around the shock of TASEP with random initial condition**|Xincheng Zhang et.al.|[2409.16989v1](http://arxiv.org/abs/2409.16989v1)|null|
-|**2024-09-25**|**Unveiling the shape: a multi-wavelength analysis of the galaxy clusters Abell 76 and Abell 1307**|R. Barrena et.al.|[2409.16981v1](http://arxiv.org/abs/2409.16981v1)|null|
-|**2024-09-25**|**Metaheuristic Method for Solving Systems of Equations**|Samson Odan et.al.|[2409.16958v1](http://arxiv.org/abs/2409.16958v1)|null|
-|**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944v1](http://arxiv.org/abs/2409.16944v1)|null|
-|**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938v1](http://arxiv.org/abs/2409.16938v1)|[link](https://github.com/jiutongbro/multiview_inpaint)|
-|**2024-09-25**|**Nonlinear diode effect and Berezinskii-Kosterlitz-Thouless transition in purely two-dimensional noncentrosymmetric superconductors**|Naratip Nunchot et.al.|[2409.16930v1](http://arxiv.org/abs/2409.16930v1)|null|
-|**2024-09-25**|**Constraints on the Equation of State of Nuclear Matter from Systematically Comparing SMASH Calculations to HADES Data**|Justin Mohs et.al.|[2409.16927v1](http://arxiv.org/abs/2409.16927v1)|null|
-|**2024-09-25**|**Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat**|Jonathan Michaux et.al.|[2409.16915v1](http://arxiv.org/abs/2409.16915v1)|null|
-|**2024-09-25**|**Towards Unified 3D Hair Reconstruction from Single-View Portraits**|Yujian Zheng et.al.|[2409.16863v1](http://arxiv.org/abs/2409.16863v1)|null|
