@@ -6,7 +6,7 @@
 |**2024-09-27**|**Energy-momentum correlators of fermions at finite temperature and density**|Sourav Dey et.al.|[2409.18912v1](http://arxiv.org/abs/2409.18912v1)|null|
 |**2024-09-27**|**Probabilistic Analysis of Least Squares, Orthogonal Projection, and QR Factorization Algorithms Subject to Gaussian Noise**|Ali Lotfi et.al.|[2409.18905v1](http://arxiv.org/abs/2409.18905v1)|null|
 |**2024-09-27**|**Enhancing Characterization of Near-Surface Velocity Structure(s) in the San Francisco Bay Area: A Stationary and Spatially Varying Approach**|Grigorios Lavrentiadis et.al.|[2409.18856v1](http://arxiv.org/abs/2409.18856v1)|null|
-|**2024-09-27**|**Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes**|Shuo Wang et.al.|[2409.18852v1](http://arxiv.org/abs/2409.18852v1)|null|
+|**2024-09-27**|**Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes**|Shuo Wang et.al.|[2409.18852v1](http://arxiv.org/abs/2409.18852v1)|[link](https://github.com/tb2-sy/st-2dgs)|
 |**2024-09-27**|**Temperature anisotropy instabilities driven by intermittent velocity shears in the solar wind**|Simon Opie et.al.|[2409.18849v1](http://arxiv.org/abs/2409.18849v1)|null|
 |**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804v1](http://arxiv.org/abs/2409.18804v1)|null|
 |**2024-09-27**|**Royal Reveals: LiDAR Mapping of Kronborg Castle, Echoes of Hamlet's Halls**|Leon Davies et.al.|[2409.18752v1](http://arxiv.org/abs/2409.18752v1)|null|
