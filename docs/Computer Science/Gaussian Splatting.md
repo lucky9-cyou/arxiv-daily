@@ -24,7 +24,7 @@
 |**2024-09-29**|**Prior Sensitivity Analysis without Model Re-fit**|Shonosuke Sugasawa et.al.|[2409.19729v1](http://arxiv.org/abs/2409.19729v1)|null|
 |**2024-09-29**|**Nonparametric Covariance Regression for Massive Neural Data on Restricted Covariates via Graph**|Ganchao Wei et.al.|[2409.19717v1](http://arxiv.org/abs/2409.19717v1)|null|
 |**2024-09-29**|**A Certified Robust Watermark For Large Language Models**|Xianheng Feng et.al.|[2409.19708v1](http://arxiv.org/abs/2409.19708v1)|null|
-|**2024-09-29**|**RNG: Relightable Neural Gaussians**|Jiahui Fan et.al.|[2409.19702v1](http://arxiv.org/abs/2409.19702v1)|null|
+|**2024-09-29**|**RNG: Relightable Neural Gaussians**|Jiahui Fan et.al.|[2409.19702v2](http://arxiv.org/abs/2409.19702v2)|null|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685v1](http://arxiv.org/abs/2409.19685v1)|[link](https://github.com/xiaofeng-life/colorcode)|
 |**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648v1](http://arxiv.org/abs/2409.19648v1)|[link](https://github.com/wokaikaixinxin/OrientedFormer)|
 |**2024-09-29**|**Discerning the Chaos: Detecting Adversarial Perturbations while Disentangling Intentional from Unintentional Noises**|Anubhooti Jain et.al.|[2409.19619v1](http://arxiv.org/abs/2409.19619v1)|null|
