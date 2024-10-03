@@ -7,7 +7,7 @@
 |**2024-09-30**|**Bilateral Gamma Approximation in Weiner Space**|Kalyan Barman et.al.|[2409.20546v1](http://arxiv.org/abs/2409.20546v1)|null|
 |**2024-09-30**|**Generalized convolutional many body distribution functional representations**|Danish Khan et.al.|[2409.20471v1](http://arxiv.org/abs/2409.20471v1)|null|
 |**2024-09-30**|**Quasi-invariance of the Gaussian measure for the two-dimensional stochastic cubic nonlinear wave equation**|Justin Forlano et.al.|[2409.20451v1](http://arxiv.org/abs/2409.20451v1)|null|
-|**2024-09-30**|**Stream-level flow matching from a Bayesian decision theoretic perspective**|Ganchao Wei et.al.|[2409.20423v1](http://arxiv.org/abs/2409.20423v1)|null|
+|**2024-09-30**|**Stream-level flow matching from a Bayesian decision theoretic perspective**|Ganchao Wei et.al.|[2409.20423v2](http://arxiv.org/abs/2409.20423v2)|[link](https://github.com/weigcdsb/GP-CFM)|
 |**2024-09-30**|**Solution of certain Diophantine equations in Gaussian integers**|Arkabarata Ghosh et.al.|[2409.20416v1](http://arxiv.org/abs/2409.20416v1)|null|
 |**2024-09-30**|**Local HI Absorption towards the Magellanic Cloud foreground using ASKAP**|Hiep Nguyen et.al.|[2409.20311v1](http://arxiv.org/abs/2409.20311v1)|null|
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291v1](http://arxiv.org/abs/2409.20291v1)|null|
@@ -17,7 +17,7 @@
 |**2024-09-30**|**Critical Points of Chi-Fields**|Domenico Marinucci et.al.|[2409.20129v1](http://arxiv.org/abs/2409.20129v1)|null|
 |**2024-09-30**|**Investigation of individual pulse emission behaviours from pulsar J1741$-$0840**|Yonghua Xu et.al.|[2409.20128v1](http://arxiv.org/abs/2409.20128v1)|null|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111v1](http://arxiv.org/abs/2409.20111v1)|null|
-|**2024-09-30**|**Numerically Robust Fixed-Point Smoothing Without State Augmentation**|Nicholas Krämer et.al.|[2409.20004v1](http://arxiv.org/abs/2409.20004v1)|null|
+|**2024-09-30**|**Numerically Robust Fixed-Point Smoothing Without State Augmentation**|Nicholas Krämer et.al.|[2409.20004v1](http://arxiv.org/abs/2409.20004v1)|[link](https://github.com/pnkraemer/code-numerically-robust-fixedpoint-smoother)|
 |**2024-09-30**|**A Quantum-Resistant Photonic Hash Function**|Tomoya Hatanaka et.al.|[2409.19932v1](http://arxiv.org/abs/2409.19932v1)|null|
 |**2024-09-30**|**DynORecon: Dynamic Object Reconstruction for Navigation**|Yiduo Wang et.al.|[2409.19928v1](http://arxiv.org/abs/2409.19928v1)|null|
 |**2024-09-30**|**Data-driven decision-making under uncertainty with entropic risk measure**|Utsav Sadana et.al.|[2409.19926v1](http://arxiv.org/abs/2409.19926v1)|null|
