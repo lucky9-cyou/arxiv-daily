@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764v1](http://arxiv.org/abs/2410.02764v1)|null|
+|**2024-10-03**|**AlzhiNet: Traversing from 2DCNN to 3DCNN, Towards Early Detection and Diagnosis of Alzheimer's Disease**|Romoke Grace Akindele et.al.|[2410.02714v1](http://arxiv.org/abs/2410.02714v1)|null|
+|**2024-10-03**|**NETS: A Non-Equilibrium Transport Sampler**|Michael S. Albergo et.al.|[2410.02711v1](http://arxiv.org/abs/2410.02711v1)|null|
+|**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et.al.|[2410.02667v1](http://arxiv.org/abs/2410.02667v1)|null|
+|**2024-10-03**|**Accurate Closed-Form Solution for Symbol Error Probability in Hexagonal QAM**|Sukhsagar et.al.|[2410.02661v1](http://arxiv.org/abs/2410.02661v1)|null|
+|**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619v1](http://arxiv.org/abs/2410.02619v1)|null|
+|**2024-10-03**|**BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**|Lalitha Sairam et.al.|[2410.02573v1](http://arxiv.org/abs/2410.02573v1)|null|
+|**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571v1](http://arxiv.org/abs/2410.02571v1)|null|
+|**2024-10-03**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543v1](http://arxiv.org/abs/2410.02543v1)|[link](https://github.com/Zhangyanbo/diffusion-evolution)|
+|**2024-10-03**|**SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics**|James Gao et.al.|[2410.02510v1](http://arxiv.org/abs/2410.02510v1)|null|
+|**2024-10-03**|**Optical galaxy cluster mock catalogs with realistic projection effects: validations with the SDSS redMaPPer clusters**|Andy Lee et.al.|[2410.02497v1](http://arxiv.org/abs/2410.02497v1)|null|
+|**2024-10-03**|**Stochastic variance-reduced Gaussian variational inference on the Bures-Wasserstein manifold**|Hoang Phuc Hau Luu et.al.|[2410.02490v1](http://arxiv.org/abs/2410.02490v1)|null|
+|**2024-10-03**|**Encryption-Friendly LLM Architecture**|Donghwan Rho et.al.|[2410.02486v1](http://arxiv.org/abs/2410.02486v1)|null|
+|**2024-10-03**|**Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimizatio**|Ali Al-Zawqari et.al.|[2410.02474v1](http://arxiv.org/abs/2410.02474v1)|null|
+|**2024-10-03**|**Bayesian Calibration and Uncertainty Quantification for a Large Nutrient Load Impact Model**|Karel Kaurila et.al.|[2410.02448v1](http://arxiv.org/abs/2410.02448v1)|null|
+|**2024-10-03**|**Optimal Representations of Gaussian and Eisenstein Integers using digit sets closed under multiplication**|Adam Blažek et.al.|[2410.02418v1](http://arxiv.org/abs/2410.02418v1)|null|
+|**2024-10-03**|**A unified approach to penalized likelihood estimation of covariance matrices in high dimensions**|Luca Cibinel et.al.|[2410.02403v1](http://arxiv.org/abs/2410.02403v1)|null|
+|**2024-10-03**|**On Lai's Upper Confidence Bound in Multi-Armed Bandits**|Huachen Ren et.al.|[2410.02279v1](http://arxiv.org/abs/2410.02279v1)|null|
+|**2024-10-03**|**Stochastic Sampling from Deterministic Flow Models**|Saurabh Singh et.al.|[2410.02217v1](http://arxiv.org/abs/2410.02217v1)|null|
+|**2024-10-03**|**Dynamic Mean-Field Theory for Continuous Random Networks**|W. A. Zúñiga-Galindo et.al.|[2410.02206v1](http://arxiv.org/abs/2410.02206v1)|null|
+|**2024-10-03**|**On the extraction of fission mode properties from fragment mass distributions**|Patrick McGlynn et.al.|[2410.02187v1](http://arxiv.org/abs/2410.02187v1)|null|
+|**2024-10-03**|**Universality in Transfer Learning for Linear Models**|Reza Ghane et.al.|[2410.02164v1](http://arxiv.org/abs/2410.02164v1)|null|
+|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103v1](http://arxiv.org/abs/2410.02103v1)|null|
+|**2024-10-02**|**Non-parametric reconstruction of cosmological observables using Gaussian Processes Regression**|José de Jesús Velázquez et.al.|[2410.02061v1](http://arxiv.org/abs/2410.02061v1)|null|
+|**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057v1](http://arxiv.org/abs/2410.02057v1)|null|
 |**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
 |**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793v1](http://arxiv.org/abs/2410.01793v1)|null|
 |**2024-10-02**|**Paths of Stochastic Processes: a Sudden Turnaround**|Robert Schaback et.al.|[2410.01788v1](http://arxiv.org/abs/2410.01788v1)|null|
 |**2024-10-02**|**Bayesian Binary Search**|Vikash Singh et.al.|[2410.01771v1](http://arxiv.org/abs/2410.01771v1)|null|
 |**2024-10-02**|**Impact of Redshift Space Distortion on Persistent Homology of cosmic matter density field**|Fatemeh Abedi et.al.|[2410.01751v1](http://arxiv.org/abs/2410.01751v1)|null|
-|**2024-10-02**|**Efficient Statistics With Unknown Truncation, Polynomial Time Algorithms, Beyond Gaussians**|Jane H. Lee et.al.|[2410.01656v1](http://arxiv.org/abs/2410.01656v1)|null|
-|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|[link](https://github.com/yangcaoai/3dgs-det)|
-|**2024-10-02**|**SGBA: Semantic Gaussian Mixture Model-Based LiDAR Bundle Adjustment**|Xingyu Ji et.al.|[2410.01618v1](http://arxiv.org/abs/2410.01618v1)|null|
-|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
-|**2024-10-02**|**Edge-preserving noise for diffusion models**|Jente Vandersanden et.al.|[2410.01540v1](http://arxiv.org/abs/2410.01540v1)|null|
-|**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535v1](http://arxiv.org/abs/2410.01535v1)|null|
-|**2024-10-02**|**Addressing Spatial Confounding in geostatistical regression models: An R-INLA approach**|Jérémy Lamouroux et.al.|[2410.01530v1](http://arxiv.org/abs/2410.01530v1)|null|
-|**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521v1](http://arxiv.org/abs/2410.01521v1)|[link](https://github.com/waczjoan/mirage)|
-|**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517v1](http://arxiv.org/abs/2410.01517v1)|null|
-|**2024-10-02**|**A generalized spectral concentration problem and the varying masks algorithm**|Erwan Faou et.al.|[2410.01465v1](http://arxiv.org/abs/2410.01465v1)|null|
-|**2024-10-02**|**Fractal behavior for nodal lines of smooth planar Gaussian fields at criticality**|David Vernotte et.al.|[2410.01453v1](http://arxiv.org/abs/2410.01453v1)|null|
-|**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425v1](http://arxiv.org/abs/2410.01425v1)|null|
-|**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411v1](http://arxiv.org/abs/2410.01411v1)|null|
-|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
-|**2024-10-02**|**Gaussian kernel expansion with basis functions uniformly bounded in $\mathcal{L}_{\infty}$**|Mauro Bisiacco et.al.|[2410.01394v1](http://arxiv.org/abs/2410.01394v1)|null|
-|**2024-10-02**|**Newton Meets Marchenko-Pastur: Massively Parallel Second-Order Optimization with Hessian Sketching and Debiasing**|Elad Romanov et.al.|[2410.01374v1](http://arxiv.org/abs/2410.01374v1)|null|
-|**2024-10-02**|**Mean field equilibrium asset pricing model under partial observation: An exponential quadratic Gaussian approach**|Masashi Sekine et.al.|[2410.01352v1](http://arxiv.org/abs/2410.01352v1)|null|
-|**2024-10-02**|**Sampling from Energy-based Policies using Diffusion**|Vineet Jain et.al.|[2410.01312v1](http://arxiv.org/abs/2410.01312v1)|null|
-|**2024-10-02**|**Deep Kernel Posterior Learning under Infinite Variance Prior Weights**|Jorge Loría et.al.|[2410.01284v1](http://arxiv.org/abs/2410.01284v1)|null|
-|**2024-10-02**|**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**|Abhinav Prakash Gahlot et.al.|[2410.01218v1](http://arxiv.org/abs/2410.01218v1)|null|
-|**2024-10-02**|**p--$φ$ femtoscopic correlation analysis using a dynamical model**|Kenshi Kuroki et.al.|[2410.01204v1](http://arxiv.org/abs/2410.01204v1)|null|
-|**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202v1](http://arxiv.org/abs/2410.01202v1)|null|
-|**2024-10-02**|**Diverse Expected Improvement (DEI): Diverse Bayesian Optimization of Expensive Computer Simulators**|John Joshua Miller et.al.|[2410.01196v1](http://arxiv.org/abs/2410.01196v1)|null|
-|**2024-10-02**|**On maximal functions generated by Hörmander-type spectral multipliers**|Peng Chen et.al.|[2410.01164v1](http://arxiv.org/abs/2410.01164v1)|null|
-|**2024-10-01**|**Efficient and Private Marginal Reconstruction with Local Non-Negativity**|Brett Mullins et.al.|[2410.01091v1](http://arxiv.org/abs/2410.01091v1)|null|
