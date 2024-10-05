@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-05 20:31:37 Asia/Shanghai
+ Automated deployment @ 2024-10-05 20:47:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,7 +39,7 @@
 |**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944v1](http://arxiv.org/abs/2409.16944v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764v1](http://arxiv.org/abs/2410.02764v1)|null|
@@ -73,7 +73,7 @@
 |**2024-10-02**|**Bayesian Binary Search**|Vikash Singh et.al.|[2410.01771v1](http://arxiv.org/abs/2410.01771v1)|null|
 |**2024-10-02**|**Impact of Redshift Space Distortion on Persistent Homology of cosmic matter density field**|Fatemeh Abedi et.al.|[2410.01751v1](http://arxiv.org/abs/2410.01751v1)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764v1](http://arxiv.org/abs/2410.02764v1)|null|
