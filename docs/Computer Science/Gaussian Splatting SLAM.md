@@ -15,7 +15,7 @@
 |**2024-10-03**|**Optical galaxy cluster mock catalogs with realistic projection effects: validations with the SDSS redMaPPer clusters**|Andy Lee et.al.|[2410.02497v1](http://arxiv.org/abs/2410.02497v1)|null|
 |**2024-10-03**|**Stochastic variance-reduced Gaussian variational inference on the Bures-Wasserstein manifold**|Hoang Phuc Hau Luu et.al.|[2410.02490v1](http://arxiv.org/abs/2410.02490v1)|null|
 |**2024-10-03**|**Encryption-Friendly LLM Architecture**|Donghwan Rho et.al.|[2410.02486v1](http://arxiv.org/abs/2410.02486v1)|null|
-|**2024-10-03**|**Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimizatio**|Ali Al-Zawqari et.al.|[2410.02474v1](http://arxiv.org/abs/2410.02474v1)|null|
+|**2024-10-03**|**Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimization**|Ali Al-Zawqari et.al.|[2410.02474v2](http://arxiv.org/abs/2410.02474v2)|null|
 |**2024-10-03**|**Bayesian Calibration and Uncertainty Quantification for a Large Nutrient Load Impact Model**|Karel Kaurila et.al.|[2410.02448v1](http://arxiv.org/abs/2410.02448v1)|null|
 |**2024-10-03**|**Optimal Representations of Gaussian and Eisenstein Integers using digit sets closed under multiplication**|Adam Blažek et.al.|[2410.02418v1](http://arxiv.org/abs/2410.02418v1)|null|
 |**2024-10-03**|**A unified approach to penalized likelihood estimation of covariance matrices in high dimensions**|Luca Cibinel et.al.|[2410.02403v1](http://arxiv.org/abs/2410.02403v1)|null|
