@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665v1](http://arxiv.org/abs/2410.03665v1)|null|
-|**2024-10-04**|**Spatial Hyperspheric Models for Compositional Data**|Michael R. Schwob et.al.|[2410.03648v1](http://arxiv.org/abs/2410.03648v1)|null|
-|**2024-10-04**|**Variational Bayes Gaussian Splatting**|Toon Van de Maele et.al.|[2410.03592v1](http://arxiv.org/abs/2410.03592v1)|[link](https://github.com/versestech/vbgs)|
-|**2024-10-04**|**On Secret-Message Transmission by Echoing Encrypted Probes**|Yingbo Hua et.al.|[2410.03515v1](http://arxiv.org/abs/2410.03515v1)|null|
-|**2024-10-04**|**GAP-RL: Grasps As Points for RL Towards Dynamic Object Grasping**|Pengwei Xie et.al.|[2410.03509v1](http://arxiv.org/abs/2410.03509v1)|null|
-|**2024-10-04**|**On the Hardness of Learning One Hidden Layer Neural Networks**|Shuchen Li et.al.|[2410.03477v1](http://arxiv.org/abs/2410.03477v1)|null|
-|**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459v1](http://arxiv.org/abs/2410.03459v1)|null|
-|**2024-10-04**|**Simulations of Ellipsoidal Primordial Black Hole Formation**|Albert Escrivà et.al.|[2410.03452v1](http://arxiv.org/abs/2410.03452v1)|null|
-|**2024-10-04**|**Non-spherical effects on the mass function of Primordial Black Holes**|Albert Escrivà et.al.|[2410.03451v1](http://arxiv.org/abs/2410.03451v1)|null|
-|**2024-10-04**|**Impact of Bivariate Gaussian Potentials on Quantum Walks for Spatial Search**|Franklin de L. Marquezino et.al.|[2410.03269v1](http://arxiv.org/abs/2410.03269v1)|null|
-|**2024-10-04**|**Simulated Eyeblink Artifact Removal with ICA: Effect of Measurement Uncertainty**|Jennie Couchman et.al.|[2410.03261v1](http://arxiv.org/abs/2410.03261v1)|null|
-|**2024-10-04**|**Prevailing against Adversarial Noncentral Disturbances: Exact Recovery of Linear Systems with the $l_1$-norm Estimator**|Jihun Kim et.al.|[2410.03218v1](http://arxiv.org/abs/2410.03218v1)|null|
-|**2024-10-04**|**Adaptive Masking Enhances Visual Grounding**|Sen Jia et.al.|[2410.03161v1](http://arxiv.org/abs/2410.03161v1)|null|
-|**2024-10-04**|**Gas flows in the central region of the Seyfert galaxy NGC 4593 with MUSE**|Dorcus Mulumba et.al.|[2410.03110v1](http://arxiv.org/abs/2410.03110v1)|null|
-|**2024-10-04**|**Learning Structured Representations by Embedding Class Hierarchy with Fast Optimal Transport**|Siqi Zeng et.al.|[2410.03052v1](http://arxiv.org/abs/2410.03052v1)|null|
-|**2024-10-03**|**Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2410.03024v1](http://arxiv.org/abs/2410.03024v1)|null|
-|**2024-10-03**|**Gaussian Processes simplify differential equations**|Jonghyeon Lee et.al.|[2410.03003v1](http://arxiv.org/abs/2410.03003v1)|null|
-|**2024-10-03**|**Overcoming sloppiness for enhanced metrology in continuous-variable quantum statistical models**|Massimo Frigerio et.al.|[2410.02989v1](http://arxiv.org/abs/2410.02989v1)|null|
-|**2024-10-03**|**From Optimization to Sampling via Lyapunov Potentials**|August Y. Chen et.al.|[2410.02979v1](http://arxiv.org/abs/2410.02979v1)|null|
-|**2024-10-03**|**Analyzing Fitts' Law using Offline and Online Optimal Control with Motor Noise**|Riley Bridges et.al.|[2410.02966v1](http://arxiv.org/abs/2410.02966v1)|null|
-|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
-|**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764v1](http://arxiv.org/abs/2410.02764v1)|null|
-|**2024-10-03**|**AlzhiNet: Traversing from 2DCNN to 3DCNN, Towards Early Detection and Diagnosis of Alzheimer's Disease**|Romoke Grace Akindele et.al.|[2410.02714v1](http://arxiv.org/abs/2410.02714v1)|null|
-|**2024-10-03**|**NETS: A Non-Equilibrium Transport Sampler**|Michael S. Albergo et.al.|[2410.02711v1](http://arxiv.org/abs/2410.02711v1)|null|
-|**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et.al.|[2410.02667v1](http://arxiv.org/abs/2410.02667v1)|null|
-|**2024-10-03**|**Accurate Closed-Form Solution for Symbol Error Probability in Hexagonal QAM**|Sukhsagar et.al.|[2410.02661v1](http://arxiv.org/abs/2410.02661v1)|null|
-|**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619v1](http://arxiv.org/abs/2410.02619v1)|null|
-|**2024-10-03**|**BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**|Lalitha Sairam et.al.|[2410.02573v1](http://arxiv.org/abs/2410.02573v1)|null|
-|**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571v1](http://arxiv.org/abs/2410.02571v1)|null|
-|**2024-10-03**|**A Spatio-Temporal Machine Learning Model for Mortgage Credit Risk: Default Probabilities and Loan Portfolios**|Pascal Kündig et.al.|[2410.02846v1](http://arxiv.org/abs/2410.02846v1)|null|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259v1](http://arxiv.org/abs/2410.05259v1)|null|
+|**2024-10-07**|**Rosette spectroscopic imaging for whole-brain metabolite mapping at 7T: acceleration potential and reproducibility**|Zhiwei Huang et.al.|[2410.05245v1](http://arxiv.org/abs/2410.05245v1)|null|
+|**2024-10-07**|**The e-MANTIS emulator: fast and accurate predictions of the halo mass function in $f(R)$CDM and $w$CDM cosmologies**|I. Sáez-Casares et.al.|[2410.05226v1](http://arxiv.org/abs/2410.05226v1)|null|
+|**2024-10-07**|**Density estimation with LLMs: a geometric investigation of in-context learning trajectories**|Toni J. B. Liu et.al.|[2410.05218v1](http://arxiv.org/abs/2410.05218v1)|null|
+|**2024-10-07**|**Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality**|Ge Ya et.al.|[2410.05203v1](http://arxiv.org/abs/2410.05203v1)|[link](https://github.com/oooolga/JEDi)|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
+|**2024-10-07**|**On two approaches to quantization in strong background fields**|E. T. Akhmedov et.al.|[2410.05108v1](http://arxiv.org/abs/2410.05108v1)|null|
+|**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097v1](http://arxiv.org/abs/2410.05097v1)|[link](https://github.com/arclab-mit/space-nvs)|
+|**2024-10-07**|**Low Complexity Joint Channel Estimation and Data Detection for AFDM Receivers With Oversampling**|Kuranage Roche Rayan Ranasinghe et.al.|[2410.05088v1](http://arxiv.org/abs/2410.05088v1)|null|
+|**2024-10-07**|**Localization transitions in quadratic systems without quantum chaos**|Mateusz Lisiecki et.al.|[2410.05075v1](http://arxiv.org/abs/2410.05075v1)|null|
+|**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044v1](http://arxiv.org/abs/2410.05044v1)|null|
+|**2024-10-07**|**Enhanced Multi-Robot SLAM System with Cross-Validation Matching and Exponential Threshold Keyframe Selection**|Ang He et.al.|[2410.05017v1](http://arxiv.org/abs/2410.05017v1)|null|
+|**2024-10-07**|**CUDA-based focused Gaussian beams second-harmonic generation efficiency calculator**|A. D. Sanchez et.al.|[2410.04994v1](http://arxiv.org/abs/2410.04994v1)|null|
+|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v1](http://arxiv.org/abs/2410.04974v1)|null|
+|**2024-10-07**|**On the Capacity of the Peak Limited and Band Limited Channel**|Michael Peleg et.al.|[2410.04912v1](http://arxiv.org/abs/2410.04912v1)|null|
+|**2024-10-07**|**Smoothing of the higher-order Stokes phenomenon**|Chris J. Howls et.al.|[2410.04894v1](http://arxiv.org/abs/2410.04894v1)|null|
+|**2024-10-07**|**4D Grid-fitting of UV-optical spectra of massive stars. I. Numerical technique and its associated uncertainties**|Blagovest V. Petrov et.al.|[2410.04881v1](http://arxiv.org/abs/2410.04881v1)|null|
+|**2024-10-07**|**Predictive Spliner: Data-Driven Overtaking in Autonomous Racing Using Opponent Trajectory Prediction**|Nicolas Baumann et.al.|[2410.04868v1](http://arxiv.org/abs/2410.04868v1)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|null|
+|**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|null|
+|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
+|**2024-10-06**|**Provable Weak-to-Strong Generalization via Benign Overfitting**|David X. Wu et.al.|[2410.04638v1](http://arxiv.org/abs/2410.04638v1)|null|
+|**2024-10-06**|**Quantum Noise Analysis of Gravitational Waves via Numerical Iterations**|Noah M. MacKay et.al.|[2410.04562v1](http://arxiv.org/abs/2410.04562v1)|null|
+|**2024-10-06**|**Hybrid Monte Carlo for Failure Probability Estimation with Gaussian Process Surrogates**|Annie S. Booth et.al.|[2410.04496v1](http://arxiv.org/abs/2410.04496v1)|null|
+|**2024-10-06**|**The spectrum of a tensor of random and deterministic matrices**|Félix Parraud et.al.|[2410.04481v1](http://arxiv.org/abs/2410.04481v1)|null|
+|**2024-10-06**|**Block Vecchia Approximation for Scalable and Efficient Gaussian Process Computations**|Qilong Pan et.al.|[2410.04477v1](http://arxiv.org/abs/2410.04477v1)|null|
+|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354v1](http://arxiv.org/abs/2410.04354v1)|null|
+|**2024-10-06**|**Hierarchical Gaussian Process-Based Bayesian Optimization for Materials Discovery in High Entropy Alloy Spaces**|Sk Md Ahnaf Akif Alvi et.al.|[2410.04314v1](http://arxiv.org/abs/2410.04314v1)|null|
+|**2024-10-05**|**Adjusting for Spatial Correlation in Machine and Deep Learning**|Matthew J. Heaton et.al.|[2410.04312v1](http://arxiv.org/abs/2410.04312v1)|null|
+|**2024-10-05**|**Bosonic Quantum Computational Complexity**|Ulysse Chabaud et.al.|[2410.04274v1](http://arxiv.org/abs/2410.04274v1)|null|
