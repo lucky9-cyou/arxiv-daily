@@ -20,7 +20,7 @@
 |**2024-10-07**|**Smoothing of the higher-order Stokes phenomenon**|Chris J. Howls et.al.|[2410.04894v1](http://arxiv.org/abs/2410.04894v1)|null|
 |**2024-10-07**|**4D Grid-fitting of UV-optical spectra of massive stars. I. Numerical technique and its associated uncertainties**|Blagovest V. Petrov et.al.|[2410.04881v1](http://arxiv.org/abs/2410.04881v1)|null|
 |**2024-10-07**|**Predictive Spliner: Data-Driven Overtaking in Autonomous Racing Using Opponent Trajectory Prediction**|Nicolas Baumann et.al.|[2410.04868v1](http://arxiv.org/abs/2410.04868v1)|null|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|[link](https://github.com/ZHU-Zhiyu/FLUX-IR)|
 |**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|null|
 |**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
 |**2024-10-06**|**Provable Weak-to-Strong Generalization via Benign Overfitting**|David X. Wu et.al.|[2410.04638v1](http://arxiv.org/abs/2410.04638v1)|null|
