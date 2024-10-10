@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259v1](http://arxiv.org/abs/2410.05259v1)|null|
-|**2024-10-07**|**Rosette spectroscopic imaging for whole-brain metabolite mapping at 7T: acceleration potential and reproducibility**|Zhiwei Huang et.al.|[2410.05245v1](http://arxiv.org/abs/2410.05245v1)|null|
-|**2024-10-07**|**The e-MANTIS emulator: fast and accurate predictions of the halo mass function in $f(R)$CDM and $w$CDM cosmologies**|I. Sáez-Casares et.al.|[2410.05226v1](http://arxiv.org/abs/2410.05226v1)|null|
-|**2024-10-07**|**Density estimation with LLMs: a geometric investigation of in-context learning trajectories**|Toni J. B. Liu et.al.|[2410.05218v1](http://arxiv.org/abs/2410.05218v1)|null|
-|**2024-10-07**|**Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality**|Ge Ya Luo et.al.|[2410.05203v2](http://arxiv.org/abs/2410.05203v2)|[link](https://github.com/oooolga/JEDi)|
-|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
-|**2024-10-07**|**On two approaches to quantization in strong background fields**|E. T. Akhmedov et.al.|[2410.05108v1](http://arxiv.org/abs/2410.05108v1)|null|
-|**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097v1](http://arxiv.org/abs/2410.05097v1)|[link](https://github.com/arclab-mit/space-nvs)|
-|**2024-10-07**|**Low Complexity Joint Channel Estimation and Data Detection for AFDM Receivers With Oversampling**|Kuranage Roche Rayan Ranasinghe et.al.|[2410.05088v1](http://arxiv.org/abs/2410.05088v1)|null|
-|**2024-10-07**|**Localization transitions in quadratic systems without quantum chaos**|Mateusz Lisiecki et.al.|[2410.05075v1](http://arxiv.org/abs/2410.05075v1)|null|
-|**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044v1](http://arxiv.org/abs/2410.05044v1)|null|
-|**2024-10-07**|**CUDA-based focused Gaussian beams second-harmonic generation efficiency calculator**|A. D. Sanchez et.al.|[2410.04994v1](http://arxiv.org/abs/2410.04994v1)|null|
-|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v1](http://arxiv.org/abs/2410.04974v1)|null|
-|**2024-10-07**|**On the Capacity of the Peak Limited and Band Limited Channel**|Michael Peleg et.al.|[2410.04912v1](http://arxiv.org/abs/2410.04912v1)|null|
-|**2024-10-07**|**Smoothing of the higher-order Stokes phenomenon**|Chris J. Howls et.al.|[2410.04894v1](http://arxiv.org/abs/2410.04894v1)|null|
-|**2024-10-07**|**4D Grid-fitting of UV-optical spectra of massive stars. I. Numerical technique and its associated uncertainties**|Blagovest V. Petrov et.al.|[2410.04881v1](http://arxiv.org/abs/2410.04881v1)|null|
-|**2024-10-07**|**Predictive Spliner: Data-Driven Overtaking in Autonomous Racing Using Opponent Trajectory Prediction**|Nicolas Baumann et.al.|[2410.04868v1](http://arxiv.org/abs/2410.04868v1)|[link](https://github.com/forzaeth/predictive-spliner)|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|[link](https://github.com/ZHU-Zhiyu/FLUX-IR)|
-|**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|null|
-|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646v1](http://arxiv.org/abs/2410.04646v1)|null|
-|**2024-10-06**|**Provable Weak-to-Strong Generalization via Benign Overfitting**|David X. Wu et.al.|[2410.04638v1](http://arxiv.org/abs/2410.04638v1)|null|
-|**2024-10-06**|**Quantum Noise Analysis of Gravitational Waves via Numerical Iterations**|Noah M. MacKay et.al.|[2410.04562v1](http://arxiv.org/abs/2410.04562v1)|null|
-|**2024-10-06**|**Hybrid Monte Carlo for Failure Probability Estimation with Gaussian Process Surrogates**|Annie S. Booth et.al.|[2410.04496v1](http://arxiv.org/abs/2410.04496v1)|null|
-|**2024-10-06**|**The spectrum of a tensor of random and deterministic matrices**|Félix Parraud et.al.|[2410.04481v1](http://arxiv.org/abs/2410.04481v1)|null|
-|**2024-10-06**|**Block Vecchia Approximation for Scalable and Efficient Gaussian Process Computations**|Qilong Pan et.al.|[2410.04477v1](http://arxiv.org/abs/2410.04477v1)|null|
-|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354v1](http://arxiv.org/abs/2410.04354v1)|null|
-|**2024-10-06**|**Hierarchical Gaussian Process-Based Bayesian Optimization for Materials Discovery in High Entropy Alloy Spaces**|Sk Md Ahnaf Akif Alvi et.al.|[2410.04314v1](http://arxiv.org/abs/2410.04314v1)|null|
-|**2024-10-05**|**Adjusting for Spatial Correlation in Machine and Deep Learning**|Matthew J. Heaton et.al.|[2410.04312v1](http://arxiv.org/abs/2410.04312v1)|null|
-|**2024-10-05**|**Bosonic Quantum Computational Complexity**|Ulysse Chabaud et.al.|[2410.04274v1](http://arxiv.org/abs/2410.04274v1)|null|
-|**2024-10-05**|**Truncated Gaussian basis approach for simulating many-body dynamics**|Nico Albert et.al.|[2410.04204v1](http://arxiv.org/abs/2410.04204v1)|null|
+|**2024-10-09**|**Thing2Reality: Transforming 2D Content into Conditioned Multiviews and 3D Gaussian Objects for XR Communication**|Erzhen Hu et.al.|[2410.07119v1](http://arxiv.org/abs/2410.07119v1)|null|
+|**2024-10-09**|**Constraining the dispersion measure redshift relation with simulation-based inference**|Koustav Konar et.al.|[2410.07084v1](http://arxiv.org/abs/2410.07084v1)|null|
+|**2024-10-09**|**Gaussian to log-normal transition for independent sets in a percolated hypercube**|Mriganka Basu Roy Chowdhury et.al.|[2410.07080v1](http://arxiv.org/abs/2410.07080v1)|null|
+|**2024-10-09**|**Exploring non-Euclidean photonics: Pseudosphere microlaser**|H. Girin et.al.|[2410.07034v1](http://arxiv.org/abs/2410.07034v1)|null|
+|**2024-10-09**|**On the maximum likelihood degree for Gaussian graphical models**|Carlos Améndola et.al.|[2410.07007v1](http://arxiv.org/abs/2410.07007v1)|null|
+|**2024-10-09**|**Through the Looking Glass: Mirror Schrödinger Bridges**|Leticia Mattos Da Silva et.al.|[2410.07003v1](http://arxiv.org/abs/2410.07003v1)|null|
+|**2024-10-09**|**Mixing of the No-U-Turn Sampler and the Geometry of Gaussian Concentration**|Nawaf Bou-Rabee et.al.|[2410.06978v1](http://arxiv.org/abs/2410.06978v1)|[link](https://github.com/oberdoerster/mixing-of-nuts)|
+|**2024-10-09**|**KiDS-Legacy: Covariance validation and the unified OneCovariance framework for projected large-scale structure observables**|Robert Reischke et.al.|[2410.06962v1](http://arxiv.org/abs/2410.06962v1)|null|
+|**2024-10-09**|**A covariance representation and an elementary proof of the Gaussian concentration inequality**|Christian Houdré et.al.|[2410.06937v1](http://arxiv.org/abs/2410.06937v1)|null|
+|**2024-10-09**|**Optical Solitary Wavelets**|O. Melchert et.al.|[2410.06867v1](http://arxiv.org/abs/2410.06867v1)|null|
+|**2024-10-09**|**Efficient Weight-Space Laplace-Gaussian Filtering and Smoothing for Sequential Deep Learning**|Joanna Sliwa et.al.|[2410.06800v1](http://arxiv.org/abs/2410.06800v1)|null|
+|**2024-10-09**|**On the Performance of Pilot-Aided Simultaneous Communication and Tracking**|Shuaishuai Han et.al.|[2410.06767v1](http://arxiv.org/abs/2410.06767v1)|null|
+|**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756v1](http://arxiv.org/abs/2410.06756v1)|null|
+|**2024-10-09**|**Macroscopic effects of an anisotropic Gaussian-type repulsive potential: nematic alignment and spatial effects**|Sara Merino-Aceituno et.al.|[2410.06740v1](http://arxiv.org/abs/2410.06740v1)|null|
+|**2024-10-09**|**Weak-eval-Strong: Evaluating and Eliciting Lateral Thinking of LLMs with Situation Puzzles**|Qi Chen et.al.|[2410.06733v1](http://arxiv.org/abs/2410.06733v1)|null|
+|**2024-10-09**|**ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion**|Lu Chen et.al.|[2410.06613v1](http://arxiv.org/abs/2410.06613v1)|null|
+|**2024-10-09**|**Image Processing and Analysis of Multiple Wavelength Astronomical Data Using Python Tools**|Tanmoy Bhowmik et.al.|[2410.06573v1](http://arxiv.org/abs/2410.06573v1)|null|
+|**2024-10-09**|**The Sampling-Gaussian for stereo matching**|Baiyu Pan et.al.|[2410.06527v1](http://arxiv.org/abs/2410.06527v1)|null|
+|**2024-10-09**|**Complete pivoting growth of butterfly matrices and butterfly Hadamard matrices**|John Peca-Medlin et.al.|[2410.06477v1](http://arxiv.org/abs/2410.06477v1)|null|
+|**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475v1](http://arxiv.org/abs/2410.06475v1)|null|
+|**2024-10-09**|**False Discovery Rate Control via Data Splitting for Testing-after-Clustering**|Lijun Wang et.al.|[2410.06451v1](http://arxiv.org/abs/2410.06451v1)|null|
+|**2024-10-08**|**Predicting Battery Capacity Fade Using Probabilistic Machine Learning Models With and Without Pre-Trained Priors**|Michael J. Kenney et.al.|[2410.06422v1](http://arxiv.org/abs/2410.06422v1)|null|
+|**2024-10-08**|**Statistical Inference for Low-Rank Tensors: Heteroskedasticity, Subgaussianity, and Applications**|Joshua Agterberg et.al.|[2410.06381v1](http://arxiv.org/abs/2410.06381v1)|null|
+|**2024-10-08**|**From GAP to ACE to MACE**|Noam Bernstein et.al.|[2410.06354v1](http://arxiv.org/abs/2410.06354v1)|null|
+|**2024-10-08**|**A convex formulation of covariate-adjusted Gaussian graphical models via natural parametrization**|Ruobin Liu et.al.|[2410.06326v1](http://arxiv.org/abs/2410.06326v1)|null|
+|**2024-10-08**|**The role of energy shear in the collapse of protohaloes**|Marcello Musso et.al.|[2410.06289v1](http://arxiv.org/abs/2410.06289v1)|null|
+|**2024-10-08**|**SHADE: Deep Density-based Clustering**|Anna Beer et.al.|[2410.06265v1](http://arxiv.org/abs/2410.06265v1)|null|
+|**2024-10-08**|**HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**|Shengji Tang et.al.|[2410.06245v1](http://arxiv.org/abs/2410.06245v1)|null|
+|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231v1](http://arxiv.org/abs/2410.06231v1)|null|
+|**2024-10-08**|**The Atacama Cosmology Telescope: Large-scale velocity reconstruction with the kinematic Sunyaev--Zel'dovich effect and DESI LRGs**|Fiona McCarthy et.al.|[2410.06229v1](http://arxiv.org/abs/2410.06229v1)|null|
