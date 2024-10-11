@@ -24886,3 +24886,8 @@ expected <block end>, but found '<block mapping start>'
 2024-10-10 21:03:13.154 | SUCCESS  | __main__:parse:223 - handle [3/5] | topic=`Computer Science` subtopic=`Gaussian Splatting SLAM`
 2024-10-10 21:03:13.509 | SUCCESS  | __main__:parse:223 - handle [4/5] | topic=`Robotics` subtopic=`SLAM`
 2024-10-10 21:03:13.581 | SUCCESS  | __main__:parse:223 - handle [5/5] | topic=`Computer Science` subtopic=`NeRF`
+2024-10-11 08:12:34.988 | SUCCESS  | __main__:parse:223 - handle [1/5] | topic=`Computer Science` subtopic=`Gaussian Splatting SLAM`
+2024-10-11 08:12:35.136 | SUCCESS  | __main__:parse:223 - handle [2/5] | topic=`Robotics` subtopic=`SLAM`
+2024-10-11 08:12:35.193 | SUCCESS  | __main__:parse:223 - handle [3/5] | topic=`Computer Science` subtopic=`NeRF`
+2024-10-11 08:12:35.239 | SUCCESS  | __main__:parse:223 - handle [4/5] | topic=`Computer Science` subtopic=`Gaussian Splatting`
+2024-10-11 08:12:36.194 | SUCCESS  | __main__:parse:223 - handle [5/5] | topic=`Computer Science` subtopic=`NeRF SLAM`
