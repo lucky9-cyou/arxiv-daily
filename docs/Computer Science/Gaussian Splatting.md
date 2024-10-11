@@ -30,5 +30,5 @@
 |**2024-10-08**|**The role of energy shear in the collapse of protohaloes**|Marcello Musso et.al.|[2410.06289v1](http://arxiv.org/abs/2410.06289v1)|null|
 |**2024-10-08**|**SHADE: Deep Density-based Clustering**|Anna Beer et.al.|[2410.06265v1](http://arxiv.org/abs/2410.06265v1)|null|
 |**2024-10-08**|**HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**|Shengji Tang et.al.|[2410.06245v1](http://arxiv.org/abs/2410.06245v1)|null|
-|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231v1](http://arxiv.org/abs/2410.06231v1)|null|
+|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231v2](http://arxiv.org/abs/2410.06231v2)|null|
 |**2024-10-08**|**The Atacama Cosmology Telescope: Large-scale velocity reconstruction with the kinematic Sunyaev--Zel'dovich effect and DESI LRGs**|Fiona McCarthy et.al.|[2410.06229v1](http://arxiv.org/abs/2410.06229v1)|null|
