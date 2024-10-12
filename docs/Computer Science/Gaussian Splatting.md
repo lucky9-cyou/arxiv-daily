@@ -26,7 +26,7 @@
 |**2024-10-10**|**Orthogonal Nonnegative Matrix Factorization with the Kullback-Leibler divergence**|Jean Pacifique Nkurunziza et.al.|[2410.07786v1](http://arxiv.org/abs/2410.07786v1)|null|
 |**2024-10-10**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718v1](http://arxiv.org/abs/2410.07718v1)|null|
 |**2024-10-10**|**Rethinking the Principle of Gradient Smooth Methods in Model Explanation**|Linjiang Zhou et.al.|[2410.07711v1](http://arxiv.org/abs/2410.07711v1)|null|
-|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707v1](http://arxiv.org/abs/2410.07707v1)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707v1](http://arxiv.org/abs/2410.07707v1)|[link](https://github.com/RuijieZhu94/MotionGS)|
 |**2024-10-10**|**FedEP: Tailoring Attention to Heterogeneous Data Distribution with Entropy Pooling for Decentralized Federated Learning**|Chao Feng et.al.|[2410.07678v1](http://arxiv.org/abs/2410.07678v1)|null|
 |**2024-10-10**|**Adversarial Robustness Overestimation and Instability in TRADES**|Jonathan Weiping Li et.al.|[2410.07675v1](http://arxiv.org/abs/2410.07675v1)|null|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577v1](http://arxiv.org/abs/2410.07577v1)|null|
