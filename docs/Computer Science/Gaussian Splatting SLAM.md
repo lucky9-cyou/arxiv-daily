@@ -14,7 +14,7 @@
 |**2024-10-10**|**Dynamic Object Catching with Quadruped Robot Front Legs**|André Schakkal et.al.|[2410.08065v1](http://arxiv.org/abs/2410.08065v1)|null|
 |**2024-10-10**|**High-redshift LBG selection from broadband and wide photometric surveys using a Random Forest algorithm**|C. Payerne et.al.|[2410.08062v1](http://arxiv.org/abs/2410.08062v1)|null|
 |**2024-10-10**|**Private Language Models via Truncated Laplacian Mechanism**|Tianhao Huang et.al.|[2410.08027v1](http://arxiv.org/abs/2410.08027v1)|null|
-|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017v1](http://arxiv.org/abs/2410.08017v1)|null|
+|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017v1](http://arxiv.org/abs/2410.08017v1)|[link](https://github.com/yihangchen-ee/fcgs)|
 |**2024-10-10**|**Generalizable and Animatable Gaussian Head Avatar**|Xuangeng Chu et.al.|[2410.07971v1](http://arxiv.org/abs/2410.07971v1)|[link](https://github.com/xg-chu/gagavatar)|
 |**2024-10-10**|**Convex comparison of Gaussian mixtures**|Benjamin Jourdain et.al.|[2410.07958v1](http://arxiv.org/abs/2410.07958v1)|null|
 |**2024-10-10**|**Constraints on compact objects from the Dark Energy Survey five-year supernova sample**|Paul Shah et.al.|[2410.07956v1](http://arxiv.org/abs/2410.07956v1)|null|
@@ -23,7 +23,7 @@
 |**2024-10-10**|**Understanding Human Activity with Uncertainty Measure for Novelty in Graph Convolutional Networks**|Hao Xing et.al.|[2410.07917v1](http://arxiv.org/abs/2410.07917v1)|null|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872v1](http://arxiv.org/abs/2410.07872v1)|null|
 |**2024-10-10**|**Deep and Probabilistic Solar Irradiance Forecast at the Arctic Circle**|Niklas Erdmann et.al.|[2410.07806v1](http://arxiv.org/abs/2410.07806v1)|null|
-|**2024-10-10**|**Orthogonal Nonnegative Matrix Factorization with the Kullback-Leibler divergence**|Jean Pacifique Nkurunziza et.al.|[2410.07786v1](http://arxiv.org/abs/2410.07786v1)|null|
+|**2024-10-10**|**Orthogonal Nonnegative Matrix Factorization with the Kullback-Leibler divergence**|Jean Pacifique Nkurunziza et.al.|[2410.07786v1](http://arxiv.org/abs/2410.07786v1)|[link](https://gitlab.com/ngillis/kl-onmf)|
 |**2024-10-10**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718v1](http://arxiv.org/abs/2410.07718v1)|null|
 |**2024-10-10**|**Rethinking the Principle of Gradient Smooth Methods in Model Explanation**|Linjiang Zhou et.al.|[2410.07711v1](http://arxiv.org/abs/2410.07711v1)|null|
 |**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707v1](http://arxiv.org/abs/2410.07707v1)|[link](https://github.com/RuijieZhu94/MotionGS)|
