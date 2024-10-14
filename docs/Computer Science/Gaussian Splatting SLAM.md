@@ -14,7 +14,7 @@
 |**2024-10-10**|**Dynamic Object Catching with Quadruped Robot Front Legs**|André Schakkal et.al.|[2410.08065v1](http://arxiv.org/abs/2410.08065v1)|null|
 |**2024-10-10**|**High-redshift LBG selection from broadband and wide photometric surveys using a Random Forest algorithm**|C. Payerne et.al.|[2410.08062v1](http://arxiv.org/abs/2410.08062v1)|null|
 |**2024-10-10**|**Private Language Models via Truncated Laplacian Mechanism**|Tianhao Huang et.al.|[2410.08027v1](http://arxiv.org/abs/2410.08027v1)|null|
-|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017v1](http://arxiv.org/abs/2410.08017v1)|[link](https://github.com/yihangchen-ee/fcgs)|
+|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017v2](http://arxiv.org/abs/2410.08017v2)|[link](https://github.com/yihangchen-ee/fcgs)|
 |**2024-10-10**|**Generalizable and Animatable Gaussian Head Avatar**|Xuangeng Chu et.al.|[2410.07971v1](http://arxiv.org/abs/2410.07971v1)|[link](https://github.com/xg-chu/gagavatar)|
 |**2024-10-10**|**Convex comparison of Gaussian mixtures**|Benjamin Jourdain et.al.|[2410.07958v1](http://arxiv.org/abs/2410.07958v1)|null|
 |**2024-10-10**|**Constraints on compact objects from the Dark Energy Survey five-year supernova sample**|Paul Shah et.al.|[2410.07956v1](http://arxiv.org/abs/2410.07956v1)|null|
