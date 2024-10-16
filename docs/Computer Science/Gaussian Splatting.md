@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-14**|**The primordial non-Gaussianities for non-singular Horndeski cosmologies**|Y. Ageeva et.al.|[2410.10742v1](http://arxiv.org/abs/2410.10742v1)|null|
-|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719v1](http://arxiv.org/abs/2410.10719v1)|null|
+|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719v2](http://arxiv.org/abs/2410.10719v2)|null|
 |**2024-10-14**|**Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**|Akshaya Srinivasan et.al.|[2410.10713v1](http://arxiv.org/abs/2410.10713v1)|null|
 |**2024-10-14**|**Estimation beyond Missing (Completely) at Random**|Tianyi Ma et.al.|[2410.10704v1](http://arxiv.org/abs/2410.10704v1)|null|
 |**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659v1](http://arxiv.org/abs/2410.10659v1)|[link](https://github.com/runsong123/pcf-lift)|
@@ -23,7 +23,7 @@
 |**2024-10-14**|**Biaxial Gaussian Beams, Hermite-Gaussian Beams, and Laguerre-Gaussian Vortex Beams in Isotropy-Broken Materials**|Maxim Durach et.al.|[2410.10106v1](http://arxiv.org/abs/2410.10106v1)|null|
 |**2024-10-14**|**State-space analysis of a continuous gravitational wave source with a pulsar timing array: inclusion of the pulsar terms**|Tom Kimpson et.al.|[2410.10087v1](http://arxiv.org/abs/2410.10087v1)|null|
 |**2024-10-14**|**DINTR: Tracking via Diffusion-based Interpolation**|Pha Nguyen et.al.|[2410.10053v1](http://arxiv.org/abs/2410.10053v1)|null|
-|**2024-10-13**|**Sparse Multivariate Linear Regression with Strongly Associated Response Variables**|Daeyoung Ham et.al.|[2410.10025v1](http://arxiv.org/abs/2410.10025v1)|null|
+|**2024-10-13**|**Sparse Multivariate Linear Regression with Strongly Associated Response Variables**|Daeyoung Ham et.al.|[2410.10025v2](http://arxiv.org/abs/2410.10025v2)|null|
 |**2024-10-13**|**Sharper Guarantees for Learning Neural Network Classifiers with Gradient Methods**|Hossein Taheri et.al.|[2410.10024v1](http://arxiv.org/abs/2410.10024v1)|null|
 |**2024-10-13**|**Phase retrieval: Global convergence of gradient descent with optimal sample complexity**|Théodore Fougereux et.al.|[2410.09990v1](http://arxiv.org/abs/2410.09990v1)|null|
 |**2024-10-13**|**Source Localization of an Unknown Transmission in Dense Multipath Environments**|Asaf Afriat et.al.|[2410.09986v1](http://arxiv.org/abs/2410.09986v1)|null|
