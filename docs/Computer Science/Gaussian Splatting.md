@@ -15,7 +15,7 @@
 |**2024-10-14**|**4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting**|Wanlin Liang et.al.|[2410.10412v1](http://arxiv.org/abs/2410.10412v1)|null|
 |**2024-10-14**|**Achievable Second-Order Asymptotics for MAC and RAC with Additive Non-Gaussian Noise**|Yiming Wang et.al.|[2410.10312v1](http://arxiv.org/abs/2410.10312v1)|null|
 |**2024-10-14**|**Kinetic interacting particle system: parameter estimation from complete and partial discrete observations**|Chiara Amorino et.al.|[2410.10226v1](http://arxiv.org/abs/2410.10226v1)|null|
-|**2024-10-14**|**Predicting from Strings: Language Model Embeddings for Bayesian Optimization**|Tung Nguyen et.al.|[2410.10190v1](http://arxiv.org/abs/2410.10190v1)|[link](https://github.com/google-research/optformer)|
+|**2024-10-14**|**Predicting from Strings: Language Model Embeddings for Bayesian Optimization**|Tung Nguyen et.al.|[2410.10190v2](http://arxiv.org/abs/2410.10190v2)|[link](https://github.com/google-research/optformer)|
 |**2024-10-14**|**Gaussian Mixture Vector Quantization with Aggregated Categorical Posterior**|Mingyuan Yan et.al.|[2410.10180v1](http://arxiv.org/abs/2410.10180v1)|null|
 |**2024-10-14**|**GUISE: Graph GaUssIan Shading watErmark**|Renyi Yang et.al.|[2410.10178v1](http://arxiv.org/abs/2410.10178v1)|null|
 |**2024-10-14**|**Random non-Hermitian action theory for stochastic quantum dynamics: from canonical to path integral quantization**|Pei Wang et.al.|[2410.10164v1](http://arxiv.org/abs/2410.10164v1)|null|
