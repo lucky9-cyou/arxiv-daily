@@ -20,7 +20,7 @@
 |**2024-10-15**|**Online learning in motion modeling for intra-interventional image sequences**|Niklas Gunnarsson et.al.|[2410.11491v1](http://arxiv.org/abs/2410.11491v1)|null|
 |**2024-10-15**|**Strengthened inequalities for the mean width and the $\ell$-norm of origin symmetric convex bodies**|Károly J. Böröczky et.al.|[2410.11460v1](http://arxiv.org/abs/2410.11460v1)|null|
 |**2024-10-15**|**Nonlinear Gaussian process tomography with imposed non-negativity constraints on physical quantities for plasma diagnostics**|Kenji Ueda et.al.|[2410.11454v1](http://arxiv.org/abs/2410.11454v1)|null|
-|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419v1](http://arxiv.org/abs/2410.11419v1)|null|
+|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419v1](http://arxiv.org/abs/2410.11419v1)|[link](https://github.com/gsrelight/gs-relight)|
 |**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394v1](http://arxiv.org/abs/2410.11394v1)|null|
 |**2024-10-15**|**GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**|Wancai Zheng et.al.|[2410.11356v1](http://arxiv.org/abs/2410.11356v1)|null|
 |**2024-10-15**|**Statistical inference for ergodic diffusion with Markovian switching**|Yuzhong Cheng et.al.|[2410.11333v1](http://arxiv.org/abs/2410.11333v1)|null|
