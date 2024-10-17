@@ -11,7 +11,7 @@
 |**2024-10-15**|**Local well-posedness of subcritical non-linear heat equations with Gaussian initial data**|Ilya Chevyrev et.al.|[2410.11638v1](http://arxiv.org/abs/2410.11638v1)|null|
 |**2024-10-15**|**Optimal Finite-time Maxwell's Demons in Langevin Systems**|Takuya Kamijima et.al.|[2410.11603v1](http://arxiv.org/abs/2410.11603v1)|null|
 |**2024-10-15**|**Quantitative Fiber Orientation Analysis of Carbon Fiber Sheet Molding Compounds using Polarization Imaging and X-Ray Computed Tomography**|Miro Duhovic et.al.|[2410.11597v1](http://arxiv.org/abs/2410.11597v1)|null|
-|**2024-10-15**|**Attitude Estimation via Matrix Fisher Distributions on SO(3) Using Non-Unit Vector Measurements**|Shijie Wang et.al.|[2410.11566v1](http://arxiv.org/abs/2410.11566v1)|null|
+|**2024-10-15**|**Attitude Estimation via Matrix Fisher Distributions on SO(3) Using Non-Unit Vector Measurements**|Shijie Wang et.al.|[2410.11566v2](http://arxiv.org/abs/2410.11566v2)|null|
 |**2024-10-15**|**Bayesian inference of mixed Gaussian phylogenetic models**|Bayu Brahmantio et.al.|[2410.11548v1](http://arxiv.org/abs/2410.11548v1)|null|
 |**2024-10-15**|**Riemann-Liouville fractional Brownian motion with random Hurst exponent**|Hubert Woszczek et.al.|[2410.11546v1](http://arxiv.org/abs/2410.11546v1)|null|
 |**2024-10-15**|**Prediction of Cardiovascular Risk Factors from Retinal Fundus Images using CNNs**|Andrea Prenner et.al.|[2410.11535v1](http://arxiv.org/abs/2410.11535v1)|null|
@@ -24,7 +24,7 @@
 |**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394v1](http://arxiv.org/abs/2410.11394v1)|null|
 |**2024-10-15**|**GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**|Wancai Zheng et.al.|[2410.11356v1](http://arxiv.org/abs/2410.11356v1)|null|
 |**2024-10-15**|**Statistical inference for ergodic diffusion with Markovian switching**|Yuzhong Cheng et.al.|[2410.11333v1](http://arxiv.org/abs/2410.11333v1)|null|
-|**2024-10-15**|**First Linearity and Stability Characterization for CZT Detection System in a e$^+$e$^-$ Collider Environment**|Leonardo Abbene et.al.|[2410.11294v1](http://arxiv.org/abs/2410.11294v1)|null|
+|**2024-10-15**|**First Linearity and Stability Characterization for CZT Detection System in a e$^+$e$^-$ Collider Environment**|Leonardo Abbene et.al.|[2410.11294v2](http://arxiv.org/abs/2410.11294v2)|null|
 |**2024-10-15**|**Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting**|Yuanbo Chen et.al.|[2410.11285v1](http://arxiv.org/abs/2410.11285v1)|null|
 |**2024-10-15**|**Adaptive Power Allocation in Spaceborne Assisted NOMA Systems for Integrated Terrestrial Communications**|M Khalil et.al.|[2410.11254v1](http://arxiv.org/abs/2410.11254v1)|null|
 |**2024-10-15**|**Calculable Microscopic Theory for $^{12}$C($α$, $γ$)$^{16}$O Cross Section near Gamow Window II**|Yasuyuki Suzuki et.al.|[2410.11245v1](http://arxiv.org/abs/2410.11245v1)|null|
