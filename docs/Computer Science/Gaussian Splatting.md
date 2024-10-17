@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781v1](http://arxiv.org/abs/2410.12781v1)|null|
+|**2024-10-16**|**Computing real-time quantum path integrals on Sewed, almost-Lefschetz thimbles**|Zong-Gang Mou et.al.|[2410.12762v1](http://arxiv.org/abs/2410.12762v1)|null|
+|**2024-10-16**|**Photometric detection of internal gravity waves in upper main-sequence stars. IV. Comparable SLF variability in SMC, LMC and Galactic massive stars**|Dominic M. Bowman et.al.|[2410.12726v1](http://arxiv.org/abs/2410.12726v1)|null|
+|**2024-10-16**|**How Does Variance Shape the Regret in Contextual Bandits?**|Zeyu Jia et.al.|[2410.12713v1](http://arxiv.org/abs/2410.12713v1)|null|
+|**2024-10-16**|**A Gaussian process model for stellar activity in 2-D line profile time-series**|Haochuan Yu et.al.|[2410.12698v1](http://arxiv.org/abs/2410.12698v1)|null|
+|**2024-10-16**|**Area measures and branched polymers in supercritical Liouville quantum gravity**|Manan Bhatia et.al.|[2410.12693v1](http://arxiv.org/abs/2410.12693v1)|null|
+|**2024-10-16**|**Local transfer learning Gaussian process modeling, with applications to surrogate modeling of expensive computer simulators**|Xinming Wang et.al.|[2410.12690v1](http://arxiv.org/abs/2410.12690v1)|null|
+|**2024-10-16**|**A comparative analysis of metamodels for lumped cardiovascular models, and pipeline for sensitivity analysis, parameter estimation, and uncertainty quantification**|John M. Hanna et.al.|[2410.12654v1](http://arxiv.org/abs/2410.12654v1)|null|
+|**2024-10-16**|**An Exact Finite-dimensional Explicit Feature Map for Kernel Functions**|Kamaledin Ghiasi-Shirazi et.al.|[2410.12635v1](http://arxiv.org/abs/2410.12635v1)|null|
+|**2024-10-16**|**Revisiting the proton-antiproton scattering using a constituent-quark-model based coupled-channels calculation**|P. G. Ortega et.al.|[2410.12465v1](http://arxiv.org/abs/2410.12465v1)|null|
+|**2024-10-16**|**Sharpness-Aware Black-Box Optimization**|Feiyang Ye et.al.|[2410.12457v1](http://arxiv.org/abs/2410.12457v1)|null|
+|**2024-10-16**|**Modeling, Prediction and Risk Management of Distribution System Voltages with Non-Gaussian Probability Distributions**|Yuanhai Gao et.al.|[2410.12438v1](http://arxiv.org/abs/2410.12438v1)|null|
+|**2024-10-16**|**Nonlinear bayesian tomography of ion temperature and velocity for Doppler coherence imaging spectroscopy in RT-1**|Kenji Ueda et.al.|[2410.12424v1](http://arxiv.org/abs/2410.12424v1)|null|
+|**2024-10-16**|**A negativity-based non-convex entanglement monotone characterizing continuous-variable entanglement swapping**|Yaqi Zhao et.al.|[2410.12385v1](http://arxiv.org/abs/2410.12385v1)|null|
+|**2024-10-16**|**Superoscillation focusing of high-order cylindrical-vector beams**|Zhongwei Jin et.al.|[2410.12335v1](http://arxiv.org/abs/2410.12335v1)|null|
+|**2024-10-16**|**Improved Anomaly Detection through Conditional Latent Space VAE Ensembles**|Oskar Åström et.al.|[2410.12328v1](http://arxiv.org/abs/2410.12328v1)|null|
+|**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269v1](http://arxiv.org/abs/2410.12269v1)|null|
+|**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262v1](http://arxiv.org/abs/2410.12262v1)|null|
+|**2024-10-16**|**Test-time adaptation for image compression with distribution regularization**|Kecheng Chen et.al.|[2410.12191v1](http://arxiv.org/abs/2410.12191v1)|null|
+|**2024-10-16**|**Unveiling the Limits of Alignment: Multi-modal Dynamic Local Fusion Network and A Benchmark for Unaligned RGBT Video Object Detection**|Qishun Wang et.al.|[2410.12143v1](http://arxiv.org/abs/2410.12143v1)|null|
+|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080v1](http://arxiv.org/abs/2410.12080v1)|null|
+|**2024-10-15**|**On Pauli pairs and Fourier uniqueness problems**|João P. G. Ramos et.al.|[2410.12065v1](http://arxiv.org/abs/2410.12065v1)|null|
+|**2024-10-15**|**Saturable global quantum sensing with Gaussian probes**|Chiranjib Mukhopadhyay et.al.|[2410.12050v1](http://arxiv.org/abs/2410.12050v1)|null|
+|**2024-10-15**|**Multiple Gaussian process models based global sensitivity analysis and efficient optimization of in vitro mRNA transcription process**|Min Tao et.al.|[2410.11976v1](http://arxiv.org/abs/2410.11976v1)|null|
+|**2024-10-15**|**Dual-frame Fluid Motion Estimation with Test-time Optimization and Zero-divergence Loss**|Yifei Zhang et.al.|[2410.11934v1](http://arxiv.org/abs/2410.11934v1)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841v1](http://arxiv.org/abs/2410.11841v1)|null|
 |**2024-10-15**|**Breaking Parity: the case of the Trispectrum from Chiral Scalar-Tensor Theories of Gravity**|Tommaso Moretti et.al.|[2410.11801v1](http://arxiv.org/abs/2410.11801v1)|null|
 |**2024-10-15**|**On the Training Convergence of Transformers for In-Context Classification**|Wei Shen et.al.|[2410.11778v1](http://arxiv.org/abs/2410.11778v1)|null|
 |**2024-10-15**|**Gaussian upper heat kernel bounds and Faber-Krahn inequalities on graphs**|Christian Rose et.al.|[2410.11715v1](http://arxiv.org/abs/2410.11715v1)|null|
 |**2024-10-15**|**SurFhead: Affine Rig Blending for Geometrically Accurate 2D Gaussian Surfel Head Avatars**|Jaeseong Lee et.al.|[2410.11682v1](http://arxiv.org/abs/2410.11682v1)|null|
-|**2024-10-15**|**Feature-guided score diffusion for sampling conditional densities**|Zahra Kadkhodaie et.al.|[2410.11646v1](http://arxiv.org/abs/2410.11646v1)|null|
-|**2024-10-15**|**Local well-posedness of subcritical non-linear heat equations with Gaussian initial data**|Ilya Chevyrev et.al.|[2410.11638v1](http://arxiv.org/abs/2410.11638v1)|null|
-|**2024-10-15**|**Optimal Finite-time Maxwell's Demons in Langevin Systems**|Takuya Kamijima et.al.|[2410.11603v1](http://arxiv.org/abs/2410.11603v1)|null|
-|**2024-10-15**|**Quantitative Fiber Orientation Analysis of Carbon Fiber Sheet Molding Compounds using Polarization Imaging and X-Ray Computed Tomography**|Miro Duhovic et.al.|[2410.11597v1](http://arxiv.org/abs/2410.11597v1)|null|
-|**2024-10-15**|**Attitude Estimation via Matrix Fisher Distributions on SO(3) Using Non-Unit Vector Measurements**|Shijie Wang et.al.|[2410.11566v2](http://arxiv.org/abs/2410.11566v2)|null|
-|**2024-10-15**|**Bayesian inference of mixed Gaussian phylogenetic models**|Bayu Brahmantio et.al.|[2410.11548v1](http://arxiv.org/abs/2410.11548v1)|null|
-|**2024-10-15**|**Riemann-Liouville fractional Brownian motion with random Hurst exponent**|Hubert Woszczek et.al.|[2410.11546v1](http://arxiv.org/abs/2410.11546v1)|null|
-|**2024-10-15**|**Prediction of Cardiovascular Risk Factors from Retinal Fundus Images using CNNs**|Andrea Prenner et.al.|[2410.11535v1](http://arxiv.org/abs/2410.11535v1)|null|
-|**2024-10-15**|**Rician Denoising Diffusion Probabilistic Models For Sodium Breast MRI Enhancement**|Shuaiyu Yuan et.al.|[2410.11511v1](http://arxiv.org/abs/2410.11511v1)|null|
-|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
-|**2024-10-15**|**Online learning in motion modeling for intra-interventional image sequences**|Niklas Gunnarsson et.al.|[2410.11491v1](http://arxiv.org/abs/2410.11491v1)|null|
-|**2024-10-15**|**Strengthened inequalities for the mean width and the $\ell$-norm of origin symmetric convex bodies**|Károly J. Böröczky et.al.|[2410.11460v1](http://arxiv.org/abs/2410.11460v1)|null|
-|**2024-10-15**|**Nonlinear Gaussian process tomography with imposed non-negativity constraints on physical quantities for plasma diagnostics**|Kenji Ueda et.al.|[2410.11454v1](http://arxiv.org/abs/2410.11454v1)|null|
-|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419v1](http://arxiv.org/abs/2410.11419v1)|[link](https://github.com/gsrelight/gs-relight)|
-|**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394v1](http://arxiv.org/abs/2410.11394v1)|null|
-|**2024-10-15**|**GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**|Wancai Zheng et.al.|[2410.11356v1](http://arxiv.org/abs/2410.11356v1)|null|
-|**2024-10-15**|**Statistical inference for ergodic diffusion with Markovian switching**|Yuzhong Cheng et.al.|[2410.11333v1](http://arxiv.org/abs/2410.11333v1)|null|
-|**2024-10-15**|**First Linearity and Stability Characterization for CZT Detection System in a e$^+$e$^-$ Collider Environment**|Leonardo Abbene et.al.|[2410.11294v2](http://arxiv.org/abs/2410.11294v2)|null|
-|**2024-10-15**|**Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting**|Yuanbo Chen et.al.|[2410.11285v1](http://arxiv.org/abs/2410.11285v1)|null|
-|**2024-10-15**|**Adaptive Power Allocation in Spaceborne Assisted NOMA Systems for Integrated Terrestrial Communications**|M Khalil et.al.|[2410.11254v1](http://arxiv.org/abs/2410.11254v1)|null|
-|**2024-10-15**|**Calculable Microscopic Theory for $^{12}$C($α$, $γ$)$^{16}$O Cross Section near Gamow Window II**|Yasuyuki Suzuki et.al.|[2410.11245v1](http://arxiv.org/abs/2410.11245v1)|null|
-|**2024-10-14**|**Recursively Feasible Stochastic Model Predictive Control for Time-Varying Linear Systems Subject to Unbounded Disturbances**|Jacob W. Knaup et.al.|[2410.11107v1](http://arxiv.org/abs/2410.11107v1)|null|
-|**2024-10-14**|**Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting**|Raja Kumar et.al.|[2410.11080v1](http://arxiv.org/abs/2410.11080v1)|[link](https://github.com/raja-kumar/depth-aware-3dgs)|
-|**2024-10-14**|**Characterization of Polariton Dynamics in a Multimode Cavity: Noise-enhanced Ballistic Expansion**|Ilia Tutunnikov et.al.|[2410.11051v1](http://arxiv.org/abs/2410.11051v1)|null|
-|**2024-10-14**|**Cosmological and Astrophysical Parameter Inference from Stacked Galaxy Cluster Profiles Using CAMELS-zoomGZ**|Elena Hernández-Martínez et.al.|[2410.10942v1](http://arxiv.org/abs/2410.10942v1)|null|
