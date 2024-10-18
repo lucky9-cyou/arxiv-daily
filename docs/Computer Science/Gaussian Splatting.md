@@ -8,7 +8,7 @@
 |**2024-10-16**|**How Does Variance Shape the Regret in Contextual Bandits?**|Zeyu Jia et.al.|[2410.12713v1](http://arxiv.org/abs/2410.12713v1)|null|
 |**2024-10-16**|**A Gaussian process model for stellar activity in 2-D line profile time-series**|Haochuan Yu et.al.|[2410.12698v1](http://arxiv.org/abs/2410.12698v1)|null|
 |**2024-10-16**|**Area measures and branched polymers in supercritical Liouville quantum gravity**|Manan Bhatia et.al.|[2410.12693v1](http://arxiv.org/abs/2410.12693v1)|null|
-|**2024-10-16**|**Local transfer learning Gaussian process modeling, with applications to surrogate modeling of expensive computer simulators**|Xinming Wang et.al.|[2410.12690v1](http://arxiv.org/abs/2410.12690v1)|null|
+|**2024-10-16**|**Local transfer learning Gaussian process modeling, with applications to surrogate modeling of expensive computer simulators**|Xinming Wang et.al.|[2410.12690v2](http://arxiv.org/abs/2410.12690v2)|null|
 |**2024-10-16**|**A comparative analysis of metamodels for lumped cardiovascular models, and pipeline for sensitivity analysis, parameter estimation, and uncertainty quantification**|John M. Hanna et.al.|[2410.12654v1](http://arxiv.org/abs/2410.12654v1)|null|
 |**2024-10-16**|**An Exact Finite-dimensional Explicit Feature Map for Kernel Functions**|Kamaledin Ghiasi-Shirazi et.al.|[2410.12635v1](http://arxiv.org/abs/2410.12635v1)|null|
 |**2024-10-16**|**Revisiting the proton-antiproton scattering using a constituent-quark-model based coupled-channels calculation**|P. G. Ortega et.al.|[2410.12465v1](http://arxiv.org/abs/2410.12465v1)|null|
