@@ -27,7 +27,7 @@
 |**2024-10-16**|**Truthful High Dimensional Sparse Linear Regression**|Liyang Zhu et.al.|[2410.13046v1](http://arxiv.org/abs/2410.13046v1)|null|
 |**2024-10-16**|**On the positivity of the density of stochastic delay differential equations driven by a fractional Brownian motion**|Òscar Burés et.al.|[2410.13035v1](http://arxiv.org/abs/2410.13035v1)|null|
 |**2024-10-16**|**Multi-Source Approximate Message Passing: Random Semi-Unitary Dictionaries**|Burak Çakmak et.al.|[2410.13021v1](http://arxiv.org/abs/2410.13021v1)|null|
-|**2024-10-16**|**Linear cost and exponentially convergent approximation of Gaussian Matérn processes**|David Bolin et.al.|[2410.13000v1](http://arxiv.org/abs/2410.13000v1)|null|
+|**2024-10-16**|**Linear cost and exponentially convergent approximation of Gaussian Matérn processes**|David Bolin et.al.|[2410.13000v1](http://arxiv.org/abs/2410.13000v1)|[link](https://github.com/vpnsctl/markovapproxmatern)|
 |**2024-10-16**|**Composable free-space continuous-variable quantum key distribution using discrete modulation**|Kevin Jaksch et.al.|[2410.12915v1](http://arxiv.org/abs/2410.12915v1)|null|
 |**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781v1](http://arxiv.org/abs/2410.12781v1)|null|
 |**2024-10-16**|**Computing real-time quantum path integrals on Sewed, almost-Lefschetz thimbles**|Zong-Gang Mou et.al.|[2410.12762v1](http://arxiv.org/abs/2410.12762v1)|null|
