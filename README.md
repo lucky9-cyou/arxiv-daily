@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-10-20 20:04:50 Asia/Shanghai
+ Automated deployment @ 2024-10-20 20:16:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862v1](http://arxiv.org/abs/2410.13862v1)|[link](https://github.com/cvg/depthsplat)|
@@ -17,7 +17,6 @@
 |**2024-10-17**|**The Affleck-Dine Curvaton**|Aurora Ireland et.al.|[2410.13712v1](http://arxiv.org/abs/2410.13712v1)|null|
 |**2024-10-17**|**Additional first order equation for infinitesimal bendings of smooth surfaces in the isothermal coordinates**|Victor Alexandrov et.al.|[2410.13634v1](http://arxiv.org/abs/2410.13634v1)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613v1](http://arxiv.org/abs/2410.13613v1)|null|
-|**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612v1](http://arxiv.org/abs/2410.13612v1)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v1](http://arxiv.org/abs/2410.13571v1)|null|
 |**2024-10-17**|**Wetting Transition on Trees I: Percolation With Clustering**|Aser Cortines et.al.|[2410.13551v1](http://arxiv.org/abs/2410.13551v1)|null|
@@ -28,7 +27,6 @@
 |**2024-10-17**|**A theoretical perspective on mode collapse in variational inference**|Roman Soletskyi et.al.|[2410.13300v1](http://arxiv.org/abs/2410.13300v1)|null|
 |**2024-10-17**|**PiLocNet: Physics-informed neural network on 3D localization with rotating point spread function**|Mingda Lu et.al.|[2410.13295v1](http://arxiv.org/abs/2410.13295v1)|null|
 |**2024-10-17**|**Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization**|Yanan Guo et.al.|[2410.13280v1](http://arxiv.org/abs/2410.13280v1)|[link](https://github.com/bistu3dv/hybridba)|
-|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-17**|**UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction**|Jiamin Wu et.al.|[2410.13195v1](http://arxiv.org/abs/2410.13195v1)|[link](https://github.com/jwubz123/UNIG)|
 |**2024-10-17**|**Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance**|Jiwan Hur et.al.|[2410.13136v1](http://arxiv.org/abs/2410.13136v1)|[link](https://github.com/jiwanhur/unlockmgm)|
 |**2024-10-17**|**Conservation law for angular momentum based on optical field derivatives: Analysis of optical spin-orbit conversion**|Shun Hashiyada et.al.|[2410.13135v1](http://arxiv.org/abs/2410.13135v1)|null|
@@ -38,6 +36,8 @@
 |**2024-10-16**|**Linear cost and exponentially convergent approximation of Gaussian Matérn processes**|David Bolin et.al.|[2410.13000v1](http://arxiv.org/abs/2410.13000v1)|[link](https://github.com/vpnsctl/markovapproxmatern)|
 |**2024-10-16**|**Composable free-space continuous-variable quantum key distribution using discrete modulation**|Kevin Jaksch et.al.|[2410.12915v1](http://arxiv.org/abs/2410.12915v1)|null|
 |**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781v1](http://arxiv.org/abs/2410.12781v1)|null|
+|**2024-10-16**|**Computing real-time quantum path integrals on Sewed, almost-Lefschetz thimbles**|Zong-Gang Mou et.al.|[2410.12762v1](http://arxiv.org/abs/2410.12762v1)|null|
+|**2024-10-16**|**Photometric detection of internal gravity waves in upper main-sequence stars. IV. Comparable SLF variability in SMC, LMC and Galactic massive stars**|Dominic M. Bowman et.al.|[2410.12726v1](http://arxiv.org/abs/2410.12726v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,7 +73,7 @@
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181v1](http://arxiv.org/abs/2410.08181v1)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862v1](http://arxiv.org/abs/2410.13862v1)|[link](https://github.com/cvg/depthsplat)|
@@ -85,6 +85,7 @@
 |**2024-10-17**|**The Affleck-Dine Curvaton**|Aurora Ireland et.al.|[2410.13712v1](http://arxiv.org/abs/2410.13712v1)|null|
 |**2024-10-17**|**Additional first order equation for infinitesimal bendings of smooth surfaces in the isothermal coordinates**|Victor Alexandrov et.al.|[2410.13634v1](http://arxiv.org/abs/2410.13634v1)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613v1](http://arxiv.org/abs/2410.13613v1)|null|
+|**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612v1](http://arxiv.org/abs/2410.13612v1)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v1](http://arxiv.org/abs/2410.13571v1)|null|
 |**2024-10-17**|**Wetting Transition on Trees I: Percolation With Clustering**|Aser Cortines et.al.|[2410.13551v1](http://arxiv.org/abs/2410.13551v1)|null|
@@ -95,6 +96,7 @@
 |**2024-10-17**|**A theoretical perspective on mode collapse in variational inference**|Roman Soletskyi et.al.|[2410.13300v1](http://arxiv.org/abs/2410.13300v1)|null|
 |**2024-10-17**|**PiLocNet: Physics-informed neural network on 3D localization with rotating point spread function**|Mingda Lu et.al.|[2410.13295v1](http://arxiv.org/abs/2410.13295v1)|null|
 |**2024-10-17**|**Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization**|Yanan Guo et.al.|[2410.13280v1](http://arxiv.org/abs/2410.13280v1)|[link](https://github.com/bistu3dv/hybridba)|
+|**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-17**|**UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction**|Jiamin Wu et.al.|[2410.13195v1](http://arxiv.org/abs/2410.13195v1)|[link](https://github.com/jwubz123/UNIG)|
 |**2024-10-17**|**Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance**|Jiwan Hur et.al.|[2410.13136v1](http://arxiv.org/abs/2410.13136v1)|[link](https://github.com/jiwanhur/unlockmgm)|
 |**2024-10-17**|**Conservation law for angular momentum based on optical field derivatives: Analysis of optical spin-orbit conversion**|Shun Hashiyada et.al.|[2410.13135v1](http://arxiv.org/abs/2410.13135v1)|null|
@@ -104,8 +106,6 @@
 |**2024-10-16**|**Linear cost and exponentially convergent approximation of Gaussian Matérn processes**|David Bolin et.al.|[2410.13000v1](http://arxiv.org/abs/2410.13000v1)|[link](https://github.com/vpnsctl/markovapproxmatern)|
 |**2024-10-16**|**Composable free-space continuous-variable quantum key distribution using discrete modulation**|Kevin Jaksch et.al.|[2410.12915v1](http://arxiv.org/abs/2410.12915v1)|null|
 |**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781v1](http://arxiv.org/abs/2410.12781v1)|null|
-|**2024-10-16**|**Computing real-time quantum path integrals on Sewed, almost-Lefschetz thimbles**|Zong-Gang Mou et.al.|[2410.12762v1](http://arxiv.org/abs/2410.12762v1)|null|
-|**2024-10-16**|**Photometric detection of internal gravity waves in upper main-sequence stars. IV. Comparable SLF variability in SMC, LMC and Galactic massive stars**|Dominic M. Bowman et.al.|[2410.12726v1](http://arxiv.org/abs/2410.12726v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
