@@ -21,9 +21,9 @@
 |**2024-10-17**|**A theoretical perspective on mode collapse in variational inference**|Roman Soletskyi et.al.|[2410.13300v1](http://arxiv.org/abs/2410.13300v1)|null|
 |**2024-10-17**|**PiLocNet: Physics-informed neural network on 3D localization with rotating point spread function**|Mingda Lu et.al.|[2410.13295v1](http://arxiv.org/abs/2410.13295v1)|null|
 |**2024-10-17**|**Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization**|Yanan Guo et.al.|[2410.13280v1](http://arxiv.org/abs/2410.13280v1)|[link](https://github.com/bistu3dv/hybridba)|
-|**2024-10-17**|**UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction**|Jiamin Wu et.al.|[2410.13195v1](http://arxiv.org/abs/2410.13195v1)|[link](https://github.com/jwubz123/UNIG)|
+|**2024-10-17**|**UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction**|Jiamin Wu et.al.|[2410.13195v2](http://arxiv.org/abs/2410.13195v2)|[link](https://github.com/jwubz123/UNIG)|
 |**2024-10-17**|**Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance**|Jiwan Hur et.al.|[2410.13136v1](http://arxiv.org/abs/2410.13136v1)|[link](https://github.com/jiwanhur/unlockmgm)|
-|**2024-10-17**|**Conservation law for angular momentum based on optical field derivatives: Analysis of optical spin-orbit conversion**|Shun Hashiyada et.al.|[2410.13135v1](http://arxiv.org/abs/2410.13135v1)|null|
+|**2024-10-17**|**Conservation law for angular momentum based on optical field derivatives: Analysis of optical spin-orbit conversion**|Shun Hashiyada et.al.|[2410.13135v2](http://arxiv.org/abs/2410.13135v2)|null|
 |**2024-10-16**|**Truthful High Dimensional Sparse Linear Regression**|Liyang Zhu et.al.|[2410.13046v1](http://arxiv.org/abs/2410.13046v1)|null|
 |**2024-10-16**|**On the positivity of the density of stochastic delay differential equations driven by a fractional Brownian motion**|Òscar Burés et.al.|[2410.13035v1](http://arxiv.org/abs/2410.13035v1)|null|
 |**2024-10-16**|**Multi-Source Approximate Message Passing: Random Semi-Unitary Dictionaries**|Burak Çakmak et.al.|[2410.13021v1](http://arxiv.org/abs/2410.13021v1)|null|
