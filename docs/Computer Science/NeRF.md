@@ -16,7 +16,7 @@
 |**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941v1](http://arxiv.org/abs/2410.08941v1)|null|
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780v1](http://arxiv.org/abs/2410.08780v1)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181v1](http://arxiv.org/abs/2410.08181v1)|null|
-|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
 |**2024-10-09**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418v2](http://arxiv.org/abs/2410.07418v2)|[link](https://github.com/harelab-ucsc/redwoodnerf)|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756v1](http://arxiv.org/abs/2410.06756v1)|null|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734v2](http://arxiv.org/abs/2410.06734v2)|null|

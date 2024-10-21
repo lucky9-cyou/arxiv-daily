@@ -31,4 +31,4 @@
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780v1](http://arxiv.org/abs/2410.08780v1)|null|
 |**2024-10-10**|**ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**|Mason B. Peterson et.al.|[2410.08262v1](http://arxiv.org/abs/2410.08262v1)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181v1](http://arxiv.org/abs/2410.08181v1)|null|
-|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v1](http://arxiv.org/abs/2410.08107v1)|[link](https://github.com/wu-cvgl/inceventgs)|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|[link](https://github.com/wu-cvgl/inceventgs)|
