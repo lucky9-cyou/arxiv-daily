@@ -2,9 +2,13 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995v1](http://arxiv.org/abs/2410.16995v1)|null|
+|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395v1](http://arxiv.org/abs/2410.16395v1)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271v1](http://arxiv.org/abs/2410.16271v1)|null|
 |**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
 |**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958v1](http://arxiv.org/abs/2410.14958v1)|null|
+|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084v1](http://arxiv.org/abs/2410.17084v1)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177v1](http://arxiv.org/abs/2410.14177v1)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169v1](http://arxiv.org/abs/2410.14169v1)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
@@ -28,7 +32,3 @@
 |**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475v1](http://arxiv.org/abs/2410.06475v1)|null|
 |**2024-10-08**|**Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**|Guoji Tian et.al.|[2410.05772v1](http://arxiv.org/abs/2410.05772v1)|null|
 |**2024-10-07**|**Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**|Ziwei Liao et.al.|[2410.05514v1](http://arxiv.org/abs/2410.05514v1)|[link](https://github.com/trailab/generalobjectmapping)|
-|**2024-10-07**|**PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468v2](http://arxiv.org/abs/2410.05468v2)|[link](https://github.com/thanostriantafyllou3/ph-dropout)|
-|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
-|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v2](http://arxiv.org/abs/2410.04974v2)|null|
-|**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873v1](http://arxiv.org/abs/2410.04873v1)|null|
