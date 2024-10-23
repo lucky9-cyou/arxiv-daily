@@ -23,8 +23,8 @@
 |**2024-10-21**|**Efficient Non-Myopic Layered Bayesian Optimization For Large-Scale Bathymetric Informative Path Planning**|Alexander Kiessling et.al.|[2410.15720v1](http://arxiv.org/abs/2410.15720v1)|null|
 |**2024-10-21**|**Estimating Individual Dose-Response Curves under Unobserved Confounders from Observational Data**|Shutong Chen et.al.|[2410.15706v1](http://arxiv.org/abs/2410.15706v1)|null|
 |**2024-10-21**|**MIK: Modified Isolation Kernel for Biological Sequence Visualization, Classification, and Clustering**|Sarwan Ali et.al.|[2410.15688v1](http://arxiv.org/abs/2410.15688v1)|null|
-|**2024-10-21**|**LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images**|Hao He et.al.|[2410.15636v1](http://arxiv.org/abs/2410.15636v1)|null|
-|**2024-10-21**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629v1](http://arxiv.org/abs/2410.15629v1)|null|
+|**2024-10-21**|**LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images**|Hao He et.al.|[2410.15636v2](http://arxiv.org/abs/2410.15636v2)|null|
+|**2024-10-21**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629v2](http://arxiv.org/abs/2410.15629v2)|null|
 |**2024-10-21**|**Diffusions and random walks with prescribed sub-Gaussian heat kernel estimates**|Mathav Murugan et.al.|[2410.15611v1](http://arxiv.org/abs/2410.15611v1)|null|
 |**2024-10-21**|**Sharp defective log-Sobolev inequalities on H-type groups**|Gioacchino Antonelli et.al.|[2410.15566v1](http://arxiv.org/abs/2410.15566v1)|null|
 |**2024-10-21**|**Distributed Thompson sampling under constrained communication**|Saba Zerefa et.al.|[2410.15543v1](http://arxiv.org/abs/2410.15543v1)|null|
