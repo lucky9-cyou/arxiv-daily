@@ -13,7 +13,7 @@
 |**2024-10-22**|**General Seemingly Unrelated Local Projections**|Florian Huber et.al.|[2410.17105v1](http://arxiv.org/abs/2410.17105v1)|null|
 |**2024-10-22**|**Asymptotic Normality of the Largest Eigenvalue for Noncentral Sample Covariance Matrices**|Huihui Cheng et.al.|[2410.17085v1](http://arxiv.org/abs/2410.17085v1)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995v1](http://arxiv.org/abs/2410.16995v1)|null|
-|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978v1](http://arxiv.org/abs/2410.16978v1)|null|
+|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978v1](http://arxiv.org/abs/2410.16978v1)|[link](https://github.com/roth-hex-lab/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization)|
 |**2024-10-22**|**Sample-efficient Bayesian Optimisation Using Known Invariances**|Theodore Brown et.al.|[2410.16972v1](http://arxiv.org/abs/2410.16972v1)|[link](https://github.com/theo-brown/bayesopt_with_invariances)|
 |**2024-10-22**|**Global Optimization of Gaussian Process Acquisition Functions Using a Piecewise-Linear Kernel Approximation**|Yilin Xie et.al.|[2410.16893v1](http://arxiv.org/abs/2410.16893v1)|null|
 |**2024-10-22**|**Evaluating the Effectiveness of Attack-Agnostic Features for Morphing Attack Detection**|Laurent Colbois et.al.|[2410.16802v1](http://arxiv.org/abs/2410.16802v1)|[link](https://gitlab.idiap.ch/bob/bob.paper.ijcb2024_agnostic_features_mad)|
