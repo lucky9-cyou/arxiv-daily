@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-23**|**Local Primordial Non-Gaussian Bias at the Field Level**|James M. Sullivan et.al.|[2410.18039v1](http://arxiv.org/abs/2410.18039v1)|null|
+|**2024-10-23**|**Small noise expansion of stochastic inflation**|Diego Cruces et.al.|[2410.17987v1](http://arxiv.org/abs/2410.17987v1)|null|
+|**2024-10-23**|**Spectrally shaped THz pulses from tapered dielectric waveguides**|Karel Peetermans et.al.|[2410.17975v1](http://arxiv.org/abs/2410.17975v1)|null|
+|**2024-10-23**|**Lower Bounds for Convexity Testing**|Xi Chen et.al.|[2410.17958v1](http://arxiv.org/abs/2410.17958v1)|null|
+|**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932v1](http://arxiv.org/abs/2410.17932v1)|null|
+|**2024-10-23**|**Average-case matrix discrepancy: satisfiability bounds**|Antoine Maillard et.al.|[2410.17887v1](http://arxiv.org/abs/2410.17887v1)|null|
+|**2024-10-23**|**Accuracy of Charge Densities in Electronic Structure Calculations**|Moritz Gubler et.al.|[2410.17866v1](http://arxiv.org/abs/2410.17866v1)|null|
+|**2024-10-23**|**Exploring the halo-galaxy connection with probabilistic approaches**|Natália V. N. Rodrigues et.al.|[2410.17844v1](http://arxiv.org/abs/2410.17844v1)|null|
+|**2024-10-23**|**Non-intrusive Speech Quality Assessment with Diffusion Models Trained on Clean Speech**|Danilo de Oliveira et.al.|[2410.17834v1](http://arxiv.org/abs/2410.17834v1)|null|
+|**2024-10-23**|**Gaussian Process Distance Fields Obstacle and Ground Constraints for Safe Navigation**|Monisha Mushtary Uttsha et.al.|[2410.17831v1](http://arxiv.org/abs/2410.17831v1)|null|
+|**2024-10-23**|**Effects of scalar non-Gaussianity on induced scalar-tensor gravitational waves**|Raphaël Picard et.al.|[2410.17819v1](http://arxiv.org/abs/2410.17819v1)|null|
+|**2024-10-23**|**PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**|Feiyan Feng et.al.|[2410.17812v1](http://arxiv.org/abs/2410.17812v1)|null|
+|**2024-10-23**|**A Comprehensive Analysis on the Learning Curve in Kernel Ridge Regression**|Tin Sum Cheng et.al.|[2410.17796v1](http://arxiv.org/abs/2410.17796v1)|null|
+|**2024-10-23**|**Anisotropies of cosmological gravitational wave backgrounds in non-flat spacetime**|Rong-Gen Cai et.al.|[2410.17721v1](http://arxiv.org/abs/2410.17721v1)|null|
+|**2024-10-23**|**Scalable Random Feature Latent Variable Models**|Ying Li et.al.|[2410.17700v1](http://arxiv.org/abs/2410.17700v1)|[link](https://github.com/gwgundersen/rflvm)|
+|**2024-10-23**|**Graph Signal Adaptive Message Passing**|Yi Yan et.al.|[2410.17629v1](http://arxiv.org/abs/2410.17629v1)|null|
+|**2024-10-23**|**Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation**|Yuxuan Wu et.al.|[2410.17620v1](http://arxiv.org/abs/2410.17620v1)|null|
+|**2024-10-23**|**The Dispersion of Broadcast Channels With Degraded Message Sets Using Gaussian Codebooks**|Zhuangfei Wu et.al.|[2410.17540v1](http://arxiv.org/abs/2410.17540v1)|null|
+|**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521v1](http://arxiv.org/abs/2410.17521v1)|[link](https://github.com/hust-tan/diffusionvi)|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505v1](http://arxiv.org/abs/2410.17505v1)|null|
+|**2024-10-22**|**Formal Privacy Guarantees with Invariant Statistics**|Young Hyun Cho et.al.|[2410.17468v1](http://arxiv.org/abs/2410.17468v1)|null|
+|**2024-10-22**|**A vector Helmholtz electromagnetic wave propagator for inhomogeneous media**|Laurence Keefe et.al.|[2410.17446v1](http://arxiv.org/abs/2410.17446v1)|null|
+|**2024-10-22**|**AG-SLAM: Active Gaussian Splatting SLAM**|Wen Jiang et.al.|[2410.17422v1](http://arxiv.org/abs/2410.17422v1)|null|
+|**2024-10-22**|**Design of the tertiary optical system for the Large Latin American Millimeter Array radio telescope**|Emiliano Rasztocky et.al.|[2410.17419v1](http://arxiv.org/abs/2410.17419v1)|null|
+|**2024-10-22**|**Deep Learning Aided Broadcast Codes with Feedback**|Jacqueline Malayter et.al.|[2410.17404v1](http://arxiv.org/abs/2410.17404v1)|null|
+|**2024-10-22**|**Reconstructing MRI Parameters Using a Noncentral Chi Noise Model**|Klara Baś et.al.|[2410.17374v1](http://arxiv.org/abs/2410.17374v1)|null|
+|**2024-10-22**|**Multi-Point Hermite Methods for the N-Body Problem**|Alexander J. Dittmann et.al.|[2410.17311v1](http://arxiv.org/abs/2410.17311v1)|null|
 |**2024-10-22**|**SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**|Cheng-De Fan et.al.|[2410.17249v1](http://arxiv.org/abs/2410.17249v1)|null|
 |**2024-10-22**|**SPDE for stochastic SIR epidemic models with infection-age dependent infectivity**|Guodong Pang et.al.|[2410.17200v1](http://arxiv.org/abs/2410.17200v1)|null|
 |**2024-10-22**|**Achievable Entanglement-Assisted Communication Rate using Phase-Modulated Two-Mode Squeezed Vacuum**|Shang-Jen Su et.al.|[2410.17181v1](http://arxiv.org/abs/2410.17181v1)|null|
-|**2024-10-22**|**Prototype Stochastic Gravitational Wave Background Recovery in the LISA Global Fit Residual**|Robert Rosati et.al.|[2410.17180v1](http://arxiv.org/abs/2410.17180v1)|null|
-|**2024-10-22**|**Incorporating waveform calibration error in gravitational-wave modeling and inference for SEOBNRv4**|Ritesh Bachhar et.al.|[2410.17168v1](http://arxiv.org/abs/2410.17168v1)|null|
-|**2024-10-22**|**A Bayesian Perspective on the Maximum Score Problem**|Christopher D. Walker et.al.|[2410.17153v1](http://arxiv.org/abs/2410.17153v1)|null|
-|**2024-10-22**|**The FLAMINGO project: Baryon effects on the matter power spectrum**|Matthieu Schaller et.al.|[2410.17109v1](http://arxiv.org/abs/2410.17109v1)|null|
-|**2024-10-22**|**General Seemingly Unrelated Local Projections**|Florian Huber et.al.|[2410.17105v1](http://arxiv.org/abs/2410.17105v1)|null|
-|**2024-10-22**|**Asymptotic Normality of the Largest Eigenvalue for Noncentral Sample Covariance Matrices**|Huihui Cheng et.al.|[2410.17085v1](http://arxiv.org/abs/2410.17085v1)|null|
-|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995v1](http://arxiv.org/abs/2410.16995v1)|null|
-|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978v1](http://arxiv.org/abs/2410.16978v1)|[link](https://github.com/roth-hex-lab/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization)|
-|**2024-10-22**|**Sample-efficient Bayesian Optimisation Using Known Invariances**|Theodore Brown et.al.|[2410.16972v1](http://arxiv.org/abs/2410.16972v1)|[link](https://github.com/theo-brown/bayesopt_with_invariances)|
-|**2024-10-22**|**Global Optimization of Gaussian Process Acquisition Functions Using a Piecewise-Linear Kernel Approximation**|Yilin Xie et.al.|[2410.16893v1](http://arxiv.org/abs/2410.16893v1)|null|
-|**2024-10-22**|**Evaluating the Effectiveness of Attack-Agnostic Features for Morphing Attack Detection**|Laurent Colbois et.al.|[2410.16802v1](http://arxiv.org/abs/2410.16802v1)|[link](https://gitlab.idiap.ch/bob/bob.paper.ijcb2024_agnostic_features_mad)|
-|**2024-10-22**|**Gap Probability Distribution of Gaussian Unitary Ensembles and Painlevé V Equation**|Shengjie Zhang et.al.|[2410.16774v1](http://arxiv.org/abs/2410.16774v1)|null|
-|**2024-10-22**|**Theoretical Convergence Guarantees for Variational Autoencoders**|Sobihan Surendran et.al.|[2410.16750v1](http://arxiv.org/abs/2410.16750v1)|null|
-|**2024-10-22**|**Wave function forms of interlayer excitons in bilayer transition metal dichalcogenides**|Jianju Tang et.al.|[2410.16717v1](http://arxiv.org/abs/2410.16717v1)|null|
-|**2024-10-22**|**Hyperboloid GPLVM for Discovering Continuous Hierarchies via Nonparametric Estimation**|Koshi Watanabe et.al.|[2410.16698v1](http://arxiv.org/abs/2410.16698v1)|null|
-|**2024-10-22**|**Astrophysical constraints on neutron star $f$-modes with a nonparametric equation of state representation**|Sailesh Ranjan Mohanty et.al.|[2410.16689v1](http://arxiv.org/abs/2410.16689v1)|null|
-|**2024-10-22**|**An Exploration of Modeling Approaches for Capturing Seasonal Transmission in Stochastic Epidemic Models**|Mahmudul Bari Hridoy et.al.|[2410.16664v1](http://arxiv.org/abs/2410.16664v1)|null|
-|**2024-10-22**|**EnKode: Active Learning of Unknown Flows with Koopman Operators**|Alice Kate Li et.al.|[2410.16605v1](http://arxiv.org/abs/2410.16605v1)|null|
-|**2024-10-21**|**A Lindbladian for exact renormalization of density operators in QFT**|Samuel Goldman et.al.|[2410.16582v1](http://arxiv.org/abs/2410.16582v1)|null|
-|**2024-10-21**|**GenGMM: Generalized Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2410.16485v1](http://arxiv.org/abs/2410.16485v1)|null|
-|**2024-10-21**|**Hidden quantum correlations in cavity-based quantum optics**|Bakhao Dioum et.al.|[2410.16479v1](http://arxiv.org/abs/2410.16479v1)|null|
-|**2024-10-21**|**The circular law for random band matrices: improved bandwidth for general models**|Yi Han et.al.|[2410.16457v1](http://arxiv.org/abs/2410.16457v1)|null|
-|**2024-10-21**|**On The Variance of Schatten $p$-Norm Estimation with Gaussian Sketching Matrices**|Lior Horesh et.al.|[2410.16455v1](http://arxiv.org/abs/2410.16455v1)|null|
-|**2024-10-21**|**Graph Regularized Sparse $L_{2,1}$ Semi-Nonnegative Matrix Factorization for Data Reduction**|Anthony Rhodes et.al.|[2410.16453v1](http://arxiv.org/abs/2410.16453v1)|null|
-|**2024-10-21**|**Outliers of perturbations of banded Toeplitz matrices**|Charles Bordenave et.al.|[2410.16439v1](http://arxiv.org/abs/2410.16439v1)|null|
-|**2024-10-21**|**BI-EqNO: Generalized Approximate Bayesian Inference with an Equivariant Neural Operator Framework**|Xu-Hui Zhou et.al.|[2410.16420v1](http://arxiv.org/abs/2410.16420v1)|null|
-|**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272v1](http://arxiv.org/abs/2410.16272v1)|null|
