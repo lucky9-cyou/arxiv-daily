@@ -23,7 +23,7 @@
 |**2024-10-24**|**Hysteresis in a Generalized Kuramoto Model with a Simplified Realistic Coupling Function and Inhomogeneous Coupling Strengths**|Jae Hyung Woo et.al.|[2410.18515v1](http://arxiv.org/abs/2410.18515v1)|null|
 |**2024-10-24**|**Glauber dynamics and coupling-from-the-past for Gaussian fields**|Corentin Faipeur et.al.|[2410.18504v1](http://arxiv.org/abs/2410.18504v1)|null|
 |**2024-10-24**|**On the localisation of the high-intensity region of simultaneous space-time foci**|Emily Archer et.al.|[2410.18485v1](http://arxiv.org/abs/2410.18485v1)|null|
-|**2024-10-24**|**Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model**|Jedidiah Harwood et.al.|[2410.18445v1](http://arxiv.org/abs/2410.18445v1)|null|
+|**2024-10-24**|**Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model**|Jedidiah Harwood et.al.|[2410.18445v1](http://arxiv.org/abs/2410.18445v1)|[link](https://github.com/jed-harwood/sgm)|
 |**2024-10-24**|**A Causal Graph-Enhanced Gaussian Process Regression for Modeling Engine-out NOx**|Shrenik Zinage et.al.|[2410.18424v1](http://arxiv.org/abs/2410.18424v1)|null|
 |**2024-10-24**|**Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equation**|Joshua Fagin et.al.|[2410.18423v1](http://arxiv.org/abs/2410.18423v1)|null|
 |**2024-10-24**|**Revisiting Differentiable Structure Learning: Inconsistency of $\ell_1$ Penalty and Beyond**|Kaifeng Jin et.al.|[2410.18396v1](http://arxiv.org/abs/2410.18396v1)|null|
