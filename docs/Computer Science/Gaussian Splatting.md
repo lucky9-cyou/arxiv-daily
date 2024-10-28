@@ -18,7 +18,7 @@
 |**2024-10-24**|**Learning dissipative Hamiltonian dynamics with reproducing kernel Hilbert spaces and random Fourier features**|Torbjørn Smith et.al.|[2410.18656v1](http://arxiv.org/abs/2410.18656v1)|null|
 |**2024-10-24**|**Suppressing chaos with mixed superconducting qubit devices**|Ben Blain et.al.|[2410.18543v1](http://arxiv.org/abs/2410.18543v1)|null|
 |**2024-10-24**|**Interpretable Representation Learning from Videos using Nonlinear Priors**|Marian Longa et.al.|[2410.18539v1](http://arxiv.org/abs/2410.18539v1)|null|
-|**2024-10-24**|**Modelling the covariance matrix for the power spectra before and after the BAO reconstruction**|Ruiyang Zhao et.al.|[2410.18524v1](http://arxiv.org/abs/2410.18524v1)|null|
+|**2024-10-24**|**Modelling the covariance matrix for the power spectra before and after the BAO reconstruction**|Ruiyang Zhao et.al.|[2410.18524v2](http://arxiv.org/abs/2410.18524v2)|null|
 |**2024-10-24**|**Generation of Structured Light and Controlled-NOT Gate in Microwave Regime**|Parkhi Bhardwaj et.al.|[2410.18523v1](http://arxiv.org/abs/2410.18523v1)|null|
 |**2024-10-24**|**Hysteresis in a Generalized Kuramoto Model with a Simplified Realistic Coupling Function and Inhomogeneous Coupling Strengths**|Jae Hyung Woo et.al.|[2410.18515v1](http://arxiv.org/abs/2410.18515v1)|null|
 |**2024-10-24**|**Glauber dynamics and coupling-from-the-past for Gaussian fields**|Corentin Faipeur et.al.|[2410.18504v1](http://arxiv.org/abs/2410.18504v1)|null|
