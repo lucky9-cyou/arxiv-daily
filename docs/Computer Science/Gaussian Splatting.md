@@ -18,7 +18,7 @@
 |**2024-10-29**|**Dynamical metastability and re-entrant localization of trapped active elements with speed and orientation fluctuations**|Manish Patel et.al.|[2410.22004v1](http://arxiv.org/abs/2410.22004v1)|null|
 |**2024-10-29**|**Optimal convergence rates in trace distance and relative entropy for the quantum central limit theorem**|Salman Beigi et.al.|[2410.21998v1](http://arxiv.org/abs/2410.21998v1)|null|
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955v1](http://arxiv.org/abs/2410.21955v1)|null|
-|**2024-10-29**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946v1](http://arxiv.org/abs/2410.21946v1)|[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)|
+|**2024-10-29**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946v2](http://arxiv.org/abs/2410.21946v2)|[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)|
 |**2024-10-29**|**Sharp spectral gap for degenerated Witten Laplacian**|Loïs Delande et.al.|[2410.21899v1](http://arxiv.org/abs/2410.21899v1)|null|
 |**2024-10-29**|**Bayesian Optimization for Hyperparameters Tuning in Neural Networks**|Gabriele Onorato et.al.|[2410.21886v1](http://arxiv.org/abs/2410.21886v1)|null|
 |**2024-10-29**|**On the Significance of Covariance for Constraining Theoretical Models From Galaxy Observables**|Yongseok Jo et.al.|[2410.21722v1](http://arxiv.org/abs/2410.21722v1)|null|
