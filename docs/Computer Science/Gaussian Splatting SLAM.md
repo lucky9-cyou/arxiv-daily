@@ -13,7 +13,7 @@
 |**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959v1](http://arxiv.org/abs/2410.22959v1)|null|
 |**2024-10-30**|**ISAC Prototype System for Multi-Domain Cooperative Communication Networks**|Jie Yang et.al.|[2410.22956v1](http://arxiv.org/abs/2410.22956v1)|null|
 |**2024-10-30**|**MMSE Channel Estimation in Fading MIMO Gaussian Channels With Blockage: A Novel Lower Bound via Poincaré Inequality**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2410.22941v1](http://arxiv.org/abs/2410.22941v1)|null|
-|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v1](http://arxiv.org/abs/2410.22931v1)|null|
+|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v2](http://arxiv.org/abs/2410.22931v2)|null|
 |**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan et.al.|[2410.22861v1](http://arxiv.org/abs/2410.22861v1)|null|
 |**2024-10-30**|**Optimality of Linear Policies for Distributionally Robust Linear Quadratic Gaussian Regulator with Stationary Distributions**|Lanzetti Nicolas et.al.|[2410.22826v1](http://arxiv.org/abs/2410.22826v1)|null|
 |**2024-10-30**|**Surface data imputation with stochastic processes**|Arsalan Jawaid et.al.|[2410.22824v1](http://arxiv.org/abs/2410.22824v1)|null|

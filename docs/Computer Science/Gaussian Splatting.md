@@ -12,7 +12,7 @@
 |**2024-10-30**|**The Emergence of Laplace Universality in Correlated Processes**|R. K. Singh et.al.|[2410.23112v1](http://arxiv.org/abs/2410.23112v1)|null|
 |**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959v1](http://arxiv.org/abs/2410.22959v1)|null|
 |**2024-10-30**|**MMSE Channel Estimation in Fading MIMO Gaussian Channels With Blockage: A Novel Lower Bound via Poincaré Inequality**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2410.22941v1](http://arxiv.org/abs/2410.22941v1)|null|
-|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v1](http://arxiv.org/abs/2410.22931v1)|null|
+|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931v2](http://arxiv.org/abs/2410.22931v2)|null|
 |**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan et.al.|[2410.22861v1](http://arxiv.org/abs/2410.22861v1)|null|
 |**2024-10-30**|**Optimality of Linear Policies for Distributionally Robust Linear Quadratic Gaussian Regulator with Stationary Distributions**|Lanzetti Nicolas et.al.|[2410.22826v1](http://arxiv.org/abs/2410.22826v1)|null|
 |**2024-10-30**|**Surface data imputation with stochastic processes**|Arsalan Jawaid et.al.|[2410.22824v1](http://arxiv.org/abs/2410.22824v1)|null|
@@ -30,5 +30,5 @@
 |**2024-10-29**|**Gaussian Derivative Change-point Detection for Early Warnings of Industrial System Failures**|Hao Zhao et.al.|[2410.22594v1](http://arxiv.org/abs/2410.22594v1)|null|
 |**2024-10-29**|**Enhanced binding for a quantum particle coupled to scalar quantized field**|Volker Betz et.al.|[2410.22569v1](http://arxiv.org/abs/2410.22569v1)|null|
 |**2024-10-29**|**Informational analysis of the confinement of an electron in an asymmetric double quantum dot**|W. S. Nascimento et.al.|[2410.22538v1](http://arxiv.org/abs/2410.22538v1)|null|
-|**2024-10-29**|**The VIX as Stochastic Volatility for Corporate Bonds**|Jihyun Park et.al.|[2410.22498v1](http://arxiv.org/abs/2410.22498v1)|null|
+|**2024-10-29**|**The VIX as Stochastic Volatility for Corporate Bonds**|Jihyun Park et.al.|[2410.22498v2](http://arxiv.org/abs/2410.22498v2)|null|
 |**2024-10-29**|**Abundance ties: Nephele and the globular cluster population accreted with ω Cen. Based on APOGEE DR17 and Gaia EDR3**|Giulia Pagnini et.al.|[2410.22479v1](http://arxiv.org/abs/2410.22479v1)|null|
