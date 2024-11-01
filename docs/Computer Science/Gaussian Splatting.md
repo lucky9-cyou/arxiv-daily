@@ -16,7 +16,7 @@
 |**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan et.al.|[2410.22861v1](http://arxiv.org/abs/2410.22861v1)|null|
 |**2024-10-30**|**Optimality of Linear Policies for Distributionally Robust Linear Quadratic Gaussian Regulator with Stationary Distributions**|Lanzetti Nicolas et.al.|[2410.22826v1](http://arxiv.org/abs/2410.22826v1)|null|
 |**2024-10-30**|**Surface data imputation with stochastic processes**|Arsalan Jawaid et.al.|[2410.22824v1](http://arxiv.org/abs/2410.22824v1)|null|
-|**2024-10-30**|**Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**|Zhiyuan Min et.al.|[2410.22817v1](http://arxiv.org/abs/2410.22817v1)|null|
+|**2024-10-30**|**Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**|Zhiyuan Min et.al.|[2410.22817v2](http://arxiv.org/abs/2410.22817v2)|null|
 |**2024-10-30**|**Universality of the $π^2/6$ Pathway in Avoiding Model Collapse**|Apratim Dey et.al.|[2410.22812v1](http://arxiv.org/abs/2410.22812v1)|null|
 |**2024-10-30**|**Adaptive Multi Scale Document Binarisation Using Vision Mamba**|Mohd. Azfar et.al.|[2410.22811v1](http://arxiv.org/abs/2410.22811v1)|null|
 |**2024-10-30**|**Winding Number Statistics for Chiral Random Matrices: Universal Correlations and Statistical Moments in the Unitary Case**|Nico Hahn et.al.|[2410.22808v1](http://arxiv.org/abs/2410.22808v1)|null|
