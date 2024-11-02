@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-02 08:57:33 Asia/Shanghai
+ Automated deployment @ 2024-11-02 09:33:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,7 +39,7 @@
 |**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137v1](http://arxiv.org/abs/2410.18137v1)|[link](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)|
 |**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395v1](http://arxiv.org/abs/2410.16395v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
@@ -61,6 +61,7 @@
 |**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820v1](http://arxiv.org/abs/2410.23820v1)|null|
 |**2024-10-31**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn et.al.|[2410.23721v1](http://arxiv.org/abs/2410.23721v1)|[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718v1](http://arxiv.org/abs/2410.23718v1)|null|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-31**|**Convergent analysis of algebraic multigrid method with data-driven parameter learning for non-selfadjoint elliptic problems**|Juan Zhang et.al.|[2410.23681v1](http://arxiv.org/abs/2410.23681v1)|null|
 |**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
 |**2024-10-31**|**Tiny Learning-Based MPC for Multirotors: Solver-Aware Learning for Efficient Embedded Predictive Control**|Babak Akbari et.al.|[2410.23634v1](http://arxiv.org/abs/2410.23634v1)|null|
@@ -71,7 +72,6 @@
 |**2024-10-31**|**Canonical-Polyadic-Decomposition of the Potential Energy Surface Fitted by Warm-Started Support Vector Regression**|Zekai Miao et.al.|[2410.23529v1](http://arxiv.org/abs/2410.23529v1)|null|
 |**2024-10-30**|**Criticality at work: scaling in the mouse cortex enhances performance**|Gustavo G. Cambrainha et.al.|[2410.23508v1](http://arxiv.org/abs/2410.23508v1)|null|
 |**2024-10-30**|**Learning Lipschitz Operators with respect to Gaussian Measures with Near-Optimal Sample Complexity**|Ben Adcock et.al.|[2410.23440v1](http://arxiv.org/abs/2410.23440v1)|null|
-|**2024-10-30**|**Non-Parametric Multi-Messenger Constraints on the Equation of State of Cold Dense Nuclear Matter**|Iuliu Cuceu et.al.|[2410.23407v1](http://arxiv.org/abs/2410.23407v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -107,7 +107,7 @@
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v2](http://arxiv.org/abs/2410.13571v2)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
@@ -129,7 +129,6 @@
 |**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820v1](http://arxiv.org/abs/2410.23820v1)|null|
 |**2024-10-31**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn et.al.|[2410.23721v1](http://arxiv.org/abs/2410.23721v1)|[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718v1](http://arxiv.org/abs/2410.23718v1)|null|
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
 |**2024-10-31**|**Convergent analysis of algebraic multigrid method with data-driven parameter learning for non-selfadjoint elliptic problems**|Juan Zhang et.al.|[2410.23681v1](http://arxiv.org/abs/2410.23681v1)|null|
 |**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
 |**2024-10-31**|**Tiny Learning-Based MPC for Multirotors: Solver-Aware Learning for Efficient Embedded Predictive Control**|Babak Akbari et.al.|[2410.23634v1](http://arxiv.org/abs/2410.23634v1)|null|
@@ -140,6 +139,7 @@
 |**2024-10-31**|**Canonical-Polyadic-Decomposition of the Potential Energy Surface Fitted by Warm-Started Support Vector Regression**|Zekai Miao et.al.|[2410.23529v1](http://arxiv.org/abs/2410.23529v1)|null|
 |**2024-10-30**|**Criticality at work: scaling in the mouse cortex enhances performance**|Gustavo G. Cambrainha et.al.|[2410.23508v1](http://arxiv.org/abs/2410.23508v1)|null|
 |**2024-10-30**|**Learning Lipschitz Operators with respect to Gaussian Measures with Near-Optimal Sample Complexity**|Ben Adcock et.al.|[2410.23440v1](http://arxiv.org/abs/2410.23440v1)|null|
+|**2024-10-30**|**Non-Parametric Multi-Messenger Constraints on the Equation of State of Cold Dense Nuclear Matter**|Iuliu Cuceu et.al.|[2410.23407v1](http://arxiv.org/abs/2410.23407v1)|null|
 
 ## Robotics
 
