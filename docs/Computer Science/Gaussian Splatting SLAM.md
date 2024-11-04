@@ -5,7 +5,7 @@
 |**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
 |**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223v1](http://arxiv.org/abs/2410.24223v1)|null|
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207v1](http://arxiv.org/abs/2410.24207v1)|[link](https://github.com/cvg/NoPoSplat)|
-|**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204v1](http://arxiv.org/abs/2410.24204v1)|null|
+|**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204v2](http://arxiv.org/abs/2410.24204v2)|null|
 |**2024-10-31**|**Coherence-free Entrywise Estimation of Eigenvectors in Low-rank Signal-plus-noise Matrix Models**|Hao Yan et.al.|[2410.24195v1](http://arxiv.org/abs/2410.24195v1)|null|
 |**2024-10-31**|**Some informational inequalities involving generalized trigonometric functions and a new class of generalized moments**|David Puertas-Centeno et.al.|[2410.24141v1](http://arxiv.org/abs/2410.24141v1)|null|
 |**2024-10-31**|**Satellite Safe Margin: Fast solutions for Conjunction Analysis**|Ricardo N. Ferreira et.al.|[2410.24092v1](http://arxiv.org/abs/2410.24092v1)|null|
@@ -19,12 +19,12 @@
 |**2024-10-31**|**Robust Sparse Regression with Non-Isotropic Designs**|Chih-Hung Liu et.al.|[2410.23937v1](http://arxiv.org/abs/2410.23937v1)|null|
 |**2024-10-31**|**Asymptotic Discrepancy of Gaussian Orthogonal Ensemble Matrices**|Nicola Wengiel et.al.|[2410.23915v1](http://arxiv.org/abs/2410.23915v1)|null|
 |**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820v1](http://arxiv.org/abs/2410.23820v1)|null|
-|**2024-10-31**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn et.al.|[2410.23721v1](http://arxiv.org/abs/2410.23721v1)|[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)|
+|**2024-10-31**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn et.al.|[2410.23721v2](http://arxiv.org/abs/2410.23721v2)|[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718v1](http://arxiv.org/abs/2410.23718v1)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
-|**2024-10-31**|**Convergent analysis of algebraic multigrid method with data-driven parameter learning for non-selfadjoint elliptic problems**|Juan Zhang et.al.|[2410.23681v1](http://arxiv.org/abs/2410.23681v1)|null|
+|**2024-10-31**|**Convergent analysis of algebraic multigrid method with data-driven parameter learning for non-selfadjoint elliptic problems**|Juan Zhang et.al.|[2410.23681v2](http://arxiv.org/abs/2410.23681v2)|null|
 |**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
-|**2024-10-31**|**Tiny Learning-Based MPC for Multirotors: Solver-Aware Learning for Efficient Embedded Predictive Control**|Babak Akbari et.al.|[2410.23634v1](http://arxiv.org/abs/2410.23634v1)|null|
+|**2024-10-31**|**Tiny Learning-Based MPC for Multirotors: Solver-Aware Learning for Efficient Embedded Predictive Control**|Babak Akbari et.al.|[2410.23634v2](http://arxiv.org/abs/2410.23634v2)|null|
 |**2024-10-31**|**Identifiability Guarantees for Causal Disentanglement from Purely Observational Data**|Ryan Welch et.al.|[2410.23620v1](http://arxiv.org/abs/2410.23620v1)|[link](https://github.com/uhlerlab/observational-crl)|
 |**2024-10-31**|**How Do Flow Matching Models Memorize and Generalize in Sample Data Subspaces?**|Weiguo Gao et.al.|[2410.23594v1](http://arxiv.org/abs/2410.23594v1)|null|
 |**2024-10-31**|**Online Convex Optimization with Memory and Limited Predictions**|Lintao Ye et.al.|[2410.23574v1](http://arxiv.org/abs/2410.23574v1)|null|
