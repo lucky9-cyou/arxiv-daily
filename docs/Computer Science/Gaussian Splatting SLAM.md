@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222v1](http://arxiv.org/abs/2410.24222v1)|null|
-|**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223v1](http://arxiv.org/abs/2410.24223v1)|null|
-|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207v1](http://arxiv.org/abs/2410.24207v1)|[link](https://github.com/cvg/NoPoSplat)|
-|**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204v2](http://arxiv.org/abs/2410.24204v2)|null|
-|**2024-10-31**|**Coherence-free Entrywise Estimation of Eigenvectors in Low-rank Signal-plus-noise Matrix Models**|Hao Yan et.al.|[2410.24195v1](http://arxiv.org/abs/2410.24195v1)|null|
-|**2024-10-31**|**Some informational inequalities involving generalized trigonometric functions and a new class of generalized moments**|David Puertas-Centeno et.al.|[2410.24141v1](http://arxiv.org/abs/2410.24141v1)|null|
-|**2024-10-31**|**Satellite Safe Margin: Fast solutions for Conjunction Analysis**|Ricardo N. Ferreira et.al.|[2410.24092v1](http://arxiv.org/abs/2410.24092v1)|null|
-|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060v1](http://arxiv.org/abs/2410.24060v1)|[link](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
-|**2024-10-31**|**A Martingale-Free Introduction to Conditional Gaussian Nonlinear Systems**|Marios Andreou et.al.|[2410.24056v1](http://arxiv.org/abs/2410.24056v1)|null|
-|**2024-10-31**|**EigenVI: score-based variational inference with orthogonal function expansions**|Diana Cai et.al.|[2410.24054v1](http://arxiv.org/abs/2410.24054v1)|null|
-|**2024-10-31**|**On testing for independence between generalized error models of several time series**|Kilani Ghoudi et.al.|[2410.24003v1](http://arxiv.org/abs/2410.24003v1)|null|
-|**2024-10-31**|**Sample path properties of parabolic SPDEs with non constant coefficients**|Robert C. Dalang et.al.|[2410.23995v1](http://arxiv.org/abs/2410.23995v1)|null|
-|**2024-10-31**|**Stochastic Reconstruction of Gappy Lagrangian Turbulent Signals by Conditional Diffusion Models**|Tianyi Li et.al.|[2410.23971v1](http://arxiv.org/abs/2410.23971v1)|null|
-|**2024-10-31**|**Ultra-Slow-Roll Inflation on the Lattice: Backreaction and Nonlinear Effects**|Angelo Caravano et.al.|[2410.23942v1](http://arxiv.org/abs/2410.23942v1)|[link](https://github.com/caravangelo/usr-on-the-lattice)|
-|**2024-10-31**|**Robust Sparse Regression with Non-Isotropic Designs**|Chih-Hung Liu et.al.|[2410.23937v1](http://arxiv.org/abs/2410.23937v1)|null|
-|**2024-10-31**|**Asymptotic Discrepancy of Gaussian Orthogonal Ensemble Matrices**|Nicola Wengiel et.al.|[2410.23915v1](http://arxiv.org/abs/2410.23915v1)|null|
-|**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820v1](http://arxiv.org/abs/2410.23820v1)|null|
-|**2024-10-31**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn et.al.|[2410.23721v2](http://arxiv.org/abs/2410.23721v2)|[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)|
-|**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718v1](http://arxiv.org/abs/2410.23718v1)|null|
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690v1](http://arxiv.org/abs/2410.23690v1)|null|
-|**2024-10-31**|**Convergent analysis of algebraic multigrid method with data-driven parameter learning for non-selfadjoint elliptic problems**|Juan Zhang et.al.|[2410.23681v2](http://arxiv.org/abs/2410.23681v2)|null|
-|**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658v1](http://arxiv.org/abs/2410.23658v1)|null|
-|**2024-10-31**|**Tiny Learning-Based MPC for Multirotors: Solver-Aware Learning for Efficient Embedded Predictive Control**|Babak Akbari et.al.|[2410.23634v2](http://arxiv.org/abs/2410.23634v2)|null|
-|**2024-10-31**|**Identifiability Guarantees for Causal Disentanglement from Purely Observational Data**|Ryan Welch et.al.|[2410.23620v1](http://arxiv.org/abs/2410.23620v1)|[link](https://github.com/uhlerlab/observational-crl)|
-|**2024-10-31**|**How Do Flow Matching Models Memorize and Generalize in Sample Data Subspaces?**|Weiguo Gao et.al.|[2410.23594v1](http://arxiv.org/abs/2410.23594v1)|null|
-|**2024-10-31**|**Online Convex Optimization with Memory and Limited Predictions**|Lintao Ye et.al.|[2410.23574v1](http://arxiv.org/abs/2410.23574v1)|null|
-|**2024-10-31**|**There and Back Again: On the relation between noises, images, and their inversions in diffusion models**|Łukasz Staniszewski et.al.|[2410.23530v1](http://arxiv.org/abs/2410.23530v1)|null|
-|**2024-10-31**|**Canonical-Polyadic-Decomposition of the Potential Energy Surface Fitted by Warm-Started Support Vector Regression**|Zekai Miao et.al.|[2410.23529v1](http://arxiv.org/abs/2410.23529v1)|null|
-|**2024-10-30**|**Criticality at work: scaling in the mouse cortex enhances performance**|Gustavo G. Cambrainha et.al.|[2410.23508v1](http://arxiv.org/abs/2410.23508v1)|null|
-|**2024-10-30**|**Learning Lipschitz Operators with respect to Gaussian Measures with Near-Optimal Sample Complexity**|Ben Adcock et.al.|[2410.23440v1](http://arxiv.org/abs/2410.23440v1)|null|
+|**2024-11-04**|**Optimal estimates of trace distance between bosonic Gaussian states and applications to learning**|Lennart Bittel et.al.|[2411.02368v1](http://arxiv.org/abs/2411.02368v1)|null|
+|**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332v1](http://arxiv.org/abs/2411.02332v1)|null|
+|**2024-11-04**|**Sample-Efficient Private Learning of Mixtures of Gaussians**|Hassan Ashtiani et.al.|[2411.02298v1](http://arxiv.org/abs/2411.02298v1)|null|
+|**2024-11-04**|**Towards safe Bayesian optimization with Wiener kernel regression**|Oleksii Molodchyk et.al.|[2411.02253v1](http://arxiv.org/abs/2411.02253v1)|null|
+|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v1](http://arxiv.org/abs/2411.02229v1)|null|
+|**2024-11-04**|**Variable Selection in Convex Piecewise Linear Regression**|Haitham Kanj et.al.|[2411.02225v1](http://arxiv.org/abs/2411.02225v1)|null|
+|**2024-11-04**|**Double Descent Meets Out-of-Distribution Detection: Theoretical Insights and Empirical Analysis on the role of model complexity**|Mouïn Ben Ammar et.al.|[2411.02184v1](http://arxiv.org/abs/2411.02184v1)|null|
+|**2024-11-04**|**Finite-size scaling and dynamics in a two-dimensional lattice of identical oscillators with frustrated couplings**|Róbert Juhász et.al.|[2411.02171v1](http://arxiv.org/abs/2411.02171v1)|null|
+|**2024-11-04**|**Finite-sample performance of the maximum likelihood estimator in logistic regression**|Hugo Chardon et.al.|[2411.02137v1](http://arxiv.org/abs/2411.02137v1)|null|
+|**2024-11-04**|**A proposed signal discovery method in interstellar communication**|William J. Crilly Jr et.al.|[2411.02081v1](http://arxiv.org/abs/2411.02081v1)|null|
+|**2024-11-04**|**Building robust surrogate models of laser-plasma interactions using large scale PIC simulation**|Nathan Smith et.al.|[2411.02079v1](http://arxiv.org/abs/2411.02079v1)|null|
+|**2024-11-04**|**From Theory to Reality: A Design Framework for Integrated Communication and Computing Receivers**|Kuranage Roche Rayan Ranasinghe et.al.|[2411.02016v1](http://arxiv.org/abs/2411.02016v1)|null|
+|**2024-11-04**|**Best-Arm Identification in Unimodal Bandits**|Riccardo Poiani et.al.|[2411.01898v1](http://arxiv.org/abs/2411.01898v1)|null|
+|**2024-11-04**|**Backstepping Design for Incremental Input-to-State Stabilization of Unknown Systems**|David Smith Sundarsingh et.al.|[2411.01872v1](http://arxiv.org/abs/2411.01872v1)|null|
+|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v1](http://arxiv.org/abs/2411.01853v1)|null|
+|**2024-11-04**|**Center-to-limb Variations in Solar Plage using IRIS Observations**|Pradeep Kayshap et.al.|[2411.01838v1](http://arxiv.org/abs/2411.01838v1)|null|
+|**2024-11-04**|**Generalized Bohr inequalities for K-quasiconformal harmonic mappings and their applications**|Raju Biswas et.al.|[2411.01837v1](http://arxiv.org/abs/2411.01837v1)|null|
+|**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804v1](http://arxiv.org/abs/2411.01804v1)|null|
+|**2024-11-04**|**Fast Semi-supervised Learning on Large Graphs: An Improved Green-function Method**|Feiping Nie et.al.|[2411.01792v1](http://arxiv.org/abs/2411.01792v1)|null|
+|**2024-11-03**|**Laser Pulse Diagnostics of Ultrafast <8 fs Pulses Through Two-Photon Absorption Fluorescence In Liquid Media -- The Role of GVD and Third-Order Dispersion**|Asad Mahmood et.al.|[2411.01708v1](http://arxiv.org/abs/2411.01708v1)|null|
+|**2024-11-03**|**A probabilistic diagnostic for Laplace approximations: Introduction and experimentation**|Shaun McDonald et.al.|[2411.01697v1](http://arxiv.org/abs/2411.01697v1)|null|
+|**2024-11-03**|**Curvature of Energy Dispersions in Condensed Matter Quantum Systems**|Tishya Patel et.al.|[2411.01658v1](http://arxiv.org/abs/2411.01658v1)|null|
+|**2024-11-03**|**The $L_p$-floating area, curvature entropy, and isoperimetric inequalities on the sphere**|Florian Besau et.al.|[2411.01631v1](http://arxiv.org/abs/2411.01631v1)|null|
+|**2024-11-03**|**Denoising Diffusions with Optimal Transport: Localization, Curvature, and Multi-Scale Complexity**|Tengyuan Liang et.al.|[2411.01629v1](http://arxiv.org/abs/2411.01629v1)|null|
+|**2024-11-03**|**Wrinkling and imaging of thin curved sheets**|Megha Emerse et.al.|[2411.01616v1](http://arxiv.org/abs/2411.01616v1)|null|
+|**2024-11-03**|**Genuine non-Gaussian entanglement: quantum correlations beyond Hong-Ou-Mandel**|Xiaobin Zhao et.al.|[2411.01609v1](http://arxiv.org/abs/2411.01609v1)|null|
+|**2024-11-03**|**Statistical Inference on High Dimensional Gaussian Graphical Regression Models**|Xuran Meng et.al.|[2411.01588v1](http://arxiv.org/abs/2411.01588v1)|null|
+|**2024-11-03**|**Decision Trees for Interpretable Clusters in Mixture Models and Deep Representations**|Maximilian Fleissner et.al.|[2411.01576v1](http://arxiv.org/abs/2411.01576v1)|null|
+|**2024-11-03**|**Building the Self-Improvement Loop: Error Detection and Correction in Goal-Oriented Semantic Communications**|Peizheng Li et.al.|[2411.01544v1](http://arxiv.org/abs/2411.01544v1)|null|
+|**2024-11-03**|**Efficient Non-Exemplar Class-Incremental Learning with Retrospective Feature Synthesis**|Liang Bai et.al.|[2411.01465v1](http://arxiv.org/abs/2411.01465v1)|null|
