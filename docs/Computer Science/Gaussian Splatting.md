@@ -2,6 +2,25 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
+|**2024-11-07**|**Quantum limited imaging of a nanomechanical resonator with a spatial mode sorter**|Morgan Choi et.al.|[2411.04980v1](http://arxiv.org/abs/2411.04980v1)|null|
+|**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924v1](http://arxiv.org/abs/2411.04924v1)|[link](https://github.com/donydchen/mvsplat360)|
+|**2024-11-07**|**From bosons and fermions to spins: A multi-mode extension of the Jordan-Schwinger map**|Benoît Dubus et.al.|[2411.04918v1](http://arxiv.org/abs/2411.04918v1)|null|
+|**2024-11-07**|**Non-Euclidean Mixture Model for Social Network Embedding**|Roshni G. Iyer et.al.|[2411.04876v1](http://arxiv.org/abs/2411.04876v1)|[link](https://github.com/roshnigiyer/nmm)|
+|**2024-11-07**|**High Entropy Alloy property predictions using Transformer-based language model**|Spyros Kamnis et.al.|[2411.04861v1](http://arxiv.org/abs/2411.04861v1)|null|
+|**2024-11-07**|**Lattice simulations of axion-U(1) inflation: gravitational waves, magnetic fields, and black holes**|Ramkishor Sharma et.al.|[2411.04854v1](http://arxiv.org/abs/2411.04854v1)|null|
+|**2024-11-07**|**Differentiable Gaussian Representation for Incomplete CT Reconstruction**|Shaokai Wu et.al.|[2411.04844v1](http://arxiv.org/abs/2411.04844v1)|null|
+|**2024-11-07**|**Fast Generation of Weak Lensing Maps with Analytical Point Transformation Functions**|Kunhao Zhong et.al.|[2411.04759v1](http://arxiv.org/abs/2411.04759v1)|null|
+|**2024-11-07**|**An efficient quantum state verification framework and its application to bosonic systems**|Varun Upreti et.al.|[2411.04688v1](http://arxiv.org/abs/2411.04688v1)|null|
+|**2024-11-07**|**Unveiling VVV/WISE Mira variables on the far side of the Galactic disk: Distances, kinematics and a new extinction law**|Rogelio Albarracín et.al.|[2411.04623v1](http://arxiv.org/abs/2411.04623v1)|null|
+|**2024-11-07**|**On the average-case hardness of BosonSampling**|Adam Bouland et.al.|[2411.04566v1](http://arxiv.org/abs/2411.04566v1)|null|
+|**2024-11-07**|**Probabilistic Approaches to The Energy Equality in Forced Surface Quasi-Geostrophic Equations**|Lin Wang et.al.|[2411.04500v1](http://arxiv.org/abs/2411.04500v1)|null|
+|**2024-11-07**|**Orbital Angular Momentum Coherent State Beams**|D. Aguirre-Olivas et.al.|[2411.04402v1](http://arxiv.org/abs/2411.04402v1)|null|
+|**2024-11-07**|**Impact of white noise in artificial neural networks trained for classification: performance and noise mitigation strategies**|Nadezhda Semenova et.al.|[2411.04354v1](http://arxiv.org/abs/2411.04354v1)|null|
+|**2024-11-06**|**Bounding Hellinger Distance with Stein's Method**|Morgane Austern et.al.|[2411.04322v1](http://arxiv.org/abs/2411.04322v1)|null|
+|**2024-11-06**|**Adaptive signal recovery in sparse nonparametric models**|Natalia Stepanova et.al.|[2411.04320v1](http://arxiv.org/abs/2411.04320v1)|null|
+|**2024-11-06**|**A Multilingual Sentiment Lexicon for Low-Resource Language Translation using Large Languages Models and Explainable AI**|Melusi Malinga et.al.|[2411.04316v1](http://arxiv.org/abs/2411.04316v1)|null|
+|**2024-11-06**|**Exploring the quantum capacity of a Gaussian random displacement channel using Gottesman-Kitaev-Preskill codes and maximum likelihood decoding**|Mao Lin et.al.|[2411.04277v1](http://arxiv.org/abs/2411.04277v1)|null|
 |**2024-11-06**|**Quantum metrology with a continuous-variable system**|Matteo Fadel et.al.|[2411.04122v1](http://arxiv.org/abs/2411.04122v1)|null|
 |**2024-11-06**|**Learned codes for broadcast channels with feedback**|Yingyao Zhou et.al.|[2411.04083v1](http://arxiv.org/abs/2411.04083v1)|null|
 |**2024-11-06**|**Continuous-Time State Estimation Methods in Robotics: A Survey**|William Talbot et.al.|[2411.03951v1](http://arxiv.org/abs/2411.03951v1)|null|
@@ -13,22 +32,3 @@
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|[link](https://github.com/prstrive/scgaussian)|
 |**2024-11-06**|**Privacy-Preserving Resilient Vector Consensus**|Bing Liu et.al.|[2411.03633v1](http://arxiv.org/abs/2411.03633v1)|null|
 |**2024-11-06**|**Open-Source High-Speed Flight Surrogate Modeling Framework**|Tyler E. Korenyi-Both et.al.|[2411.03598v1](http://arxiv.org/abs/2411.03598v1)|null|
-|**2024-11-06**|**Tri-meson state $\boldsymbol{\bar{B}\bar{B}^*\bar{B}^*}$**|Cheng-Rong Deng et.al.|[2411.03589v1](http://arxiv.org/abs/2411.03589v1)|null|
-|**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555v1](http://arxiv.org/abs/2411.03555v1)|null|
-|**2024-11-05**|**Remarkable Scale Relation, Approximate SU(5), Fluctuating Lattice**|Holger Bech Nielsen et.al.|[2411.03552v1](http://arxiv.org/abs/2411.03552v1)|null|
-|**2024-11-05**|**Understanding Contrastive Learning via Gaussian Mixture Models**|Parikshit Bansal et.al.|[2411.03517v1](http://arxiv.org/abs/2411.03517v1)|null|
-|**2024-11-05**|**Computational Tools for Real-time Analysis of High-throughput High-resolution TEM (HRTEM) Images of Conjugated Polymers**|Dhruv Gamdha et.al.|[2411.03474v1](http://arxiv.org/abs/2411.03474v1)|null|
-|**2024-11-05**|**Primordial black holes as supermassive black holes seeds**|Francesco Ziparo et.al.|[2411.03448v1](http://arxiv.org/abs/2411.03448v1)|null|
-|**2024-11-05**|**Accelerating Gaussian Variational Inference for Motion Planning Under Uncertainty**|Zinuo Chang et.al.|[2411.03416v1](http://arxiv.org/abs/2411.03416v1)|null|
-|**2024-11-05**|**Near-Optimal and Tractable Estimation under Shift-Invariance**|Dmitrii M. Ostrovskii et.al.|[2411.03383v1](http://arxiv.org/abs/2411.03383v1)|null|
-|**2024-11-05**|**Genuine tripartite entanglement in graviton-matter interactions**|Pablo Guillermo Carmona Rufo et.al.|[2411.03293v1](http://arxiv.org/abs/2411.03293v1)|null|
-|**2024-11-05**|**Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation**|Ananya Trivedi et.al.|[2411.03289v1](http://arxiv.org/abs/2411.03289v1)|[link](https://github.com/RIVeR-Lab/Stochastic-MPPI)|
-|**2024-11-05**|**Accurate simulation of the European XFEL scintillating screens point spread function**|A. Novokshonov et.al.|[2411.03214v1](http://arxiv.org/abs/2411.03214v1)|null|
-|**2024-11-05**|**Gender Differences in Comparative Advantage Matches: Evidence from Linked Employer-Employee Data**|Hugo Sant'Anna et.al.|[2411.03209v1](http://arxiv.org/abs/2411.03209v1)|null|
-|**2024-11-05**|**Efficient Hamiltonian, structure and trace distance learning of Gaussian states**|Marco Fanizza et.al.|[2411.03163v1](http://arxiv.org/abs/2411.03163v1)|null|
-|**2024-11-05**|**All three-angle variants of Tsirelson's precession protocol, and improved bounds for wedge integrals of Wigner functions**|Lin Htoo Zaw et.al.|[2411.03132v1](http://arxiv.org/abs/2411.03132v1)|null|
-|**2024-11-05**|**Multiscale differential geometry learning for protein flexibility analysis**|Hongsong Feng et.al.|[2411.03112v1](http://arxiv.org/abs/2411.03112v1)|null|
-|**2024-11-05**|**Comparison of Bayesian inference methods using the Loreli II database of hydro-radiative simulations of the 21-cm signal**|Romain Meriot et.al.|[2411.03093v1](http://arxiv.org/abs/2411.03093v1)|null|
-|**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086v1](http://arxiv.org/abs/2411.03086v1)|null|
-|**2024-11-05**|**Scalable multipartite entanglement criteria for continuous variables**|Xiao-yu Chen et.al.|[2411.03083v1](http://arxiv.org/abs/2411.03083v1)|null|
-|**2024-11-05**|**Self-supervised cross-modality learning for uncertainty-aware object detection and recognition in applications which lack pre-labelled training data**|Irum Mehboob et.al.|[2411.03082v1](http://arxiv.org/abs/2411.03082v1)|null|
