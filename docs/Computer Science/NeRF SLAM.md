@@ -2,6 +2,9 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
+|**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322v1](http://arxiv.org/abs/2411.05322v1)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810v1](http://arxiv.org/abs/2411.04810v1)|null|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev et.al.|[2411.04797v1](http://arxiv.org/abs/2411.04797v1)|null|
@@ -29,6 +32,3 @@
 |**2024-10-30**|**ISAC Prototype System for Multi-Domain Cooperative Communication Networks**|Jie Yang et.al.|[2410.22956v1](http://arxiv.org/abs/2410.22956v1)|null|
 |**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936v1](http://arxiv.org/abs/2410.22936v1)|null|
 |**2024-10-30**|**SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark**|HyunJun Jung et.al.|[2410.22715v1](http://arxiv.org/abs/2410.22715v1)|null|
-|**2024-10-29**|**EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments**|Linus Nwankwo et.al.|[2410.22200v1](http://arxiv.org/abs/2410.22200v1)|null|
-|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|null|
-|**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566v1](http://arxiv.org/abs/2410.21566v1)|[link](https://github.com/pixie8888/mvsdet)|

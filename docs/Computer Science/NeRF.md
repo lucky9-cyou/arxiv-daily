@@ -2,6 +2,8 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322v1](http://arxiv.org/abs/2411.05322v1)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810v1](http://arxiv.org/abs/2411.04810v1)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386v1](http://arxiv.org/abs/2411.04386v1)|null|
@@ -30,5 +32,3 @@
 |**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932v1](http://arxiv.org/abs/2410.17932v1)|null|
 |**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839v1](http://arxiv.org/abs/2410.17839v1)|null|
 |**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741v1](http://arxiv.org/abs/2410.17741v1)|[link](https://github.com/HZXu-526/Human-Avatar)|
-|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505v1](http://arxiv.org/abs/2410.17505v1)|null|
-|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
