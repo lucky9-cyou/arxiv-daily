@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-08**|**PEP-GS: Perceptually-Enhanced Precise Structured 3D Gaussians for View-Adaptive Rendering**|Junxi Jin et.al.|[2411.05731v1](http://arxiv.org/abs/2411.05731v1)|null|
-|**2024-11-08**|**Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models**|Puqian Wang et.al.|[2411.05708v1](http://arxiv.org/abs/2411.05708v1)|null|
-|**2024-11-08**|**Relationships between the degrees of freedom in the affine Gaussian derivative model for visual receptive fields and 2-D affine image transformations, with application to covariance properties of simple cells in the primary visual cortex**|Tony Lindeberg et.al.|[2411.05673v1](http://arxiv.org/abs/2411.05673v1)|null|
-|**2024-11-08**|**Network EM Algorithm for Gaussian Mixture Model in Decentralized Federated Learning**|Shuyuan Wu et.al.|[2411.05591v1](http://arxiv.org/abs/2411.05591v1)|null|
-|**2024-11-08**|**Smart navigation through a rotating barrier: Deep reinforcement learning with application to size-based separation of active microagents**|Mohammad Hossein Masoudi et.al.|[2411.05587v1](http://arxiv.org/abs/2411.05587v1)|null|
-|**2024-11-08**|**Gaussian process modelling of infectious diseases using the Greta software package and GPUs**|Eva Gunn et.al.|[2411.05556v1](http://arxiv.org/abs/2411.05556v1)|null|
-|**2024-11-08**|**Isolated Attosecond $γ$-Ray Pulse Generation with Transverse Orbital Angular Momentum Using Intense Spatiotemporal Optical Vortex Lasers**|Fengyu Sun et.al.|[2411.05546v1](http://arxiv.org/abs/2411.05546v1)|null|
-|**2024-11-08**|**Composition-property extrapolation for compositionally complex solid solutions based on word embeddings**|Lei Zhang et.al.|[2411.05466v1](http://arxiv.org/abs/2411.05466v1)|null|
-|**2024-11-08**|**Multidimensional quantum dynamics with explicitly correlated Gaussian wave packets using Rothe's method**|Simon Elias Schrader et.al.|[2411.05459v1](http://arxiv.org/abs/2411.05459v1)|null|
-|**2024-11-08**|**Development of Underactuated Geometric Compliant (UGC) Module with Variable Radial for Robotic Applications**|Mark Krysov et.al.|[2411.05418v1](http://arxiv.org/abs/2411.05418v1)|null|
-|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354v1](http://arxiv.org/abs/2411.05354v1)|null|
-|**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
-|**2024-11-08**|**Quantum real-time evolution using tensor renormalization group methods**|Michael Hite et.al.|[2411.05301v1](http://arxiv.org/abs/2411.05301v1)|null|
-|**2024-11-08**|**Strong progenitor age bias in supernova cosmology. I. Robust and ubiquitous evidence from a larger sample of host galaxies in a broader redshift range**|Chul Chung et.al.|[2411.05299v1](http://arxiv.org/abs/2411.05299v1)|null|
-|**2024-11-08**|**A Stochastic Conceptual Model for the Coupled ENSO and MJO**|Charlotte Moser et.al.|[2411.05264v1](http://arxiv.org/abs/2411.05264v1)|null|
-|**2024-11-08**|**Noncommutative AdS black hole and the IR holographic superconductor**|Manuel de la Cruz-López et.al.|[2411.05259v1](http://arxiv.org/abs/2411.05259v1)|null|
-|**2024-11-07**|**Sample Path Properties of the Fractional Wiener--Weierstrass Bridge**|Alexander Schied et.al.|[2411.05204v1](http://arxiv.org/abs/2411.05204v1)|null|
-|**2024-11-07**|**Interpretable Measurement of CNN Deep Feature Density using Copula and the Generalized Characteristic Function**|David Chapman et.al.|[2411.05183v1](http://arxiv.org/abs/2411.05183v1)|null|
-|**2024-11-07**|**Constrain Spatial Curvature and Dark Energy with Strong Lenses and Complementary Probes: a Forecast for Next-Generation Surveys**|Yang Hu et.al.|[2411.05082v1](http://arxiv.org/abs/2411.05082v1)|null|
-|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
-|**2024-11-07**|**Quantum limited imaging of a nanomechanical resonator with a spatial mode sorter**|Morgan Choi et.al.|[2411.04980v1](http://arxiv.org/abs/2411.04980v1)|null|
-|**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924v1](http://arxiv.org/abs/2411.04924v1)|[link](https://github.com/donydchen/mvsplat360)|
-|**2024-11-07**|**From bosons and fermions to spins: A multi-mode extension of the Jordan-Schwinger map**|Benoît Dubus et.al.|[2411.04918v1](http://arxiv.org/abs/2411.04918v1)|null|
-|**2024-11-07**|**Non-Euclidean Mixture Model for Social Network Embedding**|Roshni G. Iyer et.al.|[2411.04876v1](http://arxiv.org/abs/2411.04876v1)|[link](https://github.com/roshnigiyer/nmm)|
-|**2024-11-07**|**High Entropy Alloy property predictions using Transformer-based language model**|Spyros Kamnis et.al.|[2411.04861v1](http://arxiv.org/abs/2411.04861v1)|null|
-|**2024-11-07**|**Lattice simulations of axion-U(1) inflation: gravitational waves, magnetic fields, and black holes**|Ramkishor Sharma et.al.|[2411.04854v1](http://arxiv.org/abs/2411.04854v1)|null|
-|**2024-11-07**|**Differentiable Gaussian Representation for Incomplete CT Reconstruction**|Shaokai Wu et.al.|[2411.04844v1](http://arxiv.org/abs/2411.04844v1)|null|
-|**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev et.al.|[2411.04797v1](http://arxiv.org/abs/2411.04797v1)|null|
-|**2024-11-07**|**Fast Generation of Weak Lensing Maps with Analytical Point Transformation Functions**|Kunhao Zhong et.al.|[2411.04759v1](http://arxiv.org/abs/2411.04759v1)|null|
-|**2024-11-07**|**An efficient quantum state verification framework and its application to bosonic systems**|Varun Upreti et.al.|[2411.04688v1](http://arxiv.org/abs/2411.04688v1)|null|
+|**2024-11-11**|**Transverse orbital angular momentum of amplitude-perturbed fields**|S. W. Hancock et.al.|[2411.07209v1](http://arxiv.org/abs/2411.07209v1)|null|
+|**2024-11-11**|**Conditional simulation via entropic optimal transport: Toward non-parametric estimation of conditional Brenier maps**|Ricardo Baptista et.al.|[2411.07154v1](http://arxiv.org/abs/2411.07154v1)|null|
+|**2024-11-11**|**Variational Graph Contrastive Learning**|Shifeng Xie et.al.|[2411.07150v1](http://arxiv.org/abs/2411.07150v1)|[link](https://github.com/shifengxie/sgec)|
+|**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146v1](http://arxiv.org/abs/2411.07146v1)|null|
+|**2024-11-11**|**Cell bulging and extrusion in a three-dimensional bubbly vertex model for curved epithelial sheets**|Oliver M. Drozdowski et.al.|[2411.07141v1](http://arxiv.org/abs/2411.07141v1)|null|
+|**2024-11-11**|**Efficient Adaptive Optimization via Subset-Norm and Subspace-Momentum: Fast, Memory-Reduced Training with Convergence Guarantees**|Thien Hang Nguyen et.al.|[2411.07120v1](http://arxiv.org/abs/2411.07120v1)|null|
+|**2024-11-11**|**Distributed Spatial Awareness for Robot Swarms**|Simon Jones et.al.|[2411.07056v1](http://arxiv.org/abs/2411.07056v1)|null|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976v1](http://arxiv.org/abs/2411.06976v1)|null|
+|**2024-11-11**|**Spontaneous modulational instability of elliptic periodic waves: the soliton condensate model**|D. S. Agafontsev et.al.|[2411.06922v1](http://arxiv.org/abs/2411.06922v1)|null|
+|**2024-11-11**|**Gaussian Process Emulators for Few-Shot Segmentation in Cardiac MRI**|Bruno Viti et.al.|[2411.06911v1](http://arxiv.org/abs/2411.06911v1)|[link](https://gitlab.com/bruno_viti/gpe_4_cardiac_fss)|
+|**2024-11-11**|**Detecting relevant deviations from the white noise assumption for non-stationary time series**|Patrick Bastian et.al.|[2411.06909v1](http://arxiv.org/abs/2411.06909v1)|null|
+|**2024-11-11**|**Scientific machine learning in ecological systems: A study on the predator-prey dynamics**|Ranabir Devgupta et.al.|[2411.06858v1](http://arxiv.org/abs/2411.06858v1)|null|
+|**2024-11-11**|**Maximizing domain generalization in fetal brain tissue segmentation: the role of synthetic data generation, intensity clustering and real image fine-tuning**|Vladyslav Zalevskyi et.al.|[2411.06842v1](http://arxiv.org/abs/2411.06842v1)|null|
+|**2024-11-11**|**Prime Gaps In The Gaussian Integers**|Kyle Bradford et.al.|[2411.06783v1](http://arxiv.org/abs/2411.06783v1)|null|
+|**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752v1](http://arxiv.org/abs/2411.06752v1)|null|
+|**2024-11-11**|**HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**|Xiaolong Wang et.al.|[2411.06700v1](http://arxiv.org/abs/2411.06700v1)|null|
+|**2024-11-11**|**Two Kinds of Learning Algorithms for Continuous-Time VWAP Targeting Execution**|Xingyu Zhou et.al.|[2411.06645v1](http://arxiv.org/abs/2411.06645v1)|null|
+|**2024-11-11**|**Portfolio credit risk with Archimedean copulas: asymptotic analysis and efficient simulation**|Hengxin Cui et.al.|[2411.06640v1](http://arxiv.org/abs/2411.06640v1)|null|
+|**2024-11-10**|**On the optimal choice of the illumination function in photoacoustic tomography**|Phuoc-Truong Huynh et.al.|[2411.06609v1](http://arxiv.org/abs/2411.06609v1)|null|
+|**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602v1](http://arxiv.org/abs/2411.06602v1)|null|
+|**2024-11-10**|**Time delay estimation of coherent structure velocities from a super-position of localized pulses**|J. M. Losada et.al.|[2411.06544v1](http://arxiv.org/abs/2411.06544v1)|null|
+|**2024-11-10**|**One-Dimensional Quench Dynamics in an Optical Lattice: sine-Gordon and Bose-Hubbard Descriptions**|Subhrajyoti Roy et.al.|[2411.06507v1](http://arxiv.org/abs/2411.06507v1)|null|
+|**2024-11-10**|**Generalized Eigenspaces and Pseudospectra of Nonnormal and Defective Matrix-Valued Dynamical Systems**|Saori Morimoto et.al.|[2411.06472v1](http://arxiv.org/abs/2411.06472v1)|null|
+|**2024-11-10**|**HidePrint: Hiding the Radio Fingerprint via Random Noise**|Gabriele Oligeri et.al.|[2411.06417v1](http://arxiv.org/abs/2411.06417v1)|null|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390v1](http://arxiv.org/abs/2411.06390v1)|[link](https://github.com/ChenYutongTHU/SplatFormer)|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365v1](http://arxiv.org/abs/2411.06365v1)|null|
+|**2024-11-10**|**Probabilistic Shaped Multilevel Polar Coding for Wiretap Channel**|Li Shen et.al.|[2411.06339v1](http://arxiv.org/abs/2411.06339v1)|null|
+|**2024-11-10**|**Amortized Bayesian Local Interpolation NetworK: Fast covariance parameter estimation for Gaussian Processes**|Brandon R. Feng et.al.|[2411.06324v1](http://arxiv.org/abs/2411.06324v1)|null|
+|**2024-11-09**|**Shared-Endpoint Correlations and Hierarchy in Random Flows on Graphs**|Joshua Richalnd et.al.|[2411.06314v1](http://arxiv.org/abs/2411.06314v1)|null|
+|**2024-11-09**|**Structural Properties of Hyperuniform Networks**|Eli Newby et.al.|[2411.06273v1](http://arxiv.org/abs/2411.06273v1)|null|
