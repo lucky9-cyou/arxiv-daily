@@ -26,7 +26,7 @@
 |**2024-11-10**|**One-Dimensional Quench Dynamics in an Optical Lattice: sine-Gordon and Bose-Hubbard Descriptions**|Subhrajyoti Roy et.al.|[2411.06507v1](http://arxiv.org/abs/2411.06507v1)|null|
 |**2024-11-10**|**Generalized Eigenspaces and Pseudospectra of Nonnormal and Defective Matrix-Valued Dynamical Systems**|Saori Morimoto et.al.|[2411.06472v1](http://arxiv.org/abs/2411.06472v1)|null|
 |**2024-11-10**|**HidePrint: Hiding the Radio Fingerprint via Random Noise**|Gabriele Oligeri et.al.|[2411.06417v1](http://arxiv.org/abs/2411.06417v1)|null|
-|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390v1](http://arxiv.org/abs/2411.06390v1)|[link](https://github.com/ChenYutongTHU/SplatFormer)|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390v2](http://arxiv.org/abs/2411.06390v2)|[link](https://github.com/ChenYutongTHU/SplatFormer)|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365v1](http://arxiv.org/abs/2411.06365v1)|null|
 |**2024-11-10**|**Probabilistic Shaped Multilevel Polar Coding for Wiretap Channel**|Li Shen et.al.|[2411.06339v1](http://arxiv.org/abs/2411.06339v1)|null|
 |**2024-11-10**|**Amortized Bayesian Local Interpolation NetworK: Fast covariance parameter estimation for Gaussian Processes**|Brandon R. Feng et.al.|[2411.06324v1](http://arxiv.org/abs/2411.06324v1)|null|
