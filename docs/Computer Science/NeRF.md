@@ -2,6 +2,7 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-12**|**Material Transforms from Disentangled NeRF Representations**|Ivan Lopes et.al.|[2411.08037v1](http://arxiv.org/abs/2411.08037v1)|[link](https://github.com/astra-vision/brdftransform)|
 |**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757v1](http://arxiv.org/abs/2411.06757v1)|null|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365v1](http://arxiv.org/abs/2411.06365v1)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067v1](http://arxiv.org/abs/2411.06067v1)|null|
@@ -31,4 +32,3 @@
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483v1](http://arxiv.org/abs/2410.19483v1)|[link](https://github.com/weihangliu2024/content_aware_nerf)|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459v1](http://arxiv.org/abs/2410.19459v1)|null|
 |**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822v2](http://arxiv.org/abs/2410.18822v2)|null|
-|**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355v1](http://arxiv.org/abs/2410.18355v1)|[link](https://github.com/GhostCai/PortraitRelighting)|
