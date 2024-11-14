@@ -20,9 +20,9 @@
 |**2024-11-12**|**Primordial Black Hole Formation from Type II Fluctuations with Primordial Non-Gaussianity**|Masaaki Shimada et.al.|[2411.07648v1](http://arxiv.org/abs/2411.07648v1)|null|
 |**2024-11-12**|**Primordial black holes and induced gravitational waves from logarithmic non-Gaussianity**|Ryoto Inui et.al.|[2411.07647v1](http://arxiv.org/abs/2411.07647v1)|null|
 |**2024-11-12**|**Top-$nσ$: Not All Logits Are You Need**|Chenxia Tang et.al.|[2411.07641v1](http://arxiv.org/abs/2411.07641v1)|null|
-|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579v1](http://arxiv.org/abs/2411.07579v1)|null|
+|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579v2](http://arxiv.org/abs/2411.07579v2)|null|
 |**2024-11-12**|**Robotic Control Optimization Through Kernel Selection in Safe Bayesian Optimization**|Lihao Zheng et.al.|[2411.07573v1](http://arxiv.org/abs/2411.07573v1)|null|
-|**2024-11-12**|**Discrete-Valued Signal Estimation via Low-Complexity Message Passing Algorithm for Highly Correlated Measurements**|Tomoharu Furudoi et.al.|[2411.07558v1](http://arxiv.org/abs/2411.07558v1)|null|
+|**2024-11-12**|**Discrete-Valued Signal Estimation via Low-Complexity Message Passing Algorithm for Highly Correlated Measurements**|Tomoharu Furudoi et.al.|[2411.07558v2](http://arxiv.org/abs/2411.07558v2)|null|
 |**2024-11-12**|**GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting**|Umangi Jain et.al.|[2411.07555v1](http://arxiv.org/abs/2411.07555v1)|null|
 |**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541v1](http://arxiv.org/abs/2411.07541v1)|[link](https://github.com/gqk/hicom)|
 |**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538v1](http://arxiv.org/abs/2411.07538v1)|null|
