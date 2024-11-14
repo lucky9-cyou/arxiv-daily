@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-12**|**Last passage percolation in hierarchical environments**|Shirshendu Ganguly et.al.|[2411.08018v1](http://arxiv.org/abs/2411.08018v1)|null|
-|**2024-11-12**|**Scalable piecewise smoothing with BART**|Ryan Yee et.al.|[2411.07984v1](http://arxiv.org/abs/2411.07984v1)|null|
-|**2024-11-12**|**Tukey g-and-h neural network regression for non-Gaussian data**|Arthur P. Guillaumin et.al.|[2411.07957v1](http://arxiv.org/abs/2411.07957v1)|null|
-|**2024-11-12**|**Prediction of Acoustic Communication Performance for AUVs using Gaussian Process Classification**|Yifei Gao et.al.|[2411.07933v1](http://arxiv.org/abs/2411.07933v1)|null|
-|**2024-11-12**|**Stochastic MPC for Finite Gaussian Mixture Disturbances with Guarantees**|Maico H. W. Engelaar et.al.|[2411.07887v1](http://arxiv.org/abs/2411.07887v1)|null|
-|**2024-11-12**|**Integrating Chaotic Evolutionary and Local Search Techniques in Decision Space for Enhanced Evolutionary Multi-Objective Optimization**|Xiang Meng et.al.|[2411.07860v1](http://arxiv.org/abs/2411.07860v1)|null|
-|**2024-11-12**|**Evidential time-to-event prediction model with well-calibrated uncertainty estimation**|Ling Huang et.al.|[2411.07853v1](http://arxiv.org/abs/2411.07853v1)|null|
-|**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848v1](http://arxiv.org/abs/2411.07848v1)|null|
-|**2024-11-12**|**Singularity-Avoidance Control of Robotic Systems with Model Mismatch and Actuator Constraints**|Mingkun Wu et.al.|[2411.07830v1](http://arxiv.org/abs/2411.07830v1)|null|
-|**2024-11-12**|**Triad of Equivalence Theorems for the Radiant Intensity of Partially Coherent Beams on Scattering**|Yi Ding et.al.|[2411.07801v1](http://arxiv.org/abs/2411.07801v1)|null|
-|**2024-11-12**|**Modeling Alzheimer's Disease: Bayesian Copula Graphical Model from Demographic, Cognitive, and Neuroimaging Data**|Lucas Vogels et.al.|[2411.07745v1](http://arxiv.org/abs/2411.07745v1)|null|
-|**2024-11-12**|**Testing LRD in the spectral domain for functional time series in manifolds**|M. D. Ruiz-Medina et.al.|[2411.07731v1](http://arxiv.org/abs/2411.07731v1)|null|
-|**2024-11-12**|**A low-dissipation numerical method based on boundary variation diminishing principle for compressible gas-liquid two-phase flows with phase change on unstructured grid**|Hiro Wakimura et.al.|[2411.07704v1](http://arxiv.org/abs/2411.07704v1)|null|
-|**2024-11-12**|**Non-parametric identification of single-lined binary candidates in young clusters using single-epoch spectroscopy**|Stefano Rinaldi et.al.|[2411.07676v1](http://arxiv.org/abs/2411.07676v1)|null|
-|**2024-11-12**|**Laguerre-Gaussian modes become elegant after an azimuthal phase modulation**|Vasilios Cocotos et.al.|[2411.07655v1](http://arxiv.org/abs/2411.07655v1)|null|
-|**2024-11-12**|**Primordial Black Hole Formation from Type II Fluctuations with Primordial Non-Gaussianity**|Masaaki Shimada et.al.|[2411.07648v1](http://arxiv.org/abs/2411.07648v1)|null|
-|**2024-11-12**|**Primordial black holes and induced gravitational waves from logarithmic non-Gaussianity**|Ryoto Inui et.al.|[2411.07647v1](http://arxiv.org/abs/2411.07647v1)|null|
-|**2024-11-12**|**Top-$nσ$: Not All Logits Are You Need**|Chenxia Tang et.al.|[2411.07641v1](http://arxiv.org/abs/2411.07641v1)|null|
-|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579v2](http://arxiv.org/abs/2411.07579v2)|null|
-|**2024-11-12**|**Robotic Control Optimization Through Kernel Selection in Safe Bayesian Optimization**|Lihao Zheng et.al.|[2411.07573v1](http://arxiv.org/abs/2411.07573v1)|null|
-|**2024-11-12**|**Discrete-Valued Signal Estimation via Low-Complexity Message Passing Algorithm for Highly Correlated Measurements**|Tomoharu Furudoi et.al.|[2411.07558v2](http://arxiv.org/abs/2411.07558v2)|null|
-|**2024-11-12**|**GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting**|Umangi Jain et.al.|[2411.07555v1](http://arxiv.org/abs/2411.07555v1)|null|
-|**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541v1](http://arxiv.org/abs/2411.07541v1)|[link](https://github.com/gqk/hicom)|
-|**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538v1](http://arxiv.org/abs/2411.07538v1)|null|
-|**2024-11-12**|**Goal oriented optimal design of infinite-dimensional Bayesian inverse problems using quadratic approximations**|J. Nicholas Neuberger et.al.|[2411.07532v1](http://arxiv.org/abs/2411.07532v1)|null|
-|**2024-11-12**|**GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**|Zhihao Liang et.al.|[2411.07478v1](http://arxiv.org/abs/2411.07478v1)|null|
-|**2024-11-12**|**Tracing the Roots: Leveraging Temporal Dynamics in Diffusion Trajectories for Origin Attribution**|Andreas Floros et.al.|[2411.07449v1](http://arxiv.org/abs/2411.07449v1)|null|
-|**2024-11-11**|**Cluster globally, Reduce locally: Scalable efficient dictionary compression for magnetic resonance fingerprinting**|Geoffroy Oudoumanessah et.al.|[2411.07415v1](http://arxiv.org/abs/2411.07415v1)|null|
-|**2024-11-11**|**Review and Validation of Stochastic Ground Motion Models: which one does it better?**|Maijia Su et.al.|[2411.07401v1](http://arxiv.org/abs/2411.07401v1)|null|
-|**2024-11-11**|**Dualities for characteristic polynomial averages of complex symmetric and self dual non-Hermitian random matrices**|Peter J. Forrester et.al.|[2411.07356v1](http://arxiv.org/abs/2411.07356v1)|null|
+|**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
+|**2024-11-13**|**A consistency relation for induced gravitational wave anisotropies**|Julián Rey et.al.|[2411.08873v1](http://arxiv.org/abs/2411.08873v1)|null|
+|**2024-11-13**|**Stochastic inflation and non-perturbative power spectrum beyond slow roll**|Devanshu Sharma et.al.|[2411.08854v1](http://arxiv.org/abs/2411.08854v1)|null|
+|**2024-11-13**|**A probabilistic reduced-order modeling framework for patient-specific cardio-mechanical analysis**|Robin Willems et.al.|[2411.08822v1](http://arxiv.org/abs/2411.08822v1)|null|
+|**2024-11-13**|**Learning Gaussian Multi-Index Models with Gradient Flow: Time Complexity and Directional Convergence**|Berfin Simsek et.al.|[2411.08798v1](http://arxiv.org/abs/2411.08798v1)|null|
+|**2024-11-13**|**Optimal Transport-Based Displacement Interpolation with Data Augmentation for Reduced Order Modeling of Nonlinear Dynamical Systems**|Moaad Khamlich et.al.|[2411.08750v1](http://arxiv.org/abs/2411.08750v1)|null|
+|**2024-11-13**|**Unified analysis of non-Markovian open quantum systems in Gaussian environment using superoperator formalism**|Zhen Huang et.al.|[2411.08741v1](http://arxiv.org/abs/2411.08741v1)|null|
+|**2024-11-13**|**Berry-Esseen bounds for large-time asymptotics of one-dimensional diffusion processes via Malliavin-Stein method**|Seiichiro Kusuoka et.al.|[2411.08725v1](http://arxiv.org/abs/2411.08725v1)|null|
+|**2024-11-13**|**Imaging the Femtoscopic Freeze-out Source in Heavy Ion Collisions**|Junhuai Xu et.al.|[2411.08718v1](http://arxiv.org/abs/2411.08718v1)|null|
+|**2024-11-13**|**Integrated Precoder and Trajectory Design for MIMO UAV-Assisted Relay System With Finite-Alphabet Inputs**|Haoyang Di et.al.|[2411.08680v1](http://arxiv.org/abs/2411.08680v1)|null|
+|**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642v1](http://arxiv.org/abs/2411.08642v1)|null|
+|**2024-11-13**|**Gaussian Mixture Models Based Augmentation Enhances GNN Generalization**|Yassine Abbahaddou et.al.|[2411.08638v1](http://arxiv.org/abs/2411.08638v1)|[link](https://github.com/abbahaddou/GMM-GDA)|
+|**2024-11-13**|**A Framework for Robust Lossy Compression of Heavy-Tailed Sources**|Karim Ezzeddine et.al.|[2411.08549v1](http://arxiv.org/abs/2411.08549v1)|null|
+|**2024-11-13**|**Evaluating Parameter Uncertainty in the Poisson Lognormal Model with Corrected Variational Estimators**|Bastien Batardière et.al.|[2411.08524v1](http://arxiv.org/abs/2411.08524v1)|null|
+|**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508v1](http://arxiv.org/abs/2411.08508v1)|null|
+|**2024-11-13**|**Advanced Nonlinear SCMA Codebook Design Based on Lattice Constellations**|Qu Luo et.al.|[2411.08493v1](http://arxiv.org/abs/2411.08493v1)|null|
+|**2024-11-13**|**Fractional Fourier Domain PAPR Reduction**|Yewen Cao et.al.|[2411.08473v1](http://arxiv.org/abs/2411.08473v1)|null|
+|**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453v1](http://arxiv.org/abs/2411.08453v1)|null|
+|**2024-11-13**|**The time evolution of light nuclei cumulants and ratios with a first-order phase transition in the UrQMD transport model**|Thiranat Bumnedpan et.al.|[2411.08444v1](http://arxiv.org/abs/2411.08444v1)|null|
+|**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang et.al.|[2411.08441v1](http://arxiv.org/abs/2411.08441v1)|null|
+|**2024-11-13**|**3D Multi-Object Tracking with Semi-Supervised GRU-Kalman Filter**|Xiaoxiang Wang et.al.|[2411.08433v1](http://arxiv.org/abs/2411.08433v1)|null|
+|**2024-11-13**|**The Restricted Isometry Property of Block Diagonal Matrices Generated by $\varphi$-Sub-Gaussian Variables**|Yiming Chen et.al.|[2411.08430v1](http://arxiv.org/abs/2411.08430v1)|null|
+|**2024-11-13**|**Expected Information Gain Estimation via Density Approximations: Sample Allocation and Dimension Reduction**|Fengyi Li et.al.|[2411.08390v1](http://arxiv.org/abs/2411.08390v1)|null|
+|**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373v1](http://arxiv.org/abs/2411.08373v1)|null|
+|**2024-11-13**|**Quantifying uncertainty in the numerical integration of evolution equations based on Bayesian isotonic regression**|Yuto Miyatake et.al.|[2411.08338v1](http://arxiv.org/abs/2411.08338v1)|null|
+|**2024-11-13**|**The discrepancy in min-max statistics between two random matrices with finite third moments**|Zijun Chen et.al.|[2411.08303v1](http://arxiv.org/abs/2411.08303v1)|null|
+|**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279v1](http://arxiv.org/abs/2411.08279v1)|[link](https://github.com/wu-cvgl/mba-slam)|
+|**2024-11-12**|**Constraints on local primordial non-Gaussianity with 3d Velocity Reconstruction from the Kinetic Sunyaev-Zeldovich Effect**|Alex Laguë et.al.|[2411.08240v1](http://arxiv.org/abs/2411.08240v1)|null|
+|**2024-11-12**|**Analyzing Pitch Content in Traditional Ghanaian Seperewa Songs**|Kelvin L Walls et.al.|[2411.08234v1](http://arxiv.org/abs/2411.08234v1)|null|
+|**2024-11-12**|**Computationally Efficient Machine-Learned Model for GST Phase Change Materials via Direct and Indirect Learning**|Owen R. Dunton et.al.|[2411.08194v1](http://arxiv.org/abs/2411.08194v1)|null|
