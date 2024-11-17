@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-11-17 20:32:17 Asia/Shanghai
+ Automated deployment @ 2024-11-17 20:48:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-14**|**Simple methods for converting equations between the SI, Heaviside-Lorentz and Gaussian systems**|Paul Quincey et.al.|[2411.09568v1](http://arxiv.org/abs/2411.09568v1)|null|
@@ -73,7 +73,7 @@
 |**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v2](http://arxiv.org/abs/2410.20981v2)|null|
 |**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686v1](http://arxiv.org/abs/2410.20686v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-14**|**Simple methods for converting equations between the SI, Heaviside-Lorentz and Gaussian systems**|Paul Quincey et.al.|[2411.09568v1](http://arxiv.org/abs/2411.09568v1)|null|
