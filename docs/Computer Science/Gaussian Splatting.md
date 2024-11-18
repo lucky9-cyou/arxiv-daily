@@ -2,6 +2,29 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415v1](http://arxiv.org/abs/2411.10415v1)|null|
+|**2024-11-15**|**Generalized Conditional Functional Principal Component Analysis**|Yu Lu et.al.|[2411.10312v1](http://arxiv.org/abs/2411.10312v1)|null|
+|**2024-11-15**|**On fluctuations of Coulomb systems and universality of the Heine distribution**|Yacin Ameur et.al.|[2411.10288v1](http://arxiv.org/abs/2411.10288v1)|null|
+|**2024-11-15**|**A Random Process Model Useful for Describing Radar Clutter**|K. James Sangston et.al.|[2411.10263v1](http://arxiv.org/abs/2411.10263v1)|null|
+|**2024-11-15**|**Smooth transport map via diffusion process**|Arthur Stéphanovitch et.al.|[2411.10235v1](http://arxiv.org/abs/2411.10235v1)|null|
+|**2024-11-15**|**Bayesian and frequentist estimators for the transition frequency of a driven two-level quantum system**|Chun Kit Dennis Law et.al.|[2411.10199v1](http://arxiv.org/abs/2411.10199v1)|null|
+|**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[2411.10171v1](http://arxiv.org/abs/2411.10171v1)|null|
+|**2024-11-15**|**Continuous Bayesian Model Selection for Multivariate Causal Discovery**|Anish Dhir et.al.|[2411.10154v1](http://arxiv.org/abs/2411.10154v1)|null|
+|**2024-11-15**|**BONE: a unifying framework for Bayesian online learning in non-stationary environments**|Gerardo Duran-Martin et.al.|[2411.10153v1](http://arxiv.org/abs/2411.10153v1)|null|
+|**2024-11-15**|**Efficient Density Control for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2411.10133v1](http://arxiv.org/abs/2411.10133v1)|null|
+|**2024-11-15**|**Entanglement entropy dynamics of non-Gaussian states in free boson systems: random sampling approach**|Ryui Kaneko et.al.|[2411.10085v1](http://arxiv.org/abs/2411.10085v1)|null|
+|**2024-11-15**|**Influence of Depth Camera Noise Models on Respiration Estimation**|Maurice Rohr et.al.|[2411.10081v1](http://arxiv.org/abs/2411.10081v1)|null|
+|**2024-11-15**|**Exact Computation of Error in Approximate Circuits using SAT and Message-Passing Algorithms**|S Ramprasath et.al.|[2411.10037v1](http://arxiv.org/abs/2411.10037v1)|null|
+|**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033v1](http://arxiv.org/abs/2411.10033v1)|null|
+|**2024-11-15**|**A Secure Estimator with Gaussian Bernoulli Mixture Model**|Xingzhou Chen et.al.|[2411.09956v1](http://arxiv.org/abs/2411.09956v1)|null|
+|**2024-11-15**|**GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video**|Jingxuan Chen et.al.|[2411.09952v1](http://arxiv.org/abs/2411.09952v1)|[link](https://github.com/j-x-chen/ggavatar)|
+|**2024-11-15**|**Inverse problems for a quasilinear hyperbolic equation with multiple unknowns**|Yan Jiang et.al.|[2411.09917v1](http://arxiv.org/abs/2411.09917v1)|null|
+|**2024-11-15**|**Enhancing Diffusion Posterior Sampling for Inverse Problems by Integrating Crafted Measurements**|Shijie Zhou et.al.|[2411.09850v1](http://arxiv.org/abs/2411.09850v1)|null|
+|**2024-11-14**|**Economical and versatile subunit design principles for self-assembled DNA origami structures**|Wei-Shao Wei et.al.|[2411.09801v1](http://arxiv.org/abs/2411.09801v1)|null|
+|**2024-11-14**|**A Probabilistic Framework for Estimating the Modal Age at Death**|Silvio C. Patricio et.al.|[2411.09800v1](http://arxiv.org/abs/2411.09800v1)|null|
+|**2024-11-14**|**The democratic detrender: Ensemble-Based Removal of the Nuisance Signal in Stellar Time-Series Photometry**|Daniel A. Yahalomi et.al.|[2411.09753v1](http://arxiv.org/abs/2411.09753v1)|null|
+|**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749v1](http://arxiv.org/abs/2411.09749v1)|null|
+|**2024-11-14**|**SureMap: Simultaneous Mean Estimation for Single-Task and Multi-Task Disaggregated Evaluation**|Mikhail Khodak et.al.|[2411.09730v1](http://arxiv.org/abs/2411.09730v1)|null|
 |**2024-11-14**|**Simple methods for converting equations between the SI, Heaviside-Lorentz and Gaussian systems**|Paul Quincey et.al.|[2411.09568v1](http://arxiv.org/abs/2411.09568v1)|null|
 |**2024-11-14**|**Mutual Influence of Photon Sphere and Non-Commutative Parameter in Various Non-Commutative Black Holes: Part I- Towards evidence for WGC**|Mohammad Ali S. Afshar et.al.|[2411.09557v1](http://arxiv.org/abs/2411.09557v1)|null|
 |**2024-11-14**|**Gl 725A b: a potential super-Earth detected with SOPHIE and SPIRou in an M dwarf binary system at 3.5 pc**|P. Cortes-Zuleta et.al.|[2411.09506v1](http://arxiv.org/abs/2411.09506v1)|null|
@@ -9,26 +32,3 @@
 |**2024-11-14**|**ISAC Super-Resolution Receiver via Lifted Atomic Norm Minimization**|Iman Valiulahi et.al.|[2411.09495v1](http://arxiv.org/abs/2411.09495v1)|null|
 |**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483v1](http://arxiv.org/abs/2411.09483v1)|null|
 |**2024-11-14**|**Anomalous Regularization in Kazantsev-Kraichnan Model**|Marco Bagnara et.al.|[2411.09482v1](http://arxiv.org/abs/2411.09482v1)|null|
-|**2024-11-14**|**An Explainable Attention Model for Cervical Precancer Risk Classification using Colposcopic Images**|Smith K. Khare et.al.|[2411.09469v1](http://arxiv.org/abs/2411.09469v1)|null|
-|**2024-11-14**|**Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**|Chen-Long Duan et.al.|[2411.09453v1](http://arxiv.org/abs/2411.09453v1)|null|
-|**2024-11-14**|**Inherently Interpretable and Uncertainty-Aware Models for Online Learning in Cyber-Security Problems**|Benjamin Kolicic et.al.|[2411.09393v1](http://arxiv.org/abs/2411.09393v1)|null|
-|**2024-11-14**|**Statistics and Complexity of Wavefunction Spreading in Quantum Dynamical Systems**|Yichao Fu et.al.|[2411.09390v1](http://arxiv.org/abs/2411.09390v1)|null|
-|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|[link](https://github.com/shams-mehdi/aib9_openmm)|
-|**2024-11-14**|**Nonlinear squeezing generation via multimode PDC and single photon measurement**|Vojtěch Kala et.al.|[2411.09379v1](http://arxiv.org/abs/2411.09379v1)|null|
-|**2024-11-14**|**Multi-scale Generative Modeling for Fast Sampling**|Xiongye Xiao et.al.|[2411.09356v1](http://arxiv.org/abs/2411.09356v1)|null|
-|**2024-11-14**|**Theory of the lattice Boltzmann method: discrete effects due to advection**|Pierre Lallemand et.al.|[2411.09314v1](http://arxiv.org/abs/2411.09314v1)|null|
-|**2024-11-14**|**Approximate Probabilistic Inference forTime-Series Data A Robust Latent Gaussian Model With Temporal Awareness**|Anton Johansson et.al.|[2411.09312v1](http://arxiv.org/abs/2411.09312v1)|null|
-|**2024-11-14**|**DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines**|Junqi Liu et.al.|[2411.09308v1](http://arxiv.org/abs/2411.09308v1)|null|
-|**2024-11-14**|**Spatial localization and diffusion of Dirac particles and waves induced by random temporal medium variations**|Seulong Kim et.al.|[2411.09208v1](http://arxiv.org/abs/2411.09208v1)|null|
-|**2024-11-14**|**Impact of Large-Scale Anisotropies on Galaxy Clustering and Cosmological Constraints**|Prabhakar Tiwari et.al.|[2411.09163v1](http://arxiv.org/abs/2411.09163v1)|null|
-|**2024-11-14**|**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**|Shengchao Zhao et.al.|[2411.09156v1](http://arxiv.org/abs/2411.09156v1)|null|
-|**2024-11-14**|**Quantum multi-output Gaussian Processes based Machine Learning for Line Parameter Estimation in Electrical Grids**|Priyanka Arkalgud Ganeshamurthy et.al.|[2411.09123v1](http://arxiv.org/abs/2411.09123v1)|null|
-|**2024-11-13**|**Pheromone-Guided Navigation of Potential Mates: A Distinct Exploration Strategy**|Nick Dashti et.al.|[2411.09092v1](http://arxiv.org/abs/2411.09092v1)|null|
-|**2024-11-13**|**Time-dependent averages of a critical long-range stochastic heat equation**|Sefika Kuzgun et.al.|[2411.09058v1](http://arxiv.org/abs/2411.09058v1)|null|
-|**2024-11-13**|**Emerging Non-Hermitian Topology in a Chiral Driven-Dissipative Bose-Hubbard Model**|Laszlo Rassaert et.al.|[2411.08965v1](http://arxiv.org/abs/2411.08965v1)|null|
-|**2024-11-13**|**Learning Optimal and Interpretable Summary Statistics of Galaxy Catalogs with SBI**|Kai Lehman et.al.|[2411.08957v1](http://arxiv.org/abs/2411.08957v1)|null|
-|**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
-|**2024-11-13**|**A consistency relation for induced gravitational wave anisotropies**|Julián Rey et.al.|[2411.08873v1](http://arxiv.org/abs/2411.08873v1)|null|
-|**2024-11-13**|**Stochastic inflation and non-perturbative power spectrum beyond slow roll**|Devanshu Sharma et.al.|[2411.08854v1](http://arxiv.org/abs/2411.08854v1)|null|
-|**2024-11-13**|**A probabilistic reduced-order modeling framework for patient-specific cardio-mechanical analysis**|Robin Willems et.al.|[2411.08822v1](http://arxiv.org/abs/2411.08822v1)|null|
-|**2024-11-13**|**Learning Gaussian Multi-Index Models with Gradient Flow: Time Complexity and Directional Convergence**|Berfin Simsek et.al.|[2411.08798v1](http://arxiv.org/abs/2411.08798v1)|null|
