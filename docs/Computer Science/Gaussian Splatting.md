@@ -2,7 +2,7 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415v1](http://arxiv.org/abs/2411.10415v1)|null|
+|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415v1](http://arxiv.org/abs/2411.10415v1)|[link](https://github.com/mikkelpm/nonlinear_dynamic_causal)|
 |**2024-11-15**|**Generalized Conditional Functional Principal Component Analysis**|Yu Lu et.al.|[2411.10312v1](http://arxiv.org/abs/2411.10312v1)|null|
 |**2024-11-15**|**On fluctuations of Coulomb systems and universality of the Heine distribution**|Yacin Ameur et.al.|[2411.10288v1](http://arxiv.org/abs/2411.10288v1)|null|
 |**2024-11-15**|**A Random Process Model Useful for Describing Radar Clutter**|K. James Sangston et.al.|[2411.10263v1](http://arxiv.org/abs/2411.10263v1)|null|
