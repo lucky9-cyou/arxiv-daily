@@ -21,7 +21,7 @@
 |**2024-11-18**|**Reliable Learning of Halfspaces under Gaussian Marginals**|Ilias Diakonikolas et.al.|[2411.11238v1](http://arxiv.org/abs/2411.11238v1)|null|
 |**2024-11-18**|**Validation tests of Gaussian boson samplers with photon-number resolving detectors**|Alexander S. Dellios et.al.|[2411.11228v1](http://arxiv.org/abs/2411.11228v1)|null|
 |**2024-11-18**|**Conjugate Momentum-Based Estimation of External Forces for Bio-Inspired Morphing Wing Flight**|Bibek Gupta et.al.|[2411.11218v1](http://arxiv.org/abs/2411.11218v1)|null|
-|**2024-11-17**|**Variational Bayesian Bow tie Neural Networks with Shrinkage**|Alisa Sheinkman et.al.|[2411.11132v1](http://arxiv.org/abs/2411.11132v1)|null|
+|**2024-11-17**|**Variational Bayesian Bow tie Neural Networks with Shrinkage**|Alisa Sheinkman et.al.|[2411.11132v1](http://arxiv.org/abs/2411.11132v1)|[link](https://github.com/sheinkmana/V_bowtie_NN)|
 |**2024-11-17**|**Machine learning-based probabilistic forecasting of solar irradiance in Chile**|Sándor Baran et.al.|[2411.11073v1](http://arxiv.org/abs/2411.11073v1)|null|
 |**2024-11-17**|**Investigating explosive events in a 3D quiet-Sun model: Transition region and coronal response**|Yajie Chen et.al.|[2411.11068v1](http://arxiv.org/abs/2411.11068v1)|null|
 |**2024-11-17**|**VeGaS: Video Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2411.11024v1](http://arxiv.org/abs/2411.11024v1)|[link](https://github.com/gmum/vegas)|
