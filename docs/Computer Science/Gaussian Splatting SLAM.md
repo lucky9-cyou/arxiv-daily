@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-18**|**RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**|Xinhai Li et.al.|[2411.11839v1](http://arxiv.org/abs/2411.11839v1)|null|
-|**2024-11-18**|**Coherent imperfect absorption of counter-propagating beams through an absorptive slab**|Sauvik Roy et.al.|[2411.11750v1](http://arxiv.org/abs/2411.11750v1)|null|
-|**2024-11-18**|**Anisotropic Gaussian Smoothing for Gradient-based Optimization**|Andrew Starnes et.al.|[2411.11747v1](http://arxiv.org/abs/2411.11747v1)|null|
-|**2024-11-18**|**Robust Bernoulli mixture models for credit portfolio risk**|Jonathan Ansari et.al.|[2411.11522v1](http://arxiv.org/abs/2411.11522v1)|null|
-|**2024-11-18**|**Efficient Sample-optimal Learning of Gaussian Tree Models via Sample-optimal Testing of Gaussian Mutual Information**|Sutanu Gayen et.al.|[2411.11516v1](http://arxiv.org/abs/2411.11516v1)|null|
-|**2024-11-18**|**Structure learning with Temporal Gaussian Mixture for model-based Reinforcement Learning**|Théophile Champion et.al.|[2411.11511v1](http://arxiv.org/abs/2411.11511v1)|null|
-|**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481v1](http://arxiv.org/abs/2411.11481v1)|null|
-|**2024-11-18**|**Functional central limit theorem for topological functionals of Gaussian critical points**|Christian Hirsch et.al.|[2411.11429v1](http://arxiv.org/abs/2411.11429v1)|null|
-|**2024-11-18**|**Hadamard Langevin dynamics for sampling sparse priors**|Ivan Cheltsov et.al.|[2411.11403v1](http://arxiv.org/abs/2411.11403v1)|null|
-|**2024-11-18**|**An exact solution for a non-autonomous delay differential equations**|Kenta Ohira et.al.|[2411.11402v1](http://arxiv.org/abs/2411.11402v1)|null|
-|**2024-11-18**|**Information Rates of Channels with Additive White Cauchy Noise**|Shuqin Pang et.al.|[2411.11385v1](http://arxiv.org/abs/2411.11385v1)|null|
-|**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363v1](http://arxiv.org/abs/2411.11363v1)|null|
-|**2024-11-18**|**Real Gaussian exponential sums via a real moment map**|Léo Mathis et.al.|[2411.11345v1](http://arxiv.org/abs/2411.11345v1)|null|
-|**2024-11-18**|**Ultra high order cumulants and quantitative CLT for polynomials in Random Matrices**|Zhigang Bao et.al.|[2411.11341v1](http://arxiv.org/abs/2411.11341v1)|null|
-|**2024-11-18**|**Linear-optical protocols for mitigating and suppressing noise in bosonic systems**|Y. S. Teo et.al.|[2411.11313v1](http://arxiv.org/abs/2411.11313v1)|null|
-|**2024-11-18**|**The Blue Horizontal-Branch Stars From the LAMOST Survey: Atmospheric Parameters**|Jie Ju et.al.|[2411.11250v1](http://arxiv.org/abs/2411.11250v1)|null|
-|**2024-11-18**|**Reliable Learning of Halfspaces under Gaussian Marginals**|Ilias Diakonikolas et.al.|[2411.11238v1](http://arxiv.org/abs/2411.11238v1)|null|
-|**2024-11-18**|**Validation tests of Gaussian boson samplers with photon-number resolving detectors**|Alexander S. Dellios et.al.|[2411.11228v1](http://arxiv.org/abs/2411.11228v1)|null|
-|**2024-11-18**|**Conjugate Momentum-Based Estimation of External Forces for Bio-Inspired Morphing Wing Flight**|Bibek Gupta et.al.|[2411.11218v1](http://arxiv.org/abs/2411.11218v1)|null|
-|**2024-11-17**|**Variational Bayesian Bow tie Neural Networks with Shrinkage**|Alisa Sheinkman et.al.|[2411.11132v1](http://arxiv.org/abs/2411.11132v1)|[link](https://github.com/sheinkmana/V_bowtie_NN)|
-|**2024-11-17**|**Machine learning-based probabilistic forecasting of solar irradiance in Chile**|Sándor Baran et.al.|[2411.11073v1](http://arxiv.org/abs/2411.11073v1)|null|
-|**2024-11-17**|**Investigating explosive events in a 3D quiet-Sun model: Transition region and coronal response**|Yajie Chen et.al.|[2411.11068v1](http://arxiv.org/abs/2411.11068v1)|null|
-|**2024-11-17**|**VeGaS: Video Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2411.11024v1](http://arxiv.org/abs/2411.11024v1)|[link](https://github.com/gmum/vegas)|
-|**2024-11-17**|**Beyond Normal: Learning Spatial Density Models of Node Mobility**|Wanxin Gao et.al.|[2411.10997v1](http://arxiv.org/abs/2411.10997v1)|null|
-|**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947v1](http://arxiv.org/abs/2411.10947v1)|null|
-|**2024-11-17**|**A Monocular SLAM-based Multi-User Positioning System with Image Occlusion in Augmented Reality**|Wei-Hsiang Lien et.al.|[2411.10940v1](http://arxiv.org/abs/2411.10940v1)|null|
-|**2024-11-16**|**Scalable Gaussian Process Regression Via Median Posterior Inference for Estimating Multi-Pollutant Mixture Health Effects**|Aaron Sonabend et.al.|[2411.10858v1](http://arxiv.org/abs/2411.10858v1)|null|
-|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772v1](http://arxiv.org/abs/2411.10772v1)|null|
-|**2024-11-16**|**Steam Turbine Anomaly Detection: An Unsupervised Learning Approach Using Enhanced Long Short-Term Memory Variational Autoencoder**|Weiming Xu et.al.|[2411.10765v1](http://arxiv.org/abs/2411.10765v1)|null|
-|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722v1](http://arxiv.org/abs/2411.10722v1)|null|
+|**2024-11-19**|**Homogeneous planet masses I: Reanalysis of archival HARPS radial velocities**|H. L. M. Osborne et.al.|[2411.12723v1](http://arxiv.org/abs/2411.12723v1)|null|
+|**2024-11-19**|**Learning multivariate Gaussians with imperfect advice**|Arnab Bhattacharyya et.al.|[2411.12700v1](http://arxiv.org/abs/2411.12700v1)|null|
+|**2024-11-19**|**Large non-Gaussianities corresponding to first-order phase transitions during inflation**|Haipeng An et.al.|[2411.12699v1](http://arxiv.org/abs/2411.12699v1)|null|
+|**2024-11-19**|**First-principle theory of the Casimir screening effect**|Yu. A. Budkov et.al.|[2411.12651v1](http://arxiv.org/abs/2411.12651v1)|null|
+|**2024-11-19**|**Random signed measures**|Riccardo Passeggeri et.al.|[2411.12623v1](http://arxiv.org/abs/2411.12623v1)|null|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514v1](http://arxiv.org/abs/2411.12514v1)|null|
+|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510v1](http://arxiv.org/abs/2411.12510v1)|null|
+|**2024-11-19**|**Transformer Neural Processes -- Kernel Regression**|Daniel Jenson et.al.|[2411.12502v1](http://arxiv.org/abs/2411.12502v1)|null|
+|**2024-11-19**|**Phase transition analogues in laser collisions with a dark-field setup**|Holger Gies et.al.|[2411.12495v1](http://arxiv.org/abs/2411.12495v1)|null|
+|**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471v1](http://arxiv.org/abs/2411.12471v1)|null|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|null|
+|**2024-11-19**|**Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels**|Haodong Chen et.al.|[2411.12440v1](http://arxiv.org/abs/2411.12440v1)|null|
+|**2024-11-19**|**Dimension Reduction via Sum-of-Squares and Improved Clustering Algorithms for Non-Spherical Mixtures**|Prashanti Anderson et.al.|[2411.12438v1](http://arxiv.org/abs/2411.12438v1)|null|
+|**2024-11-19**|**Higher Gaussian maps for special classes of curves**|Dario Faro et.al.|[2411.12382v1](http://arxiv.org/abs/2411.12382v1)|null|
+|**2024-11-19**|**An Effective Iterative Solution for Independent Vector Analysis with Convergence Guarantees**|Clément Cosserat et.al.|[2411.12314v1](http://arxiv.org/abs/2411.12314v1)|null|
+|**2024-11-19**|**DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes**|Hao Li et.al.|[2411.12309v1](http://arxiv.org/abs/2411.12309v1)|null|
+|**2024-11-19**|**Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images**|Zheng Gong et.al.|[2411.12278v1](http://arxiv.org/abs/2411.12278v1)|null|
+|**2024-11-19**|**O-MAGIC: Online Change-Point Detection for Dynamic Systems**|Yan Sun et.al.|[2411.12277v1](http://arxiv.org/abs/2411.12277v1)|null|
+|**2024-11-19**|**Effect of Gaussian wake amplitude on wake-induced transition for a T106A low pressure turbine cascade**|Aditi Sengupta et.al.|[2411.12242v1](http://arxiv.org/abs/2411.12242v1)|null|
+|**2024-11-19**|**Deep Learning VLBI Image Reconstruction with Closure Invariants**|Samuel Lai et.al.|[2411.12233v1](http://arxiv.org/abs/2411.12233v1)|null|
+|**2024-11-19**|**Sample path properties and small ball probabilities for stochastic fractional diffusion equations**|Yuhui Guo et.al.|[2411.12192v1](http://arxiv.org/abs/2411.12192v1)|null|
+|**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185v1](http://arxiv.org/abs/2411.12185v1)|null|
+|**2024-11-19**|**AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression**|Zhixiang Wang et.al.|[2411.12175v1](http://arxiv.org/abs/2411.12175v1)|null|
+|**2024-11-19**|**Sketch-guided Cage-based 3D Gaussian Splatting Deformation**|Tianhao Xie et.al.|[2411.12168v1](http://arxiv.org/abs/2411.12168v1)|null|
+|**2024-11-19**|**A slow spin to win -- the gradual evolution of the proto-Galaxy to the old disc**|Akshara Viswanathan et.al.|[2411.12165v1](http://arxiv.org/abs/2411.12165v1)|null|
+|**2024-11-19**|**Edge universality of $β$-additions through Dunkl operators**|David Keating et.al.|[2411.12149v1](http://arxiv.org/abs/2411.12149v1)|null|
+|**2024-11-18**|**Analytical Description of Backward Stimulated Raman Scattering Short Pulse Gain factor for Gaussian and Square Pulses**|Humberto Figueroa et.al.|[2411.12093v1](http://arxiv.org/abs/2411.12093v1)|null|
+|**2024-11-18**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089v1](http://arxiv.org/abs/2411.12089v1)|null|
+|**2024-11-18**|**A Comparison of Zero-Inflated Models for Modern Biomedical Data**|Max Beveridge et.al.|[2411.12086v1](http://arxiv.org/abs/2411.12086v1)|null|
+|**2024-11-18**|**Analytical and EZmock covariance validation for the DESI 2024 results**|Daniel Forero-Sánchez et.al.|[2411.12027v1](http://arxiv.org/abs/2411.12027v1)|null|
