@@ -7,7 +7,7 @@
 |**2024-11-19**|**Large non-Gaussianities corresponding to first-order phase transitions during inflation**|Haipeng An et.al.|[2411.12699v1](http://arxiv.org/abs/2411.12699v1)|null|
 |**2024-11-19**|**First-principle theory of the Casimir screening effect**|Yu. A. Budkov et.al.|[2411.12651v1](http://arxiv.org/abs/2411.12651v1)|null|
 |**2024-11-19**|**Random signed measures**|Riccardo Passeggeri et.al.|[2411.12623v1](http://arxiv.org/abs/2411.12623v1)|null|
-|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510v1](http://arxiv.org/abs/2411.12510v1)|null|
+|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510v1](http://arxiv.org/abs/2411.12510v1)|[link](https://github.com/SanoScience/PR-ENDO)|
 |**2024-11-19**|**Transformer Neural Processes -- Kernel Regression**|Daniel Jenson et.al.|[2411.12502v1](http://arxiv.org/abs/2411.12502v1)|null|
 |**2024-11-19**|**Phase transition analogues in laser collisions with a dark-field setup**|Holger Gies et.al.|[2411.12495v1](http://arxiv.org/abs/2411.12495v1)|null|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471v1](http://arxiv.org/abs/2411.12471v1)|null|
