@@ -2,6 +2,8 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-20**|**Moving Horizon Estimation for Simultaneous Localization and Mapping with Robust Estimation Error Bounds**|Jelena Trisovic et.al.|[2411.13310v1](http://arxiv.org/abs/2411.13310v1)|null|
+|**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981v1](http://arxiv.org/abs/2411.12981v1)|null|
 |**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514v1](http://arxiv.org/abs/2411.12514v1)|null|
 |**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471v1](http://arxiv.org/abs/2411.12471v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|null|
@@ -30,5 +32,3 @@
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067v1](http://arxiv.org/abs/2411.06067v1)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
 |**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
-|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322v1](http://arxiv.org/abs/2411.05322v1)|null|
-|**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
