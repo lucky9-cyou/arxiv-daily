@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666v1](http://arxiv.org/abs/2411.16666v1)|null|
-|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianle iHuang et.al.|[2411.16663v1](http://arxiv.org/abs/2411.16663v1)|[link](https://github.com/jimmy000207/boundary-epgp)|
+|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663v1](http://arxiv.org/abs/2411.16663v1)|[link](https://github.com/jimmy000207/boundary-epgp)|
 |**2024-11-25**|**Alpha Entropy Search for New Information-based Bayesian Optimization**|Daniel Fernández-Sánchez et.al.|[2411.16586v1](http://arxiv.org/abs/2411.16586v1)|null|
 |**2024-11-25**|**Dynamic Causal Models of Time-Varying Connectivity**|Johan Medrano et.al.|[2411.16582v1](http://arxiv.org/abs/2411.16582v1)|null|
 |**2024-11-25**|**Optimal decay of eigenvector overlap for non-Hermitian random matrices**|Giorgio Cipolloni et.al.|[2411.16572v1](http://arxiv.org/abs/2411.16572v1)|null|
