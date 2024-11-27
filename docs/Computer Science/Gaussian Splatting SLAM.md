@@ -11,9 +11,9 @@
 |**2024-11-26**|**Chemically Self-Consistent Modeling of the Globular Cluster NGC 2808 and its Effects on the Inferred Helium Abundance of Multiple Stellar Populations**|Emily M. Boudreaux et.al.|[2411.17562v1](http://arxiv.org/abs/2411.17562v1)|null|
 |**2024-11-26**|**DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters**|Mingze Sun et.al.|[2411.17423v1](http://arxiv.org/abs/2411.17423v1)|null|
 |**2024-11-26**|**A Generalized Unified Skew-Normal Process with Neural Bayes Inference**|Kesen Wang et.al.|[2411.17400v1](http://arxiv.org/abs/2411.17400v1)|null|
-|**2024-11-26**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387v1](http://arxiv.org/abs/2411.17387v1)|null|
-|**2024-11-26**|**Knowledge-aware Evolutionary Graph Neural Architecture Search**|Chao Wang et.al.|[2411.17339v1](http://arxiv.org/abs/2411.17339v1)|null|
-|**2024-11-26**|**Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data**|Cem Ata Baykara et.al.|[2411.17287v1](http://arxiv.org/abs/2411.17287v1)|null|
+|**2024-11-26**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387v1](http://arxiv.org/abs/2411.17387v1)|[link](https://github.com/davinci003/LOCBO)|
+|**2024-11-26**|**Knowledge-aware Evolutionary Graph Neural Architecture Search**|Chao Wang et.al.|[2411.17339v1](http://arxiv.org/abs/2411.17339v1)|[link](https://github.com/xiaofangxd/KEGNAS)|
+|**2024-11-26**|**Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data**|Cem Ata Baykara et.al.|[2411.17287v1](http://arxiv.org/abs/2411.17287v1)|[link](https://github.com/mdppml/FREDA)|
 |**2024-11-26**|**Double robust estimation of functional outcomes with data missing at random**|Xijia Liu et.al.|[2411.17224v1](http://arxiv.org/abs/2411.17224v1)|null|
 |**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190v1](http://arxiv.org/abs/2411.17190v1)|null|
 |**2024-11-26**|**PhysMotion: Physics-Grounded Dynamics From a Single Image**|Xiyang Tan et.al.|[2411.17189v1](http://arxiv.org/abs/2411.17189v1)|null|
