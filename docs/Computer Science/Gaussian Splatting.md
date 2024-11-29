@@ -21,7 +21,7 @@
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982v1](http://arxiv.org/abs/2411.17982v1)|null|
 |**2024-11-27**|**Fully charmed P-wave tetraquark resonant states in the quark model**|Wei-Lin Wu et.al.|[2411.17962v1](http://arxiv.org/abs/2411.17962v1)|null|
 |**2024-11-26**|**Gaussian fluctuations of non-reciprocal systems**|Sergei Shmakov et.al.|[2411.17944v1](http://arxiv.org/abs/2411.17944v1)|null|
-|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928v1](http://arxiv.org/abs/2411.17928v1)|null|
+|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928v1](http://arxiv.org/abs/2411.17928v1)|[link](https://github.com/jokerjohn/cloud_map_evaluation)|
 |**2024-11-26**|**Multi-Frequency Models of Black Hole Photon Rings from Low-Luminosity Accretion Disks**|Tejahni Desire et.al.|[2411.17884v1](http://arxiv.org/abs/2411.17884v1)|null|
 |**2024-11-26**|**Posterior sampling with Adaptive Gaussian Processes in Bayesian parameter identification**|Paolo Villani et.al.|[2411.17858v1](http://arxiv.org/abs/2411.17858v1)|null|
 |**2024-11-26**|**Scintillation Bandwidth Measurements from 23 Pulsars from the AO327 Survey**|Sofia Z. Sheikh et.al.|[2411.17857v1](http://arxiv.org/abs/2411.17857v1)|null|
