@@ -8,7 +8,7 @@
 |**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660v1](http://arxiv.org/abs/2411.17660v1)|[link](https://github.com/chenhoy/droid-splat)|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235v1](http://arxiv.org/abs/2411.17235v1)|[link](https://github.com/liulisixin/mli-nerf)|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940v1](http://arxiv.org/abs/2411.16940v1)|null|
-|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816v1](http://arxiv.org/abs/2411.16816v1)|[link](https://github.com/carlinds/splatad)|
+|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816v2](http://arxiv.org/abs/2411.16816v2)|[link](https://github.com/carlinds/splatad)|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392v1](http://arxiv.org/abs/2411.16392v1)|null|
 |**2024-11-25**|**MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM**|Vladimir Yugay et.al.|[2411.16785v1](http://arxiv.org/abs/2411.16785v1)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172v1](http://arxiv.org/abs/2411.16172v1)|null|
