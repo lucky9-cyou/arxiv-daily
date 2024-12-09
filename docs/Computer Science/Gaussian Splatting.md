@@ -13,12 +13,12 @@
 |**2024-12-05**|**Method-independent cusps for atomic orbitals in quantum Monte Carlo**|Trine Kay Quady et.al.|[2412.04399v1](http://arxiv.org/abs/2412.04399v1)|[link](https://github.com/eneuscamman/cgaows)|
 |**2024-12-05**|**Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2412.04384v1](http://arxiv.org/abs/2412.04384v1)|[link](https://github.com/huang-yh/gaussianformer)|
 |**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380v1](http://arxiv.org/abs/2412.04380v1)|[link](https://github.com/ykiwu/embodiedocc)|
-|**2024-12-05**|**Alpha shapes and optimal transport on the sphere**|Erik Carlsson et.al.|[2412.04286v1](http://arxiv.org/abs/2412.04286v1)|null|
-|**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285v1](http://arxiv.org/abs/2412.04285v1)|null|
+|**2024-12-05**|**Alpha shapes and optimal transport on the sphere**|Erik Carlsson et.al.|[2412.04286v1](http://arxiv.org/abs/2412.04286v1)|[link](https://github.com/gdepaul/DensiTDA)|
+|**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285v1](http://arxiv.org/abs/2412.04285v1)|[link](https://github.com/jzy95310/deep_sci)|
 |**2024-12-05**|**Learnable Infinite Taylor Gaussian for Dynamic View Rendering**|Bingbing Hu et.al.|[2412.04282v1](http://arxiv.org/abs/2412.04282v1)|null|
 |**2024-12-05**|**A purified input-output pseudomode model for structured open quantum systems**|Pengfei Liang et.al.|[2412.04264v1](http://arxiv.org/abs/2412.04264v1)|null|
 |**2024-12-05**|**Diffusion caused by two noises-active and thermal**|Koushik Goswami et.al.|[2412.04199v1](http://arxiv.org/abs/2412.04199v1)|null|
-|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177v1](http://arxiv.org/abs/2412.04177v1)|null|
+|**2024-12-05**|**Fixed-Mean Gaussian Processes for Post-hoc Bayesian Deep Learning**|Luis A. Ortega et.al.|[2412.04177v1](http://arxiv.org/abs/2412.04177v1)|[link](https://github.com/Ludvins/FixedMeanGaussianProcesses)|
 |**2024-12-05**|**Deep imaging of three accelerating stars using SHARK-NIR and LMIRCam at LBT**|D. Mesa et.al.|[2412.04171v1](http://arxiv.org/abs/2412.04171v1)|null|
 |**2024-12-05**|**Parametric Gaussian quadratures for Discrete Unified Gas Kinetic Scheme**|Lu Wang et.al.|[2412.04164v1](http://arxiv.org/abs/2412.04164v1)|null|
 |**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107v1](http://arxiv.org/abs/2412.04107v1)|null|
@@ -26,7 +26,7 @@
 |**2024-12-05**|**A Data-Driven Framework for Discovering Fractional Differential Equations in Complex Systems**|Xiangnan Yu et.al.|[2412.03970v1](http://arxiv.org/abs/2412.03970v1)|null|
 |**2024-12-05**|**First Measurements of the 4-Point Correlation Function of Magnetohydrodynamic Turbulence as a Novel Probe of the Interstellar Medium**|Victoria Williamson et.al.|[2412.03967v1](http://arxiv.org/abs/2412.03967v1)|null|
 |**2024-12-05**|**InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models**|Yifan Lu et.al.|[2412.03934v1](http://arxiv.org/abs/2412.03934v1)|null|
-|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911v1](http://arxiv.org/abs/2412.03911v1)|null|
+|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911v1](http://arxiv.org/abs/2412.03911v1)|[link](https://github.com/Chumsy0725/PASLCD)|
 |**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910v1](http://arxiv.org/abs/2412.03910v1)|null|
 |**2024-12-05**|**4D SlingBAG: spatial-temporal coupled Gaussian ball for large-scale dynamic 3D photoacoustic iterative reconstruction**|Shuang Li et.al.|[2412.03898v1](http://arxiv.org/abs/2412.03898v1)|[link](https://github.com/jaegercq/4d-slingbag)|
 |**2024-12-05**|**A Noise is Worth Diffusion Guidance**|Donghoon Ahn et.al.|[2412.03895v1](http://arxiv.org/abs/2412.03895v1)|null|
