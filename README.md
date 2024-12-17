@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-17 20:05:51 Asia/Shanghai
+ Automated deployment @ 2024-12-17 20:17:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,7 +39,7 @@
 |**2024-12-04**|**BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**|Miguel Arturo Vega Torres et.al.|[2412.03434v1](http://arxiv.org/abs/2412.03434v1)|[link](https://github.com/migvega/bimcap)|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263v1](http://arxiv.org/abs/2412.03263v1)|[link](https://github.com/iis-esslingen/nerf-3dgs-benchmark)|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096v1](http://arxiv.org/abs/2412.12096v1)|null|
@@ -49,7 +49,6 @@
 |**2024-12-16**|**Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document**|Zewen Yang et.al.|[2412.11950v1](http://arxiv.org/abs/2412.11950v1)|null|
 |**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945v1](http://arxiv.org/abs/2412.11945v1)|null|
 |**2024-12-16**|**Calculating Spectra by Sequential High-Pass Filtering**|Dongxiao Zhao et.al.|[2412.11891v1](http://arxiv.org/abs/2412.11891v1)|null|
-|**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840v1](http://arxiv.org/abs/2412.11840v1)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762v1](http://arxiv.org/abs/2412.11762v1)|null|
 |**2024-12-16**|**Deformable Radial Kernel Splatting**|Yi-Hua Huang et.al.|[2412.11752v1](http://arxiv.org/abs/2412.11752v1)|null|
 |**2024-12-16**|**BA-BFL: Barycentric Aggregation for Bayesian Federated Learning**|Nour Jamoussi et.al.|[2412.11646v1](http://arxiv.org/abs/2412.11646v1)|null|
@@ -58,7 +57,6 @@
 |**2024-12-16**|**Acceleration and Parallelization Methods for ISRS EGN Model**|Ruiyang Xia et.al.|[2412.11614v1](http://arxiv.org/abs/2412.11614v1)|null|
 |**2024-12-16**|**3D$^2$-Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599v1](http://arxiv.org/abs/2412.11599v1)|[link](https://github.com/silence-tang/gaussianactor)|
 |**2024-12-16**|**SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**|Jingqian Wu et.al.|[2412.11579v1](http://arxiv.org/abs/2412.11579v1)|null|
-|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
 |**2024-12-16**|**EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting**|Dong In Lee et.al.|[2412.11520v1](http://arxiv.org/abs/2412.11520v1)|null|
 |**2024-12-16**|**Laws of large numbers and central limit theorem for Ewens-Pitman model**|Claudia Contardi et.al.|[2412.11493v1](http://arxiv.org/abs/2412.11493v1)|null|
 |**2024-12-16**|**Regional Expected Improvement for Efficient Trust Region Selection in High-Dimensional Bayesian Optimization**|Nobuo Namura et.al.|[2412.11456v1](http://arxiv.org/abs/2412.11456v1)|null|
@@ -72,6 +70,8 @@
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v1](http://arxiv.org/abs/2412.11210v1)|[link](https://github.com/fengyi233/ViPOcc)|
 |**2024-12-15**|**AstroSat timing and spectral analysis of the accretion-powered millisecond X-ray pulsar IGR J17591--2342**|Akshay Singh et.al.|[2412.11143v1](http://arxiv.org/abs/2412.11143v1)|null|
 |**2024-12-15**|**A Closed-Form Nonlinear Data Assimilation Algorithm for Multi-Layer Flow Fields**|Zhongrui Wang et.al.|[2412.11042v1](http://arxiv.org/abs/2412.11042v1)|null|
+|**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972v1](http://arxiv.org/abs/2412.10972v1)|[link](https://github.com/lusxvr/dcseg)|
+|**2024-12-14**|**Experimental investigation of heralded Gaussification of phase-randomized coherent states of light**|Martin Dostál et.al.|[2412.10970v1](http://arxiv.org/abs/2412.10970v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -107,7 +107,7 @@
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940v1](http://arxiv.org/abs/2411.16940v1)|null|
 |**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816v2](http://arxiv.org/abs/2411.16816v2)|[link](https://github.com/carlinds/splatad)|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096v1](http://arxiv.org/abs/2412.12096v1)|null|
@@ -117,6 +117,7 @@
 |**2024-12-16**|**Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document**|Zewen Yang et.al.|[2412.11950v1](http://arxiv.org/abs/2412.11950v1)|null|
 |**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945v1](http://arxiv.org/abs/2412.11945v1)|null|
 |**2024-12-16**|**Calculating Spectra by Sequential High-Pass Filtering**|Dongxiao Zhao et.al.|[2412.11891v1](http://arxiv.org/abs/2412.11891v1)|null|
+|**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840v1](http://arxiv.org/abs/2412.11840v1)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762v1](http://arxiv.org/abs/2412.11762v1)|null|
 |**2024-12-16**|**Deformable Radial Kernel Splatting**|Yi-Hua Huang et.al.|[2412.11752v1](http://arxiv.org/abs/2412.11752v1)|null|
 |**2024-12-16**|**BA-BFL: Barycentric Aggregation for Bayesian Federated Learning**|Nour Jamoussi et.al.|[2412.11646v1](http://arxiv.org/abs/2412.11646v1)|null|
@@ -125,6 +126,7 @@
 |**2024-12-16**|**Acceleration and Parallelization Methods for ISRS EGN Model**|Ruiyang Xia et.al.|[2412.11614v1](http://arxiv.org/abs/2412.11614v1)|null|
 |**2024-12-16**|**3D$^2$-Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599v1](http://arxiv.org/abs/2412.11599v1)|[link](https://github.com/silence-tang/gaussianactor)|
 |**2024-12-16**|**SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**|Jingqian Wu et.al.|[2412.11579v1](http://arxiv.org/abs/2412.11579v1)|null|
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
 |**2024-12-16**|**EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting**|Dong In Lee et.al.|[2412.11520v1](http://arxiv.org/abs/2412.11520v1)|null|
 |**2024-12-16**|**Laws of large numbers and central limit theorem for Ewens-Pitman model**|Claudia Contardi et.al.|[2412.11493v1](http://arxiv.org/abs/2412.11493v1)|null|
 |**2024-12-16**|**Regional Expected Improvement for Efficient Trust Region Selection in High-Dimensional Bayesian Optimization**|Nobuo Namura et.al.|[2412.11456v1](http://arxiv.org/abs/2412.11456v1)|null|
@@ -138,8 +140,6 @@
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v1](http://arxiv.org/abs/2412.11210v1)|[link](https://github.com/fengyi233/ViPOcc)|
 |**2024-12-15**|**AstroSat timing and spectral analysis of the accretion-powered millisecond X-ray pulsar IGR J17591--2342**|Akshay Singh et.al.|[2412.11143v1](http://arxiv.org/abs/2412.11143v1)|null|
 |**2024-12-15**|**A Closed-Form Nonlinear Data Assimilation Algorithm for Multi-Layer Flow Fields**|Zhongrui Wang et.al.|[2412.11042v1](http://arxiv.org/abs/2412.11042v1)|null|
-|**2024-12-14**|**DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting**|Luis Wiedmann et.al.|[2412.10972v1](http://arxiv.org/abs/2412.10972v1)|[link](https://github.com/lusxvr/dcseg)|
-|**2024-12-14**|**Experimental investigation of heralded Gaussification of phase-randomized coherent states of light**|Martin Dostál et.al.|[2412.10970v1](http://arxiv.org/abs/2412.10970v1)|null|
 
 ## Robotics
 
