@@ -31,4 +31,4 @@
 |**2024-12-15**|**The Brascamp-Lieb inequality in Convex Geometry and in the Theory of Algorithms**|Károly J. Böröczky et.al.|[2412.11227v1](http://arxiv.org/abs/2412.11227v1)|null|
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v1](http://arxiv.org/abs/2412.11210v1)|[link](https://github.com/fengyi233/ViPOcc)|
 |**2024-12-15**|**AstroSat timing and spectral analysis of the accretion-powered millisecond X-ray pulsar IGR J17591--2342**|Akshay Singh et.al.|[2412.11143v1](http://arxiv.org/abs/2412.11143v1)|null|
-|**2024-12-15**|**A Closed-Form Nonlinear Data Assimilation Algorithm for Multi-Layer Flow Fields**|Zhongrui Wang et.al.|[2412.11042v1](http://arxiv.org/abs/2412.11042v1)|null|
+|**2024-12-15**|**A Closed-Form Nonlinear Data Assimilation Algorithm for Multi-Layer Flow Fields**|Zhongrui Wang et.al.|[2412.11042v1](http://arxiv.org/abs/2412.11042v1)|[link](https://github.com/zhongruiw/MultistepCGDA)|
