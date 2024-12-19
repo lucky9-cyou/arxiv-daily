@@ -13,7 +13,7 @@
 |**2024-12-17**|**Comparative analysis of the NANOgrav Hellings-Downs as a window into new physics**|Rubén Arjona et.al.|[2412.12975v1](http://arxiv.org/abs/2412.12975v1)|null|
 |**2024-12-17**|**Does the random nature of cell-virus interactions during in vitro infections affect TCID$_{50}$ measurements and parameter estimation by mathematical models?**|Christian Quirouette et.al.|[2412.12960v1](http://arxiv.org/abs/2412.12960v1)|null|
 |**2024-12-17**|**An integral over $(0,π)$ for the distribution function of a sum of independent gamma random variables and for quadratic forms of Gaussian variables**|Thomas Royen et.al.|[2412.12937v1](http://arxiv.org/abs/2412.12937v1)|null|
-|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919v1](http://arxiv.org/abs/2412.12919v1)|null|
+|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919v1](http://arxiv.org/abs/2412.12919v1)|[link](https://github.com/ShanghaiTech-IMPACT/4DRGS)|
 |**2024-12-17**|**CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image**|Wonseok Roh et.al.|[2412.12906v1](http://arxiv.org/abs/2412.12906v1)|null|
 |**2024-12-17**|**SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection**|Xing Liufu et.al.|[2412.12892v1](http://arxiv.org/abs/2412.12892v1)|[link](https://github.com/Star-xing1/SAUGE)|
 |**2024-12-17**|**Quantum Coherent State Transform on Continuous-Variable Systems**|Xi Lu et.al.|[2412.12871v1](http://arxiv.org/abs/2412.12871v1)|null|
