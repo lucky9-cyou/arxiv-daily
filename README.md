@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-12-23 20:33:27 Asia/Shanghai
+ Automated deployment @ 2024-12-23 20:50:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-20**|**Cosmological Non-Gaussianity from Neutrino Seesaw**|Jingtao You et.al.|[2412.16033v1](http://arxiv.org/abs/2412.16033v1)|null|
@@ -21,6 +21,7 @@
 |**2024-12-20**|**Conformal approach to physics simulations for thin curved 3D membranes**|Igor Bogush et.al.|[2412.15741v1](http://arxiv.org/abs/2412.15741v1)|null|
 |**2024-12-20**|**High-Dimensional Bayesian Optimisation with Large-Scale Constraints via Latent Space Gaussian Processes**|Hauke F. Maathuis et.al.|[2412.15679v1](http://arxiv.org/abs/2412.15679v1)|null|
 |**2024-12-20**|**Non-linear effects on the Cosmological Gravitational Wave Background anisotropies**|Alina Mierna et.al.|[2412.15654v1](http://arxiv.org/abs/2412.15654v1)|null|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
 |**2024-12-20**|**AvatarPerfect: User-Assisted 3D Gaussian Splatting Avatar Refinement with Automatic Pose Suggestion**|Jotaro Sakamiya et.al.|[2412.15609v1](http://arxiv.org/abs/2412.15609v1)|null|
 |**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550v1](http://arxiv.org/abs/2412.15550v1)|[link](https://github.com/jiangxb98/egsral)|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v1](http://arxiv.org/abs/2412.15447v1)|null|
@@ -37,7 +38,6 @@
 |**2024-12-19**|**Asymptotic Equivalence for Nonparametric Generalized Linear Models**|Ion Grama et.al.|[2412.15057v1](http://arxiv.org/abs/2412.15057v1)|null|
 |**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040v1](http://arxiv.org/abs/2412.15040v1)|null|
 |**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984v1](http://arxiv.org/abs/2412.14984v1)|null|
-|**2024-12-19**|**IDOL: Instant Photorealistic 3D Human Creation from a Single Image**|Yiyu Zhuang et.al.|[2412.14963v1](http://arxiv.org/abs/2412.14963v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -107,7 +107,7 @@
 |**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401v2](http://arxiv.org/abs/2412.09401v2)|[link](https://github.com/pku-vcl-3dv/slam3r)|
 |**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-20**|**Cosmological Non-Gaussianity from Neutrino Seesaw**|Jingtao You et.al.|[2412.16033v1](http://arxiv.org/abs/2412.16033v1)|null|
@@ -123,7 +123,6 @@
 |**2024-12-20**|**Conformal approach to physics simulations for thin curved 3D membranes**|Igor Bogush et.al.|[2412.15741v1](http://arxiv.org/abs/2412.15741v1)|null|
 |**2024-12-20**|**High-Dimensional Bayesian Optimisation with Large-Scale Constraints via Latent Space Gaussian Processes**|Hauke F. Maathuis et.al.|[2412.15679v1](http://arxiv.org/abs/2412.15679v1)|null|
 |**2024-12-20**|**Non-linear effects on the Cosmological Gravitational Wave Background anisotropies**|Alina Mierna et.al.|[2412.15654v1](http://arxiv.org/abs/2412.15654v1)|null|
-|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
 |**2024-12-20**|**AvatarPerfect: User-Assisted 3D Gaussian Splatting Avatar Refinement with Automatic Pose Suggestion**|Jotaro Sakamiya et.al.|[2412.15609v1](http://arxiv.org/abs/2412.15609v1)|null|
 |**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550v1](http://arxiv.org/abs/2412.15550v1)|[link](https://github.com/jiangxb98/egsral)|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v1](http://arxiv.org/abs/2412.15447v1)|null|
@@ -140,6 +139,7 @@
 |**2024-12-19**|**Asymptotic Equivalence for Nonparametric Generalized Linear Models**|Ion Grama et.al.|[2412.15057v1](http://arxiv.org/abs/2412.15057v1)|null|
 |**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040v1](http://arxiv.org/abs/2412.15040v1)|null|
 |**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984v1](http://arxiv.org/abs/2412.14984v1)|null|
+|**2024-12-19**|**IDOL: Instant Photorealistic 3D Human Creation from a Single Image**|Yiyu Zhuang et.al.|[2412.14963v1](http://arxiv.org/abs/2412.14963v1)|null|
 
 ## Robotics
 
