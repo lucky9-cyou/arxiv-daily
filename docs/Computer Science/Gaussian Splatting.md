@@ -26,7 +26,7 @@
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-19**|**Quantum diffusion and delocalization in one-dimensional band matrices via the flow method**|Sofiia Dubova et.al.|[2412.15207v1](http://arxiv.org/abs/2412.15207v1)|null|
 |**2024-12-19**|**LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation**|Chenxu Zhou et.al.|[2412.15199v1](http://arxiv.org/abs/2412.15199v1)|null|
-|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171v1](http://arxiv.org/abs/2412.15171v1)|null|
+|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171v2](http://arxiv.org/abs/2412.15171v2)|null|
 |**2024-12-19**|**A numerical study on the buckling of near-perfect spherical shells**|Uba K. Ubamanyu et.al.|[2412.15066v1](http://arxiv.org/abs/2412.15066v1)|null|
 |**2024-12-19**|**Asymptotic Equivalence for Nonparametric Generalized Linear Models**|Ion Grama et.al.|[2412.15057v1](http://arxiv.org/abs/2412.15057v1)|null|
 |**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040v1](http://arxiv.org/abs/2412.15040v1)|null|
