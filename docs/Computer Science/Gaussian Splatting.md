@@ -12,7 +12,7 @@
 |**2024-12-23**|**Simulating lossy and partially distinguishable quantum optical circuits: theory, algorithms and applications to experiment validation and state preparation**|Jacob F. F. Bulmer et.al.|[2412.17742v1](http://arxiv.org/abs/2412.17742v1)|null|
 |**2024-12-23**|**GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance**|Jingqiu Zhou et.al.|[2412.17715v1](http://arxiv.org/abs/2412.17715v1)|null|
 |**2024-12-23**|**Rate of Model Collapse in Recursive Training**|Ananda Theertha Suresh et.al.|[2412.17646v1](http://arxiv.org/abs/2412.17646v1)|[link](https://github.com/berserank/rate-of-model-collapse)|
-|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635v1](http://arxiv.org/abs/2412.17635v1)|null|
+|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635v2](http://arxiv.org/abs/2412.17635v2)|null|
 |**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612v1](http://arxiv.org/abs/2412.17612v1)|null|
 |**2024-12-23**|**A large non-Gaussian structural VAR with application to Monetary Policy**|Jan Prüser et.al.|[2412.17598v1](http://arxiv.org/abs/2412.17598v1)|null|
 |**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
