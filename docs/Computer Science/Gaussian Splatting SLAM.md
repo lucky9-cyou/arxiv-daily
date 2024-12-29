@@ -17,7 +17,7 @@
 |**2024-12-24**|**SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation**|Xuran Hu et.al.|[2412.18121v1](http://arxiv.org/abs/2412.18121v1)|null|
 |**2024-12-24**|**Automated Materials Discovery Platform Realized: Scanning Probe Microscopy of Combinatorial Libraries**|Yu Liu et.al.|[2412.18067v1](http://arxiv.org/abs/2412.18067v1)|null|
 |**2024-12-23**|**Functional independent component analysis by choice of norm: a framework for near-perfect classification**|Marc Vidal et.al.|[2412.17971v1](http://arxiv.org/abs/2412.17971v1)|null|
-|**2024-12-23**|**Methods for differential network estimation: an empirical comparison**|Anna Plaksienko et.al.|[2412.17922v1](http://arxiv.org/abs/2412.17922v1)|null|
+|**2024-12-23**|**Methods for differential network estimation: an empirical comparison**|Anna Plaksienko et.al.|[2412.17922v1](http://arxiv.org/abs/2412.17922v1)|[link](https://github.com/annaplaksienko/Diff_networks_review_simulation)|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
 |**2024-12-23**|**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**|Yidi Shao et.al.|[2412.17804v1](http://arxiv.org/abs/2412.17804v1)|null|
 |**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769v1](http://arxiv.org/abs/2412.17769v1)|[link](https://github.com/dmar-bonn/active-gs)|
