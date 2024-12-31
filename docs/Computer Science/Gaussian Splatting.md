@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-27**|**Non-Scaling Topological Defects and Gravitational Waves in Higgs Portal**|Wen Yin et.al.|[2412.19798v1](http://arxiv.org/abs/2412.19798v1)|null|
-|**2024-12-27**|**Improved image display by identifying the RGB family color space**|Elvis Togban et.al.|[2412.19775v1](http://arxiv.org/abs/2412.19775v1)|null|
-|**2024-12-27**|**Fully-relativistic evolution of vacuum tensor inhomogeneities during inflation**|Ericka Florio et.al.|[2412.19731v1](http://arxiv.org/abs/2412.19731v1)|null|
-|**2024-12-27**|**Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes**|Csaba Tóth et.al.|[2412.19727v1](http://arxiv.org/abs/2412.19727v1)|null|
-|**2024-12-27**|**Continuous majorization in quantum phase space with Wigner negativity**|Jan de Boer et.al.|[2412.19698v1](http://arxiv.org/abs/2412.19698v1)|null|
-|**2024-12-27**|**Primordial Black Hole Formation from the Upward Step Model: Avoiding Overproduction**|Xiaoding Wang et.al.|[2412.19631v1](http://arxiv.org/abs/2412.19631v1)|null|
-|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
-|**2024-12-27**|**Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations**|Yuanfei Huang et.al.|[2412.19520v1](http://arxiv.org/abs/2412.19520v1)|null|
-|**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518v1](http://arxiv.org/abs/2412.19518v1)|null|
-|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
-|**2024-12-27**|**Oscillons in AdS space**|Takaaki Ishii et.al.|[2412.19468v1](http://arxiv.org/abs/2412.19468v1)|null|
-|**2024-12-27**|**Online distributed algorithms for mixed equilibrium problems in dynamic environments**|Hang Xu et.al.|[2412.19399v1](http://arxiv.org/abs/2412.19399v1)|null|
-|**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v1](http://arxiv.org/abs/2412.19370v1)|null|
-|**2024-12-26**|**Sample Complexity of Data-driven Multistage Stochastic Programming under Markovian Uncertainty**|Hyuk Park et.al.|[2412.19299v1](http://arxiv.org/abs/2412.19299v1)|null|
-|**2024-12-26**|**ViPCap: Retrieval Text-Based Visual Prompts for Lightweight Image Captioning**|Taewhan Kim et.al.|[2412.19289v1](http://arxiv.org/abs/2412.19289v1)|[link](https://github.com/taewhankim/vipcap)|
-|**2024-12-26**|**Reflective Gaussian Splatting**|Yuxuan Yao et.al.|[2412.19282v1](http://arxiv.org/abs/2412.19282v1)|null|
-|**2024-12-26**|**Functional structural equation modeling with latent variables**|Fatemeh Asgari et.al.|[2412.19242v1](http://arxiv.org/abs/2412.19242v1)|null|
-|**2024-12-26**|**Implications for the non-Gaussianity of primordial gravitational waves from pulsar timing arrays**|Zhi-Zhang Peng et.al.|[2412.19196v1](http://arxiv.org/abs/2412.19196v1)|null|
-|**2024-12-26**|**Fluid-particle interactions and fluctuation-dissipation relations II -- Gaussianity and Gaussianity breaking**|Chiara Pezzotti et.al.|[2412.19167v1](http://arxiv.org/abs/2412.19167v1)|null|
-|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|[link](https://github.com/liguohao96/egg3d)|
-|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142v1](http://arxiv.org/abs/2412.19142v1)|null|
-|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
-|**2024-12-26**|**Characterizing resources for multiparameter estimation of SU(2) and SU(1,1) unitaries**|Shaowei Du et.al.|[2412.19119v1](http://arxiv.org/abs/2412.19119v1)|null|
-|**2024-12-26**|**Unifying Tree-Reweighted Belief Propagation and Mean Field for Tracking Extended Targets**|Weizhen Ma et.al.|[2412.19036v1](http://arxiv.org/abs/2412.19036v1)|null|
-|**2024-12-25**|**Rotating Traversable wormholes with two cosmic strings at the throat**|Vedant Subhash et.al.|[2412.18961v1](http://arxiv.org/abs/2412.18961v1)|null|
-|**2024-12-25**|**Goal State Generation for Robotic Manipulation Based on Linguistically Guided Hybrid Gaussian Diffusion**|Yichen Xu et.al.|[2412.18877v1](http://arxiv.org/abs/2412.18877v1)|null|
-|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862v1](http://arxiv.org/abs/2412.18862v1)|null|
-|**2024-12-25**|**GSAVS: Gaussian Splatting-based Autonomous Vehicle Simulator**|Rami Wilson et.al.|[2412.18816v1](http://arxiv.org/abs/2412.18816v1)|null|
-|**2024-12-25**|**Entropic adapted Wasserstein distance on Gaussians**|Beatrice Acciaio et.al.|[2412.18794v1](http://arxiv.org/abs/2412.18794v1)|null|
-|**2024-12-25**|**On Improved Regret Bounds In Bayesian Optimization with Gaussian Noise**|Jingyi Wang et.al.|[2412.18789v1](http://arxiv.org/abs/2412.18789v1)|null|
+|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
+|**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203v1](http://arxiv.org/abs/2412.21203v1)|null|
+|**2024-12-30**|**The Gaussian Kicked Rotor: Periodic forcing with finite-width pulses and the role of shifting the kick**|Jonathan Berkheim et.al.|[2412.21186v1](http://arxiv.org/abs/2412.21186v1)|null|
+|**2024-12-30**|**Cavity-QED Simulation of a Maser beyond the Mean-Field Approximation**|Xinpeng Shu et.al.|[2412.21166v1](http://arxiv.org/abs/2412.21166v1)|null|
+|**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
+|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117v1](http://arxiv.org/abs/2412.21117v1)|null|
+|**2024-12-30**|**Beurling density theorems for sampling and interpolation on the flat cylinder**|L. D. Abreu et.al.|[2412.21094v1](http://arxiv.org/abs/2412.21094v1)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082v1](http://arxiv.org/abs/2412.21082v1)|null|
+|**2024-12-30**|**Cosmological Signatures of Neutrino Seesaw**|Chengcheng Han et.al.|[2412.21045v1](http://arxiv.org/abs/2412.21045v1)|null|
+|**2024-12-30**|**Genuine Quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator**|Q. Rumman Rahman et.al.|[2412.20971v1](http://arxiv.org/abs/2412.20971v1)|null|
+|**2024-12-30**|**A Vector Bernstein Inequality for Self-Normalized Martingales**|Ingvar Ziemann et.al.|[2412.20949v1](http://arxiv.org/abs/2412.20949v1)|null|
+|**2024-12-30**|**Uncertainty-Aware Out-of-Distribution Detection with Gaussian Processes**|Yang Chen et.al.|[2412.20918v1](http://arxiv.org/abs/2412.20918v1)|null|
+|**2024-12-30**|**The Speed of Convergence with respect to the Kolmogorov-Smirnov Metric in the Soshnikov Central Limit Theorem for the Sine-Process**|Alexander I. Bufetov et.al.|[2412.20910v1](http://arxiv.org/abs/2412.20910v1)|null|
+|**2024-12-30**|**The Gaussian-Minkowski problem for $C$-pseudo-cones**|Xudong Wang et.al.|[2412.20908v1](http://arxiv.org/abs/2412.20908v1)|null|
+|**2024-12-30**|**A gradient-based and determinant-free framework for fully Bayesian Gaussian process regression**|P. Michael Kielstra et.al.|[2412.20884v1](http://arxiv.org/abs/2412.20884v1)|null|
+|**2024-12-30**|**Gaussian Quadratures with prescribed nodes via moment theory**|Rajkamal Nailwal et.al.|[2412.20849v1](http://arxiv.org/abs/2412.20849v1)|null|
+|**2024-12-30**|**Isoperimetry is All We Need: Langevin Posterior Sampling for RL with Sublinear Regret**|Emilio Jorge et.al.|[2412.20824v1](http://arxiv.org/abs/2412.20824v1)|null|
+|**2024-12-30**|**Estimating Large Global Significances with a New Monte Carlo Extrapolation Method**|Liangliang Chen et.al.|[2412.20777v1](http://arxiv.org/abs/2412.20777v1)|null|
+|**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767v1](http://arxiv.org/abs/2412.20767v1)|null|
+|**2024-12-30**|**Training Deep Neural Classifiers with Soft Diamond Regularizers**|Olaoluwa Adigun et.al.|[2412.20724v1](http://arxiv.org/abs/2412.20724v1)|null|
+|**2024-12-30**|**4D Gaussian Splatting: Modeling Dynamic Scenes with Native 4D Primitives**|Zeyu Yang et.al.|[2412.20720v1](http://arxiv.org/abs/2412.20720v1)|null|
+|**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641v1](http://arxiv.org/abs/2412.20641v1)|null|
+|**2024-12-29**|**Uncertainty of high-dimensional genetic data prediction with polygenic risk scores**|Haoxuan Fu et.al.|[2412.20611v1](http://arxiv.org/abs/2412.20611v1)|null|
+|**2024-12-29**|**Gabor frames for quasi-periodic functions and polyanalytic spaces on the flat cylinder**|L. D. Abreu et.al.|[2412.20567v1](http://arxiv.org/abs/2412.20567v1)|null|
+|**2024-12-29**|**Inference with Randomized Regression Trees**|Soham Bakshi et.al.|[2412.20535v1](http://arxiv.org/abs/2412.20535v1)|null|
+|**2024-12-29**|**MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**|Yifei Liu et.al.|[2412.20522v1](http://arxiv.org/abs/2412.20522v1)|null|
+|**2024-12-29**|**Random Matrix Theory for Stochastic Gradient Descent**|Chanju Park et.al.|[2412.20496v1](http://arxiv.org/abs/2412.20496v1)|null|
+|**2024-12-29**|**Sub-optimal Learning in Meta-Classifier Attacks: A Study of Membership Inference on Differentially Private Location Aggregates**|Yuhan Liu et.al.|[2412.20456v1](http://arxiv.org/abs/2412.20456v1)|null|
+|**2024-12-29**|**Scalable Bayesian Optimization via Focalized Sparse Gaussian Processes**|Yunyue Wei et.al.|[2412.20375v1](http://arxiv.org/abs/2412.20375v1)|null|
+|**2024-12-29**|**Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks**|Carlos Misael Madrid Padilla et.al.|[2412.20355v1](http://arxiv.org/abs/2412.20355v1)|null|
