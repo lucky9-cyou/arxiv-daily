@@ -28,7 +28,7 @@
 |**2024-12-29**|**Uncertainty of high-dimensional genetic data prediction with polygenic risk scores**|Haoxuan Fu et.al.|[2412.20611v1](http://arxiv.org/abs/2412.20611v1)|null|
 |**2024-12-29**|**Gabor frames for quasi-periodic functions and polyanalytic spaces on the flat cylinder**|L. D. Abreu et.al.|[2412.20567v1](http://arxiv.org/abs/2412.20567v1)|null|
 |**2024-12-29**|**Inference with Randomized Regression Trees**|Soham Bakshi et.al.|[2412.20535v1](http://arxiv.org/abs/2412.20535v1)|null|
-|**2024-12-29**|**MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**|Yifei Liu et.al.|[2412.20522v1](http://arxiv.org/abs/2412.20522v1)|null|
+|**2024-12-29**|**MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**|Yifei Liu et.al.|[2412.20522v1](http://arxiv.org/abs/2412.20522v1)|[link](https://github.com/kaikai23/maskgaussian)|
 |**2024-12-29**|**Random Matrix Theory for Stochastic Gradient Descent**|Chanju Park et.al.|[2412.20496v1](http://arxiv.org/abs/2412.20496v1)|null|
 |**2024-12-29**|**Sub-optimal Learning in Meta-Classifier Attacks: A Study of Membership Inference on Differentially Private Location Aggregates**|Yuhan Liu et.al.|[2412.20456v1](http://arxiv.org/abs/2412.20456v1)|null|
 |**2024-12-29**|**Scalable Bayesian Optimization via Focalized Sparse Gaussian Processes**|Yunyue Wei et.al.|[2412.20375v1](http://arxiv.org/abs/2412.20375v1)|[link](https://github.com/yunyuewei/FocalBO)|
