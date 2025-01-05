@@ -2,6 +2,7 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
 |**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213v1](http://arxiv.org/abs/2412.16213v1)|[link](https://github.com/tommy-nguyen-cpu/advirl)|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176v1](http://arxiv.org/abs/2412.13176v1)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047v1](http://arxiv.org/abs/2412.13047v1)|null|
-|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861v2](http://arxiv.org/abs/2412.12861v2)|null|
