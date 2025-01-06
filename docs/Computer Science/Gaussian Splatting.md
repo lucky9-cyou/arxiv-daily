@@ -2,6 +2,18 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895v1](http://arxiv.org/abs/2501.01895v1)|null|
+|**2025-01-03**|**Glitches and glitching clusters in rotation-powered pulsars**|Pei-Xin Zhu et.al.|[2501.01862v1](http://arxiv.org/abs/2501.01862v1)|null|
+|**2025-01-03**|**Signal Recovery Using a Spiked Mixture Model**|Paul-Louis Delacour et.al.|[2501.01840v1](http://arxiv.org/abs/2501.01840v1)|null|
+|**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715v1](http://arxiv.org/abs/2501.01715v1)|null|
+|**2025-01-03**|**Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample**|Wei Liu et.al.|[2501.01698v1](http://arxiv.org/abs/2501.01698v1)|null|
+|**2025-01-03**|**CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**|Chenhao Zhang et.al.|[2501.01695v1](http://arxiv.org/abs/2501.01695v1)|null|
+|**2025-01-03**|**PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping**|Tengfei Wang et.al.|[2501.01677v1](http://arxiv.org/abs/2501.01677v1)|null|
+|**2025-01-03**|**AVATAR: Adversarial Autoencoders with Autoregressive Refinement for Time Series Generation**|MohammadReza EskandariNasab et.al.|[2501.01649v1](http://arxiv.org/abs/2501.01649v1)|null|
+|**2025-01-02**|**Nesting of double-dimer loops: local fluctuations and convergence to the nesting field of CLE(4)**|Mikhail Basok et.al.|[2501.01574v1](http://arxiv.org/abs/2501.01574v1)|null|
+|**2025-01-02**|**Multi-view Bayesian optimisation in reduced dimension for engineering design**|Thomas A. Archbold et.al.|[2501.01552v1](http://arxiv.org/abs/2501.01552v1)|null|
+|**2025-01-02**|**Photometry of outer Solar System objects from the Dark Energy Survey II: a joint analysis of trans-Neptunian absolute magnitudes, colors, lightcurves and dynamics**|Pedro H. Bernardinelli et.al.|[2501.01551v1](http://arxiv.org/abs/2501.01551v1)|null|
+|**2025-01-02**|**Multi-Tracer Correlated Stacking: A Novel Way to Discover Anisotropy in nano-Hz Stochastic Gravitational Wave Background**|Mohit Raj Sah et.al.|[2501.01499v1](http://arxiv.org/abs/2501.01499v1)|null|
 |**2025-01-02**|**Fluctuations of the giant of Poisson random graphs**|David Clancy Jr et.al.|[2501.01354v1](http://arxiv.org/abs/2501.01354v1)|null|
 |**2025-01-02**|**Learning Spectral Methods by Transformers**|Yihan He et.al.|[2501.01312v1](http://arxiv.org/abs/2501.01312v1)|null|
 |**2025-01-02**|**Integrative Learning of Intensity Fluctuations of Quantum Dots under Excitation via a Tailored Mixture Hidden Markov Model**|Xin Yang et.al.|[2501.01292v1](http://arxiv.org/abs/2501.01292v1)|null|
@@ -20,15 +32,3 @@
 |**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625v1](http://arxiv.org/abs/2501.00625v1)|null|
 |**2024-12-31**|**STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes**|Jiawei Yang et.al.|[2501.00602v1](http://arxiv.org/abs/2501.00602v1)|null|
 |**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601v1](http://arxiv.org/abs/2501.00601v1)|null|
-|**2024-12-31**|**Active Learning of General Halfspaces: Label Queries vs Membership Queries**|Ilias Diakonikolas et.al.|[2501.00508v1](http://arxiv.org/abs/2501.00508v1)|null|
-|**2024-12-31**|**Jointly optimal array geometries and waveforms in active sensing: New insights into array design via the Cramér-Rao bound**|Ids van der Werf et.al.|[2501.00472v1](http://arxiv.org/abs/2501.00472v1)|null|
-|**2024-12-31**|**On a pinning model in correlated Gaussian random environments**|Zian Li et.al.|[2501.00445v1](http://arxiv.org/abs/2501.00445v1)|null|
-|**2024-12-31**|**Outlier-Robust Linear System Identification Under Heavy-tailed Noise**|Vinay Kanakeri et.al.|[2501.00421v1](http://arxiv.org/abs/2501.00421v1)|null|
-|**2024-12-31**|**S-Diff: An Anisotropic Diffusion Model for Collaborative Filtering in Spectral Domain**|Rui Xia et.al.|[2501.00384v1](http://arxiv.org/abs/2501.00384v1)|null|
-|**2024-12-31**|**Decoherence dynamics in a polaron system with collective dephasing**|Saima Bashir et.al.|[2501.00355v1](http://arxiv.org/abs/2501.00355v1)|null|
-|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
-|**2024-12-31**|**High and odd moments in the Erdős--Kac theorem**|Ofir Gorodetsky et.al.|[2501.00351v1](http://arxiv.org/abs/2501.00351v1)|null|
-|**2024-12-31**|**Superdiffusive Central Limit Theorem for the Stochastic Burgers Equation at the critical dimension**|Giuseppe Cannizzaro et.al.|[2501.00344v1](http://arxiv.org/abs/2501.00344v1)|null|
-|**2024-12-31**|**SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians**|Yiwen Wang et.al.|[2501.00342v1](http://arxiv.org/abs/2501.00342v1)|null|
-|**2024-12-31**|**The simplest spin glass revisited: finite-size effects of the energy landscape can modify aging dynamics in the thermodynamic limit**|Bin Li et.al.|[2501.00338v1](http://arxiv.org/abs/2501.00338v1)|null|
-|**2024-12-31**|**OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies**|Runnan Chen et.al.|[2501.00326v1](http://arxiv.org/abs/2501.00326v1)|null|
