@@ -24,9 +24,9 @@
 |**2025-01-02**|**Spectral radius concentration for inhomogeneous random matrices with independent entries**|Yi Han et.al.|[2501.01079v1](http://arxiv.org/abs/2501.01079v1)|null|
 |**2025-01-02**|**TS-SatMVSNet: Slope Aware Height Estimation for Large-Scale Earth Terrain Multi-view Stereo**|Song Zhang et.al.|[2501.01049v1](http://arxiv.org/abs/2501.01049v1)|null|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003v1](http://arxiv.org/abs/2501.01003v1)|null|
-|**2025-01-02**|**Physics-informed Gaussian Processes for Safe Envelope Expansion**|D. Isaiah Harp et.al.|[2501.01000v1](http://arxiv.org/abs/2501.01000v1)|null|
+|**2025-01-02**|**Physics-informed Gaussian Processes for Safe Envelope Expansion**|D. Isaiah Harp et.al.|[2501.01000v1](http://arxiv.org/abs/2501.01000v1)|[link](https://github.com/josh0tt/PIGPSEE)|
 |**2025-01-02**|**Optimizing Noise Schedules of Generative Models in High Dimensionss**|Santiago Aranguri et.al.|[2501.00988v1](http://arxiv.org/abs/2501.00988v1)|null|
-|**2025-01-01**|**On the Implementation of a Bayesian Optimization Framework for Interconnected Systems**|Leonardo D. González et.al.|[2501.00967v1](http://arxiv.org/abs/2501.00967v1)|null|
+|**2025-01-01**|**On the Implementation of a Bayesian Optimization Framework for Interconnected Systems**|Leonardo D. González et.al.|[2501.00967v1](http://arxiv.org/abs/2501.00967v1)|[link](https://github.com/zavalab/bayesianopt)|
 |**2025-01-01**|**Trilepton and tetralepton bound and resonant states: the QED counterpart of multiquark states**|Yao Ma et.al.|[2501.00871v1](http://arxiv.org/abs/2501.00871v1)|null|
 |**2025-01-01**|**High-Probability Polynomial-Time Complexity of Restarted PDHG for Linear Programming**|Zikai Xiong et.al.|[2501.00728v1](http://arxiv.org/abs/2501.00728v1)|null|
 |**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625v1](http://arxiv.org/abs/2501.00625v1)|null|
