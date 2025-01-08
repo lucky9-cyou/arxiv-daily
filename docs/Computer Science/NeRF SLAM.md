@@ -2,6 +2,10 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
+|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
 |**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
 |**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
 |**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
@@ -28,7 +32,3 @@
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v2](http://arxiv.org/abs/2412.15447v2)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
 |**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547v1](http://arxiv.org/abs/2412.14547v1)|null|
-|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|[link](https://github.com/ucwxb/graphavatar)|
-|**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
-|**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
-|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|[link](https://github.com/robotics-upo/gaussian-rio)|

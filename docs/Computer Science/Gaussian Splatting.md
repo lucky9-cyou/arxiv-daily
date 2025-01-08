@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
+|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
+|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
+|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
+|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
+|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
+|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
+|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
+|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
+|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
+|**2025-01-07**|**Spectral representation of correlation functions for zeros of Gaussian power series with stationary coefficients**|Tomoyuki Shirai et.al.|[2501.03704v1](http://arxiv.org/abs/2501.03704v1)|null|
+|**2025-01-07**|**An explicit link between graphical models and Gaussian Markov random fields on metric graphs**|David Bolin et.al.|[2501.03701v1](http://arxiv.org/abs/2501.03701v1)|null|
+|**2025-01-07**|**Finite-sample properties of the trimmed mean**|Roberto I. Oliveira et.al.|[2501.03694v1](http://arxiv.org/abs/2501.03694v1)|null|
+|**2025-01-07**|**A cosmic degeneracy story: structure formation with warm dark matter and scale-dependent primordial non-Gaussianities**|Clément Stahl et.al.|[2501.03672v1](http://arxiv.org/abs/2501.03672v1)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
+|**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631v1](http://arxiv.org/abs/2501.03631v1)|null|
+|**2025-01-07**|**The joint detection rate of short gamma-ray bursts and gravitational waves from binary neutron star mergers**|Chong-Yu Gao et.al.|[2501.03614v1](http://arxiv.org/abs/2501.03614v1)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
+|**2025-01-07**|**Improved packing of hypersurfaces in $\mathbb R^d$**|Xianghong Chen et.al.|[2501.03532v1](http://arxiv.org/abs/2501.03532v1)|null|
+|**2025-01-07**|**Real-time RFI Excision Techniques and their Limitations**|Kaushal D. Buch et.al.|[2501.03520v1](http://arxiv.org/abs/2501.03520v1)|null|
+|**2025-01-07**|**The ubiquity of variable radio emission and spin-down rates in pulsars**|M. E. Lower et.al.|[2501.03500v1](http://arxiv.org/abs/2501.03500v1)|null|
+|**2025-01-07**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language**|Zishuo Wan et.al.|[2501.03482v1](http://arxiv.org/abs/2501.03482v1)|null|
+|**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399v1](http://arxiv.org/abs/2501.03399v1)|null|
+|**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381v1](http://arxiv.org/abs/2501.03381v1)|null|
+|**2025-01-06**|**Recent star formation episodes in the Galaxy: impact on its chemical properties and the evolution of its abundance gradient**|Tianxiang Chen et.al.|[2501.03342v1](http://arxiv.org/abs/2501.03342v1)|null|
 |**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|null|
 |**2025-01-06**|**When Do Voters Stop Caring? Estimating the Shape of Voter Utility Function**|Aleksandra Conevska et.al.|[2501.03196v1](http://arxiv.org/abs/2501.03196v1)|null|
 |**2025-01-06**|**Spectra of standing kink waves in loops and the effects of the lower solar atmosphere**|Konstantinos Karampelas et.al.|[2501.03089v1](http://arxiv.org/abs/2501.03089v1)|null|
-|**2025-01-06**|**Cosmic Whispers of the Early Universe: Gravitational Waves and Dark Matter from Primordial Black Holes**|Antonio Junior Iovino et.al.|[2501.03065v1](http://arxiv.org/abs/2501.03065v1)|null|
-|**2025-01-06**|**An Independent Search for Small Long-period Planets in Kepler Data I: Detection Pipeline**|Oryna Ivashtenko et.al.|[2501.03019v1](http://arxiv.org/abs/2501.03019v1)|null|
-|**2025-01-06**|**Isotropic background and anisotropies of gravitational waves induced by cosmological soliton isocurvature perturbations**|Di Luo et.al.|[2501.02965v1](http://arxiv.org/abs/2501.02965v1)|null|
-|**2025-01-06**|**Gaussian process regression of temperature-dependent radial velocities**|Federica Rescigno et.al.|[2501.02959v1](http://arxiv.org/abs/2501.02959v1)|null|
-|**2025-01-06**|**Revisiting the Chern-Simons interaction during inflation with a non-canonical pseudo-scalar**|Jun'ya Kume et.al.|[2501.02890v1](http://arxiv.org/abs/2501.02890v1)|null|
-|**2025-01-06**|**MDP3: A Training-free Approach for List-wise Frame Selection in Video-LLMs**|Hui Sun et.al.|[2501.02885v1](http://arxiv.org/abs/2501.02885v1)|null|
-|**2025-01-06**|**Chemical Distance for the Level Sets of the Gaussian Free Field**|Tal Peretz et.al.|[2501.02881v1](http://arxiv.org/abs/2501.02881v1)|null|
-|**2025-01-06**|**Thermal RG Flow of AS Quantum Gravity**|E. Nyergesy et.al.|[2501.02878v1](http://arxiv.org/abs/2501.02878v1)|null|
-|**2025-01-06**|**Constrained Multi-Modal Density Control of Linear Systems via Covariance Steering Theory**|Isin M Balci et.al.|[2501.02866v1](http://arxiv.org/abs/2501.02866v1)|null|
-|**2025-01-06**|**Exact Matching in Correlated Networks with Node Attributes for Improved Community Recovery**|Joonhyuk Yang et.al.|[2501.02851v1](http://arxiv.org/abs/2501.02851v1)|null|
-|**2025-01-06**|**Bayesian analysis of nonlinear structured latent factor models using a Gaussian Process Prior**|Yimang Zhang et.al.|[2501.02846v1](http://arxiv.org/abs/2501.02846v1)|null|
-|**2025-01-06**|**HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation**|Wentian Qu et.al.|[2501.02845v1](http://arxiv.org/abs/2501.02845v1)|null|
-|**2025-01-06**|**GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation**|Niloufar Eghbali et.al.|[2501.02788v1](http://arxiv.org/abs/2501.02788v1)|null|
-|**2025-01-06**|**Extracting the Speed of Sound in Heavy-Ion Collisions: A Study of Quantum Fluctuations and Thermalization**|Yu-Shan Mu et.al.|[2501.02777v1](http://arxiv.org/abs/2501.02777v1)|null|
-|**2025-01-06**|**Interpretable Recognition of Fused Magnesium Furnace Working Conditions with Deep Convolutional Stochastic Configuration Networks**|Li Weitao et.al.|[2501.02740v1](http://arxiv.org/abs/2501.02740v1)|null|
-|**2025-01-05**|**GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking**|Weikang Bian et.al.|[2501.02690v1](http://arxiv.org/abs/2501.02690v1)|null|
-|**2025-01-05**|**Simultaneous analysis of approximate leave-one-out cross-validation and mean-field inference**|Pierre C Bellec et.al.|[2501.02624v1](http://arxiv.org/abs/2501.02624v1)|null|
-|**2025-01-05**|**The Lasso error is bounded iff its active set size is bounded away from n in the proportional regime**|Pierre C. Bellec et.al.|[2501.02601v1](http://arxiv.org/abs/2501.02601v1)|null|
-|**2025-01-05**|**The density of zeros of random power series with stationary complex Gaussian coefficients**|Tomoyuki Shirai et.al.|[2501.02586v1](http://arxiv.org/abs/2501.02586v1)|null|
-|**2025-01-05**|**Evolutions of in-medium baryon-baryon scattering cross sections and stiffness of dense nuclear matter from Bayesian analyses of FOPI proton flow excitation functions**|Bao-An Li et.al.|[2501.02579v1](http://arxiv.org/abs/2501.02579v1)|null|
-|**2025-01-05**|**Efficient Graph Condensation via Gaussian Process**|Lin Wang et.al.|[2501.02565v1](http://arxiv.org/abs/2501.02565v1)|null|
-|**2025-01-05**|**Effect of Impurity on Inhomogeneous Vacuum and Interacting Vortices**|SeungJun Jeon et.al.|[2501.02500v1](http://arxiv.org/abs/2501.02500v1)|null|
-|**2025-01-05**|**High-dimensional inference for single-index model with latent factors**|Yanmei Shi et.al.|[2501.02489v1](http://arxiv.org/abs/2501.02489v1)|null|
-|**2025-01-05**|**IRIS: A Bayesian Approach for Image Reconstruction in Radio Interferometry with expressive Score-Based priors**|Noé Dia et.al.|[2501.02473v1](http://arxiv.org/abs/2501.02473v1)|[link](https://github.com/enceladecandy/iris)|
-|**2025-01-04**|**A generalized distance covariance framework for genome-wide association studies**|Dominic Edelmann et.al.|[2501.02403v1](http://arxiv.org/abs/2501.02403v1)|null|
-|**2025-01-04**|**Beyond Log-Concavity and Score Regularity: Improved Convergence Bounds for Score-Based Generative Models in W2-distance**|Marta Gentiloni-Silveri et.al.|[2501.02298v1](http://arxiv.org/abs/2501.02298v1)|null|
-|**2025-01-04**|**Nonlinear bias of collective oscillation frequency induced by asymmetric Cauchy noise**|Maria V. Ageeva et.al.|[2501.02291v1](http://arxiv.org/abs/2501.02291v1)|null|
+|**2025-01-06**|**Method of data forward generation with partial differential equations for machine learning modeling in fluid mechanics**|Ruilin Chen et.al.|[2501.03300v1](http://arxiv.org/abs/2501.03300v1)|null|
