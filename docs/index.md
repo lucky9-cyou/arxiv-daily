@@ -1,145 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2025-01-08 20:33:28 Asia/Shanghai
+ Automated deployment @ 2025-01-08 20:51:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
-
-## Computer Science
-
-### NeRF SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
-|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
-|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
-|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
-|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
-|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
-|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|
-|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
-|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
-|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
-|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
-|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
-|**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
-|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|[link](https://github.com/liguohao96/egg3d)|
-|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
-|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
-|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628v1](http://arxiv.org/abs/2412.17628v1)|null|
-|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
-|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
-|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282v1](http://arxiv.org/abs/2412.17282v1)|null|
-|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235v1](http://arxiv.org/abs/2412.17235v1)|null|
-|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737v1](http://arxiv.org/abs/2412.16737v1)|null|
-|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
-|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141v1](http://arxiv.org/abs/2412.16141v1)|null|
-|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
-|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
-|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v2](http://arxiv.org/abs/2412.15447v2)|null|
-|**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
-|**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547v1](http://arxiv.org/abs/2412.14547v1)|null|
-
-### Gaussian Splatting SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
-|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
-|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
-|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
-|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
-|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
-|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
-|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
-|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
-|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
-|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
-|**2025-01-07**|**Spectral representation of correlation functions for zeros of Gaussian power series with stationary coefficients**|Tomoyuki Shirai et.al.|[2501.03704v1](http://arxiv.org/abs/2501.03704v1)|null|
-|**2025-01-07**|**An explicit link between graphical models and Gaussian Markov random fields on metric graphs**|David Bolin et.al.|[2501.03701v1](http://arxiv.org/abs/2501.03701v1)|null|
-|**2025-01-07**|**Finite-sample properties of the trimmed mean**|Roberto I. Oliveira et.al.|[2501.03694v1](http://arxiv.org/abs/2501.03694v1)|null|
-|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
-|**2025-01-07**|**A cosmic degeneracy story: structure formation with warm dark matter and scale-dependent primordial non-Gaussianities**|Clément Stahl et.al.|[2501.03672v1](http://arxiv.org/abs/2501.03672v1)|null|
-|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
-|**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631v1](http://arxiv.org/abs/2501.03631v1)|null|
-|**2025-01-07**|**The joint detection rate of short gamma-ray bursts and gravitational waves from binary neutron star mergers**|Chong-Yu Gao et.al.|[2501.03614v1](http://arxiv.org/abs/2501.03614v1)|null|
-|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
-|**2025-01-07**|**Improved packing of hypersurfaces in $\mathbb R^d$**|Xianghong Chen et.al.|[2501.03532v1](http://arxiv.org/abs/2501.03532v1)|null|
-|**2025-01-07**|**Real-time RFI Excision Techniques and their Limitations**|Kaushal D. Buch et.al.|[2501.03520v1](http://arxiv.org/abs/2501.03520v1)|null|
-|**2025-01-07**|**The ubiquity of variable radio emission and spin-down rates in pulsars**|M. E. Lower et.al.|[2501.03500v1](http://arxiv.org/abs/2501.03500v1)|null|
-|**2025-01-07**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language**|Zishuo Wan et.al.|[2501.03482v1](http://arxiv.org/abs/2501.03482v1)|null|
-|**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399v1](http://arxiv.org/abs/2501.03399v1)|null|
-|**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381v1](http://arxiv.org/abs/2501.03381v1)|null|
-|**2025-01-06**|**Recent star formation episodes in the Galaxy: impact on its chemical properties and the evolution of its abundance gradient**|Tianxiang Chen et.al.|[2501.03342v1](http://arxiv.org/abs/2501.03342v1)|null|
-|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|null|
-|**2025-01-06**|**When Do Voters Stop Caring? Estimating the Shape of Voter Utility Function**|Aleksandra Conevska et.al.|[2501.03196v1](http://arxiv.org/abs/2501.03196v1)|null|
-|**2025-01-06**|**Spectra of standing kink waves in loops and the effects of the lower solar atmosphere**|Konstantinos Karampelas et.al.|[2501.03089v1](http://arxiv.org/abs/2501.03089v1)|null|
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
-|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
-|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
-|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
-|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
-|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
-|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
-|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
-|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
-|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
-|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
-|**2025-01-07**|**Spectral representation of correlation functions for zeros of Gaussian power series with stationary coefficients**|Tomoyuki Shirai et.al.|[2501.03704v1](http://arxiv.org/abs/2501.03704v1)|null|
-|**2025-01-07**|**An explicit link between graphical models and Gaussian Markov random fields on metric graphs**|David Bolin et.al.|[2501.03701v1](http://arxiv.org/abs/2501.03701v1)|null|
-|**2025-01-07**|**Finite-sample properties of the trimmed mean**|Roberto I. Oliveira et.al.|[2501.03694v1](http://arxiv.org/abs/2501.03694v1)|null|
-|**2025-01-07**|**A cosmic degeneracy story: structure formation with warm dark matter and scale-dependent primordial non-Gaussianities**|Clément Stahl et.al.|[2501.03672v1](http://arxiv.org/abs/2501.03672v1)|null|
-|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
-|**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631v1](http://arxiv.org/abs/2501.03631v1)|null|
-|**2025-01-07**|**The joint detection rate of short gamma-ray bursts and gravitational waves from binary neutron star mergers**|Chong-Yu Gao et.al.|[2501.03614v1](http://arxiv.org/abs/2501.03614v1)|null|
-|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
-|**2025-01-07**|**Improved packing of hypersurfaces in $\mathbb R^d$**|Xianghong Chen et.al.|[2501.03532v1](http://arxiv.org/abs/2501.03532v1)|null|
-|**2025-01-07**|**Real-time RFI Excision Techniques and their Limitations**|Kaushal D. Buch et.al.|[2501.03520v1](http://arxiv.org/abs/2501.03520v1)|null|
-|**2025-01-07**|**The ubiquity of variable radio emission and spin-down rates in pulsars**|M. E. Lower et.al.|[2501.03500v1](http://arxiv.org/abs/2501.03500v1)|null|
-|**2025-01-07**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language**|Zishuo Wan et.al.|[2501.03482v1](http://arxiv.org/abs/2501.03482v1)|null|
-|**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399v1](http://arxiv.org/abs/2501.03399v1)|null|
-|**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381v1](http://arxiv.org/abs/2501.03381v1)|null|
-|**2025-01-06**|**Recent star formation episodes in the Galaxy: impact on its chemical properties and the evolution of its abundance gradient**|Tianxiang Chen et.al.|[2501.03342v1](http://arxiv.org/abs/2501.03342v1)|null|
-|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|null|
-|**2025-01-06**|**When Do Voters Stop Caring? Estimating the Shape of Voter Utility Function**|Aleksandra Conevska et.al.|[2501.03196v1](http://arxiv.org/abs/2501.03196v1)|null|
-|**2025-01-06**|**Spectra of standing kink waves in loops and the effects of the lower solar atmosphere**|Konstantinos Karampelas et.al.|[2501.03089v1](http://arxiv.org/abs/2501.03089v1)|null|
-|**2025-01-06**|**Method of data forward generation with partial differential equations for machine learning modeling in fluid mechanics**|Ruilin Chen et.al.|[2501.03300v1](http://arxiv.org/abs/2501.03300v1)|null|
-
-### NeRF
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
-|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
-|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
-|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
-|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
-|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
-|**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
-|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|[link](https://github.com/liguohao96/egg3d)|
-|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
-|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
-|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628v1](http://arxiv.org/abs/2412.17628v1)|null|
-|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
-|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737v1](http://arxiv.org/abs/2412.16737v1)|null|
-|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141v1](http://arxiv.org/abs/2412.16141v1)|null|
-|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
-|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v2](http://arxiv.org/abs/2412.15447v2)|null|
-|**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
-|**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547v1](http://arxiv.org/abs/2412.14547v1)|null|
-|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|[link](https://github.com/ucwxb/graphavatar)|
-|**2024-12-18**|**DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**|Xingyu Zhu et.al.|[2412.15278v1](http://arxiv.org/abs/2412.15278v1)|null|
-|**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213v1](http://arxiv.org/abs/2412.16213v1)|[link](https://github.com/tommy-nguyen-cpu/advirl)|
-|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047v1](http://arxiv.org/abs/2412.13047v1)|null|
-|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772v2](http://arxiv.org/abs/2412.12772v2)|null|
-|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766v1](http://arxiv.org/abs/2412.12766v1)|null|
-|**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762v1](http://arxiv.org/abs/2412.11762v1)|null|
-|**2024-12-16**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
-|**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362v1](http://arxiv.org/abs/2412.11362v1)|null|
-|**2024-12-13**|**NeRF-Texture: Synthesizing Neural Radiance Field Textures**|Yi-Hua Huang et.al.|[2412.10004v1](http://arxiv.org/abs/2412.10004v1)|null|
-|**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881v1](http://arxiv.org/abs/2412.09881v1)|null|
-|**2024-12-12**|**PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**|Sean Wu et.al.|[2412.09680v1](http://arxiv.org/abs/2412.09680v1)|[link](https://github.com/s3anwu/pbrnerf)|
 
 ## Robotics
 
@@ -176,3 +38,141 @@
 |**2024-12-08**|**DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot SLAM in Multi-session Environments**|Juwon Kim et.al.|[2412.05839v1](http://arxiv.org/abs/2412.05839v1)|null|
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v2](http://arxiv.org/abs/2412.04463v2)|null|
 |**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)|
+
+## Computer Science
+
+### Gaussian Splatting SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
+|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
+|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
+|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
+|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
+|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
+|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
+|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
+|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
+|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
+|**2025-01-07**|**Spectral representation of correlation functions for zeros of Gaussian power series with stationary coefficients**|Tomoyuki Shirai et.al.|[2501.03704v1](http://arxiv.org/abs/2501.03704v1)|null|
+|**2025-01-07**|**An explicit link between graphical models and Gaussian Markov random fields on metric graphs**|David Bolin et.al.|[2501.03701v1](http://arxiv.org/abs/2501.03701v1)|null|
+|**2025-01-07**|**Finite-sample properties of the trimmed mean**|Roberto I. Oliveira et.al.|[2501.03694v1](http://arxiv.org/abs/2501.03694v1)|null|
+|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
+|**2025-01-07**|**A cosmic degeneracy story: structure formation with warm dark matter and scale-dependent primordial non-Gaussianities**|Clément Stahl et.al.|[2501.03672v1](http://arxiv.org/abs/2501.03672v1)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
+|**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631v1](http://arxiv.org/abs/2501.03631v1)|null|
+|**2025-01-07**|**The joint detection rate of short gamma-ray bursts and gravitational waves from binary neutron star mergers**|Chong-Yu Gao et.al.|[2501.03614v1](http://arxiv.org/abs/2501.03614v1)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
+|**2025-01-07**|**Improved packing of hypersurfaces in $\mathbb R^d$**|Xianghong Chen et.al.|[2501.03532v1](http://arxiv.org/abs/2501.03532v1)|null|
+|**2025-01-07**|**Real-time RFI Excision Techniques and their Limitations**|Kaushal D. Buch et.al.|[2501.03520v1](http://arxiv.org/abs/2501.03520v1)|null|
+|**2025-01-07**|**The ubiquity of variable radio emission and spin-down rates in pulsars**|M. E. Lower et.al.|[2501.03500v1](http://arxiv.org/abs/2501.03500v1)|null|
+|**2025-01-07**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language**|Zishuo Wan et.al.|[2501.03482v1](http://arxiv.org/abs/2501.03482v1)|null|
+|**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399v1](http://arxiv.org/abs/2501.03399v1)|null|
+|**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381v1](http://arxiv.org/abs/2501.03381v1)|null|
+|**2025-01-06**|**Recent star formation episodes in the Galaxy: impact on its chemical properties and the evolution of its abundance gradient**|Tianxiang Chen et.al.|[2501.03342v1](http://arxiv.org/abs/2501.03342v1)|null|
+|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|null|
+|**2025-01-06**|**When Do Voters Stop Caring? Estimating the Shape of Voter Utility Function**|Aleksandra Conevska et.al.|[2501.03196v1](http://arxiv.org/abs/2501.03196v1)|null|
+|**2025-01-06**|**Spectra of standing kink waves in loops and the effects of the lower solar atmosphere**|Konstantinos Karampelas et.al.|[2501.03089v1](http://arxiv.org/abs/2501.03089v1)|null|
+
+### NeRF SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
+|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
+|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
+|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
+|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
+|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
+|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
+|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
+|**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
+|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|[link](https://github.com/liguohao96/egg3d)|
+|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
+|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
+|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628v1](http://arxiv.org/abs/2412.17628v1)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
+|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282v1](http://arxiv.org/abs/2412.17282v1)|null|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235v1](http://arxiv.org/abs/2412.17235v1)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737v1](http://arxiv.org/abs/2412.16737v1)|null|
+|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141v1](http://arxiv.org/abs/2412.16141v1)|null|
+|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
+|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v2](http://arxiv.org/abs/2412.15447v2)|null|
+|**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
+|**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547v1](http://arxiv.org/abs/2412.14547v1)|null|
+
+### NeRF
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
+|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
+|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
+|**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
+|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|[link](https://github.com/liguohao96/egg3d)|
+|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
+|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
+|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628v1](http://arxiv.org/abs/2412.17628v1)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737v1](http://arxiv.org/abs/2412.16737v1)|null|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141v1](http://arxiv.org/abs/2412.16141v1)|null|
+|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
+|**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v2](http://arxiv.org/abs/2412.15447v2)|null|
+|**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
+|**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547v1](http://arxiv.org/abs/2412.14547v1)|null|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|[link](https://github.com/ucwxb/graphavatar)|
+|**2024-12-18**|**DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**|Xingyu Zhu et.al.|[2412.15278v1](http://arxiv.org/abs/2412.15278v1)|null|
+|**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213v1](http://arxiv.org/abs/2412.16213v1)|[link](https://github.com/tommy-nguyen-cpu/advirl)|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047v1](http://arxiv.org/abs/2412.13047v1)|null|
+|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772v2](http://arxiv.org/abs/2412.12772v2)|null|
+|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766v1](http://arxiv.org/abs/2412.12766v1)|null|
+|**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762v1](http://arxiv.org/abs/2412.11762v1)|null|
+|**2024-12-16**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
+|**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362v1](http://arxiv.org/abs/2412.11362v1)|null|
+|**2024-12-13**|**NeRF-Texture: Synthesizing Neural Radiance Field Textures**|Yi-Hua Huang et.al.|[2412.10004v1](http://arxiv.org/abs/2412.10004v1)|null|
+|**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881v1](http://arxiv.org/abs/2412.09881v1)|null|
+|**2024-12-12**|**PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**|Sean Wu et.al.|[2412.09680v1](http://arxiv.org/abs/2412.09680v1)|[link](https://github.com/s3anwu/pbrnerf)|
+
+### Gaussian Splatting
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
+|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
+|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
+|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
+|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
+|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
+|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
+|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
+|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
+|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
+|**2025-01-07**|**Spectral representation of correlation functions for zeros of Gaussian power series with stationary coefficients**|Tomoyuki Shirai et.al.|[2501.03704v1](http://arxiv.org/abs/2501.03704v1)|null|
+|**2025-01-07**|**An explicit link between graphical models and Gaussian Markov random fields on metric graphs**|David Bolin et.al.|[2501.03701v1](http://arxiv.org/abs/2501.03701v1)|null|
+|**2025-01-07**|**Finite-sample properties of the trimmed mean**|Roberto I. Oliveira et.al.|[2501.03694v1](http://arxiv.org/abs/2501.03694v1)|null|
+|**2025-01-07**|**A cosmic degeneracy story: structure formation with warm dark matter and scale-dependent primordial non-Gaussianities**|Clément Stahl et.al.|[2501.03672v1](http://arxiv.org/abs/2501.03672v1)|null|
+|**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v1](http://arxiv.org/abs/2501.03659v1)|null|
+|**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631v1](http://arxiv.org/abs/2501.03631v1)|null|
+|**2025-01-07**|**The joint detection rate of short gamma-ray bursts and gravitational waves from binary neutron star mergers**|Chong-Yu Gao et.al.|[2501.03614v1](http://arxiv.org/abs/2501.03614v1)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|null|
+|**2025-01-07**|**Improved packing of hypersurfaces in $\mathbb R^d$**|Xianghong Chen et.al.|[2501.03532v1](http://arxiv.org/abs/2501.03532v1)|null|
+|**2025-01-07**|**Real-time RFI Excision Techniques and their Limitations**|Kaushal D. Buch et.al.|[2501.03520v1](http://arxiv.org/abs/2501.03520v1)|null|
+|**2025-01-07**|**The ubiquity of variable radio emission and spin-down rates in pulsars**|M. E. Lower et.al.|[2501.03500v1](http://arxiv.org/abs/2501.03500v1)|null|
+|**2025-01-07**|**VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language**|Zishuo Wan et.al.|[2501.03482v1](http://arxiv.org/abs/2501.03482v1)|null|
+|**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399v1](http://arxiv.org/abs/2501.03399v1)|null|
+|**2025-01-06**|**THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing**|Laouen Belloli et.al.|[2501.03381v1](http://arxiv.org/abs/2501.03381v1)|null|
+|**2025-01-06**|**Recent star formation episodes in the Galaxy: impact on its chemical properties and the evolution of its abundance gradient**|Tianxiang Chen et.al.|[2501.03342v1](http://arxiv.org/abs/2501.03342v1)|null|
+|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229v1](http://arxiv.org/abs/2501.03229v1)|null|
+|**2025-01-06**|**When Do Voters Stop Caring? Estimating the Shape of Voter Utility Function**|Aleksandra Conevska et.al.|[2501.03196v1](http://arxiv.org/abs/2501.03196v1)|null|
+|**2025-01-06**|**Spectra of standing kink waves in loops and the effects of the lower solar atmosphere**|Konstantinos Karampelas et.al.|[2501.03089v1](http://arxiv.org/abs/2501.03089v1)|null|
+|**2025-01-06**|**Method of data forward generation with partial differential equations for machine learning modeling in fluid mechanics**|Ruilin Chen et.al.|[2501.03300v1](http://arxiv.org/abs/2501.03300v1)|null|
