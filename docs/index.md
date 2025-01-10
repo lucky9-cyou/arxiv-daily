@@ -1,7 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2025-01-09 21:03:38 Asia/Shanghai
+ Automated deployment @ 2025-01-10 08:13:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
+
+## Robotics
+
+### SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
+|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
+|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
+|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
+|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
+|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
+|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282v1](http://arxiv.org/abs/2412.17282v1)|null|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235v1](http://arxiv.org/abs/2412.17235v1)|null|
+|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
+|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
+|**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
+|**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|[link](https://github.com/robotics-upo/gaussian-rio)|
+|**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176v1](http://arxiv.org/abs/2412.13176v1)|null|
+|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861v2](http://arxiv.org/abs/2412.12861v2)|null|
+|**2024-12-16**|**Global SLAM in Visual-Inertial Systems with 5G Time-of-Arrival Integration**|Meisam Kabiri et.al.|[2412.12406v2](http://arxiv.org/abs/2412.12406v2)|null|
+|**2024-12-16**|**MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors**|Riku Murai et.al.|[2412.12392v1](http://arxiv.org/abs/2412.12392v1)|null|
+|**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840v1](http://arxiv.org/abs/2412.11840v1)|null|
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v2](http://arxiv.org/abs/2412.11530v2)|null|
+|**2024-12-14**|**Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency**|Yang Song et.al.|[2412.10809v1](http://arxiv.org/abs/2412.10809v1)|[link](https://github.com/yangsong-slam/affine-ekf)|
+|**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868v1](http://arxiv.org/abs/2412.09868v1)|null|
+|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401v2](http://arxiv.org/abs/2412.09401v2)|[link](https://github.com/pku-vcl-3dv/slam3r)|
+|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
+|**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
+|**2024-12-08**|**DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot SLAM in Multi-session Environments**|Juwon Kim et.al.|[2412.05839v1](http://arxiv.org/abs/2412.05839v1)|null|
+|**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v2](http://arxiv.org/abs/2412.04463v2)|null|
+|**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)|
 
 ## Computer Science
 
@@ -38,40 +74,6 @@
 |**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447v2](http://arxiv.org/abs/2412.15447v2)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
-
-### Gaussian Splatting SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667v1](http://arxiv.org/abs/2501.04667v1)|null|
-|**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631v1](http://arxiv.org/abs/2501.04631v1)|null|
-|**2025-01-08**|**FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**|Han Huang et.al.|[2501.04628v1](http://arxiv.org/abs/2501.04628v1)|null|
-|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
-|**2025-01-08**|**Spectral Study of Aql~X-1 during \textit{Pulse-on} and \textit{Pulse-off} Stages**|T. Kocabıyık et.al.|[2501.04542v1](http://arxiv.org/abs/2501.04542v1)|null|
-|**2025-01-08**|**Some Gaussianity criteria for Khinchin families**|Víctor J. Maciá et.al.|[2501.04375v1](http://arxiv.org/abs/2501.04375v1)|null|
-|**2025-01-08**|**Correlation tests and sample spectral coherence matrix in the high-dimensional regime**|Philippe Loubaton et.al.|[2501.04371v1](http://arxiv.org/abs/2501.04371v1)|null|
-|**2025-01-08**|**State-dependent preconditioning for the inner-loop in Variational Data Assimilation using Machine Learning**|Victor Trappler et.al.|[2501.04369v1](http://arxiv.org/abs/2501.04369v1)|null|
-|**2025-01-08**|**Online Gaussian Test-Time Adaptation of Vision-Language Models**|Clément Fuchs et.al.|[2501.04352v1](http://arxiv.org/abs/2501.04352v1)|[link](https://github.com/cfuchs2023/oga)|
-|**2025-01-08**|**Neural Parameter Estimation with Incomplete Data**|Matthew Sainsbury-Dale et.al.|[2501.04330v1](http://arxiv.org/abs/2501.04330v1)|[link](https://github.com/msainsburydale/neuralincompletedata)|
-|**2025-01-08**|**On weight and variance uncertainty in neural networks for regression tasks**|Moein Monemi et.al.|[2501.04272v1](http://arxiv.org/abs/2501.04272v1)|null|
-|**2025-01-08**|**Modeling All Response Surfaces in One for Conditional Search Spaces**|Jiaxing Li et.al.|[2501.04260v1](http://arxiv.org/abs/2501.04260v1)|null|
-|**2025-01-08**|**Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems**|Baojun Che et.al.|[2501.04259v1](http://arxiv.org/abs/2501.04259v1)|null|
-|**2025-01-08**|**Three-precision iterative refinement with parameter regularization and prediction for solving large sparse linear systems**|Juan Zhang et.al.|[2501.04229v1](http://arxiv.org/abs/2501.04229v1)|null|
-|**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140v1](http://arxiv.org/abs/2501.04140v1)|null|
-|**2025-01-07**|**\texttt{Pz Cats}: Photometric redshift catalogs based on DES Y3 BAO sample**|Paula S. Ferreira et.al.|[2501.04118v1](http://arxiv.org/abs/2501.04118v1)|null|
-|**2025-01-07**|**Asymptotic Normality of Divisors of Random Holomorphic Sections on Non-compact Complex Manifolds**|Afrim Bojnik et.al.|[2501.04106v1](http://arxiv.org/abs/2501.04106v1)|null|
-|**2025-01-07**|**The LOFAR Two-metre Sky Survey: Deep Fields Data Release 2. I. The ELAIS-N1 field**|T. W. Shimwell et.al.|[2501.04093v1](http://arxiv.org/abs/2501.04093v1)|null|
-|**2025-01-07**|**Phase space analysis of Bell inequalities for mixed Gaussian states**|Gurpahul Singh et.al.|[2501.04078v1](http://arxiv.org/abs/2501.04078v1)|null|
-|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
-|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
-|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
-|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
-|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
-|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
-|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
-|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
-|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
-|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
-|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
 
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -141,38 +143,36 @@
 |**2024-12-13**|**NeRF-Texture: Synthesizing Neural Radiance Field Textures**|Yi-Hua Huang et.al.|[2412.10004v1](http://arxiv.org/abs/2412.10004v1)|null|
 |**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881v1](http://arxiv.org/abs/2412.09881v1)|null|
 
-## Robotics
-
-### SLAM
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681v1](http://arxiv.org/abs/2501.03681v1)|null|
-|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
-|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|
-|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
-|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
-|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
-|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
-|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343v1](http://arxiv.org/abs/2412.17343v1)|null|
-|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282v1](http://arxiv.org/abs/2412.17282v1)|null|
-|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235v1](http://arxiv.org/abs/2412.17235v1)|null|
-|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476v1](http://arxiv.org/abs/2412.16476v1)|[link](https://github.com/machineperceptionlab/qq-slam)|
-|**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649v1](http://arxiv.org/abs/2412.15649v1)|null|
-|**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912v1](http://arxiv.org/abs/2412.13912v1)|null|
-|**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752v1](http://arxiv.org/abs/2412.13752v1)|null|
-|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|[link](https://github.com/robotics-upo/gaussian-rio)|
-|**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176v1](http://arxiv.org/abs/2412.13176v1)|null|
-|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861v2](http://arxiv.org/abs/2412.12861v2)|null|
-|**2024-12-16**|**Global SLAM in Visual-Inertial Systems with 5G Time-of-Arrival Integration**|Meisam Kabiri et.al.|[2412.12406v2](http://arxiv.org/abs/2412.12406v2)|null|
-|**2024-12-16**|**MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors**|Riku Murai et.al.|[2412.12392v1](http://arxiv.org/abs/2412.12392v1)|null|
-|**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840v1](http://arxiv.org/abs/2412.11840v1)|null|
-|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v2](http://arxiv.org/abs/2412.11530v2)|null|
-|**2024-12-14**|**Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency**|Yang Song et.al.|[2412.10809v1](http://arxiv.org/abs/2412.10809v1)|[link](https://github.com/yangsong-slam/affine-ekf)|
-|**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868v1](http://arxiv.org/abs/2412.09868v1)|null|
-|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401v2](http://arxiv.org/abs/2412.09401v2)|[link](https://github.com/pku-vcl-3dv/slam3r)|
-|**2024-12-11**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|
-|**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
-|**2024-12-08**|**DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot SLAM in Multi-session Environments**|Juwon Kim et.al.|[2412.05839v1](http://arxiv.org/abs/2412.05839v1)|null|
-|**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v2](http://arxiv.org/abs/2412.04463v2)|null|
-|**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)|
+|**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667v1](http://arxiv.org/abs/2501.04667v1)|null|
+|**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631v1](http://arxiv.org/abs/2501.04631v1)|null|
+|**2025-01-08**|**FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**|Han Huang et.al.|[2501.04628v1](http://arxiv.org/abs/2501.04628v1)|null|
+|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
+|**2025-01-08**|**Spectral Study of Aql~X-1 during \textit{Pulse-on} and \textit{Pulse-off} Stages**|T. Kocabıyık et.al.|[2501.04542v1](http://arxiv.org/abs/2501.04542v1)|null|
+|**2025-01-08**|**Some Gaussianity criteria for Khinchin families**|Víctor J. Maciá et.al.|[2501.04375v1](http://arxiv.org/abs/2501.04375v1)|null|
+|**2025-01-08**|**Correlation tests and sample spectral coherence matrix in the high-dimensional regime**|Philippe Loubaton et.al.|[2501.04371v1](http://arxiv.org/abs/2501.04371v1)|null|
+|**2025-01-08**|**State-dependent preconditioning for the inner-loop in Variational Data Assimilation using Machine Learning**|Victor Trappler et.al.|[2501.04369v1](http://arxiv.org/abs/2501.04369v1)|null|
+|**2025-01-08**|**Online Gaussian Test-Time Adaptation of Vision-Language Models**|Clément Fuchs et.al.|[2501.04352v1](http://arxiv.org/abs/2501.04352v1)|[link](https://github.com/cfuchs2023/oga)|
+|**2025-01-08**|**Neural Parameter Estimation with Incomplete Data**|Matthew Sainsbury-Dale et.al.|[2501.04330v1](http://arxiv.org/abs/2501.04330v1)|[link](https://github.com/msainsburydale/neuralincompletedata)|
+|**2025-01-08**|**On weight and variance uncertainty in neural networks for regression tasks**|Moein Monemi et.al.|[2501.04272v1](http://arxiv.org/abs/2501.04272v1)|null|
+|**2025-01-08**|**Modeling All Response Surfaces in One for Conditional Search Spaces**|Jiaxing Li et.al.|[2501.04260v1](http://arxiv.org/abs/2501.04260v1)|null|
+|**2025-01-08**|**Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems**|Baojun Che et.al.|[2501.04259v1](http://arxiv.org/abs/2501.04259v1)|null|
+|**2025-01-08**|**Three-precision iterative refinement with parameter regularization and prediction for solving large sparse linear systems**|Juan Zhang et.al.|[2501.04229v1](http://arxiv.org/abs/2501.04229v1)|null|
+|**2025-01-07**|**Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections**|Yabo Fu et.al.|[2501.04140v1](http://arxiv.org/abs/2501.04140v1)|null|
+|**2025-01-07**|**\texttt{Pz Cats}: Photometric redshift catalogs based on DES Y3 BAO sample**|Paula S. Ferreira et.al.|[2501.04118v1](http://arxiv.org/abs/2501.04118v1)|null|
+|**2025-01-07**|**Asymptotic Normality of Divisors of Random Holomorphic Sections on Non-compact Complex Manifolds**|Afrim Bojnik et.al.|[2501.04106v1](http://arxiv.org/abs/2501.04106v1)|null|
+|**2025-01-07**|**The LOFAR Two-metre Sky Survey: Deep Fields Data Release 2. I. The ELAIS-N1 field**|T. W. Shimwell et.al.|[2501.04093v1](http://arxiv.org/abs/2501.04093v1)|null|
+|**2025-01-07**|**Phase space analysis of Bell inequalities for mixed Gaussian states**|Gurpahul Singh et.al.|[2501.04078v1](http://arxiv.org/abs/2501.04078v1)|null|
+|**2025-01-07**|**Cosmological Parameter Estimation with Sequential Linear Simulation-based Inference**|Nicolas Mediato-Diaz et.al.|[2501.03921v1](http://arxiv.org/abs/2501.03921v1)|[link](https://github.com/ngm29/astro-lsbi)|
+|**2025-01-07**|**Wigner Function of Observed Quantum Systems**|Juan Camilo López Carreño et.al.|[2501.03885v1](http://arxiv.org/abs/2501.03885v1)|null|
+|**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
+|**2025-01-07**|**Temporal regularity for the stochastic heat equation with rough dependence in space**|Bin Qian et.al.|[2501.03864v1](http://arxiv.org/abs/2501.03864v1)|null|
+|**2025-01-07**|**Dynamical space-time ray tracing and modified horizontal ray method**|Aleksandr Kaplun et.al.|[2501.03856v1](http://arxiv.org/abs/2501.03856v1)|null|
+|**2025-01-07**|**Reconstructing ecological community dynamics from limited observations**|Chandler Ross et.al.|[2501.03820v1](http://arxiv.org/abs/2501.03820v1)|null|
+|**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793v1](http://arxiv.org/abs/2501.03793v1)|null|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
+|**2025-01-07**|**Exploring membership and variability in NGC 7419: An open cluster rich in super giants and Be type stars**|Arghya Chakraborty et.al.|[2501.03738v1](http://arxiv.org/abs/2501.03738v1)|null|
+|**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714v1](http://arxiv.org/abs/2501.03714v1)|null|
+|**2025-01-07**|**A Poincaré Lower Bound Approach for Performance Trade-offs in MIMO ISAC Systems with Blockage**|Mohammadreza Bakhshizadeh Mohajer et.al.|[2501.03707v1](http://arxiv.org/abs/2501.03707v1)|null|
