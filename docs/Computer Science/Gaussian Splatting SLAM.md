@@ -29,6 +29,6 @@
 |**2025-01-13**|**Eco-evolutionary dynamics of a trait-structured predator-prey model**|Manh Hong Duong et.al.|[2501.07379v1](http://arxiv.org/abs/2501.07379v1)|null|
 |**2025-01-13**|**Deep Generative Clustering with VAEs and Expectation-Maximization**|Michael Adipoetra et.al.|[2501.07358v1](http://arxiv.org/abs/2501.07358v1)|null|
 |**2025-01-13**|**Spectral Criteria for the Asymptotics of Local Functionals of Gaussian Fields and Their Application to Nodal Volumes**|Louis Gass et.al.|[2501.07356v1](http://arxiv.org/abs/2501.07356v1)|null|
-|**2025-01-13**|**Segal-Bargmann transforms and generalized Weyl algebras associated with the Meixner class of orthogonal polynomials**|Chadaphorn Kodsueb et.al.|[2501.07241v2](http://arxiv.org/abs/2501.07241v2)|null|
+|**2025-01-13**|**Segal-Bargmann transforms and generalized Weyl algebras associated with the Meixner class of orthogonal polynomials**|Chadaphorn Kodsueb et.al.|[2501.07241v3](http://arxiv.org/abs/2501.07241v3)|null|
 |**2025-01-13**|**Tensor decomposition technique for qubit encoding of maximal-fidelity Lorentzian orbitals in real-space quantum chemistry**|Taichi Kosugi et.al.|[2501.07211v1](http://arxiv.org/abs/2501.07211v1)|null|
 |**2025-01-13**|**Kriging and Gaussian Process Interpolation for Georeferenced Data Augmentation**|Frédérick Fabre Ferber et.al.|[2501.07183v1](http://arxiv.org/abs/2501.07183v1)|null|
