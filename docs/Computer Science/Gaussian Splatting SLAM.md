@@ -24,7 +24,7 @@
 |**2025-01-14**|**Detecting Contextual Anomalies by Discovering Consistent Spatial Regions**|Zhengye Yang et.al.|[2501.08470v1](http://arxiv.org/abs/2501.08470v1)|null|
 |**2025-01-14**|**Dielectric permittivity extraction of MoS$_2$ nanoribbons using THz nanoscopy**|Henrik B. Lassen et.al.|[2501.08427v1](http://arxiv.org/abs/2501.08427v1)|null|
 |**2025-01-14**|**SUSY design of smooth quantum rings in graphene**|Francisco Correa et.al.|[2501.08422v1](http://arxiv.org/abs/2501.08422v1)|null|
-|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331v1](http://arxiv.org/abs/2501.08331v1)|[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)|
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331v2](http://arxiv.org/abs/2501.08331v2)|[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)|
 |**2025-01-14**|**3D Gaussian Splatting with Normal Information for Mesh Extraction and Improved Rendering**|Meenakshi Krishnan et.al.|[2501.08370v1](http://arxiv.org/abs/2501.08370v1)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
 |**2025-01-14**|**Discovery of 26 new Galactic radio transients by MeerTRAP**|James Dennis Turner et.al.|[2501.08224v1](http://arxiv.org/abs/2501.08224v1)|null|
