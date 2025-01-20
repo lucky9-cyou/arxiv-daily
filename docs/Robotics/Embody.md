@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-16**|**Predictions as Surrogates: Revisiting Surrogate Outcomes in the Age of AI**|Wenlong Ji et.al.|[2501.09731v1](http://arxiv.org/abs/2501.09731v1)|null|
-|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709v1](http://arxiv.org/abs/2501.09709v1)|null|
-|**2025-01-16**|**The Goofus & Gallant Story Corpus for Practical Value Alignment**|Md Sultan Al Nahian et.al.|[2501.09707v1](http://arxiv.org/abs/2501.09707v1)|null|
-|**2025-01-16**|**Authenticated Delegation and Authorized AI Agents**|Tobin South et.al.|[2501.09674v1](http://arxiv.org/abs/2501.09674v1)|null|
-|**2025-01-16**|**Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark**|Alexis Roger et.al.|[2501.09672v1](http://arxiv.org/abs/2501.09672v1)|null|
-|**2025-01-16**|**On the Energy Consumption of Test Generation**|Fitsum Kifetew et.al.|[2501.09657v1](http://arxiv.org/abs/2501.09657v1)|null|
-|**2025-01-16**|**A Survey of Research in Large Language Models for Electronic Design Automation**|Jingyu Pan et.al.|[2501.09655v1](http://arxiv.org/abs/2501.09655v1)|null|
-|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636v2](http://arxiv.org/abs/2501.09636v2)|null|
-|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628v1](http://arxiv.org/abs/2501.09628v1)|null|
-|**2025-01-16**|**Local US officials' views on the impacts and governance of AI: Evidence from 2022 and 2023 survey waves**|Sophia Hatz et.al.|[2501.09606v1](http://arxiv.org/abs/2501.09606v1)|null|
-|**2025-01-16**|**Managed-Retention Memory: A New Class of Memory for the AI Era**|Sergey Legtchenko et.al.|[2501.09605v1](http://arxiv.org/abs/2501.09605v1)|null|
-|**2025-01-16**|**Clinicians don't know what explanations they need: A case study on eliciting AI software explainability requirements**|Tor Sporsem et.al.|[2501.09592v2](http://arxiv.org/abs/2501.09592v2)|null|
-|**2025-01-16**|**Rethinking cloud abstractions for tenant-provider cooperative optimization of AI workloads**|Marco Canini et.al.|[2501.09562v1](http://arxiv.org/abs/2501.09562v1)|null|
-|**2025-01-16**|**Exploring AI-based System Design for Pixel-level Protected Health Information Detection in Medical Images**|Tuan Truong et.al.|[2501.09552v1](http://arxiv.org/abs/2501.09552v1)|null|
-|**2025-01-16**|**AI in Support of Diversity and Inclusion**|Çiçek Güven et.al.|[2501.09534v1](http://arxiv.org/abs/2501.09534v1)|null|
-|**2025-01-16**|**Utilizing AI Language Models to Identify Prognostic Factors for Coronary Artery Disease: A Study in Mashhad Residents**|Bami Zahra et.al.|[2501.09480v1](http://arxiv.org/abs/2501.09480v1)|null|
-|**2025-01-16**|**Connectivity for AI enabled cities -- A field survey based study of emerging economies**|Dibakar Das et.al.|[2501.09479v1](http://arxiv.org/abs/2501.09479v1)|null|
-|**2025-01-16**|**Agile System Development Lifecycle for AI Systems: Decision Architecture**|Asif Q. Gill et.al.|[2501.09434v2](http://arxiv.org/abs/2501.09434v2)|null|
-|**2025-01-16**|**Artificial Intelligence, Ambient Backscatter Communication and Non-Terrestrial Networks: A 6G Commixture**|Muhammad Ali Jamshed et.al.|[2501.09405v1](http://arxiv.org/abs/2501.09405v1)|null|
-|**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367v1](http://arxiv.org/abs/2501.09367v1)|null|
-|**2025-01-16**|**YETI (YET to Intervene) Proactive Interventions by Multimodal AI Agents in Augmented Reality Tasks**|Saptarashmi Bandyopadhyay et.al.|[2501.09355v1](http://arxiv.org/abs/2501.09355v1)|null|
-|**2025-01-16**|**Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning**|Seohyun Lee et.al.|[2501.09320v1](http://arxiv.org/abs/2501.09320v1)|null|
-|**2025-01-16**|**SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs**|Anbang Ye et.al.|[2501.09316v1](http://arxiv.org/abs/2501.09316v1)|null|
-|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279v1](http://arxiv.org/abs/2501.09279v1)|null|
-|**2025-01-16**|**Clone-Robust AI Alignment**|Ariel D. Procaccia et.al.|[2501.09254v1](http://arxiv.org/abs/2501.09254v1)|null|
-|**2025-01-16**|**AI-based Identity Fraud Detection: A Systematic Review**|Chuo Jun Zhang et.al.|[2501.09239v1](http://arxiv.org/abs/2501.09239v1)|null|
-|**2025-01-16**|**Personalized Parsons Puzzles as Scaffolding Enhance Practice Engagement Over Just Showing LLM-Powered Solutions**|Xinying Hou et.al.|[2501.09210v1](http://arxiv.org/abs/2501.09210v1)|null|
-|**2025-01-15**|**A Blockchain-Enabled Approach to Cross-Border Compliance and Trust**|Vikram Kulothungan et.al.|[2501.09182v1](http://arxiv.org/abs/2501.09182v1)|null|
-|**2025-01-15**|**Generative AI Takes a Statistics Exam: A Comparison of Performance between ChatGPT3.5, ChatGPT4, and ChatGPT4o-mini**|Monnie McGee et.al.|[2501.09171v1](http://arxiv.org/abs/2501.09171v1)|null|
-|**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167v1](http://arxiv.org/abs/2501.09167v1)|null|
+|**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316v1](http://arxiv.org/abs/2501.10316v1)|[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)|
+|**2025-01-17**|**Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs**|Claudio Di Sipio et.al.|[2501.10313v1](http://arxiv.org/abs/2501.10313v1)|null|
+|**2025-01-17**|**An Ontology for Social Determinants of Education (SDoEd) based on Human-AI Collaborative Approach**|Navya Martin Kollapally et.al.|[2501.10300v1](http://arxiv.org/abs/2501.10300v1)|null|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292v1](http://arxiv.org/abs/2501.10292v1)|null|
+|**2025-01-17**|**Design Patterns for the Common Good: Building Better Technologies Using the Wisdom of Virtue Ethics**|Louisa Conwill et.al.|[2501.10288v1](http://arxiv.org/abs/2501.10288v1)|null|
+|**2025-01-17**|**Computational Protein Science in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2501.10282v1](http://arxiv.org/abs/2501.10282v1)|null|
+|**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273v1](http://arxiv.org/abs/2501.10273v1)|null|
+|**2025-01-17**|**Application of the Cyberinfrastructure Production Function Model to R1 Institutions**|Preston M. Smith et.al.|[2501.10264v1](http://arxiv.org/abs/2501.10264v1)|null|
+|**2025-01-17**|**Good things come in small packages: Should we adopt Lite-GPUs in AI infrastructure?**|Burcu Canakci et.al.|[2501.10187v1](http://arxiv.org/abs/2501.10187v1)|null|
+|**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186v1](http://arxiv.org/abs/2501.10186v1)|null|
+|**2025-01-17**|**Study of $η\rightarrowπ^+π^-l^+l^-$**|BESIII Collaboration et.al.|[2501.10130v1](http://arxiv.org/abs/2501.10130v1)|null|
+|**2025-01-17**|**Integrating Mediumband with Emerging Technologies: Unified Vision for 6G and Beyond Physical Layer**|Dushyantha A Basnayaka et.al.|[2501.10122v1](http://arxiv.org/abs/2501.10122v1)|null|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120v1](http://arxiv.org/abs/2501.10120v1)|null|
+|**2025-01-17**|**Infrastructure for AI Agents**|Alan Chan et.al.|[2501.10114v1](http://arxiv.org/abs/2501.10114v1)|null|
+|**2025-01-17**|**AI-Generated Music Detection and its Challenges**|Darius Afchar et.al.|[2501.10111v1](http://arxiv.org/abs/2501.10111v1)|null|
+|**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105v1](http://arxiv.org/abs/2501.10105v1)|[link](https://github.com/2toinf/uniact)|
+|**2025-01-17**|**How Do Programming Students Use Generative AI?**|Christian Rahe et.al.|[2501.10091v1](http://arxiv.org/abs/2501.10091v1)|null|
+|**2025-01-17**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074v1](http://arxiv.org/abs/2501.10074v1)|null|
+|**2025-01-17**|**A Comprehensive Insights into Drones: History, Classification, Architecture, Navigation, Applications, Challenges, and Future Trends**|Ruchita Singh et.al.|[2501.10066v1](http://arxiv.org/abs/2501.10066v1)|null|
+|**2025-01-17**|**OMoE: Diversifying Mixture of Low-Rank Adaptation by Orthogonal Finetuning**|Jinyuan Feng et.al.|[2501.10062v1](http://arxiv.org/abs/2501.10062v1)|null|
+|**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057v1](http://arxiv.org/abs/2501.10057v1)|[link](https://github.com/paul-rottger/msts-multimodal-safety)|
+|**2025-01-17**|**Automatic Speech Recognition for Sanskrit with Transfer Learning**|Bidit Sadhukhan et.al.|[2501.10024v1](http://arxiv.org/abs/2501.10024v1)|null|
+|**2025-01-17**|**Spatially Multiplexed Interferometric Microscopy with one-dimensional diffraction grating**|Jose Angel Picazo-Bueno et.al.|[2501.10023v1](http://arxiv.org/abs/2501.10023v1)|null|
+|**2025-01-17**|**Deep Learning for Early Alzheimer Disease Detection with MRI Scans**|Mohammad Rafsan et.al.|[2501.09999v1](http://arxiv.org/abs/2501.09999v1)|[link](https://github.com/rafusan/dl-alzheimer)|
+|**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al.|[2501.09994v1](http://arxiv.org/abs/2501.09994v1)|[link](https://github.com/mohammedsalah98/pt_fusion)|
+|**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967v1](http://arxiv.org/abs/2501.09967v1)|null|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954v1](http://arxiv.org/abs/2501.09954v1)|[link](https://github.com/maestro-project/airchitect-v2)|
+|**2025-01-17**|**AI Explainability for Power Electronics: From a Lipschitz Continuity Perspective**|Xinze Li et.al.|[2501.09948v1](http://arxiv.org/abs/2501.09948v1)|null|
+|**2025-01-17**|**HEART: Achieving Timely Multi-Model Training for Vehicle-Edge-Cloud-Integrated Hierarchical Federated Learning**|Xiaohong Yang et.al.|[2501.09934v1](http://arxiv.org/abs/2501.09934v1)|null|
+|**2025-01-17**|**TeamVision: An AI-powered Learning Analytics System for Supporting Reflection in Team-based Healthcare Simulation**|Vanessa Echeverria et.al.|[2501.09930v1](http://arxiv.org/abs/2501.09930v1)|null|
