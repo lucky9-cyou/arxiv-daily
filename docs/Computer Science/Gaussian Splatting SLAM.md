@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-17**|**I Zw 1 and H0557-385: The Dusty Tori of Two High Eddington AGNs Observed in the MATISSE LM-Bands**|Farin Drewes et.al.|[2501.10352v1](http://arxiv.org/abs/2501.10352v1)|null|
-|**2025-01-17**|**Fundamental mode power estimation through a $M^2$-measurement**|Filipp Lausch et.al.|[2501.10345v1](http://arxiv.org/abs/2501.10345v1)|null|
-|**2025-01-17**|**No evidence that the binary black hole mass distribution evolves with redshift**|Max Lalleman et.al.|[2501.10295v1](http://arxiv.org/abs/2501.10295v1)|null|
-|**2025-01-17**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283v1](http://arxiv.org/abs/2501.10283v1)|null|
-|**2025-01-17**|**Orthogonal projections of hypercubes**|Yoshiaki Horiike et.al.|[2501.10257v1](http://arxiv.org/abs/2501.10257v1)|null|
-|**2025-01-17**|**Beyond the Cassie-Baxter Model: New Insights for Predicting Imbibition in Complex Systems**|Mathis Fricke et.al.|[2501.10255v1](http://arxiv.org/abs/2501.10255v1)|null|
-|**2025-01-17**|**Counterfactual Explanations for k-means and Gaussian Clustering**|Georgios Vardakas et.al.|[2501.10234v1](http://arxiv.org/abs/2501.10234v1)|null|
-|**2025-01-17**|**Zeros and Critical Points of Gaussian Fields: Cumulants Asymptotics and Limit Theorems**|Michele Ancona et.al.|[2501.10226v1](http://arxiv.org/abs/2501.10226v1)|null|
-|**2025-01-17**|**Continuous variable measurement-device-independent quantum certification**|B. L. Larsen et.al.|[2501.10217v1](http://arxiv.org/abs/2501.10217v1)|null|
-|**2025-01-17**|**Vector-Valued Gaussian Processes and their Kernels on a Class of Metric Graphs**|Tobia Filosi et.al.|[2501.10208v1](http://arxiv.org/abs/2501.10208v1)|null|
-|**2025-01-17**|**Structure-guided Deep Multi-View Clustering**|Jinrong Cui et.al.|[2501.10157v1](http://arxiv.org/abs/2501.10157v1)|null|
-|**2025-01-17**|**Lossless data compression at pragmatic rates**|Andreas Theocharous et.al.|[2501.10103v1](http://arxiv.org/abs/2501.10103v1)|null|
-|**2025-01-17**|**A Proof of Lieb--Wehrl Entropy conjecture for $SU(N,1)$**|Pratyoosh Kumar et.al.|[2501.10061v1](http://arxiv.org/abs/2501.10061v1)|null|
-|**2025-01-17**|**Controllable perfect spatiotemporal optical vortices**|Shuoshuo Zhang et.al.|[2501.10055v1](http://arxiv.org/abs/2501.10055v1)|null|
-|**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052v1](http://arxiv.org/abs/2501.10052v1)|null|
-|**2025-01-17**|**Gaussian basis set approach to one-loop self-energy**|Dávid Ferenc et.al.|[2501.10027v1](http://arxiv.org/abs/2501.10027v1)|null|
-|**2025-01-17**|**Fully viable DHOST bounce with extra scalar**|Ok Song An et.al.|[2501.09985v1](http://arxiv.org/abs/2501.09985v1)|null|
-|**2025-01-17**|**GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor**|Xiangyue Liu et.al.|[2501.09978v1](http://arxiv.org/abs/2501.09978v1)|null|
-|**2025-01-17**|**A High-Resolution Analysis of Receiver Quantization in Communication**|Jing Zhou et.al.|[2501.09961v1](http://arxiv.org/abs/2501.09961v1)|null|
-|**2025-01-17**|**Learning port maneuvers from data for automatic guidance of Unmanned Surface Vehicles**|Yeyson A. Becerra-Mora et.al.|[2501.09889v1](http://arxiv.org/abs/2501.09889v1)|null|
-|**2025-01-16**|**Asymptotic behavior of clusters in hierarchical species sampling models**|Stefano Favaro et.al.|[2501.09741v1](http://arxiv.org/abs/2501.09741v1)|null|
-|**2025-01-16**|**Relating the modular Hamiltonian to two-point functions**|Markus B. Fröb et.al.|[2501.09669v1](http://arxiv.org/abs/2501.09669v1)|null|
-|**2025-01-16**|**Chern-Simons gravitational term coupled to an isocurvature field**|Giorgio Orlando et.al.|[2501.09630v1](http://arxiv.org/abs/2501.09630v1)|null|
-|**2025-01-16**|**EVaDE : Event-Based Variational Thompson Sampling for Model-Based Reinforcement Learning**|Siddharth Aravindan et.al.|[2501.09611v1](http://arxiv.org/abs/2501.09611v1)|null|
-|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v2](http://arxiv.org/abs/2501.09600v2)|null|
-|**2025-01-16**|**Fabrication of Mode-Matched, Low-Loss Optical Resonators by Combination of FIB-Milling and CO$_2$ Laser Ablation**|Patrick Maier et.al.|[2501.09577v1](http://arxiv.org/abs/2501.09577v1)|null|
-|**2025-01-16**|**Unifying quantum stochastic methods using Wick's theorem on the Keldysh contour**|Vasco Cavina et.al.|[2501.09544v1](http://arxiv.org/abs/2501.09544v1)|null|
-|**2025-01-16**|**Edge Exchangeable Graphs: Connectedness, Gaussianity and Completeness**|Edward Eriksson et.al.|[2501.09511v1](http://arxiv.org/abs/2501.09511v1)|null|
-|**2025-01-16**|**Self-interfering high harmonic beam arrays driven by Hermite-Gaussian beams**|David D. Schmidt et.al.|[2501.09507v1](http://arxiv.org/abs/2501.09507v1)|null|
-|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
+|**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369v1](http://arxiv.org/abs/2501.12369v1)|null|
+|**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354v1](http://arxiv.org/abs/2501.12354v1)|[link](https://github.com/fmpr/diffusion-aware-censored-gp)|
+|**2025-01-21**|**Uncertainty Quantification With Noise Injection in Neural Networks: A Bayesian Perspective**|Xueqiong Yuan et.al.|[2501.12314v1](http://arxiv.org/abs/2501.12314v1)|null|
+|**2025-01-21**|**Sublinear Variational Optimization of Gaussian Mixture Models with Millions to Billions of Parameters**|Sebastian Salwig et.al.|[2501.12299v1](http://arxiv.org/abs/2501.12299v1)|null|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267v1](http://arxiv.org/abs/2501.12267v1)|null|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255v1](http://arxiv.org/abs/2501.12255v1)|[link](https://github.com/yihangchen-ee/hac-plus)|
+|**2025-01-21**|**A quadratic BSDE approach to normalization for the finite volume 2D sine-Gordon model in the finite ultraviolet regime**|Shanjian Tang et.al.|[2501.12172v1](http://arxiv.org/abs/2501.12172v1)|null|
+|**2025-01-21**|**Discontinuous phase transition of feature detection in lateral predictive coding**|Zhen-Ye Huang et.al.|[2501.12139v1](http://arxiv.org/abs/2501.12139v1)|null|
+|**2025-01-21**|**Regularized dynamical parametric approximation of stiff evolution problems**|Christian Lubich et.al.|[2501.12118v1](http://arxiv.org/abs/2501.12118v1)|null|
+|**2025-01-21**|**Dual NUP Representations and Min-Maximization in Factor Graphs**|Yun-Peng Li et.al.|[2501.12113v1](http://arxiv.org/abs/2501.12113v1)|null|
+|**2025-01-21**|**Using Space-Filling Curves and Fractals to Reveal Spatial and Temporal Patterns in Neuroimaging Data**|Jacek Grela et.al.|[2501.12111v1](http://arxiv.org/abs/2501.12111v1)|null|
+|**2025-01-21**|**Scalable Whole Slide Image Representation Using K-Mean Clustering and Fisher Vector Aggregation**|Ravi Kant Gupta et.al.|[2501.12085v1](http://arxiv.org/abs/2501.12085v1)|null|
+|**2025-01-21**|**Quantum Dynamics of Dissipative Polarizable Media**|Frank Ernesto Quintela Rodriguez et.al.|[2501.12070v1](http://arxiv.org/abs/2501.12070v1)|null|
+|**2025-01-21**|**The Generalized Chernoff-Stein Lemma, Applications and Examples**|Jihad Fahs et.al.|[2501.12066v1](http://arxiv.org/abs/2501.12066v1)|null|
+|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060v1](http://arxiv.org/abs/2501.12060v1)|null|
+|**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046v1](http://arxiv.org/abs/2501.12046v1)|null|
+|**2025-01-21**|**Ratio Attack on G+G Convoluted Gaussian Signature**|Chik How Tan et.al.|[2501.12009v1](http://arxiv.org/abs/2501.12009v1)|null|
+|**2025-01-21**|**A note on the relations between mixture models, maximum-likelihood and entropic optimal transport**|Titouan Vayer et.al.|[2501.12005v1](http://arxiv.org/abs/2501.12005v1)|null|
+|**2025-01-21**|**Phase Transitions in Phase-Only Compressed Sensing**|Junren Chen et.al.|[2501.11905v1](http://arxiv.org/abs/2501.11905v1)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|null|
+|**2025-01-21**|**Development of an uncertainty-aware equation of state for gold**|Lin H. Yang et.al.|[2501.11878v1](http://arxiv.org/abs/2501.11878v1)|null|
+|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841v1](http://arxiv.org/abs/2501.11841v1)|null|
+|**2025-01-20**|**Can Bayesian Neural Networks Make Confident Predictions?**|Katharine Fisher et.al.|[2501.11773v1](http://arxiv.org/abs/2501.11773v1)|null|
+|**2025-01-20**|**PIR Over Wireless Channels: Achieving Privacy With Public Responses**|Or Elimelech et.al.|[2501.11740v1](http://arxiv.org/abs/2501.11740v1)|null|
+|**2025-01-20**|**A new class of non-stationary Gaussian fields with general smoothness on metric graphs**|David Bolin et.al.|[2501.11738v1](http://arxiv.org/abs/2501.11738v1)|null|
+|**2025-01-20**|**Classification of HI Galaxy Profiles Using Unsupervised Learning and Convolutional Neural Networks: A Comparative Analysis and Methodological Cases of Studies**|Gabriel Jaimes-Illanes et.al.|[2501.11657v1](http://arxiv.org/abs/2501.11657v1)|null|
+|**2025-01-20**|**Changes over time in the 100-year return value of climate model variables**|Callum Leach et.al.|[2501.11650v1](http://arxiv.org/abs/2501.11650v1)|null|
+|**2025-01-20**|**Characterization of the Arithmetic Complexity of the Secrecy Capacity of Fast-Fading Gaussian Channels**|Holger Boche et.al.|[2501.11636v1](http://arxiv.org/abs/2501.11636v1)|null|
+|**2025-01-20**|**Relaxation times under pulsed ponderomotive forces and the Central Limit Theorem**|Juan-Luis Domenech-Garret et.al.|[2501.11625v1](http://arxiv.org/abs/2501.11625v1)|null|
+|**2025-01-20**|**Quantum Zeno blockade in optomechanical systems**|Karl Pelka et.al.|[2501.11602v1](http://arxiv.org/abs/2501.11602v1)|null|
