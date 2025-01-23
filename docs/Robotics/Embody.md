@@ -13,7 +13,7 @@
 |**2025-01-21**|**BiMarker: Enhancing Text Watermark Detection for Large Language Models with Bipolar Watermarks**|Zhuang Li et.al.|[2501.12174v1](http://arxiv.org/abs/2501.12174v1)|null|
 |**2025-01-21**|**Gradually Declining Immunity Retains the Exponential Duration of Immunity-Free Diffusion**|Andreas Göbel et.al.|[2501.12170v1](http://arxiv.org/abs/2501.12170v1)|null|
 |**2025-01-21**|**DOTA-ME-CS: Daily Oriented Text Audio-Mandarin English-Code Switching Dataset**|Yupei Li et.al.|[2501.12122v1](http://arxiv.org/abs/2501.12122v1)|null|
-|**2025-01-21**|**A Comprehensive Evaluation of Four End-To-End AI Autopilots Using CCTest and the Carla Leaderboard**|Changwen Li et.al.|[2501.12090v1](http://arxiv.org/abs/2501.12090v1)|null|
+|**2025-01-21**|**A Comprehensive Evaluation of Four End-to-End AI Autopilots Using CCTest and the Carla Leaderboard**|Changwen Li et.al.|[2501.12090v2](http://arxiv.org/abs/2501.12090v2)|null|
 |**2025-01-21**|**Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis**|Weile Luo et.al.|[2501.12084v1](http://arxiv.org/abs/2501.12084v1)|null|
 |**2025-01-21**|**Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites**|Aidan Duggan et.al.|[2501.12030v1](http://arxiv.org/abs/2501.12030v1)|null|
 |**2025-01-21**|**Conversation Progress Guide : UI System for Enhancing Self-Efficacy in Conversational AI**|Daeun Jeong et.al.|[2501.12001v1](http://arxiv.org/abs/2501.12001v1)|null|

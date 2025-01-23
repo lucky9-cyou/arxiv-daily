@@ -7,7 +7,7 @@
 |**2025-01-21**|**Uncertainty Quantification With Noise Injection in Neural Networks: A Bayesian Perspective**|Xueqiong Yuan et.al.|[2501.12314v1](http://arxiv.org/abs/2501.12314v1)|null|
 |**2025-01-21**|**Sublinear Variational Optimization of Gaussian Mixture Models with Millions to Billions of Parameters**|Sebastian Salwig et.al.|[2501.12299v1](http://arxiv.org/abs/2501.12299v1)|null|
 |**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267v1](http://arxiv.org/abs/2501.12267v1)|null|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255v1](http://arxiv.org/abs/2501.12255v1)|[link](https://github.com/yihangchen-ee/hac-plus)|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255v2](http://arxiv.org/abs/2501.12255v2)|[link](https://github.com/yihangchen-ee/hac-plus)|
 |**2025-01-21**|**A quadratic BSDE approach to normalization for the finite volume 2D sine-Gordon model in the finite ultraviolet regime**|Shanjian Tang et.al.|[2501.12172v1](http://arxiv.org/abs/2501.12172v1)|null|
 |**2025-01-21**|**Discontinuous phase transition of feature detection in lateral predictive coding**|Zhen-Ye Huang et.al.|[2501.12139v1](http://arxiv.org/abs/2501.12139v1)|null|
 |**2025-01-21**|**Regularized dynamical parametric approximation of stiff evolution problems**|Christian Lubich et.al.|[2501.12118v1](http://arxiv.org/abs/2501.12118v1)|null|
