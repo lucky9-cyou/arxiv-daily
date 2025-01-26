@@ -13,7 +13,7 @@
 |**2025-01-23**|**Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change**|Mowafak Allaham et.al.|[2501.13802v1](http://arxiv.org/abs/2501.13802v1)|null|
 |**2025-01-23**|**Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling**|Tanya Rodchenko et.al.|[2501.13779v1](http://arxiv.org/abs/2501.13779v1)|null|
 |**2025-01-23**|**Understanding the Challenges of Maker Entrepreneurship**|Natalie Friedman et.al.|[2501.13765v1](http://arxiv.org/abs/2501.13765v1)|null|
-|**2025-01-23**|**HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor**|Zihui Wu et.al.|[2501.13677v1](http://arxiv.org/abs/2501.13677v1)|null|
+|**2025-01-23**|**HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor**|Zihui Wu et.al.|[2501.13677v1](http://arxiv.org/abs/2501.13677v1)|[link](https://github.com/wooozihui/HumorReject)|
 |**2025-01-23**|**Evolvable Soma Theory of Ageing: Insights from Computer Simulations**|Alessandro Fontana et.al.|[2501.13657v1](http://arxiv.org/abs/2501.13657v1)|null|
 |**2025-01-23**|**Enhancing Medical Image Analysis through Geometric and Photometric transformations**|Khadija Rais et.al.|[2501.13643v1](http://arxiv.org/abs/2501.13643v1)|null|
 |**2025-01-23**|**Efficient Synaptic Delay Implementation in Digital Event-Driven AI Accelerators**|Roy Meijer et.al.|[2501.13610v1](http://arxiv.org/abs/2501.13610v1)|null|
@@ -29,6 +29,6 @@
 |**2025-01-23**|**Advancing Carbon Capture using AI: Design of permeable membrane and estimation of parameters for Carbon Capture using linear regression and membrane-based equations**|Bishwash Panerua et.al.|[2501.13373v1](http://arxiv.org/abs/2501.13373v1)|null|
 |**2025-01-23**|**Investigation of the Privacy Concerns in AI Systems for Young Digital Citizens: A Comparative Stakeholder Analysis**|Molly Campbell et.al.|[2501.13321v1](http://arxiv.org/abs/2501.13321v1)|null|
 |**2025-01-23**|**Toward Ethical AI: A Qualitative Analysis of Stakeholder Perspectives**|Ajay Kumar Shrestha et.al.|[2501.13320v1](http://arxiv.org/abs/2501.13320v1)|null|
-|**2025-01-23**|**Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers**|Akshit Achara et.al.|[2501.13302v1](http://arxiv.org/abs/2501.13302v1)|null|
+|**2025-01-23**|**Watching the AI Watchdogs: A Fairness and Robustness Analysis of AI Safety Moderation Classifiers**|Akshit Achara et.al.|[2501.13302v1](http://arxiv.org/abs/2501.13302v1)|[link](https://github.com/acharaakshit/fairmod)|
 |**2025-01-23**|**Toyteller: AI-powered Visual Storytelling Through Toy-Playing with Character Symbols**|John Joon Young Chung et.al.|[2501.13284v1](http://arxiv.org/abs/2501.13284v1)|null|
 |**2025-01-23**|**Experience with GitHub Copilot for Developer Productivity at Zoominfo**|Gal Bakal et.al.|[2501.13282v1](http://arxiv.org/abs/2501.13282v1)|null|
