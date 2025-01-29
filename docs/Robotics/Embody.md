@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327v1](http://arxiv.org/abs/2501.16327v1)|[link](https://github.com/vita-mllm/lucy)|
-|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303v1](http://arxiv.org/abs/2501.16303v1)|null|
-|**2025-01-27**|**Sequential Decision Making in Stochastic Games with Incomplete Preferences over Temporal Objectives**|Abhishek Ninad Kulkarni et.al.|[2501.16291v1](http://arxiv.org/abs/2501.16291v1)|null|
-|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255v1](http://arxiv.org/abs/2501.16255v1)|null|
-|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254v1](http://arxiv.org/abs/2501.16254v1)|null|
-|**2025-01-27**|**AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses**|Runze Cai et.al.|[2501.16240v1](http://arxiv.org/abs/2501.16240v1)|null|
-|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215v1](http://arxiv.org/abs/2501.16215v1)|null|
-|**2025-01-27**|**From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs**|Jialun Cao et.al.|[2501.16207v1](http://arxiv.org/abs/2501.16207v1)|null|
-|**2025-01-27**|**AdaCoT: Rethinking Cross-Lingual Factual Reasoning through Adaptive Chain-of-Thought**|Xin Huang et.al.|[2501.16154v1](http://arxiv.org/abs/2501.16154v1)|null|
-|**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150v1](http://arxiv.org/abs/2501.16150v1)|null|
-|**2025-01-27**|**Measuring the Stellar-to-Halo Mass Relation at $\sim10^{10}$ Solar masses, using space-based imaging of galaxy-galaxy strong lenses**|Kaihao Wang et.al.|[2501.16139v1](http://arxiv.org/abs/2501.16139v1)|null|
-|**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138v1](http://arxiv.org/abs/2501.16138v1)|null|
-|**2025-01-27**|**Copyright and Competition: Estimating Supply and Demand with Unstructured Data**|Sukjin Han et.al.|[2501.16120v1](http://arxiv.org/abs/2501.16120v1)|null|
-|**2025-01-27**|**Survey: Understand the challenges of MachineLearning Experts using Named EntityRecognition Tools**|Florian Freund et.al.|[2501.16112v1](http://arxiv.org/abs/2501.16112v1)|null|
-|**2025-01-27**|**TOPLOC: A Locality Sensitive Hashing Scheme for Trustless Verifiable Inference**|Jack Min Ong et.al.|[2501.16007v1](http://arxiv.org/abs/2501.16007v1)|null|
-|**2025-01-27**|**Demographic Benchmarking: Bridging Socio-Technical Gaps in Bias Detection**|Gemma Galdon Clavell et.al.|[2501.15985v1](http://arxiv.org/abs/2501.15985v1)|null|
-|**2025-01-27**|**An Explainable Disease Surveillance System for Early Prediction of Multiple Chronic Diseases**|Shaheer Ahmad Khan et.al.|[2501.15969v1](http://arxiv.org/abs/2501.15969v1)|null|
-|**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928v1](http://arxiv.org/abs/2501.15928v1)|null|
-|**2025-01-27**|**Parametric Retrieval Augmented Generation**|Weihang Su et.al.|[2501.15915v1](http://arxiv.org/abs/2501.15915v1)|[link](https://github.com/oneal2000/prag)|
-|**2025-01-27**|**Explaining Facial Expression Recognition**|Sanjeev Nahulanthran et.al.|[2501.15864v1](http://arxiv.org/abs/2501.15864v1)|null|
-|**2025-01-27**|**Potential Applications of Artificial Intelligence for Cross-language Intelligibility Assessment of Dysarthric Speech**|Eunjung Yeo et.al.|[2501.15858v1](http://arxiv.org/abs/2501.15858v1)|null|
-|**2025-01-27**|**CrySPAI: A new Crystal Structure Prediction Software Based on Artificial Intelligence**|Zongguo Wang et.al.|[2501.15838v1](http://arxiv.org/abs/2501.15838v1)|null|
-|**2025-01-27**|**Aging-aware CPU Core Management for Embodied Carbon Amortization in Cloud LLM Inference**|Tharindu B. Hewage et.al.|[2501.15829v1](http://arxiv.org/abs/2501.15829v1)|null|
-|**2025-01-27**|**Skill-Based Labor Market Polarization in the Age of AI: A Comparative Analysis of India and the United States**|Venkat Ram Reddy Ganuthula et.al.|[2501.15809v1](http://arxiv.org/abs/2501.15809v1)|null|
-|**2025-01-27**|**Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum**|Lanpei Li et.al.|[2501.15802v1](http://arxiv.org/abs/2501.15802v1)|null|
-|**2025-01-27**|**IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task Language Understanding**|Sankalp KJ et.al.|[2501.15747v2](http://arxiv.org/abs/2501.15747v2)|null|
-|**2025-01-27**|**Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas**|Hongyan Gu et.al.|[2501.15743v1](http://arxiv.org/abs/2501.15743v1)|null|
-|**2025-01-27**|**Propositional Interpretability in Artificial Intelligence**|David J. Chalmers et.al.|[2501.15740v1](http://arxiv.org/abs/2501.15740v1)|null|
-|**2025-01-27**|**Prioritized Value-Decomposition Network for Explainable AI-Enabled Network Slicing**|Shavbo Salehi et.al.|[2501.15734v1](http://arxiv.org/abs/2501.15734v1)|null|
-|**2025-01-27**|**Measurement-Based Non-Stationary Markov Tapped Delay Line Channel Model for 5G-Railways**|Xuejian Zhang et.al.|[2501.15729v1](http://arxiv.org/abs/2501.15729v1)|null|
+|**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112v1](http://arxiv.org/abs/2501.17112v1)|null|
+|**2025-01-28**|**Induced Modularity and Community Detection for Functionally Interpretable Reinforcement Learning**|Anna Soligo et.al.|[2501.17077v1](http://arxiv.org/abs/2501.17077v1)|null|
+|**2025-01-28**|**EdgeMLOps: Operationalizing ML models with Cumulocity IoT and thin-edge.io for Visual quality Inspection**|Kanishk Chaturvedi et.al.|[2501.17062v1](http://arxiv.org/abs/2501.17062v1)|null|
+|**2025-01-28**|**Standardised schema and taxonomy for AI incident databases in critical digital infrastructure**|Avinash Agarwal et.al.|[2501.17037v1](http://arxiv.org/abs/2501.17037v1)|null|
+|**2025-01-28**|**Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies**|Manojkumar Parmar et.al.|[2501.17030v1](http://arxiv.org/abs/2501.17030v1)|null|
+|**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028v1](http://arxiv.org/abs/2501.17028v1)|null|
+|**2025-01-28**|**How an AI-ready National Data Library would help UK science**|Albert Meroño-Peñuela et.al.|[2501.17013v1](http://arxiv.org/abs/2501.17013v1)|null|
+|**2025-01-28**|**Artificial Intelligence Clones**|Annie Liang et.al.|[2501.16996v1](http://arxiv.org/abs/2501.16996v1)|null|
+|**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961v1](http://arxiv.org/abs/2501.16961v1)|null|
+|**2025-01-28**|**The Third Moment of AI Ethics: Developing Relatable and Contextualized Tools**|Sarah Hladikova et.al.|[2501.16954v1](http://arxiv.org/abs/2501.16954v1)|null|
+|**2025-01-28**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952v1](http://arxiv.org/abs/2501.16952v1)|null|
+|**2025-01-28**|**Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development**|Jan Kulveit et.al.|[2501.16946v1](http://arxiv.org/abs/2501.16946v1)|null|
+|**2025-01-28**|**ToolFactory: Automating Tool Generation by Leveraging LLM to Understand REST API Documentations**|Xinyi Ni et.al.|[2501.16945v1](http://arxiv.org/abs/2501.16945v1)|null|
+|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937v1](http://arxiv.org/abs/2501.16937v1)|null|
+|**2025-01-28**|**Agential AI for Integrated Continual Learning, Deliberative Behavior, and Comprehensible Models**|Zeki Doruk Erden et.al.|[2501.16922v1](http://arxiv.org/abs/2501.16922v1)|null|
+|**2025-01-28**|**Measuring GPU utilization one level deeper**|Paul Elvinger et.al.|[2501.16909v1](http://arxiv.org/abs/2501.16909v1)|null|
+|**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899v1](http://arxiv.org/abs/2501.16899v1)|[link](https://github.com/shadynasrat/rdmm)|
+|**2025-01-28**|**Comparing Human and LLM Generated Code: The Jury is Still Out!**|Sherlock A. Licorish et.al.|[2501.16857v1](http://arxiv.org/abs/2501.16857v1)|null|
+|**2025-01-28**|**CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions**|Xinfa Zhu et.al.|[2501.16761v1](http://arxiv.org/abs/2501.16761v1)|null|
+|**2025-01-28**|**Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions**|Garima Chhikara et.al.|[2501.16748v1](http://arxiv.org/abs/2501.16748v1)|null|
+|**2025-01-28**|**LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience**|Nimesh Jha et.al.|[2501.16744v1](http://arxiv.org/abs/2501.16744v1)|null|
+|**2025-01-28**|**B-RIGHT: Benchmark Re-evaluation for Integrity in Generalized Human-Object Interaction Testing**|Yoojin Jang et.al.|[2501.16724v1](http://arxiv.org/abs/2501.16724v1)|null|
+|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698v1](http://arxiv.org/abs/2501.16698v1)|null|
+|**2025-01-28**|**Explainability and AI Confidence in Clinical Decision Support Systems: Effects on Trust, Diagnostic Performance, and Cognitive Load in Breast Cancer Care**|Olya Rezaeian et.al.|[2501.16693v1](http://arxiv.org/abs/2501.16693v1)|null|
+|**2025-01-28**|**Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI**|Dayong Ye et.al.|[2501.16671v1](http://arxiv.org/abs/2501.16671v1)|null|
+|**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661v1](http://arxiv.org/abs/2501.16661v1)|null|
+|**2025-01-28**|**Analysis of Zero Day Attack Detection Using MLP and XAI**|Ashim Dahal et.al.|[2501.16638v1](http://arxiv.org/abs/2501.16638v1)|null|
+|**2025-01-28**|**Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation**|Koji Inoue et.al.|[2501.16635v1](http://arxiv.org/abs/2501.16635v1)|null|
+|**2025-01-28**|**Towards Resource-Efficient Compound AI Systems**|Gohar Irfan Chaudhry et.al.|[2501.16634v1](http://arxiv.org/abs/2501.16634v1)|null|
+|**2025-01-28**|**Engaging with AI: How Interface Design Shapes Human-AI Collaboration in High-Stakes Decision-Making**|Zichen Chen et.al.|[2501.16627v1](http://arxiv.org/abs/2501.16627v1)|null|
