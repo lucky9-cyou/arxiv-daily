@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-29 20:16:57 Asia/Shanghai
+ Automated deployment @ 2025-01-29 20:32:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -39,7 +39,7 @@
 |**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|[link](https://github.com/liguohao96/egg3d)|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-28**|**Nonlinear fitting of undersampled discrete datasets in astronomy**|Igor Chilingarian et.al.|[2501.17163v1](http://arxiv.org/abs/2501.17163v1)|null|
@@ -52,6 +52,7 @@
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764v1](http://arxiv.org/abs/2501.16764v1)|null|
 |**2025-01-28**|**Structure and Dynamics of the Young Massive Star Cluster Westerlund 1**|Lingfeng Wei et.al.|[2501.16755v1](http://arxiv.org/abs/2501.16755v1)|null|
+|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
 |**2025-01-28**|**A General Bayesian Framework for Informative Input Design in System Identification**|Alexandros E. Tzikas et.al.|[2501.16625v1](http://arxiv.org/abs/2501.16625v1)|[link](https://github.com/alextzik/informative_input_design)|
 |**2025-01-27**|**Comparison theorems for the minimum eigenvalue of a random positive-semidefinite matrix**|Joel A. Tropp et.al.|[2501.16578v1](http://arxiv.org/abs/2501.16578v1)|null|
 |**2025-01-27**|**Ancestral Inference and Learning for Branching Processes in Random Environments**|Xiaoran Jiang et.al.|[2501.16526v1](http://arxiv.org/abs/2501.16526v1)|null|
@@ -71,7 +72,6 @@
 |**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130v1](http://arxiv.org/abs/2501.16130v1)|null|
 |**2025-01-27**|**A Standardization Procedure to Incorporate Variance Partitioning Based Priors in Latent Gaussian Models**|Luisa Ferrari et.al.|[2501.16057v1](http://arxiv.org/abs/2501.16057v1)|null|
 |**2025-01-27**|**Random Reshuffling for Stochastic Gradient Langevin Dynamics**|Luke Shaw et.al.|[2501.16055v1](http://arxiv.org/abs/2501.16055v1)|null|
-|**2025-01-27**|**Gaussian credible intervals in Bayesian nonparametric estimation of the unseen**|Claudia Contardi et.al.|[2501.16008v1](http://arxiv.org/abs/2501.16008v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -107,7 +107,7 @@
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399v1](http://arxiv.org/abs/2501.07399v1)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072v1](http://arxiv.org/abs/2501.08072v1)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-28**|**Nonlinear fitting of undersampled discrete datasets in astronomy**|Igor Chilingarian et.al.|[2501.17163v1](http://arxiv.org/abs/2501.17163v1)|null|
@@ -120,7 +120,6 @@
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764v1](http://arxiv.org/abs/2501.16764v1)|null|
 |**2025-01-28**|**Structure and Dynamics of the Young Massive Star Cluster Westerlund 1**|Lingfeng Wei et.al.|[2501.16755v1](http://arxiv.org/abs/2501.16755v1)|null|
-|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
 |**2025-01-28**|**A General Bayesian Framework for Informative Input Design in System Identification**|Alexandros E. Tzikas et.al.|[2501.16625v1](http://arxiv.org/abs/2501.16625v1)|[link](https://github.com/alextzik/informative_input_design)|
 |**2025-01-27**|**Comparison theorems for the minimum eigenvalue of a random positive-semidefinite matrix**|Joel A. Tropp et.al.|[2501.16578v1](http://arxiv.org/abs/2501.16578v1)|null|
 |**2025-01-27**|**Ancestral Inference and Learning for Branching Processes in Random Environments**|Xiaoran Jiang et.al.|[2501.16526v1](http://arxiv.org/abs/2501.16526v1)|null|
@@ -140,6 +139,7 @@
 |**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130v1](http://arxiv.org/abs/2501.16130v1)|null|
 |**2025-01-27**|**A Standardization Procedure to Incorporate Variance Partitioning Based Priors in Latent Gaussian Models**|Luisa Ferrari et.al.|[2501.16057v1](http://arxiv.org/abs/2501.16057v1)|null|
 |**2025-01-27**|**Random Reshuffling for Stochastic Gradient Langevin Dynamics**|Luke Shaw et.al.|[2501.16055v1](http://arxiv.org/abs/2501.16055v1)|null|
+|**2025-01-27**|**Gaussian credible intervals in Bayesian nonparametric estimation of the unseen**|Claudia Contardi et.al.|[2501.16008v1](http://arxiv.org/abs/2501.16008v1)|null|
 
 ## Robotics
 
