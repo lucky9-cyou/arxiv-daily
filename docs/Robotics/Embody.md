@@ -27,7 +27,7 @@
 |**2025-01-27**|**Aging-aware CPU Core Management for Embodied Carbon Amortization in Cloud LLM Inference**|Tharindu B. Hewage et.al.|[2501.15829v1](http://arxiv.org/abs/2501.15829v1)|null|
 |**2025-01-27**|**Skill-Based Labor Market Polarization in the Age of AI: A Comparative Analysis of India and the United States**|Venkat Ram Reddy Ganuthula et.al.|[2501.15809v1](http://arxiv.org/abs/2501.15809v1)|null|
 |**2025-01-27**|**Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum**|Lanpei Li et.al.|[2501.15802v1](http://arxiv.org/abs/2501.15802v1)|null|
-|**2025-01-27**|**IndicMMLU-Pro: Benchmarking the Indic Large Language Models**|Sankalp KJ et.al.|[2501.15747v1](http://arxiv.org/abs/2501.15747v1)|null|
+|**2025-01-27**|**IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task Language Understanding**|Sankalp KJ et.al.|[2501.15747v2](http://arxiv.org/abs/2501.15747v2)|null|
 |**2025-01-27**|**Z-Stack Scanning can Improve AI Detection of Mitosis: A Case Study of Meningiomas**|Hongyan Gu et.al.|[2501.15743v1](http://arxiv.org/abs/2501.15743v1)|null|
 |**2025-01-27**|**Propositional Interpretability in Artificial Intelligence**|David J. Chalmers et.al.|[2501.15740v1](http://arxiv.org/abs/2501.15740v1)|null|
 |**2025-01-27**|**Prioritized Value-Decomposition Network for Explainable AI-Enabled Network Slicing**|Shavbo Salehi et.al.|[2501.15734v1](http://arxiv.org/abs/2501.15734v1)|null|
