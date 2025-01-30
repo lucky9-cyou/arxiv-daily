@@ -23,7 +23,7 @@
 |**2025-01-28**|**CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions**|Xinfa Zhu et.al.|[2501.16761v1](http://arxiv.org/abs/2501.16761v1)|null|
 |**2025-01-28**|**Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions**|Garima Chhikara et.al.|[2501.16748v1](http://arxiv.org/abs/2501.16748v1)|null|
 |**2025-01-28**|**LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience**|Nimesh Jha et.al.|[2501.16744v1](http://arxiv.org/abs/2501.16744v1)|null|
-|**2025-01-28**|**B-RIGHT: Benchmark Re-evaluation for Integrity in Generalized Human-Object Interaction Testing**|Yoojin Jang et.al.|[2501.16724v1](http://arxiv.org/abs/2501.16724v1)|null|
+|**2025-01-28**|**B-RIGHT: Benchmark Re-evaluation for Integrity in Generalized Human-Object Interaction Testing**|Yoojin Jang et.al.|[2501.16724v1](http://arxiv.org/abs/2501.16724v1)|[link](https://github.com/hellog2n/b-right)|
 |**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698v1](http://arxiv.org/abs/2501.16698v1)|null|
 |**2025-01-28**|**Explainability and AI Confidence in Clinical Decision Support Systems: Effects on Trust, Diagnostic Performance, and Cognitive Load in Breast Cancer Care**|Olya Rezaeian et.al.|[2501.16693v1](http://arxiv.org/abs/2501.16693v1)|null|
 |**2025-01-28**|**Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI**|Dayong Ye et.al.|[2501.16671v1](http://arxiv.org/abs/2501.16671v1)|null|

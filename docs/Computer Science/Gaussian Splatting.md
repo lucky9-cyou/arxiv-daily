@@ -28,7 +28,7 @@
 |**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226v1](http://arxiv.org/abs/2501.16226v1)|null|
 |**2025-01-27**|**Non-Gaussian density fluctuations in the Dean-Kawasaki equation**|Pierre Illien et.al.|[2501.16206v1](http://arxiv.org/abs/2501.16206v1)|null|
 |**2025-01-27**|**Probing non-Gaussian correlations through entanglement generation in a many-body quantum system**|J. van de Kraats et.al.|[2501.16200v1](http://arxiv.org/abs/2501.16200v1)|null|
-|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130v1](http://arxiv.org/abs/2501.16130v1)|null|
-|**2025-01-27**|**A Standardization Procedure to Incorporate Variance Partitioning Based Priors in Latent Gaussian Models**|Luisa Ferrari et.al.|[2501.16057v1](http://arxiv.org/abs/2501.16057v1)|null|
-|**2025-01-27**|**Random Reshuffling for Stochastic Gradient Langevin Dynamics**|Luke Shaw et.al.|[2501.16055v1](http://arxiv.org/abs/2501.16055v1)|null|
+|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130v1](http://arxiv.org/abs/2501.16130v1)|[link](https://github.com/FaroukY/FillInMinimization)|
+|**2025-01-27**|**A Standardization Procedure to Incorporate Variance Partitioning Based Priors in Latent Gaussian Models**|Luisa Ferrari et.al.|[2501.16057v1](http://arxiv.org/abs/2501.16057v1)|[link](https://github.com/lferrariit/scalegmrf)|
+|**2025-01-27**|**Random Reshuffling for Stochastic Gradient Langevin Dynamics**|Luke Shaw et.al.|[2501.16055v1](http://arxiv.org/abs/2501.16055v1)|[link](https://github.com/lshaw8317/RandomReshuffleSGLD)|
 |**2025-01-27**|**Gaussian credible intervals in Bayesian nonparametric estimation of the unseen**|Claudia Contardi et.al.|[2501.16008v1](http://arxiv.org/abs/2501.16008v1)|null|
