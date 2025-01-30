@@ -15,7 +15,7 @@
 |**2025-01-28**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952v1](http://arxiv.org/abs/2501.16952v1)|null|
 |**2025-01-28**|**Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development**|Jan Kulveit et.al.|[2501.16946v1](http://arxiv.org/abs/2501.16946v1)|null|
 |**2025-01-28**|**ToolFactory: Automating Tool Generation by Leveraging LLM to Understand REST API Documentations**|Xinyi Ni et.al.|[2501.16945v1](http://arxiv.org/abs/2501.16945v1)|null|
-|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937v1](http://arxiv.org/abs/2501.16937v1)|null|
+|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937v2](http://arxiv.org/abs/2501.16937v2)|null|
 |**2025-01-28**|**Agential AI for Integrated Continual Learning, Deliberative Behavior, and Comprehensible Models**|Zeki Doruk Erden et.al.|[2501.16922v1](http://arxiv.org/abs/2501.16922v1)|null|
 |**2025-01-28**|**Measuring GPU utilization one level deeper**|Paul Elvinger et.al.|[2501.16909v1](http://arxiv.org/abs/2501.16909v1)|null|
 |**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899v1](http://arxiv.org/abs/2501.16899v1)|[link](https://github.com/shadynasrat/rdmm)|
