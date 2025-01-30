@@ -2,6 +2,26 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29**|**Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**|Sobhan Hemati et.al.|[2501.17822v1](http://arxiv.org/abs/2501.17822v1)|null|
+|**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801v1](http://arxiv.org/abs/2501.17801v1)|null|
+|**2025-01-29**|**CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering**|Xiaohan Sun et.al.|[2501.17792v1](http://arxiv.org/abs/2501.17792v1)|null|
+|**2025-01-29**|**Sparse Autoencoders Can Interpret Randomly Initialized Transformers**|Thomas Heap et.al.|[2501.17727v1](http://arxiv.org/abs/2501.17727v1)|null|
+|**2025-01-29**|**Machine-Learning-Enhanced Optimization of Noise-Resilient Variational Quantum Eigensolvers**|Kim A. Nicoli et.al.|[2501.17689v1](http://arxiv.org/abs/2501.17689v1)|null|
+|**2025-01-29**|**Phase transitions for fractional $Φ^3_d$ on the torus**|Niko Nikov et.al.|[2501.17669v1](http://arxiv.org/abs/2501.17669v1)|null|
+|**2025-01-29**|**CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization**|Derui Wang et.al.|[2501.17667v1](http://arxiv.org/abs/2501.17667v1)|[link](https://github.com/neuralsec/camp-robust-rl)|
+|**2025-01-29**|**Entropic witness for quantum memory in open system dynamics**|Charlotte Bäcker et.al.|[2501.17660v1](http://arxiv.org/abs/2501.17660v1)|null|
+|**2025-01-29**|**FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction**|Miriam Jäger et.al.|[2501.17655v1](http://arxiv.org/abs/2501.17655v1)|null|
+|**2025-01-29**|**Adaptively Weighted Averaging Over-the-Air Computation and Its Application to Distributed Gaussian Process Regression**|Koya Sato et.al.|[2501.17627v1](http://arxiv.org/abs/2501.17627v1)|null|
+|**2025-01-29**|**Boundedness properties of the maximal operator in a nonsymmetric inverse Gaussian setting**|Tommaso Bruno et.al.|[2501.17517v1](http://arxiv.org/abs/2501.17517v1)|null|
+|**2025-01-29**|**Magneto-optical polarisation texturing**|Koray Koksal et.al.|[2501.17480v1](http://arxiv.org/abs/2501.17480v1)|null|
+|**2025-01-29**|**Remote State Estimation over a Wearing Channel: Information Freshness vs. Channel Aging**|Jiping Luo et.al.|[2501.17473v1](http://arxiv.org/abs/2501.17473v1)|null|
+|**2025-01-29**|**Solving Inverse Problems using Diffusion with Fast Iterative Renoising**|Matt C. Bendel et.al.|[2501.17468v1](http://arxiv.org/abs/2501.17468v1)|null|
+|**2025-01-29**|**Uniform Confidence Band for Marginal Treatment Effect Function**|Toshiki Tsuda et.al.|[2501.17455v1](http://arxiv.org/abs/2501.17455v1)|null|
+|**2025-01-29**|**On the applicability of the actuator line method for unsteady aerodynamics**|Elías Alva et.al.|[2501.17395v1](http://arxiv.org/abs/2501.17395v1)|null|
+|**2025-01-28**|**Connecting Federated ADMM to Bayes**|Siddharth Swaroop et.al.|[2501.17325v1](http://arxiv.org/abs/2501.17325v1)|null|
+|**2025-01-28**|**Lévy noise effects on Josephson junctions**|Claudio Guarcello et.al.|[2501.17316v1](http://arxiv.org/abs/2501.17316v1)|null|
+|**2025-01-28**|**Deterministic Optimal Transport-based Gaussian Mixture Particle Filtering for Verifiable Applications**|Andrey A Popov et.al.|[2501.17302v1](http://arxiv.org/abs/2501.17302v1)|null|
+|**2025-01-28**|**Nonlinear dynamics of localization in neural receptive fields**|Leon Lufkin et.al.|[2501.17284v1](http://arxiv.org/abs/2501.17284v1)|null|
 |**2025-01-28**|**Nonlinear fitting of undersampled discrete datasets in astronomy**|Igor Chilingarian et.al.|[2501.17163v1](http://arxiv.org/abs/2501.17163v1)|null|
 |**2025-01-28**|**Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning**|Rémy Hosseinkhan Boucher et.al.|[2501.17115v1](http://arxiv.org/abs/2501.17115v1)|null|
 |**2025-01-28**|**Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks**|Matthieu Darcy et.al.|[2501.17110v1](http://arxiv.org/abs/2501.17110v1)|[link](https://github.com/matthieudarcy/kernel-neuralnetworks-spdes)|
@@ -12,23 +32,3 @@
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764v1](http://arxiv.org/abs/2501.16764v1)|null|
 |**2025-01-28**|**Structure and Dynamics of the Young Massive Star Cluster Westerlund 1**|Lingfeng Wei et.al.|[2501.16755v1](http://arxiv.org/abs/2501.16755v1)|null|
-|**2025-01-28**|**A General Bayesian Framework for Informative Input Design in System Identification**|Alexandros E. Tzikas et.al.|[2501.16625v1](http://arxiv.org/abs/2501.16625v1)|[link](https://github.com/alextzik/informative_input_design)|
-|**2025-01-27**|**Comparison theorems for the minimum eigenvalue of a random positive-semidefinite matrix**|Joel A. Tropp et.al.|[2501.16578v1](http://arxiv.org/abs/2501.16578v1)|null|
-|**2025-01-27**|**Ancestral Inference and Learning for Branching Processes in Random Environments**|Xiaoran Jiang et.al.|[2501.16526v1](http://arxiv.org/abs/2501.16526v1)|null|
-|**2025-01-27**|**Symmetric Perceptrons, Number Partitioning and Lattices**|Neekon Vafa et.al.|[2501.16517v1](http://arxiv.org/abs/2501.16517v1)|null|
-|**2025-01-27**|**AMPEL workflows for LSST: Modular and reproducible real-time photometric classification**|Jakob Nordin et.al.|[2501.16511v1](http://arxiv.org/abs/2501.16511v1)|null|
-|**2025-01-27**|**Solvability of the Gaussian Kyle model with imperfect information and risk aversion**|Reda Chhaibi et.al.|[2501.16488v1](http://arxiv.org/abs/2501.16488v1)|null|
-|**2025-01-27**|**Symmetry- and Gradient-enhanced Gaussian Process Regression for the Active Learning of Potential Energy Surfaces in Porous Materials**|Johannes K. Krondorfer et.al.|[2501.16475v1](http://arxiv.org/abs/2501.16475v1)|null|
-|**2025-01-27**|**The Gaussian-Minkowski problem for C-pseudo-cones**|Junjie Shan et.al.|[2501.16449v1](http://arxiv.org/abs/2501.16449v1)|null|
-|**2025-01-27**|**Wilsonian renormalisation group and thermal field theory in the Schwinger-Keldysh closed-time-path formalism**|Giorgio Frangi et.al.|[2501.16441v1](http://arxiv.org/abs/2501.16441v1)|null|
-|**2025-01-27**|**Separate surface and bulk topological Anderson localization transitions in disordered axion insulators**|Cormac Grindall et.al.|[2501.16413v1](http://arxiv.org/abs/2501.16413v1)|null|
-|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312v2](http://arxiv.org/abs/2501.16312v2)|null|
-|**2025-01-27**|**Nucleon Form Factors from GPDs**|Leila Ghasemzadeh et.al.|[2501.16279v1](http://arxiv.org/abs/2501.16279v1)|null|
-|**2025-01-27**|**Positivity and Entanglement in Markovian Open Quantum Systems and Hybrid Classical-Quantum Theories of Gravity**|Oliviero Angeli et.al.|[2501.16253v1](http://arxiv.org/abs/2501.16253v1)|null|
-|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226v1](http://arxiv.org/abs/2501.16226v1)|null|
-|**2025-01-27**|**Non-Gaussian density fluctuations in the Dean-Kawasaki equation**|Pierre Illien et.al.|[2501.16206v1](http://arxiv.org/abs/2501.16206v1)|null|
-|**2025-01-27**|**Probing non-Gaussian correlations through entanglement generation in a many-body quantum system**|J. van de Kraats et.al.|[2501.16200v1](http://arxiv.org/abs/2501.16200v1)|null|
-|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130v1](http://arxiv.org/abs/2501.16130v1)|[link](https://github.com/FaroukY/FillInMinimization)|
-|**2025-01-27**|**A Standardization Procedure to Incorporate Variance Partitioning Based Priors in Latent Gaussian Models**|Luisa Ferrari et.al.|[2501.16057v1](http://arxiv.org/abs/2501.16057v1)|[link](https://github.com/lferrariit/scalegmrf)|
-|**2025-01-27**|**Random Reshuffling for Stochastic Gradient Langevin Dynamics**|Luke Shaw et.al.|[2501.16055v1](http://arxiv.org/abs/2501.16055v1)|[link](https://github.com/lshaw8317/RandomReshuffleSGLD)|
-|**2025-01-27**|**Gaussian credible intervals in Bayesian nonparametric estimation of the unseen**|Claudia Contardi et.al.|[2501.16008v1](http://arxiv.org/abs/2501.16008v1)|null|

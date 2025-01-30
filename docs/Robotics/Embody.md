@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
+|**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841v1](http://arxiv.org/abs/2501.17841v1)|[link](https://github.com/acoupi/acoupi)|
+|**2025-01-29**|**eaSEL: Promoting Social-Emotional Learning and Parent-Child Interaction through AI-Mediated Content Consumption**|Jocelyn Shen et.al.|[2501.17819v1](http://arxiv.org/abs/2501.17819v1)|null|
+|**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805v1](http://arxiv.org/abs/2501.17805v1)|null|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v1](http://arxiv.org/abs/2501.17799v1)|[link](https://github.com/spark-damian/s-ui)|
+|**2025-01-29**|**Reasoning Over the Glyphs: Evaluation of LLM's Decipherment of Rare Scripts**|Yu-Fei Shih et.al.|[2501.17785v1](http://arxiv.org/abs/2501.17785v1)|null|
+|**2025-01-29**|**AI Governance through Markets**|Philip Moreira Tomei et.al.|[2501.17755v1](http://arxiv.org/abs/2501.17755v1)|null|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726v1](http://arxiv.org/abs/2501.17726v1)|null|
+|**2025-01-29**|**Explainable Artificial Intelligence for identifying profitability predictors in Financial Statements**|Marco Piazza et.al.|[2501.17676v1](http://arxiv.org/abs/2501.17676v1)|null|
+|**2025-01-29**|**Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching**|Xuzhe Dang et.al.|[2501.17665v1](http://arxiv.org/abs/2501.17665v1)|null|
+|**2025-01-29**|**The Imitation Game According To Turing**|Sharon Temtsin et.al.|[2501.17629v1](http://arxiv.org/abs/2501.17629v1)|null|
+|**2025-01-29**|**Exploring the Potential of Wireless-enabled Multi-Chip AI Accelerators**|Emmanuel Irabor et.al.|[2501.17567v1](http://arxiv.org/abs/2501.17567v1)|null|
+|**2025-01-29**|**Solving Urban Network Security Games: Learning Platform, Benchmark, and Challenge for AI Research**|Shuxin Zhuang et.al.|[2501.17559v1](http://arxiv.org/abs/2501.17559v1)|null|
+|**2025-01-29**|**Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant**|Gaole He et.al.|[2501.17546v1](http://arxiv.org/abs/2501.17546v1)|[link](https://github.com/delftcrowd/iui2025_convxai)|
+|**2025-01-29**|**LLM Assistance for Pediatric Depression**|Mariia Ignashina et.al.|[2501.17510v1](http://arxiv.org/abs/2501.17510v1)|null|
+|**2025-01-29**|**Reflections on "Can AI Understand Our Universe?"**|Yu Wang et.al.|[2501.17507v1](http://arxiv.org/abs/2501.17507v1)|null|
+|**2025-01-29**|**Neural Spelling: A Spell-Based BCI System for Language Neural Decoding**|Xiaowei Jiang et.al.|[2501.17489v1](http://arxiv.org/abs/2501.17489v1)|null|
+|**2025-01-29**|**si4onnx: A Python package for Selective Inference in Deep Learning Models**|Teruyuki Katsuoka et.al.|[2501.17415v1](http://arxiv.org/abs/2501.17415v1)|null|
+|**2025-01-28**|**Better Slow than Sorry: Introducing Positive Friction for Reliable Dialogue Systems**|Mert İnan et.al.|[2501.17348v1](http://arxiv.org/abs/2501.17348v1)|null|
+|**2025-01-28**|**Deep-and-Wide Learning: Enhancing Data-Driven Inference via Synergistic Learning of Inter- and Intra-Data Representations**|Md Tauhidul Islam et.al.|[2501.17347v1](http://arxiv.org/abs/2501.17347v1)|null|
+|**2025-01-28**|**A sketch of an AI control safety case**|Tomek Korbak et.al.|[2501.17315v1](http://arxiv.org/abs/2501.17315v1)|null|
+|**2025-01-28**|**5G Channel Models for Railway Use Cases at mmWave Band and the Path Towards Terahertz**|Ke Guan et.al.|[2501.17309v1](http://arxiv.org/abs/2501.17309v1)|null|
+|**2025-01-28**|**Measurement-Based Modeling and Analysis of UAV Air-Ground Channels at 1 and 4 GHz**|Zhuangzhuang Cui et.al.|[2501.17303v1](http://arxiv.org/abs/2501.17303v1)|null|
+|**2025-01-28**|**"Ownership, Not Just Happy Talk": Co-Designing a Participatory Large Language Model for Journalism**|Emily Tseng et.al.|[2501.17299v1](http://arxiv.org/abs/2501.17299v1)|null|
+|**2025-01-28**|**Controlling AI Agent Participation in Group Conversations: A Human-Centered Approach**|Stephanie Houde et.al.|[2501.17258v1](http://arxiv.org/abs/2501.17258v1)|null|
+|**2025-01-28**|**"It makes you think": Provocations Help Restore Critical Thinking to AI-Assisted Knowledge Work**|Ian Drosos et.al.|[2501.17247v1](http://arxiv.org/abs/2501.17247v1)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112v1](http://arxiv.org/abs/2501.17112v1)|null|
 |**2025-01-28**|**Induced Modularity and Community Detection for Functionally Interpretable Reinforcement Learning**|Anna Soligo et.al.|[2501.17077v1](http://arxiv.org/abs/2501.17077v1)|null|
 |**2025-01-28**|**EdgeMLOps: Operationalizing ML models with Cumulocity IoT and thin-edge.io for Visual quality Inspection**|Kanishk Chaturvedi et.al.|[2501.17062v1](http://arxiv.org/abs/2501.17062v1)|null|
 |**2025-01-28**|**Standardised schema and taxonomy for AI incident databases in critical digital infrastructure**|Avinash Agarwal et.al.|[2501.17037v1](http://arxiv.org/abs/2501.17037v1)|null|
-|**2025-01-28**|**Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies**|Manojkumar Parmar et.al.|[2501.17030v1](http://arxiv.org/abs/2501.17030v1)|null|
-|**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028v1](http://arxiv.org/abs/2501.17028v1)|null|
-|**2025-01-28**|**How an AI-ready National Data Library would help UK science**|Albert Meroño-Peñuela et.al.|[2501.17013v1](http://arxiv.org/abs/2501.17013v1)|null|
-|**2025-01-28**|**Artificial Intelligence Clones**|Annie Liang et.al.|[2501.16996v1](http://arxiv.org/abs/2501.16996v1)|null|
-|**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961v1](http://arxiv.org/abs/2501.16961v1)|null|
-|**2025-01-28**|**The Third Moment of AI Ethics: Developing Relatable and Contextualized Tools**|Sarah Hladikova et.al.|[2501.16954v1](http://arxiv.org/abs/2501.16954v1)|null|
-|**2025-01-28**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952v1](http://arxiv.org/abs/2501.16952v1)|null|
-|**2025-01-28**|**Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development**|Jan Kulveit et.al.|[2501.16946v1](http://arxiv.org/abs/2501.16946v1)|null|
-|**2025-01-28**|**ToolFactory: Automating Tool Generation by Leveraging LLM to Understand REST API Documentations**|Xinyi Ni et.al.|[2501.16945v1](http://arxiv.org/abs/2501.16945v1)|null|
-|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937v2](http://arxiv.org/abs/2501.16937v2)|null|
-|**2025-01-28**|**Agential AI for Integrated Continual Learning, Deliberative Behavior, and Comprehensible Models**|Zeki Doruk Erden et.al.|[2501.16922v1](http://arxiv.org/abs/2501.16922v1)|null|
-|**2025-01-28**|**Measuring GPU utilization one level deeper**|Paul Elvinger et.al.|[2501.16909v1](http://arxiv.org/abs/2501.16909v1)|null|
-|**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899v1](http://arxiv.org/abs/2501.16899v1)|[link](https://github.com/shadynasrat/rdmm)|
-|**2025-01-28**|**Comparing Human and LLM Generated Code: The Jury is Still Out!**|Sherlock A. Licorish et.al.|[2501.16857v1](http://arxiv.org/abs/2501.16857v1)|null|
-|**2025-01-28**|**CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions**|Xinfa Zhu et.al.|[2501.16761v1](http://arxiv.org/abs/2501.16761v1)|null|
-|**2025-01-28**|**Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions**|Garima Chhikara et.al.|[2501.16748v1](http://arxiv.org/abs/2501.16748v1)|null|
-|**2025-01-28**|**LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience**|Nimesh Jha et.al.|[2501.16744v1](http://arxiv.org/abs/2501.16744v1)|null|
-|**2025-01-28**|**B-RIGHT: Benchmark Re-evaluation for Integrity in Generalized Human-Object Interaction Testing**|Yoojin Jang et.al.|[2501.16724v1](http://arxiv.org/abs/2501.16724v1)|[link](https://github.com/hellog2n/b-right)|
-|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698v1](http://arxiv.org/abs/2501.16698v1)|null|
-|**2025-01-28**|**Explainability and AI Confidence in Clinical Decision Support Systems: Effects on Trust, Diagnostic Performance, and Cognitive Load in Breast Cancer Care**|Olya Rezaeian et.al.|[2501.16693v1](http://arxiv.org/abs/2501.16693v1)|null|
-|**2025-01-28**|**Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI**|Dayong Ye et.al.|[2501.16671v1](http://arxiv.org/abs/2501.16671v1)|null|
-|**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661v1](http://arxiv.org/abs/2501.16661v1)|null|
-|**2025-01-28**|**Analysis of Zero Day Attack Detection Using MLP and XAI**|Ashim Dahal et.al.|[2501.16638v1](http://arxiv.org/abs/2501.16638v1)|null|
-|**2025-01-28**|**Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation**|Koji Inoue et.al.|[2501.16635v1](http://arxiv.org/abs/2501.16635v1)|null|
-|**2025-01-28**|**Towards Resource-Efficient Compound AI Systems**|Gohar Irfan Chaudhry et.al.|[2501.16634v1](http://arxiv.org/abs/2501.16634v1)|null|
-|**2025-01-28**|**Engaging with AI: How Interface Design Shapes Human-AI Collaboration in High-Stakes Decision-Making**|Zichen Chen et.al.|[2501.16627v1](http://arxiv.org/abs/2501.16627v1)|null|
