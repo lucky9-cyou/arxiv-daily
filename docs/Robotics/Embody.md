@@ -6,7 +6,7 @@
 |**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841v1](http://arxiv.org/abs/2501.17841v1)|[link](https://github.com/acoupi/acoupi)|
 |**2025-01-29**|**eaSEL: Promoting Social-Emotional Learning and Parent-Child Interaction through AI-Mediated Content Consumption**|Jocelyn Shen et.al.|[2501.17819v1](http://arxiv.org/abs/2501.17819v1)|null|
 |**2025-01-29**|**International AI Safety Report**|Yoshua Bengio et.al.|[2501.17805v1](http://arxiv.org/abs/2501.17805v1)|null|
-|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v1](http://arxiv.org/abs/2501.17799v1)|[link](https://github.com/spark-damian/s-ui)|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v2](http://arxiv.org/abs/2501.17799v2)|[link](https://github.com/spark-damian/s-ui)|
 |**2025-01-29**|**Reasoning Over the Glyphs: Evaluation of LLM's Decipherment of Rare Scripts**|Yu-Fei Shih et.al.|[2501.17785v1](http://arxiv.org/abs/2501.17785v1)|null|
 |**2025-01-29**|**AI Governance through Markets**|Philip Moreira Tomei et.al.|[2501.17755v1](http://arxiv.org/abs/2501.17755v1)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726v1](http://arxiv.org/abs/2501.17726v1)|null|

@@ -24,7 +24,7 @@
 |**2025-01-28**|**Nonlinear dynamics of localization in neural receptive fields**|Leon Lufkin et.al.|[2501.17284v1](http://arxiv.org/abs/2501.17284v1)|null|
 |**2025-01-28**|**Nonlinear fitting of undersampled discrete datasets in astronomy**|Igor Chilingarian et.al.|[2501.17163v1](http://arxiv.org/abs/2501.17163v1)|null|
 |**2025-01-28**|**Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning**|Rémy Hosseinkhan Boucher et.al.|[2501.17115v1](http://arxiv.org/abs/2501.17115v1)|null|
-|**2025-01-28**|**Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks**|Matthieu Darcy et.al.|[2501.17110v1](http://arxiv.org/abs/2501.17110v1)|[link](https://github.com/matthieudarcy/kernel-neuralnetworks-spdes)|
+|**2025-01-28**|**Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks**|Ricardo Baptista et.al.|[2501.17110v2](http://arxiv.org/abs/2501.17110v2)|[link](https://github.com/matthieudarcy/kernel-neuralnetworks-spdes)|
 |**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085v1](http://arxiv.org/abs/2501.17085v1)|null|
 |**2025-01-28**|**On the sampling complexity of coherent superpositions**|Beatriz Dias et.al.|[2501.17071v1](http://arxiv.org/abs/2501.17071v1)|null|
 |**2025-01-28**|**Generation of Deep Ultraviolet Optical Vortices via Amplitude and Phase Spiral Zone Plates**|A. S. Dyatlov et.al.|[2501.16950v1](http://arxiv.org/abs/2501.16950v1)|null|
