@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-04 20:18:03 Asia/Shanghai
+ Automated deployment @ 2025-02-04 20:33:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -109,12 +109,10 @@
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
 |**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|[link](https://github.com/crepuscularlight/semanticloopclosure)|
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|[link](https://github.com/lastbasket/endo-2dtam)|
-|**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|
 |**2025-01-31**|**RaySplats: Ray Tracing based Gaussian Splatting**|Krzysztof Byrski et.al.|[2501.19196v1](http://arxiv.org/abs/2501.19196v1)|[link](https://github.com/kbyrski/raysplatting)|
 |**2025-01-31**|**APEX: Automated Parameter Exploration for Low-Power Wireless Protocols**|Mohamed Hassaan M. Hydher et.al.|[2501.19194v1](http://arxiv.org/abs/2501.19194v1)|null|
 |**2025-01-31**|**A theoretical framework for overfitting in energy-based modeling**|Giovanni Catania et.al.|[2501.19158v1](http://arxiv.org/abs/2501.19158v1)|null|
@@ -142,6 +140,8 @@
 |**2025-01-30**|**Interpretability of deep-learning methods applied to large-scale structure surveys**|Gaspard Aymerich et.al.|[2501.18333v1](http://arxiv.org/abs/2501.18333v1)|null|
 |**2025-01-30**|**A Unified Perspective on the Dynamics of Deep Transformers**|Valérie Castin et.al.|[2501.18322v1](http://arxiv.org/abs/2501.18322v1)|null|
 |**2025-01-30**|**PDE-DKL: PDE-constrained deep kernel learning in high dimensionality**|Weihao Yan et.al.|[2501.18258v1](http://arxiv.org/abs/2501.18258v1)|[link](https://github.com/VhaoYan/PDE-constrained-DKL)|
+|**2025-01-30**|**Dynamic Model Fine-Tuning For Extreme MIMO CSI Compression**|Mehdi Sattari et.al.|[2501.18250v1](http://arxiv.org/abs/2501.18250v1)|null|
+|**2025-01-30**|**StructuredField: Unifying Structured Geometry and Radiance Field**|Kaiwen Song et.al.|[2501.18152v1](http://arxiv.org/abs/2501.18152v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -177,10 +177,12 @@
 |**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
 |**2025-01-15**|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|[link](https://github.com/crepuscularlight/semanticloopclosure)|
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|[link](https://github.com/lastbasket/endo-2dtam)|
+|**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|
 |**2025-01-31**|**RaySplats: Ray Tracing based Gaussian Splatting**|Krzysztof Byrski et.al.|[2501.19196v1](http://arxiv.org/abs/2501.19196v1)|[link](https://github.com/kbyrski/raysplatting)|
 |**2025-01-31**|**APEX: Automated Parameter Exploration for Low-Power Wireless Protocols**|Mohamed Hassaan M. Hydher et.al.|[2501.19194v1](http://arxiv.org/abs/2501.19194v1)|null|
 |**2025-01-31**|**A theoretical framework for overfitting in energy-based modeling**|Giovanni Catania et.al.|[2501.19158v1](http://arxiv.org/abs/2501.19158v1)|null|
@@ -208,5 +210,3 @@
 |**2025-01-30**|**Interpretability of deep-learning methods applied to large-scale structure surveys**|Gaspard Aymerich et.al.|[2501.18333v1](http://arxiv.org/abs/2501.18333v1)|null|
 |**2025-01-30**|**A Unified Perspective on the Dynamics of Deep Transformers**|Valérie Castin et.al.|[2501.18322v1](http://arxiv.org/abs/2501.18322v1)|null|
 |**2025-01-30**|**PDE-DKL: PDE-constrained deep kernel learning in high dimensionality**|Weihao Yan et.al.|[2501.18258v1](http://arxiv.org/abs/2501.18258v1)|[link](https://github.com/VhaoYan/PDE-constrained-DKL)|
-|**2025-01-30**|**Dynamic Model Fine-Tuning For Extreme MIMO CSI Compression**|Mehdi Sattari et.al.|[2501.18250v1](http://arxiv.org/abs/2501.18250v1)|null|
-|**2025-01-30**|**StructuredField: Unifying Structured Geometry and Radiance Field**|Kaiwen Song et.al.|[2501.18152v1](http://arxiv.org/abs/2501.18152v1)|null|
