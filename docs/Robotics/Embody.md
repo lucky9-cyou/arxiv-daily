@@ -19,7 +19,7 @@
 |**2025-01-31**|**Principal Components for Neural Network Initialization**|Nhan Phan et.al.|[2501.19114v1](http://arxiv.org/abs/2501.19114v1)|null|
 |**2025-01-31**|**Genetic AI: Evolutionary Simulation for Data Analysis**|Philipp Wissgott et.al.|[2501.19113v1](http://arxiv.org/abs/2501.19113v1)|null|
 |**2025-01-31**|**Logical Modalities within the European AI Act: An Analysis**|Lara Lawniczak et.al.|[2501.19112v1](http://arxiv.org/abs/2501.19112v1)|null|
-|**2025-01-31**|**Relating Misfit to Gain in Weak-to-Strong Generalization Beyond the Squared Loss**|Abhijeet Mulgund et.al.|[2501.19105v1](http://arxiv.org/abs/2501.19105v1)|null|
+|**2025-01-31**|**Relating Misfit to Gain in Weak-to-Strong Generalization Beyond the Squared Loss**|Abhijeet Mulgund et.al.|[2501.19105v2](http://arxiv.org/abs/2501.19105v2)|null|
 |**2025-01-31**|**Calling a Spade a Heart: Gaslighting Multimodal Large Language Models via Negation**|Bin Zhu et.al.|[2501.19017v1](http://arxiv.org/abs/2501.19017v1)|null|
 |**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012v1](http://arxiv.org/abs/2501.19012v1)|null|
 |**2025-01-31**|**Adversarial Attacks on AI-Generated Text Detection Models: A Token Probability-Based Approach Using Embeddings**|Ahmed K. Kadhim et.al.|[2501.18998v1](http://arxiv.org/abs/2501.18998v1)|null|
