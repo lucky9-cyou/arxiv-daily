@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339v1](http://arxiv.org/abs/2501.19339v1)|null|
-|**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338v1](http://arxiv.org/abs/2501.19338v1)|null|
-|**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337v1](http://arxiv.org/abs/2501.19337v1)|null|
-|**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318v1](http://arxiv.org/abs/2501.19318v1)|null|
-|**2025-01-31**|**LLM-based Affective Text Generation Quality Based on Different Quantization Values**|Yarik Menchaca Resendiz et.al.|[2501.19317v1](http://arxiv.org/abs/2501.19317v1)|null|
-|**2025-01-31**|**Beyond checkmate: exploring the creative chokepoints in AI text**|Nafis Irtiza Tripto et.al.|[2501.19301v1](http://arxiv.org/abs/2501.19301v1)|[link](https://github.com/tripto03/chess_inspired_human_ai_text_distinction)|
-|**2025-01-31**|**From Assistance to Autonomy -- A Researcher Study on the Potential of AI Support for Qualitative Data Analysis**|Elisabeth Kirsten et.al.|[2501.19275v1](http://arxiv.org/abs/2501.19275v1)|null|
-|**2025-01-31**|**Transformer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming**|Tingting Deng et.al.|[2501.19267v1](http://arxiv.org/abs/2501.19267v1)|null|
-|**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v1](http://arxiv.org/abs/2501.19259v1)|null|
-|**2025-01-31**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245v2](http://arxiv.org/abs/2501.19245v2)|null|
-|**2025-01-31**|**Users' Mental Models of Generative AI Chatbot Ecosystems**|Xingyi Wang et.al.|[2501.19211v1](http://arxiv.org/abs/2501.19211v1)|null|
-|**2025-01-31**|**Secured Communication Schemes for UAVs in 5G: CRYSTALS-Kyber and IDS**|Taneya Sharma et.al.|[2501.19191v1](http://arxiv.org/abs/2501.19191v1)|[link](https://github.com/taneya1987/crystals-kyber-and-ids)|
-|**2025-01-31**|**PSyDUCK: Training-Free Steganography for Latent Diffusion**|Georgia Channing et.al.|[2501.19172v1](http://arxiv.org/abs/2501.19172v1)|null|
-|**2025-01-31**|**A Metric for the Balance of Information in Graph Learning**|Alex O. Davies et.al.|[2501.19137v1](http://arxiv.org/abs/2501.19137v1)|null|
-|**2025-01-31**|**Principal Components for Neural Network Initialization**|Nhan Phan et.al.|[2501.19114v1](http://arxiv.org/abs/2501.19114v1)|null|
-|**2025-01-31**|**Genetic AI: Evolutionary Simulation for Data Analysis**|Philipp Wissgott et.al.|[2501.19113v1](http://arxiv.org/abs/2501.19113v1)|null|
-|**2025-01-31**|**Logical Modalities within the European AI Act: An Analysis**|Lara Lawniczak et.al.|[2501.19112v1](http://arxiv.org/abs/2501.19112v1)|null|
-|**2025-01-31**|**Relating Misfit to Gain in Weak-to-Strong Generalization Beyond the Squared Loss**|Abhijeet Mulgund et.al.|[2501.19105v2](http://arxiv.org/abs/2501.19105v2)|null|
-|**2025-01-31**|**Calling a Spade a Heart: Gaslighting Multimodal Large Language Models via Negation**|Bin Zhu et.al.|[2501.19017v1](http://arxiv.org/abs/2501.19017v1)|null|
-|**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012v1](http://arxiv.org/abs/2501.19012v1)|null|
-|**2025-01-31**|**Adversarial Attacks on AI-Generated Text Detection Models: A Token Probability-Based Approach Using Embeddings**|Ahmed K. Kadhim et.al.|[2501.18998v1](http://arxiv.org/abs/2501.18998v1)|null|
-|**2025-01-31**|**GPO-VAE: Modeling Explainable Gene Perturbation Responses utilizing GRN-Aligned Parameter Optimization**|Seungheun Baek et.al.|[2501.18973v1](http://arxiv.org/abs/2501.18973v1)|[link](https://github.com/dmis-lab/gpo-vae)|
-|**2025-01-31**|**Enhancing Neural Function Approximation: The XNet Outperforming KAN**|Xin Li et.al.|[2501.18959v1](http://arxiv.org/abs/2501.18959v1)|null|
-|**2025-01-31**|**The Impact of AI on Jobs: HCI is Missing**|Marios Constantinides et.al.|[2501.18948v1](http://arxiv.org/abs/2501.18948v1)|null|
-|**2025-01-31**|**Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey**|Wencheng Yang et.al.|[2501.18934v1](http://arxiv.org/abs/2501.18934v1)|null|
-|**2025-01-31**|**Language Games as the Pathway to Artificial Superhuman Intelligence**|Ying Wen et.al.|[2501.18924v1](http://arxiv.org/abs/2501.18924v1)|null|
-|**2025-01-31**|**Deepfake Detection of Singing Voices With Whisper Encodings**|Falguni Sharma et.al.|[2501.18919v1](http://arxiv.org/abs/2501.18919v1)|null|
-|**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898v1](http://arxiv.org/abs/2501.18898v1)|null|
-|**2025-01-31**|**Trustworthy Evaluation of Generative AI Models**|Zijun Gao et.al.|[2501.18897v1](http://arxiv.org/abs/2501.18897v1)|null|
-|**2025-01-31**|**Building Bridges, Not Walls -- Advancing Interpretability by Unifying Feature, Data, and Model Component Attribution**|Shichang Zhang et.al.|[2501.18887v1](http://arxiv.org/abs/2501.18887v1)|null|
+|**2025-02-04**|**Why human-AI relationships need socioaffective alignment**|Hannah Rose Kirk et.al.|[2502.02528v1](http://arxiv.org/abs/2502.02528v1)|null|
+|**2025-02-04**|**Brief analysis of DeepSeek R1 and it's implications for Generative AI**|Sarah Mercer et.al.|[2502.02523v1](http://arxiv.org/abs/2502.02523v1)|null|
+|**2025-02-04**|**The Skin Game: Revolutionizing Standards for AI Dermatology Model Comparison**|Łukasz Miętkiewicz et.al.|[2502.02500v1](http://arxiv.org/abs/2502.02500v1)|null|
+|**2025-02-04**|**Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**|Haoran Ye et.al.|[2502.02444v1](http://arxiv.org/abs/2502.02444v1)|null|
+|**2025-02-04**|**AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code**|Lola Solovyeva et.al.|[2502.02412v1](http://arxiv.org/abs/2502.02412v1)|null|
+|**2025-02-04**|**Mirai: A Wearable Proactive AI "Inner-Voice" for Contextual Nudging**|Cathy Mengying Fang et.al.|[2502.02370v1](http://arxiv.org/abs/2502.02370v1)|null|
+|**2025-02-04**|**Exploring the Feasibility of AI-Assisted Spine MRI Protocol Optimization Using DICOM Image Metadata**|Alice Vian et.al.|[2502.02351v1](http://arxiv.org/abs/2502.02351v1)|null|
+|**2025-02-04**|**Conversation AI Dialog for Medicare powered by Finetuning and Retrieval Augmented Generation**|Atharva Mangeshkumar Agrawal et.al.|[2502.02249v1](http://arxiv.org/abs/2502.02249v1)|null|
+|**2025-02-04**|**Bias Detection via Maximum Subgroup Discrepancy**|Jiří Němeček et.al.|[2502.02221v1](http://arxiv.org/abs/2502.02221v1)|null|
+|**2025-02-04**|**Understanding User Mental Models in AI-Driven Code Completion Tools: Insights from an Elicitation Study**|Giuseppe Desolda et.al.|[2502.02194v1](http://arxiv.org/abs/2502.02194v1)|null|
+|**2025-02-04**|**The Elicitation Game: Evaluating Capability Elicitation Techniques**|Felix Hofstätter et.al.|[2502.02180v1](http://arxiv.org/abs/2502.02180v1)|null|
+|**2025-02-04**|**Graph Neural Networks for O-RAN Mobility Management: A Link Prediction Approach**|Ana Gonzalez Bermudez et.al.|[2502.02170v1](http://arxiv.org/abs/2502.02170v1)|null|
+|**2025-02-04**|**Vulnerability Mitigation for Safety-Aligned Language Models via Debiasing**|Thien Q. Tran et.al.|[2502.02153v1](http://arxiv.org/abs/2502.02153v1)|null|
+|**2025-02-04**|**Persistent Homology on a lattice of multigraphs**|Joaquin Diaz Boils et.al.|[2502.02151v1](http://arxiv.org/abs/2502.02151v1)|null|
+|**2025-02-04**|**Standard Neural Computation Alone Is Insufficient for Logical Intelligence**|Youngsung Kim et.al.|[2502.02135v1](http://arxiv.org/abs/2502.02135v1)|null|
+|**2025-02-04**|**Position Paper: Building Trust in Synthetic Data for Clinical AI**|Krishan Agyakari Raja Babu et.al.|[2502.02076v1](http://arxiv.org/abs/2502.02076v1)|null|
+|**2025-02-04**|**AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement**|Shivam Singh et.al.|[2502.02067v1](http://arxiv.org/abs/2502.02067v1)|[link](https://github.com/sssshivvvv/adaptbot)|
+|**2025-02-04**|**CH-MARL: Constrained Hierarchical Multiagent Reinforcement Learning for Sustainable Maritime Logistics**|Saad Alqithami et.al.|[2502.02060v1](http://arxiv.org/abs/2502.02060v1)|null|
+|**2025-02-04**|**From Human Hands to Robotic Limbs: A Study in Motor Skill Embodiment for Telemanipulation**|Haoyi Shi et.al.|[2502.02036v1](http://arxiv.org/abs/2502.02036v1)|null|
+|**2025-02-04**|**ContinuouSP: Generative Model for Crystal Structure Prediction with Invariance and Continuity**|Yuji Tone et.al.|[2502.02026v1](http://arxiv.org/abs/2502.02026v1)|null|
+|**2025-02-04**|**Layer by Layer: Uncovering Hidden Representations in Language Models**|Oscar Skean et.al.|[2502.02013v1](http://arxiv.org/abs/2502.02013v1)|null|
+|**2025-02-04**|**Can LLMs Assist Annotators in Identifying Morality Frames? -- Case Study on Vaccination Debate on Social Media**|Tunazzina Islam et.al.|[2502.01991v1](http://arxiv.org/abs/2502.01991v1)|null|
+|**2025-02-04**|**Poisson Hierarchical Indian Buffet Processes for Within and Across Group Sharing of Latent Features-With Indications for Microbiome Species Sampling Models**|Lancelot F. James et.al.|[2502.01919v1](http://arxiv.org/abs/2502.01919v1)|null|
+|**2025-02-03**|**Security and Quality in LLM-Generated Code: A Multi-Language, Multi-Model Analysis**|Mohammed Kharma et.al.|[2502.01853v1](http://arxiv.org/abs/2502.01853v1)|null|
+|**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842v1](http://arxiv.org/abs/2502.01842v1)|null|
+|**2025-02-03**|**Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning**|Hanyang Zhao et.al.|[2502.01819v1](http://arxiv.org/abs/2502.01819v1)|null|
+|**2025-02-03**|**Toward Neurosymbolic Program Comprehension**|Alejandro Velasco et.al.|[2502.01806v1](http://arxiv.org/abs/2502.01806v1)|null|
+|**2025-02-03**|**MemPal: Leveraging Multimodal AI and LLMs for Voice-Activated Object Retrieval in Homes of Older Adults**|Natasha Maniar et.al.|[2502.01801v1](http://arxiv.org/abs/2502.01801v1)|null|
+|**2025-02-03**|**Enhancing Near Real Time AI-NWP Hurricane Forecasts: Improving Explainability and Performance Through Physics-Based Models and Land Surface Feedback**|Naveen Sudharsan et.al.|[2502.01797v1](http://arxiv.org/abs/2502.01797v1)|null|
+|**2025-02-03**|**An Agentic AI Workflow for Detecting Cognitive Concerns in Real-world Data**|Jiazi Tian et.al.|[2502.01789v1](http://arxiv.org/abs/2502.01789v1)|null|

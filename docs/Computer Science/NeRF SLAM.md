@@ -2,6 +2,12 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372v1](http://arxiv.org/abs/2502.02372v1)|null|
+|**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946v1](http://arxiv.org/abs/2502.01946v1)|null|
+|**2025-02-03**|**Statistical enhance learning for modeling and prediction tennis matches at Grand Slam tournaments**|Nourah Buhamra et.al.|[2502.01613v1](http://arxiv.org/abs/2502.01613v1)|null|
+|**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405v1](http://arxiv.org/abs/2502.01405v1)|null|
+|**2025-02-03**|**Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**|Dabin Kim et.al.|[2502.01092v1](http://arxiv.org/abs/2502.01092v1)|null|
+|**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[2502.00395v1](http://arxiv.org/abs/2502.00395v1)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|[link](https://github.com/crepuscularlight/semanticloopclosure)|
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|[link](https://github.com/lastbasket/endo-2dtam)|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|
@@ -26,9 +32,3 @@
 |**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950v1](http://arxiv.org/abs/2501.10950v1)|null|
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947v1](http://arxiv.org/abs/2501.09947v1)|[link](https://github.com/zhengxyun/surface-sos)|
 |**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v4](http://arxiv.org/abs/2501.09600v4)|null|
-|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
-|**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474v1](http://arxiv.org/abs/2501.10474v1)|null|
-|**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460v1](http://arxiv.org/abs/2501.09460v1)|[link](https://github.com/sjj118/normal-nerf)|
-|**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203v1](http://arxiv.org/abs/2501.09203v1)|null|
-|**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160v1](http://arxiv.org/abs/2501.09160v1)|null|
-|**2025-01-15**|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
