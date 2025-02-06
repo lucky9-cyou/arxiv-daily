@@ -23,7 +23,7 @@
 |**2025-02-04**|**From Human Hands to Robotic Limbs: A Study in Motor Skill Embodiment for Telemanipulation**|Haoyi Shi et.al.|[2502.02036v1](http://arxiv.org/abs/2502.02036v1)|null|
 |**2025-02-04**|**ContinuouSP: Generative Model for Crystal Structure Prediction with Invariance and Continuity**|Yuji Tone et.al.|[2502.02026v1](http://arxiv.org/abs/2502.02026v1)|null|
 |**2025-02-04**|**Layer by Layer: Uncovering Hidden Representations in Language Models**|Oscar Skean et.al.|[2502.02013v1](http://arxiv.org/abs/2502.02013v1)|null|
-|**2025-02-04**|**Can LLMs Assist Annotators in Identifying Morality Frames? -- Case Study on Vaccination Debate on Social Media**|Tunazzina Islam et.al.|[2502.01991v1](http://arxiv.org/abs/2502.01991v1)|null|
+|**2025-02-04**|**Can LLMs Assist Annotators in Identifying Morality Frames? -- Case Study on Vaccination Debate on Social Media**|Tunazzina Islam et.al.|[2502.01991v2](http://arxiv.org/abs/2502.01991v2)|null|
 |**2025-02-04**|**Poisson Hierarchical Indian Buffet Processes for Within and Across Group Sharing of Latent Features-With Indications for Microbiome Species Sampling Models**|Lancelot F. James et.al.|[2502.01919v1](http://arxiv.org/abs/2502.01919v1)|null|
 |**2025-02-03**|**Security and Quality in LLM-Generated Code: A Multi-Language, Multi-Model Analysis**|Mohammed Kharma et.al.|[2502.01853v1](http://arxiv.org/abs/2502.01853v1)|null|
 |**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842v1](http://arxiv.org/abs/2502.01842v1)|null|

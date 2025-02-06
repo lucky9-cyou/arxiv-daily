@@ -2,7 +2,7 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-04**|**Minimax-Optimal Covariance Projected Spectral Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580v1](http://arxiv.org/abs/2502.02580v1)|null|
+|**2025-02-04**|**Minimax-Optimal Dimension-Reduced Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580v2](http://arxiv.org/abs/2502.02580v2)|null|
 |**2025-02-04**|**Energy field of critical Ising model and examples of singular fields in QFT**|Christophe Garban et.al.|[2502.02554v1](http://arxiv.org/abs/2502.02554v1)|null|
 |**2025-02-04**|**Optimal Spectral Transitions in High-Dimensional Multi-Index Models**|Leonardo Defilippis et.al.|[2502.02545v1](http://arxiv.org/abs/2502.02545v1)|null|
 |**2025-02-04**|**Hybrid Fingerprint-based Positioning in Cell-Free Massive MIMO Systems**|Manish Kumar et.al.|[2502.02512v1](http://arxiv.org/abs/2502.02512v1)|null|
