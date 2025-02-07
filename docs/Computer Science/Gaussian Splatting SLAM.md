@@ -17,7 +17,7 @@
 |**2025-02-05**|**Abnormal Mutations: Evolution Strategies Don't Require Gaussianity**|Jacob de Nobel et.al.|[2502.03148v1](http://arxiv.org/abs/2502.03148v1)|null|
 |**2025-02-05**|**Fast Sampling of Cosmological Initial Conditions with Gaussian Neural Posterior Estimation**|Oleg Savchenko et.al.|[2502.03139v1](http://arxiv.org/abs/2502.03139v1)|null|
 |**2025-02-05**|**Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial**|Jinglai Li et.al.|[2502.03090v1](http://arxiv.org/abs/2502.03090v1)|null|
-|**2025-02-05**|**The Ensemble Kalman Update is an Empirical Matheron Update**|Dan MacKinlay et.al.|[2502.03048v1](http://arxiv.org/abs/2502.03048v1)|null|
+|**2025-02-05**|**The Ensemble Kalman Update is an Empirical Matheron Update**|Dan MacKinlay et.al.|[2502.03048v2](http://arxiv.org/abs/2502.03048v2)|null|
 |**2025-02-05**|**Method for Determining the Parameters of a Ring-like Structure from the Visibility Function Shape**|S. V. Chernov et.al.|[2502.03026v1](http://arxiv.org/abs/2502.03026v1)|null|
 |**2025-02-05**|**Panel Data Estimation and Inference: Homogeneity versus Heterogeneity**|Jiti Gao et.al.|[2502.03019v1](http://arxiv.org/abs/2502.03019v1)|null|
 |**2025-02-05**|**Universality of stationary entanglement in an optomechanical system driven by non-Markovian noise and squeezed light**|Su Direkci et.al.|[2502.02979v1](http://arxiv.org/abs/2502.02979v1)|null|
