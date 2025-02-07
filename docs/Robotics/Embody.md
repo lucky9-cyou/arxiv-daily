@@ -31,4 +31,4 @@
 |**2025-02-06**|**Syntriever: How to Train Your Retriever with Synthetic Data from LLMs**|Minsang Kim et.al.|[2502.03824v1](http://arxiv.org/abs/2502.03824v1)|null|
 |**2025-02-06**|**Understanding and Supporting Formal Email Exchange by Answering AI-Generated Questions**|Yusuke Miura et.al.|[2502.03804v1](http://arxiv.org/abs/2502.03804v1)|null|
 |**2025-02-06**|**Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows**|Zijian Ding et.al.|[2502.03788v1](http://arxiv.org/abs/2502.03788v1)|null|
-|**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772v1](http://arxiv.org/abs/2502.03772v1)|null|
+|**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772v1](http://arxiv.org/abs/2502.03772v1)|[link](https://github.com/Asunatan/HSQformer)|
