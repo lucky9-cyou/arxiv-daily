@@ -2,6 +2,7 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v1](http://arxiv.org/abs/2502.04843v1)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372v1](http://arxiv.org/abs/2502.02372v1)|null|
 |**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405v1](http://arxiv.org/abs/2502.01405v1)|null|
@@ -31,4 +32,3 @@
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659v4](http://arxiv.org/abs/2501.03659v4)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|[link](https://github.com/zxk1212/concealgs)|
-|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|

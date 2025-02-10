@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-06**|**Can Grammarly and ChatGPT accelerate language change? AI-powered technologies and their impact on the English language: wordiness vs. conciseness**|Karolina Rudnicka et.al.|[2502.04324v1](http://arxiv.org/abs/2502.04324v1)|null|
-|**2025-02-06**|**Great Models Think Alike and this Undermines AI Oversight**|Shashwat Goel et.al.|[2502.04313v1](http://arxiv.org/abs/2502.04313v1)|[link](https://github.com/model-similarity/lm-similarity/tree/main/applications)|
-|**2025-02-06**|**DexterityGen: Foundation Controller for Unprecedented Dexterity**|Zhao-Heng Yin et.al.|[2502.04307v1](http://arxiv.org/abs/2502.04307v1)|null|
-|**2025-02-06**|**Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression**|Lirui Wang et.al.|[2502.04296v1](http://arxiv.org/abs/2502.04296v1)|null|
-|**2025-02-06**|**Cognitive AI framework: advances in the simulation of human thought**|Rommel Salas-Guerra et.al.|[2502.04259v1](http://arxiv.org/abs/2502.04259v1)|null|
-|**2025-02-06**|**Work in Progress: AI-Powered Engineering-Bridging Theory and Practice**|Oz Levy et.al.|[2502.04256v1](http://arxiv.org/abs/2502.04256v1)|null|
-|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249v1](http://arxiv.org/abs/2502.04249v1)|null|
-|**2025-02-06**|**Ensuring Reliability via Hyperparameter Selection: Review and Advances**|Amirmohammad Farzaneh et.al.|[2502.04206v1](http://arxiv.org/abs/2502.04206v1)|null|
-|**2025-02-06**|**Expanding Training Data for Endoscopic Phenotyping of Eosinophilic Esophagitis**|Juming Xiong et.al.|[2502.04199v1](http://arxiv.org/abs/2502.04199v1)|null|
-|**2025-02-06**|**Ancient Greek Technology: An Immersive Learning Use Case Described Using a Co-Intelligent Custom ChatGPT Assistant**|Vlasis Kasapakis et.al.|[2502.04110v1](http://arxiv.org/abs/2502.04110v1)|null|
-|**2025-02-06**|**VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**|Eason Chen et.al.|[2502.04103v1](http://arxiv.org/abs/2502.04103v1)|null|
-|**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076v1](http://arxiv.org/abs/2502.04076v1)|null|
-|**2025-02-06**|**Controllable Emotion Generation with Emotion Vectors**|Yurui Dong et.al.|[2502.04075v1](http://arxiv.org/abs/2502.04075v1)|null|
-|**2025-02-06**|**TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers**|Younghye Hwang et.al.|[2502.04056v1](http://arxiv.org/abs/2502.04056v1)|null|
-|**2025-02-06**|**A Cloud-native Agile approach to cyber platform prototyping and integration for astronomy: the ENGAGE SKA case**|Domingos Barbosa et.al.|[2502.04039v1](http://arxiv.org/abs/2502.04039v1)|null|
-|**2025-02-06**|**Echo-Teddy: Preliminary Design and Development of Large Language Model-based Social Robot for Autistic Students**|Unggi Lee et.al.|[2502.04029v1](http://arxiv.org/abs/2502.04029v1)|null|
-|**2025-02-06**|**Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond**|Mardhiyah Sanni et.al.|[2502.03945v1](http://arxiv.org/abs/2502.03945v1)|null|
-|**2025-02-06**|**Generative AI and Creative Work: Narratives, Values, and Impacts**|Baptiste Caramiaux et.al.|[2502.03940v1](http://arxiv.org/abs/2502.03940v1)|null|
-|**2025-02-06**|**ICGNN: Graph Neural Network Enabled Scalable Beamforming for MISO Interference Channels**|Changpeng He et.al.|[2502.03936v1](http://arxiv.org/abs/2502.03936v1)|null|
-|**2025-02-06**|**SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning**|Hong Han et.al.|[2502.03928v1](http://arxiv.org/abs/2502.03928v1)|null|
-|**2025-02-06**|**Graph Neural Network Enabled Fluid Antenna Systems: A Two-Stage Approach**|Changpeng He et.al.|[2502.03922v1](http://arxiv.org/abs/2502.03922v1)|null|
-|**2025-02-06**|**Rule-Based Modeling of Low-Dimensional Data with PCA and Binary Particle Swarm Optimization (BPSO) in ANFIS**|Afnan Al-Ali et.al.|[2502.03895v1](http://arxiv.org/abs/2502.03895v1)|null|
-|**2025-02-06**|**Semi-rPPG: Semi-Supervised Remote Physiological Measurement with Curriculum Pseudo-Labeling**|Bingjie Wu et.al.|[2502.03855v1](http://arxiv.org/abs/2502.03855v1)|null|
-|**2025-02-06**|**Observation of $D^+\to \bar K_1(1270)^0μ^+ν_μ$ and $D^0\to K_1(1270)^-μ^+ν_μ$**|BESIII Collaboration et.al.|[2502.03828v1](http://arxiv.org/abs/2502.03828v1)|null|
-|**2025-02-06**|**FairT2I: Mitigating Social Bias in Text-to-Image Generation via Large Language Model-Assisted Detection and Attribute Rebalancing**|Jinya Sakurai et.al.|[2502.03826v1](http://arxiv.org/abs/2502.03826v1)|null|
-|**2025-02-06**|**Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation**|Tianhao Li et.al.|[2502.03825v1](http://arxiv.org/abs/2502.03825v1)|null|
-|**2025-02-06**|**Syntriever: How to Train Your Retriever with Synthetic Data from LLMs**|Minsang Kim et.al.|[2502.03824v1](http://arxiv.org/abs/2502.03824v1)|null|
-|**2025-02-06**|**Understanding and Supporting Formal Email Exchange by Answering AI-Generated Questions**|Yusuke Miura et.al.|[2502.03804v1](http://arxiv.org/abs/2502.03804v1)|null|
-|**2025-02-06**|**Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows**|Zijian Ding et.al.|[2502.03788v1](http://arxiv.org/abs/2502.03788v1)|null|
-|**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772v1](http://arxiv.org/abs/2502.03772v1)|[link](https://github.com/Asunatan/HSQformer)|
+|**2025-02-07**|**Efficient distributional regression trees learning algorithms for calibrated non-parametric probabilistic forecasts**|Duchemin Quentin et.al.|[2502.05157v1](http://arxiv.org/abs/2502.05157v1)|null|
+|**2025-02-07**|**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**|Steffen Eger et.al.|[2502.05151v1](http://arxiv.org/abs/2502.05151v1)|null|
+|**2025-02-07**|**An Annotated Reading of 'The Singer of Tales' in the LLM Era**|Kush R. Varshney et.al.|[2502.05148v1](http://arxiv.org/abs/2502.05148v1)|null|
+|**2025-02-07**|**Usability Issues With Mobile Applications: Insights From Practitioners and Future Research Directions**|Pawel Weichbroth et.al.|[2502.05120v1](http://arxiv.org/abs/2502.05120v1)|null|
+|**2025-02-07**|**Adoption of AI-Assisted E-Scooters: The Role of Perceived Trust, Safety, and Demographic Drivers**|Amit Kumar et.al.|[2502.05117v1](http://arxiv.org/abs/2502.05117v1)|null|
+|**2025-02-07**|**"It Felt Like I Was Left in the Dark": Exploring Information Needs and Design Opportunities for Family Caregivers of Older Adult Patients in Critical Care Settings**|Shihan Fu et.al.|[2502.05115v1](http://arxiv.org/abs/2502.05115v1)|null|
+|**2025-02-07**|**EcoServe: Designing Carbon-Aware AI Inference Systems**|Yueying et.al.|[2502.05043v1](http://arxiv.org/abs/2502.05043v1)|null|
+|**2025-02-07**|**News about Global North considered Truthful! The Geo-political Veracity Gradient in Global South News**|Sujit Mandava et.al.|[2502.05032v1](http://arxiv.org/abs/2502.05032v1)|null|
+|**2025-02-07**|**On the Possibility of Breaking Copyleft Licenses When Reusing Code Generated by ChatGPT**|Gaia Colombo et.al.|[2502.05023v1](http://arxiv.org/abs/2502.05023v1)|null|
+|**2025-02-07**|**Analyzing Advanced AI Systems Against Definitions of Life and Consciousness**|Azadeh Alavi et.al.|[2502.05007v1](http://arxiv.org/abs/2502.05007v1)|null|
+|**2025-02-07**|**MoGraphGPT: Creating Interactive Scenes Using Modular LLM and Graphical Control**|Hui Ye et.al.|[2502.04983v1](http://arxiv.org/abs/2502.04983v1)|null|
+|**2025-02-07**|**The Rising Threat to Emerging AI-Powered Search Engines**|Zeren Luo et.al.|[2502.04951v1](http://arxiv.org/abs/2502.04951v1)|null|
+|**2025-02-07**|**Data-driven Modality Fusion: An AI-enabled Framework for Large-Scale Sensor Network Management**|Hrishikesh Dutta et.al.|[2502.04937v1](http://arxiv.org/abs/2502.04937v1)|null|
+|**2025-02-07**|**Mobile Network-specialized Large Language Models for 6G: Architectures, Innovations, Challenges, and Future Trends**|Abdelaali Chaoub et.al.|[2502.04933v1](http://arxiv.org/abs/2502.04933v1)|null|
+|**2025-02-07**|**Enhancing Disinformation Detection with Explainable AI and Named Entity Replacement**|Santiago González-Silot et.al.|[2502.04863v1](http://arxiv.org/abs/2502.04863v1)|null|
+|**2025-02-07**|**Where does AI come from? A global case study across Europe, Africa, and Latin America**|Paola Tubaro et.al.|[2502.04860v1](http://arxiv.org/abs/2502.04860v1)|null|
+|**2025-02-07**|**Humans Co-exist, So Must Embodied Artificial Agents**|Hannah Kuehn et.al.|[2502.04809v1](http://arxiv.org/abs/2502.04809v1)|null|
+|**2025-02-07**|**Reflecting on Design Paradigms of Animated Data Video Tools**|Leixian Shen et.al.|[2502.04801v1](http://arxiv.org/abs/2502.04801v1)|null|
+|**2025-02-07**|**SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning**|Wanjia Zhao et.al.|[2502.04780v1](http://arxiv.org/abs/2502.04780v1)|null|
+|**2025-02-07**|**SeDi-Instruct: Enhancing Alignment of Language Models through Self-Directed Instruction Generation**|Jungwoo Kim et.al.|[2502.04774v1](http://arxiv.org/abs/2502.04774v1)|null|
+|**2025-02-07**|**An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks**|George Papadopoulos et.al.|[2502.04773v1](http://arxiv.org/abs/2502.04773v1)|null|
+|**2025-02-07**|**Concept Navigation and Classification via Open Source Large Language Model Processing**|Maël Kubli et.al.|[2502.04756v1](http://arxiv.org/abs/2502.04756v1)|null|
+|**2025-02-07**|**Measuring SES-related traits relating to technology usage: Two validated surveys**|Chimdi Chikezie et.al.|[2502.04710v1](http://arxiv.org/abs/2502.04710v1)|null|
+|**2025-02-07**|**Bridging the Gap in XAI-Why Reliable Metrics Matter for Explainability and Compliance**|Pratinav Seth et.al.|[2502.04695v1](http://arxiv.org/abs/2502.04695v1)|null|
+|**2025-02-07**|**Be Water, My Antennas: Riding on Radio Wave Fluctuation in Nature for Spatial Multiplexing using Programmable Meta-Fluid Antenna**|Baiyang Liu et.al.|[2502.04693v1](http://arxiv.org/abs/2502.04693v1)|null|
+|**2025-02-07**|**M-IFEval: Multilingual Instruction-Following Evaluation**|Antoine Dussolle et.al.|[2502.04688v1](http://arxiv.org/abs/2502.04688v1)|null|
+|**2025-02-07**|**AI-Driven Solutions for Falcon Disease Classification: Concatenated ConvNeXt cum EfficientNet AI Model Approach**|Alavikunhu Panthakkan et.al.|[2502.04682v1](http://arxiv.org/abs/2502.04682v1)|null|
+|**2025-02-07**|**Scalable Oversight for Superhuman AI via Recursive Self-Critiquing**|Xueru Wen et.al.|[2502.04675v1](http://arxiv.org/abs/2502.04675v1)|null|
+|**2025-02-07**|**Shifting Attention to You: Personalized Brain-Inspired AI Models**|Stephen Chong Zhao et.al.|[2502.04658v1](http://arxiv.org/abs/2502.04658v1)|null|
+|**2025-02-07**|**Extracting and Understanding the Superficial Knowledge in Alignment**|Runjin Chen et.al.|[2502.04602v1](http://arxiv.org/abs/2502.04602v1)|null|
