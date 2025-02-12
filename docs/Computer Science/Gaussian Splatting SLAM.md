@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754v1](http://arxiv.org/abs/2502.07754v1)|null|
+|**2025-02-11**|**Sharp Anti-Concentration Inequalities for Extremum Statistics via Copulas**|Matias D. Cattaneo et.al.|[2502.07699v1](http://arxiv.org/abs/2502.07699v1)|null|
+|**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti et.al.|[2502.07670v1](http://arxiv.org/abs/2502.07670v1)|null|
+|**2025-02-11**|**Private Low-Rank Approximation for Covariance Matrices, Dyson Brownian Motion, and Eigenvalue-Gap Bounds for Gaussian Perturbations**|Oren Mangoubi et.al.|[2502.07657v1](http://arxiv.org/abs/2502.07657v1)|null|
+|**2025-02-11**|**Method of moments for Gaussian mixtures: Implementation and benchmarks**|Haley Colgate Kottler et.al.|[2502.07648v1](http://arxiv.org/abs/2502.07648v1)|null|
+|**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615v1](http://arxiv.org/abs/2502.07615v1)|null|
+|**2025-02-11**|**Distributed Coverage Control for Time-Varying Spatial Processes**|Federico Pratissoli et.al.|[2502.07595v1](http://arxiv.org/abs/2502.07595v1)|null|
+|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580v1](http://arxiv.org/abs/2502.07580v1)|null|
+|**2025-02-11**|**Inducing localized solutions via interaction in a self-defocusing system with localized pumping**|Wesley B. Cardoso et.al.|[2502.07561v1](http://arxiv.org/abs/2502.07561v1)|null|
+|**2025-02-11**|**Exact Schwinger functions for a class of bounded interactions in $d\geq 2$**|Wojciech Dybalski et.al.|[2502.07546v1](http://arxiv.org/abs/2502.07546v1)|null|
+|**2025-02-11**|**Quantitative evaluation of unsupervised clustering algorithms for dynamic total-body PET image analysis**|Oona Rainio et.al.|[2502.07511v1](http://arxiv.org/abs/2502.07511v1)|null|
+|**2025-02-11**|**Applications of robust statistics for cyclostationarity detection in non-Gaussian signals for local damage detection in bearings**|Wojciech Żuławiński et.al.|[2502.07478v1](http://arxiv.org/abs/2502.07478v1)|null|
+|**2025-02-11**|**Yukawa coupling, and inflationary correlation functions for a spectator scalar via stochastic spectral expansion**|Sourav Bhattacharya et.al.|[2502.07428v1](http://arxiv.org/abs/2502.07428v1)|null|
+|**2025-02-11**|**Treatment Effect Estimation for Exponential Family Outcomes using Neural Networks with Targeted Regularization**|Jiahong Li et.al.|[2502.07295v1](http://arxiv.org/abs/2502.07295v1)|null|
+|**2025-02-11**|**Gaussian Free Field and Discrete Gaussians in Periodic Dimer Models**|Tomas Berggren et.al.|[2502.07241v1](http://arxiv.org/abs/2502.07241v1)|null|
+|**2025-02-11**|**Fixed-Confidence Best Arm Identification with Decreasing Variance**|Tamojeet Roychowdhury et.al.|[2502.07199v1](http://arxiv.org/abs/2502.07199v1)|null|
+|**2025-02-11**|**Moments of characteristic polynomials for classical $β$ ensembles**|Bo-Jian Shen et.al.|[2502.07142v1](http://arxiv.org/abs/2502.07142v1)|null|
+|**2025-02-10**|**Choroidal image analysis for OCT image sequences with applications in systemic health**|Jamie Burke et.al.|[2502.07117v1](http://arxiv.org/abs/2502.07117v1)|null|
+|**2025-02-10**|**The SPIRou Legacy Survey: near-infrared and optical radial velocity analysis of Gl 480 and Gl 382 using SPIRou, HARPS and CARMENES spectrographs**|M. Ould-Elhkim et.al.|[2502.07086v1](http://arxiv.org/abs/2502.07086v1)|null|
+|**2025-02-10**|**Leveraging Allophony in Self-Supervised Speech Models for Atypical Pronunciation Assessment**|Kwanghee Choi et.al.|[2502.07029v1](http://arxiv.org/abs/2502.07029v1)|null|
+|**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007v1](http://arxiv.org/abs/2502.07007v1)|null|
+|**2025-02-10**|**Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models**|Siddarth Venkatraman et.al.|[2502.06999v1](http://arxiv.org/abs/2502.06999v1)|null|
+|**2025-02-10**|**Epistemic Uncertainty in Conformal Scores: A Unified Approach**|Luben M. C. Cabezas et.al.|[2502.06995v1](http://arxiv.org/abs/2502.06995v1)|null|
+|**2025-02-10**|**Riemann-Skorohod and Stratonovich integrals for Gaussian processes**|Yanghui Liu et.al.|[2502.06983v1](http://arxiv.org/abs/2502.06983v1)|null|
+|**2025-02-10**|**Searching for Inflationary Physics with the CMB Trispectrum: 3. Constraints from Planck**|Oliver H. E. Philcox et.al.|[2502.06931v1](http://arxiv.org/abs/2502.06931v1)|null|
 |**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756v1](http://arxiv.org/abs/2502.06756v1)|null|
-|**2025-02-10**|**A switching identity for cable-graph loop soups and Gaussian free fields**|Wendelin Werner et.al.|[2502.06754v1](http://arxiv.org/abs/2502.06754v1)|null|
+|**2025-02-10**|**A switching identity for cable-graph loop soups and Gaussian free fields**|Wendelin Werner et.al.|[2502.06754v2](http://arxiv.org/abs/2502.06754v2)|null|
 |**2025-02-10**|**Rough Stochastic Pontryagin Maximum Principle and an Indirect Shooting Method**|Thomas Lew et.al.|[2502.06726v1](http://arxiv.org/abs/2502.06726v1)|null|
 |**2025-02-10**|**Gaussian Approximation and Multiplier Bootstrap for Stochastic Gradient Descent**|Marina Sheshukova et.al.|[2502.06719v1](http://arxiv.org/abs/2502.06719v1)|null|
 |**2025-02-10**|**Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets**|Yifeng Chu et.al.|[2502.06709v1](http://arxiv.org/abs/2502.06709v1)|null|
-|**2025-02-10**|**Efficient Spatial Estimation of Perceptual Thresholds for Retinal Implants via Gaussian Process Regression**|Roksana Sadeghi et.al.|[2502.06672v1](http://arxiv.org/abs/2502.06672v1)|null|
-|**2025-02-10**|**Koopman-Equivariant Gaussian Processes**|Petar Bevanda et.al.|[2502.06645v1](http://arxiv.org/abs/2502.06645v1)|null|
-|**2025-02-10**|**Quantile Forecast Matching with a Bayesian Quantile Gaussian Process Model**|Spencer Wadsworth et.al.|[2502.06605v1](http://arxiv.org/abs/2502.06605v1)|null|
-|**2025-02-10**|**Continual Release Moment Estimation with Differential Privacy**|Nikita P. Kalinin et.al.|[2502.06597v1](http://arxiv.org/abs/2502.06597v1)|null|
-|**2025-02-10**|**How to Entangle or Disentangle Gaussian States with Hong-Ou-Mandel Interference**|Fabian Schlue et.al.|[2502.06570v1](http://arxiv.org/abs/2502.06570v1)|null|
-|**2025-02-10**|**Robust Scatter Matrix Estimation for Elliptical Distributions in Polynomial Time**|Gleb Novikov et.al.|[2502.06564v1](http://arxiv.org/abs/2502.06564v1)|null|
-|**2025-02-10**|**SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps**|Ola Shorinwa et.al.|[2502.06519v1](http://arxiv.org/abs/2502.06519v1)|null|
-|**2025-02-10**|**Fractional interacting particle system: drift parameter estimation via Malliavin calculus**|Chiara Amorino et.al.|[2502.06514v1](http://arxiv.org/abs/2502.06514v1)|null|
-|**2025-02-10**|**Three-Dimensional MRI Reconstruction with Gaussian Representations: Tackling the Undersampling Problem**|Tengya Peng et.al.|[2502.06510v1](http://arxiv.org/abs/2502.06510v1)|null|
-|**2025-02-10**|**Stochastic MPC with Online-optimized Policies and Closed-loop Guarantees**|Marcell Bartos et.al.|[2502.06469v1](http://arxiv.org/abs/2502.06469v1)|null|
-|**2025-02-10**|**Low-dimensional Functions are Efficiently Learnable under Randomly Biased Distributions**|Elisabetta Cornacchia et.al.|[2502.06443v1](http://arxiv.org/abs/2502.06443v1)|null|
-|**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
-|**2025-02-10**|**Improved Regret Analysis in Gaussian Process Bandits: Optimality for Noiseless Reward, RKHS norm, and Non-Stationary Variance**|Shogo Iwazaki et.al.|[2502.06363v1](http://arxiv.org/abs/2502.06363v1)|null|
-|**2025-02-10**|**New Insight of Spatial Scan Statistics via Regression Model**|Takayuki Kawashima et.al.|[2502.06347v1](http://arxiv.org/abs/2502.06347v1)|null|
-|**2025-02-10**|**Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies**|Luis Torres-Torres F. et.al.|[2502.06334v1](http://arxiv.org/abs/2502.06334v1)|null|
-|**2025-02-10**|**A physics-based data-driven model for CO$_2$ gas diffusion electrodes to drive automated laboratories**|Ivan Grega et.al.|[2502.06323v1](http://arxiv.org/abs/2502.06323v1)|null|
-|**2025-02-10**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang et.al.|[2502.06292v1](http://arxiv.org/abs/2502.06292v1)|null|
-|**2025-02-10**|**On the query complexity of sampling from non-log-concave distributions**|Yuchen He et.al.|[2502.06200v1](http://arxiv.org/abs/2502.06200v1)|null|
-|**2025-02-10**|**Nonasymptotic and distribution-uniform Komlós-Major-Tusnády approximation**|Ian Waudby-Smith et.al.|[2502.06188v1](http://arxiv.org/abs/2502.06188v1)|null|
-|**2025-02-10**|**Bayesian Optimization by Kernel Regression and Density-based Exploration**|Tansheng Zhu et.al.|[2502.06178v1](http://arxiv.org/abs/2502.06178v1)|null|
-|**2025-02-10**|**Adversarial Transform Particle Filters**|Chengxin Gong et.al.|[2502.06165v1](http://arxiv.org/abs/2502.06165v1)|null|
-|**2025-02-10**|**Generalized Temporal Tensor Decomposition with Rank-revealing Latent-ODE**|Panqi Chen et.al.|[2502.06164v1](http://arxiv.org/abs/2502.06164v1)|null|
-|**2025-02-10**|**Gaussian Universality of Products Over Split Reductive Groups and the Satake Isomorphism**|Jiahe Shen et.al.|[2502.06143v1](http://arxiv.org/abs/2502.06143v1)|null|
-|**2025-02-09**|**Transformers versus the EM Algorithm in Multi-class Clustering**|Yihan He et.al.|[2502.06007v1](http://arxiv.org/abs/2502.06007v1)|null|
-|**2025-02-09**|**Fixed-strength spherical designs**|Travis Dillon et.al.|[2502.06002v1](http://arxiv.org/abs/2502.06002v1)|null|
