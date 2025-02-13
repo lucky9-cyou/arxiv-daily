@@ -9,7 +9,7 @@
 |**2025-02-11**|**Method of moments for Gaussian mixtures: Implementation and benchmarks**|Haley Colgate Kottler et.al.|[2502.07648v1](http://arxiv.org/abs/2502.07648v1)|null|
 |**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615v1](http://arxiv.org/abs/2502.07615v1)|null|
 |**2025-02-11**|**Distributed Coverage Control for Time-Varying Spatial Processes**|Federico Pratissoli et.al.|[2502.07595v1](http://arxiv.org/abs/2502.07595v1)|null|
-|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580v1](http://arxiv.org/abs/2502.07580v1)|null|
+|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580v1](http://arxiv.org/abs/2502.07580v1)|[link](https://github.com/martenlienen/bsi)|
 |**2025-02-11**|**Inducing localized solutions via interaction in a self-defocusing system with localized pumping**|Wesley B. Cardoso et.al.|[2502.07561v1](http://arxiv.org/abs/2502.07561v1)|null|
 |**2025-02-11**|**Exact Schwinger functions for a class of bounded interactions in $d\geq 2$**|Wojciech Dybalski et.al.|[2502.07546v1](http://arxiv.org/abs/2502.07546v1)|null|
 |**2025-02-11**|**Quantitative evaluation of unsupervised clustering algorithms for dynamic total-body PET image analysis**|Oona Rainio et.al.|[2502.07511v1](http://arxiv.org/abs/2502.07511v1)|null|
