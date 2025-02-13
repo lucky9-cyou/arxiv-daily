@@ -9,7 +9,7 @@
 |**2025-02-11**|**Economics of Sourcing Human Data**|Sebastin Santy et.al.|[2502.07732v1](http://arxiv.org/abs/2502.07732v1)|null|
 |**2025-02-11**|**A Framework for LLM-powered Design Assistants**|Swaroop Panda et.al.|[2502.07698v1](http://arxiv.org/abs/2502.07698v1)|null|
 |**2025-02-11**|**SoK: A Classification for AI-driven Personalized Privacy Assistants**|Victor Morel et.al.|[2502.07693v1](http://arxiv.org/abs/2502.07693v1)|null|
-|**2025-02-11**|**Auto-Drafting Police Reports from Noisy ASR Outputs: A Trust-Centered LLM Approach**|Param Kulkarni et.al.|[2502.07677v1](http://arxiv.org/abs/2502.07677v1)|null|
+|**2025-02-11**|**Auto-Drafting Police Reports from Noisy ASR Outputs: A Trust-Centered LLM Approach**|Param Kulkarni et.al.|[2502.07677v2](http://arxiv.org/abs/2502.07677v2)|null|
 |**2025-02-11**|**Human Decision-making is Susceptible to AI-driven Manipulation**|Sahand Sabour et.al.|[2502.07663v1](http://arxiv.org/abs/2502.07663v1)|null|
 |**2025-02-11**|**Exploring Mobile Touch Interaction with Large Language Models**|Tim Zindulka et.al.|[2502.07629v1](http://arxiv.org/abs/2502.07629v1)|null|
 |**2025-02-11**|**HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony**|Huanchen Wang et.al.|[2502.07628v1](http://arxiv.org/abs/2502.07628v1)|null|
@@ -28,7 +28,7 @@
 |**2025-02-11**|**Towards energy-insensitive and robust neutron/gamma classification: a learning-based frequency-domain parametric approach**|Pengcheng Ai et.al.|[2502.07359v1](http://arxiv.org/abs/2502.07359v1)|null|
 |**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351v1](http://arxiv.org/abs/2502.07351v1)|null|
 |**2025-02-11**|**EMERALD: Evidence Management for Continuous Certification as a Service in the Cloud**|Christian Banse et.al.|[2502.07330v1](http://arxiv.org/abs/2502.07330v1)|null|
-|**2025-02-11**|**Music for All: Exploring Multicultural Representations in Music Generation Models (Camera Ready)**|Atharva Mehta et.al.|[2502.07328v1](http://arxiv.org/abs/2502.07328v1)|null|
+|**2025-02-11**|**Music for All: Exploring Multicultural Representations in Music Generation Models**|Atharva Mehta et.al.|[2502.07328v2](http://arxiv.org/abs/2502.07328v2)|null|
 |**2025-02-11**|**Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**|Haowen Gao et.al.|[2502.07327v1](http://arxiv.org/abs/2502.07327v1)|null|
 |**2025-02-11**|**Semantic to Structure: Learning Structural Representations for Infringement Detection**|Chuanwei Huang et.al.|[2502.07323v1](http://arxiv.org/abs/2502.07323v1)|null|
 |**2025-02-11**|**OpenGrok: Enhancing SNS Data Processing with Distilled Knowledge and Mask-like Mechanisms**|Lumen AI et.al.|[2502.07312v1](http://arxiv.org/abs/2502.07312v1)|[link](https://github.com/Lumen-Laboratory/OpenGrok)|
