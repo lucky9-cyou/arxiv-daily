@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v2](http://arxiv.org/abs/2502.08644v2)|null|
-|**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640v1](http://arxiv.org/abs/2502.08640v1)|null|
-|**2025-02-12**|**SportsBuddy: Designing and Evaluating an AI-Powered Sports Video Storytelling Tool Through Real-World Deployment**|Tica Lin et.al.|[2502.08621v1](http://arxiv.org/abs/2502.08621v1)|null|
-|**2025-02-12**|**Quantifying Security Vulnerabilities: A Metric-Driven Security Analysis of Gaps in Current AI Standards**|Keerthana Madhavan et.al.|[2502.08610v1](http://arxiv.org/abs/2502.08610v1)|null|
-|**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603v1](http://arxiv.org/abs/2502.08603v1)|null|
-|**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599v1](http://arxiv.org/abs/2502.08599v1)|null|
-|**2025-02-12**|**Mapping the Landscape of Generative AI in Network Monitoring and Management**|Giampaolo Bovenzi et.al.|[2502.08576v1](http://arxiv.org/abs/2502.08576v1)|null|
-|**2025-02-12**|**Brain Latent Progression: Individual-based Spatiotemporal Disease Progression on 3D Brain MRIs via Latent Diffusion**|Lemuel Puglisi et.al.|[2502.08560v1](http://arxiv.org/abs/2502.08560v1)|null|
-|**2025-02-12**|**Human-Centric Foundation Models: Perception, Generation and Agentic Modeling**|Shixiang Tang et.al.|[2502.08556v1](http://arxiv.org/abs/2502.08556v1)|null|
-|**2025-02-12**|**Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data**|Doudou Zhou et.al.|[2502.08547v1](http://arxiv.org/abs/2502.08547v1)|null|
-|**2025-02-12**|**IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance**|Paul Röttger et.al.|[2502.08395v1](http://arxiv.org/abs/2502.08395v1)|null|
-|**2025-02-12**|**AdvSwap: Covert Adversarial Perturbation with High Frequency Info-swapping for Autonomous Driving Perception**|Yuanhao Huang et.al.|[2502.08374v1](http://arxiv.org/abs/2502.08374v1)|null|
-|**2025-02-12**|**Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact**|Mohsin Bilal et.al.|[2502.08333v1](http://arxiv.org/abs/2502.08333v1)|null|
-|**2025-02-12**|**Model-Free Counterfactual Subset Selection at Scale**|Minh Hieu Nguyen et.al.|[2502.08326v1](http://arxiv.org/abs/2502.08326v1)|null|
-|**2025-02-12**|**Compromising Honesty and Harmlessness in Language Models via Deception Attacks**|Laurène Vaugrante et.al.|[2502.08301v1](http://arxiv.org/abs/2502.08301v1)|null|
-|**2025-02-12**|**What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations**|Dongqi Liu et.al.|[2502.08279v1](http://arxiv.org/abs/2502.08279v1)|null|
-|**2025-02-12**|**Exploring the Potential of Large Language Models to Simulate Personality**|Maria Molchanova et.al.|[2502.08265v1](http://arxiv.org/abs/2502.08265v1)|null|
-|**2025-02-12**|**GenAI as Digital Plastic: Understanding Synthetic Media Through Critical AI Literacy**|Jasper Roe et.al.|[2502.08249v1](http://arxiv.org/abs/2502.08249v1)|null|
-|**2025-02-12**|**The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks**|Alejandro Cuadron et.al.|[2502.08235v1](http://arxiv.org/abs/2502.08235v1)|null|
-|**2025-02-12**|**Learning Human Skill Generators at Key-Step Levels**|Yilu Wu et.al.|[2502.08234v1](http://arxiv.org/abs/2502.08234v1)|null|
-|**2025-02-12**|**Typographic Attacks in a Multi-Image Setting**|Xiaomeng Wang et.al.|[2502.08193v1](http://arxiv.org/abs/2502.08193v1)|null|
-|**2025-02-12**|**SycEval: Evaluating LLM Sycophancy**|Aaron Fanous et.al.|[2502.08177v1](http://arxiv.org/abs/2502.08177v1)|null|
-|**2025-02-12**|**Democratizing AI: Open-source Scalable LLM Training on GPU-based Supercomputers**|Siddharth Singh et.al.|[2502.08145v1](http://arxiv.org/abs/2502.08145v1)|null|
-|**2025-02-12**|**Hookpad Aria: A Copilot for Songwriters**|Chris Donahue et.al.|[2502.08122v1](http://arxiv.org/abs/2502.08122v1)|null|
-|**2025-02-12**|**Generative AI-Enhanced Cooperative MEC of UAVs and Ground Stations for Unmanned Surface Vehicles**|Jiahao You et.al.|[2502.08119v1](http://arxiv.org/abs/2502.08119v1)|null|
-|**2025-02-12**|**Generative AI and Empirical Software Engineering: A Paradigm Shift**|Christoph Treude et.al.|[2502.08108v1](http://arxiv.org/abs/2502.08108v1)|null|
-|**2025-02-12**|**Cognify: Supercharging Gen-AI Workflows With Hierarchical Autotuning**|Zijian He et.al.|[2502.08056v1](http://arxiv.org/abs/2502.08056v1)|null|
-|**2025-02-11**|**An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models**|Kasra Ahmadi et.al.|[2502.08008v1](http://arxiv.org/abs/2502.08008v1)|null|
-|**2025-02-11**|**Welzijn.AI: A Conversational AI System for Monitoring Mental Well-being and a Use Case for Responsible AI Development**|Bram van Dijk et.al.|[2502.07983v1](http://arxiv.org/abs/2502.07983v1)|null|
-|**2025-02-11**|**AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**|Sean Kim et.al.|[2502.07981v1](http://arxiv.org/abs/2502.07981v1)|null|
+|**2025-02-13**|**Pitfalls of Evidence-Based AI Policy**|Stephen Casper et.al.|[2502.09618v1](http://arxiv.org/abs/2502.09618v1)|null|
+|**2025-02-13**|**Learning to Coordinate with Experts**|Mohamad H. Danesh et.al.|[2502.09583v1](http://arxiv.org/abs/2502.09583v1)|null|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560v1](http://arxiv.org/abs/2502.09560v1)|null|
+|**2025-02-13**|**Explainable AI-assisted Optimization for Feynman Integral Reduction**|Zhuo-Yang Song et.al.|[2502.09544v1](http://arxiv.org/abs/2502.09544v1)|null|
+|**2025-02-13**|**Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated Large-Scale Data Analytics**|Yichao Yuan et.al.|[2502.09541v1](http://arxiv.org/abs/2502.09541v1)|null|
+|**2025-02-13**|**Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages**|Shreyan Biswas et.al.|[2502.09532v1](http://arxiv.org/abs/2502.09532v1)|null|
+|**2025-02-13**|**SteROI-D: System Design and Mapping for Stereo Depth Inference on Regions of Interest**|Jack Erhardt et.al.|[2502.09528v1](http://arxiv.org/abs/2502.09528v1)|null|
+|**2025-02-13**|**AttentionSmithy: A Modular Framework for Rapid Transformer Development and Customization**|Caleb Cranney et.al.|[2502.09503v1](http://arxiv.org/abs/2502.09503v1)|null|
+|**2025-02-13**|**Improve LLM-based Automatic Essay Scoring with Linguistic Features**|Zhaoyi Joey Hou et.al.|[2502.09497v1](http://arxiv.org/abs/2502.09497v1)|null|
+|**2025-02-13**|**PenTest++: Elevating Ethical Hacking with AI and Automation**|Haitham S. Al-Sinani et.al.|[2502.09484v1](http://arxiv.org/abs/2502.09484v1)|null|
+|**2025-02-13**|**Assessing Generative AI value in a public sector context: evidence from a field experiment**|Trevor Fitzpatrick et.al.|[2502.09479v1](http://arxiv.org/abs/2502.09479v1)|null|
+|**2025-02-13**|**This looks like what? Challenges and Future Research Directions for Part-Prototype Models**|Khawla Elhadri et.al.|[2502.09340v1](http://arxiv.org/abs/2502.09340v1)|null|
+|**2025-02-13**|**Feedback control solves pseudoconvex optimal tracking problems in nonlinear dynamical systems**|Tingli Hu et.al.|[2502.09322v1](http://arxiv.org/abs/2502.09322v1)|null|
+|**2025-02-13**|**AI Safety for Everyone**|Balint Gyevnar et.al.|[2502.09288v1](http://arxiv.org/abs/2502.09288v1)|null|
+|**2025-02-13**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278v1](http://arxiv.org/abs/2502.09278v1)|null|
+|**2025-02-13**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268v1](http://arxiv.org/abs/2502.09268v1)|null|
+|**2025-02-13**|**From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine**|Lukas Buess et.al.|[2502.09242v1](http://arxiv.org/abs/2502.09242v1)|null|
+|**2025-02-13**|**Bridging Logic Programming and Deep Learning for Explainability through ILASP**|Talissa Dreossi et.al.|[2502.09227v1](http://arxiv.org/abs/2502.09227v1)|null|
+|**2025-02-13**|**Pearce's Characterisation in an Epistemic Domain**|Ezgi Iraz Su et.al.|[2502.09221v1](http://arxiv.org/abs/2502.09221v1)|null|
+|**2025-02-13**|**Data2Concept2Text: An Explainable Multilingual Framework for Data Analysis Narration**|Flavio Bertini et.al.|[2502.09218v1](http://arxiv.org/abs/2502.09218v1)|null|
+|**2025-02-13**|**Visual Graph Question Answering with ASP and LLMs for Language Parsing**|Jakob Johannes Bauer et.al.|[2502.09211v1](http://arxiv.org/abs/2502.09211v1)|null|
+|**2025-02-13**|**Counterfactual Explanations as Plans**|Vaishak Belle et.al.|[2502.09205v1](http://arxiv.org/abs/2502.09205v1)|null|
+|**2025-02-13**|**XAInomaly: Explainable and Interpretable Deep Contractive Autoencoder for O-RAN Traffic Anomaly Detection**|Osman Tugay Basaran et.al.|[2502.09194v1](http://arxiv.org/abs/2502.09194v1)|null|
+|**2025-02-13**|**Two-Stage Representation Learning for Analyzing Movement Behavior Dynamics in People Living with Dementia**|Jin Cui et.al.|[2502.09173v1](http://arxiv.org/abs/2502.09173v1)|null|
+|**2025-02-13**|**LOB-Bench: Benchmarking Generative AI for Finance - an Application to Limit Order Book Data**|Peer Nagy et.al.|[2502.09172v1](http://arxiv.org/abs/2502.09172v1)|null|
+|**2025-02-13**|**Regularization can make diffusion models more efficient**|Mahsa Taheri et.al.|[2502.09151v1](http://arxiv.org/abs/2502.09151v1)|null|
+|**2025-02-13**|**Logical Reasoning in Large Language Models: A Survey**|Hanmeng Liu et.al.|[2502.09100v1](http://arxiv.org/abs/2502.09100v1)|null|
+|**2025-02-13**|**Show Me the Work: Fact-Checkers' Requirements for Explainable Automated Fact-Checking**|Greta Warren et.al.|[2502.09083v1](http://arxiv.org/abs/2502.09083v1)|null|
+|**2025-02-13**|**Quantifying Cryptocurrency Unpredictability: A Comprehensive Study of Complexity and Forecasting**|Francesco Puoti et.al.|[2502.09079v1](http://arxiv.org/abs/2502.09079v1)|null|
+|**2025-02-13**|**Exploring the Needs of Practising Musicians in Co-Creative AI Through Co-Design**|Stephen James Krol et.al.|[2502.09055v1](http://arxiv.org/abs/2502.09055v1)|null|
