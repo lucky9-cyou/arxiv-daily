@@ -2,7 +2,7 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v1](http://arxiv.org/abs/2502.08644v1)|null|
+|**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v2](http://arxiv.org/abs/2502.08644v2)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640v1](http://arxiv.org/abs/2502.08640v1)|null|
 |**2025-02-12**|**SportsBuddy: Designing and Evaluating an AI-Powered Sports Video Storytelling Tool Through Real-World Deployment**|Tica Lin et.al.|[2502.08621v1](http://arxiv.org/abs/2502.08621v1)|null|
 |**2025-02-12**|**Quantifying Security Vulnerabilities: A Metric-Driven Security Analysis of Gaps in Current AI Standards**|Keerthana Madhavan et.al.|[2502.08610v1](http://arxiv.org/abs/2502.08610v1)|null|
