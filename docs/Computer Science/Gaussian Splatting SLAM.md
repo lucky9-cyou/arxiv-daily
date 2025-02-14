@@ -25,7 +25,7 @@
 |**2025-02-12**|**Understanding the Kronecker Matrix-Vector Complexity of Linear Algebra**|Raphael A. Meyer et.al.|[2502.08029v1](http://arxiv.org/abs/2502.08029v1)|null|
 |**2025-02-11**|**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**|Mengfan Xu et.al.|[2502.08003v1](http://arxiv.org/abs/2502.08003v1)|null|
 |**2025-02-11**|**Cut-off phenomenon and asymptotic mixing for multivariate general linear processes**|Gerardo Barrera et.al.|[2502.07911v1](http://arxiv.org/abs/2502.07911v1)|null|
-|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754v1](http://arxiv.org/abs/2502.07754v1)|null|
+|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754v1](http://arxiv.org/abs/2502.07754v1)|[link](https://github.com/gwilczynski95/meshsplats)|
 |**2025-02-11**|**Sharp Anti-Concentration Inequalities for Extremum Statistics via Copulas**|Matias D. Cattaneo et.al.|[2502.07699v1](http://arxiv.org/abs/2502.07699v1)|null|
 |**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti et.al.|[2502.07670v1](http://arxiv.org/abs/2502.07670v1)|null|
 |**2025-02-11**|**Private Low-Rank Approximation for Covariance Matrices, Dyson Brownian Motion, and Eigenvalue-Gap Bounds for Gaussian Perturbations**|Oren Mangoubi et.al.|[2502.07657v1](http://arxiv.org/abs/2502.07657v1)|null|
