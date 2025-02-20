@@ -2,14 +2,18 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
+|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335v1](http://arxiv.org/abs/2502.13335v1)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196v1](http://arxiv.org/abs/2502.13196v1)|null|
 |**2025-02-18**|**ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition**|Quoc-Anh Bui et.al.|[2502.12673v1](http://arxiv.org/abs/2502.12673v1)|null|
 |**2025-02-17**|**From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**|Matteo Scucchia et.al.|[2502.12303v1](http://arxiv.org/abs/2502.12303v1)|null|
 |**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080v1](http://arxiv.org/abs/2502.12080v1)|null|
-|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v1](http://arxiv.org/abs/2502.11955v1)|null|
+|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|null|
 |**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801v1](http://arxiv.org/abs/2502.11801v1)|null|
 |**2025-02-17**|**Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**|Yanbin Li et.al.|[2502.11486v1](http://arxiv.org/abs/2502.11486v1)|null|
 |**2025-02-16**|**GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**|Zelin Zhou et.al.|[2502.10975v1](http://arxiv.org/abs/2502.10975v1)|null|
-|**2025-02-14**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156v1](http://arxiv.org/abs/2502.10156v1)|[link](https://github.com/ctu-vras/monoforce)|
+|**2025-02-14**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156v2](http://arxiv.org/abs/2502.10156v2)|[link](https://github.com/ctu-vras/monoforce)|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623v1](http://arxiv.org/abs/2502.09623v1)|null|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111v1](http://arxiv.org/abs/2502.09111v1)|null|
 |**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352v1](http://arxiv.org/abs/2502.08352v1)|null|
@@ -28,7 +32,3 @@
 |**2025-02-03**|**Statistical enhance learning for modeling and prediction tennis matches at Grand Slam tournaments**|Nourah Buhamra et.al.|[2502.01613v1](http://arxiv.org/abs/2502.01613v1)|null|
 |**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405v1](http://arxiv.org/abs/2502.01405v1)|null|
 |**2025-02-03**|**Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**|Dabin Kim et.al.|[2502.01092v1](http://arxiv.org/abs/2502.01092v1)|null|
-|**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[2502.00395v1](http://arxiv.org/abs/2502.00395v1)|[link](https://github.com/tumftm/flexcloud)|
-|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|[link](https://github.com/crepuscularlight/semanticloopclosure)|
-|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|[link](https://github.com/lastbasket/endo-2dtam)|
-|**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|

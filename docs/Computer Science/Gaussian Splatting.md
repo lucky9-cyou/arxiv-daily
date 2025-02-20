@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961v1](http://arxiv.org/abs/2502.13961v1)|null|
+|**2025-02-19**|**Partially Observable Gaussian Process Network and Doubly Stochastic Variational Inference**|Saksham Kiroriwal et.al.|[2502.13905v1](http://arxiv.org/abs/2502.13905v1)|null|
+|**2025-02-19**|**High-efficiency Electro-Optic Lens for radio frequency beam wavefront modulation for mode mismatch sensing**|Liu Tao et.al.|[2502.13885v1](http://arxiv.org/abs/2502.13885v1)|null|
+|**2025-02-19**|**Elastically Buckled Film-Substrate System as a Two-dimensional Crystal**|Wenqing Zhu et.al.|[2502.13864v1](http://arxiv.org/abs/2502.13864v1)|null|
+|**2025-02-19**|**Uncertainty quantification for Markov chains with application to temporal difference learning**|Weichen Wu et.al.|[2502.13822v1](http://arxiv.org/abs/2502.13822v1)|null|
+|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
+|**2025-02-19**|**Reverse Markov Learning: Multi-Step Generative Models for Complex Distributions**|Xinwei Shen et.al.|[2502.13747v1](http://arxiv.org/abs/2502.13747v1)|null|
+|**2025-02-19**|**Generalization error bound for denoising score matching under relaxed manifold assumption**|Konstantin Yakovlev et.al.|[2502.13662v1](http://arxiv.org/abs/2502.13662v1)|null|
+|**2025-02-19**|**Pericoronary adipose tissue attenuation as a predictor of functional severity of coronary stenosis**|Marta Pillitteri et.al.|[2502.13649v1](http://arxiv.org/abs/2502.13649v1)|null|
+|**2025-02-19**|**Optimization of the Woodcock Particle Tracking Method Using Neural Network**|Bingnan Zhang et.al.|[2502.13620v1](http://arxiv.org/abs/2502.13620v1)|null|
+|**2025-02-19**|**Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton**|Chengmei Niu et.al.|[2502.13583v1](http://arxiv.org/abs/2502.13583v1)|null|
+|**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574v1](http://arxiv.org/abs/2502.13574v1)|null|
+|**2025-02-19**|**Precise quantile function estimation from the characteristic function**|Gero Junike et.al.|[2502.13537v1](http://arxiv.org/abs/2502.13537v1)|null|
+|**2025-02-19**|**Diffusion Transients in Motility-Induced Phase Separation**|Shubhadip Nayak et.al.|[2502.13504v1](http://arxiv.org/abs/2502.13504v1)|null|
+|**2025-02-19**|**Desmearing two-dimensional small-angle neutron scattering data by central moment expansions**|Guan-Rong Huang et.al.|[2502.13488v1](http://arxiv.org/abs/2502.13488v1)|null|
+|**2025-02-19**|**Extra-Dimensional de Broglie-Bohm Quantum Cosmology**|F. A. P. Alves-Júnior et.al.|[2502.13402v1](http://arxiv.org/abs/2502.13402v1)|null|
+|**2025-02-19**|**Searching Axion-like Dark Matter by Amplifying Weak Magnetic Field with Quantum Zeno effect**|J. Dong et.al.|[2502.13393v1](http://arxiv.org/abs/2502.13393v1)|null|
+|**2025-02-18**|**Debiasing Functions of Private Statistics in Postprocessing**|Flavio Calmon et.al.|[2502.13314v1](http://arxiv.org/abs/2502.13314v1)|null|
+|**2025-02-18**|**Transparent Graphene-Superconductor Interfaces: Quantum Hall and Zero Field Regimes**|Alexey Bondarev et.al.|[2502.13307v1](http://arxiv.org/abs/2502.13307v1)|null|
+|**2025-02-18**|**A general approach to the statistics of microbial orientation: Lévy walks, noise, and deterministic motion**|Taylor Whitney et.al.|[2502.13304v1](http://arxiv.org/abs/2502.13304v1)|null|
+|**2025-02-18**|**Task Shift: From Classification to Regression in Overparameterized Linear Models**|Tyler LaBonte et.al.|[2502.13285v1](http://arxiv.org/abs/2502.13285v1)|[link](https://github.com/tmlabonte/taskshift)|
+|**2025-02-18**|**Spectral method for low-dose Poisson and Bernoulli phase retrieval**|Sjoerd Dirksen et.al.|[2502.13263v1](http://arxiv.org/abs/2502.13263v1)|null|
+|**2025-02-18**|**Robust Inference for the Direct Average Treatment Effect with Treatment Assignment Interference**|Matias D. Cattaneo et.al.|[2502.13238v1](http://arxiv.org/abs/2502.13238v1)|null|
+|**2025-02-18**|**Inferring the density and membership of stellar streams with flexible models: The GD-1 stream in Gaia Data Release 3**|Kiyan Tavangar et.al.|[2502.13236v1](http://arxiv.org/abs/2502.13236v1)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196v1](http://arxiv.org/abs/2502.13196v1)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
 |**2025-02-18**|**Ensemble Kalman filter in latent space using a variational autoencoder pair**|Ivo Pasmans et.al.|[2502.12987v1](http://arxiv.org/abs/2502.12987v1)|null|
 |**2025-02-18**|**Towards Variational Flow Matching on General Geometries**|Olga Zaghen et.al.|[2502.12981v1](http://arxiv.org/abs/2502.12981v1)|null|
 |**2025-02-18**|**A Bayesian Perspective on Uncertainty Quantification for Estimated Graph Signals**|Lennard Rompelberg et.al.|[2502.12971v1](http://arxiv.org/abs/2502.12971v1)|null|
 |**2025-02-18**|**Polarization agnostic continuous variable quantum key distribution**|Brian P. Williams et.al.|[2502.12968v1](http://arxiv.org/abs/2502.12968v1)|null|
-|**2025-02-18**|**Pushing the Limits of the Reactive Affine Shaker Algorithm to Higher Dimensions**|Roberto Battiti et.al.|[2502.12877v1](http://arxiv.org/abs/2502.12877v1)|null|
-|**2025-02-18**|**Efficient Individually Rational Recommender System under Stochastic Order**|Gal Bahar et.al.|[2502.12766v1](http://arxiv.org/abs/2502.12766v1)|null|
-|**2025-02-18**|**Geometric Flavours of Quantum Field Theory on a Cauchy Hypersurface: Gaussian Analysis for the Hamiltonian Formalism and Applications to Cosmology**|David Martínez-Crespo et.al.|[2502.12760v1](http://arxiv.org/abs/2502.12760v1)|null|
-|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752v1](http://arxiv.org/abs/2502.12752v1)|null|
-|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686v1](http://arxiv.org/abs/2502.12686v1)|null|
-|**2025-02-18**|**Harmonics-assisted optical phase amplification with a self-mixing thin-slice Nd:GdVO4 laser operating in the self-induced skew cosh Gaussian mode**|Kenju Otsuka et.al.|[2502.12597v1](http://arxiv.org/abs/2502.12597v1)|null|
-|**2025-02-18**|**DeltaDiff: A Residual-Guided Diffusion Model for Enhanced Image Super-Resolution**|Chao Yang et.al.|[2502.12567v1](http://arxiv.org/abs/2502.12567v1)|null|
-|**2025-02-18**|**Warm Starting of CMA-ES for Contextual Optimization Problems**|Yuta Sekino et.al.|[2502.12555v1](http://arxiv.org/abs/2502.12555v1)|null|
-|**2025-02-18**|**An Algorithm Board in Neural Decoding**|Jingyi Feng et.al.|[2502.12536v1](http://arxiv.org/abs/2502.12536v1)|null|
-|**2025-02-18**|**On the peak height distribution of non-stationary Gaussian random fields: 1D general covariance and scale space**|Yu Zhao et.al.|[2502.12452v1](http://arxiv.org/abs/2502.12452v1)|null|
-|**2025-02-18**|**Gaseous Object Detection**|Kailai Zhou et.al.|[2502.12415v1](http://arxiv.org/abs/2502.12415v1)|null|
-|**2025-02-17**|**Locally-Deployed Chain-of-Thought (CoT) Reasoning Model in Chemical Engineering: Starting from 30 Experimental Data**|Tianhang Zhou et.al.|[2502.12383v1](http://arxiv.org/abs/2502.12383v1)|null|
-|**2025-02-17**|**Many-body theory and Gaussian-basis implementation of positron annihilation $γ$-ray spectra on polyatomic molecules**|S. K. Gregg et.al.|[2502.12364v1](http://arxiv.org/abs/2502.12364v1)|null|
-|**2025-02-17**|**Inference for Log-Gaussian Cox Point Processes using Bayesian Deep Learning: Application to Human Oral Microbiome Image Data**|Shuwan Wang et.al.|[2502.12334v1](http://arxiv.org/abs/2502.12334v1)|null|
-|**2025-02-17**|**Stochastic Schrödinger equation for homodyne measurements of strongly correlated systems**|Aniket Patra et.al.|[2502.12305v1](http://arxiv.org/abs/2502.12305v1)|null|
-|**2025-02-17**|**PUGS: Zero-shot Physical Understanding with Gaussian Splatting**|Yinghao Shuai et.al.|[2502.12231v1](http://arxiv.org/abs/2502.12231v1)|null|
-|**2025-02-17**|**Low-Rank Thinning**|Annabelle Michael Carrell et.al.|[2502.12063v1](http://arxiv.org/abs/2502.12063v1)|null|
-|**2025-02-17**|**On the Logic Elements Associated with Round-Off Errors and Gaussian Blur in Image Registration: A Simple Case of Commingling**|Serap A. Savari et.al.|[2502.11992v1](http://arxiv.org/abs/2502.11992v1)|null|
-|**2025-02-17**|**On a Semiparametric Stochastic Volatility Model**|Yudong Feng et.al.|[2502.11954v1](http://arxiv.org/abs/2502.11954v1)|null|
-|**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846v1](http://arxiv.org/abs/2502.11846v1)|null|
-|**2025-02-17**|**Empirical plunge profiles of time-frequency localization operators**|Simon Halvdansson et.al.|[2502.11805v1](http://arxiv.org/abs/2502.11805v1)|null|
-|**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801v1](http://arxiv.org/abs/2502.11801v1)|null|
-|**2025-02-17**|**A method for signal components identification in acoustic signal with non-Gaussian background noise using clustering of data in time-frequency domain**|A Drewnicka et.al.|[2502.11786v1](http://arxiv.org/abs/2502.11786v1)|null|
-|**2025-02-17**|**Exploring the Versal AI Engine for 3D Gaussian Splatting**|Kotaro Shimamura et.al.|[2502.11782v1](http://arxiv.org/abs/2502.11782v1)|null|
-|**2025-02-17**|**Surrogate-based ABC matches generalized Bayesian inference under specific discrepancy and kernel choices**|Marko Järvenpää et.al.|[2502.11738v1](http://arxiv.org/abs/2502.11738v1)|null|

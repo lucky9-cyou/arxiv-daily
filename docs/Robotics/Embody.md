@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143v1](http://arxiv.org/abs/2502.13143v1)|null|
-|**2025-02-18**|**AIDE: AI-Driven Exploration in the Space of Code**|Zhengyao Jiang et.al.|[2502.13138v1](http://arxiv.org/abs/2502.13138v1)|null|
-|**2025-02-18**|**Rethinking Diverse Human Preference Learning through Principal Component Analysis**|Feng Luo et.al.|[2502.13131v1](http://arxiv.org/abs/2502.13131v1)|null|
-|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130v1](http://arxiv.org/abs/2502.13130v1)|null|
-|**2025-02-18**|**Performance Evaluation of Large Language Models in Statistical Programming**|Xinyi Song et.al.|[2502.13117v1](http://arxiv.org/abs/2502.13117v1)|null|
-|**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113v1](http://arxiv.org/abs/2502.13113v1)|null|
-|**2025-02-18**|**MatterChat: A Multi-Modal LLM for Material Science**|Yingheng Tang et.al.|[2502.13107v1](http://arxiv.org/abs/2502.13107v1)|null|
-|**2025-02-18**|**AI and the Transformation of Accountability and Discretion in Urban Governance**|Stephen Goldsmith et.al.|[2502.13101v1](http://arxiv.org/abs/2502.13101v1)|null|
-|**2025-02-18**|**Interactive Agents to Overcome Ambiguity in Software Engineering**|Sanidhya Vijayvargiya et.al.|[2502.13069v1](http://arxiv.org/abs/2502.13069v1)|null|
-|**2025-02-18**|**AI-Assisted Decision Making with Human Learning**|Gali Noti et.al.|[2502.13062v1](http://arxiv.org/abs/2502.13062v1)|null|
-|**2025-02-18**|**AEIA-MN: Evaluating the Robustness of Multimodal LLM-Powered Mobile Agents Against Active Environmental Injection Attacks**|Yurun Chen et.al.|[2502.13053v1](http://arxiv.org/abs/2502.13053v1)|null|
-|**2025-02-18**|**A deep learning framework for efficient pathology image analysis**|Peter Neidlinger et.al.|[2502.13027v1](http://arxiv.org/abs/2502.13027v1)|null|
-|**2025-02-18**|**Records from the S-Matrix Marathon: Asymptotic Observables**|Simon Caron-Huot et.al.|[2502.13021v1](http://arxiv.org/abs/2502.13021v1)|null|
-|**2025-02-18**|**Investigating Issues that Lead to Code Technical Debt in Machine Learning Systems**|Rodrigo Ximenes et.al.|[2502.13011v1](http://arxiv.org/abs/2502.13011v1)|null|
-|**2025-02-18**|**Integrating Reinforcement Learning, Action Model Learning, and Numeric Planning for Tackling Complex Tasks**|Yarin Benyamin et.al.|[2502.13006v1](http://arxiv.org/abs/2502.13006v1)|null|
-|**2025-02-18**|**Artificial Intelligence-derived Vascular Age from Photoplethysmography: A Novel Digital Biomarker for Cardiovascular Health**|Guangkun Nie et.al.|[2502.12990v1](http://arxiv.org/abs/2502.12990v1)|null|
-|**2025-02-18**|**Generative AI and Information Asymmetry: Impacts on Adverse Selection and Moral Hazard**|Yukun Zhang et.al.|[2502.12969v1](http://arxiv.org/abs/2502.12969v1)|null|
-|**2025-02-18**|**AI-Enabled Rent-Seeking: How Generative AI Alters Market Transparency and Efficiency**|Yukun Zhang et.al.|[2502.12956v1](http://arxiv.org/abs/2502.12956v1)|null|
-|**2025-02-18**|**Fake It Till You Make It: Using Synthetic Data and Domain Knowledge for Improved Text-Based Learning for LGE Detection**|Athira J Jacob et.al.|[2502.12948v1](http://arxiv.org/abs/2502.12948v1)|null|
-|**2025-02-18**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945v1](http://arxiv.org/abs/2502.12945v1)|null|
-|**2025-02-18**|**Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning**|Nandakishor M et.al.|[2502.12876v1](http://arxiv.org/abs/2502.12876v1)|null|
-|**2025-02-18**|**RobotIQ: Empowering Mobile Robots with Human-Level Planning for Real-World Execution**|Emmanuel K. Raptis et.al.|[2502.12862v1](http://arxiv.org/abs/2502.12862v1)|null|
-|**2025-02-18**|**Towards Adaptive Feedback with AI: Comparing the Feedback Quality of LLMs and Teachers on Experimentation Protocols**|Kathrin Seßler et.al.|[2502.12842v1](http://arxiv.org/abs/2502.12842v1)|null|
-|**2025-02-18**|**Towards Equitable AI: Detecting Bias in Using Large Language Models for Marketing**|Berk Yilmaz et.al.|[2502.12838v1](http://arxiv.org/abs/2502.12838v1)|null|
-|**2025-02-18**|**Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**|Rubing Lu et.al.|[2502.12825v1](http://arxiv.org/abs/2502.12825v1)|null|
-|**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817v1](http://arxiv.org/abs/2502.12817v1)|null|
-|**2025-02-18**|**Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning**|Jaike van Twiller et.al.|[2502.12756v1](http://arxiv.org/abs/2502.12756v1)|null|
-|**2025-02-18**|**Green LIME: Improving AI Explainability through Design of Experiments**|Alexandra Stadler et.al.|[2502.12753v1](http://arxiv.org/abs/2502.12753v1)|null|
-|**2025-02-18**|**3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces**|Fabian Bongratz et.al.|[2502.12742v1](http://arxiv.org/abs/2502.12742v1)|null|
-|**2025-02-18**|**Multi-Novelty: Improve the Diversity and Novelty of Contents Generated by Large Language Models via inference-time Multi-Views Brainstorming**|Arash Lagzian et.al.|[2502.12700v1](http://arxiv.org/abs/2502.12700v1)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965v1](http://arxiv.org/abs/2502.13965v1)|null|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923v1](http://arxiv.org/abs/2502.13923v1)|null|
+|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899v1](http://arxiv.org/abs/2502.13899v1)|null|
+|**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891v1](http://arxiv.org/abs/2502.13891v1)|null|
+|**2025-02-19**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874v1](http://arxiv.org/abs/2502.13874v1)|null|
+|**2025-02-19**|**ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities**|Chanjin Zheng et.al.|[2502.13832v1](http://arxiv.org/abs/2502.13832v1)|null|
+|**2025-02-19**|**Building Age Estimation: A New Multi-Modal Benchmark Dataset and Community Challenge**|Nikolaos Dionelis et.al.|[2502.13818v1](http://arxiv.org/abs/2502.13818v1)|null|
+|**2025-02-19**|**Exploring Embodied Emotional Communication: A Human-oriented Review of Mediated Social Touch**|Liwen He et.al.|[2502.13816v1](http://arxiv.org/abs/2502.13816v1)|null|
+|**2025-02-19**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis**|Tianqing Wang et.al.|[2502.13805v1](http://arxiv.org/abs/2502.13805v1)|null|
+|**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789v1](http://arxiv.org/abs/2502.13789v1)|null|
+|**2025-02-19**|**Helix-mRNA: A Hybrid Foundation Model For Full Sequence mRNA Therapeutics**|Matthew Wood et.al.|[2502.13785v1](http://arxiv.org/abs/2502.13785v1)|null|
+|**2025-02-19**|**User Agency and System Automation in Interactive Intelligent Systems**|Thomas Langerak et.al.|[2502.13779v1](http://arxiv.org/abs/2502.13779v1)|null|
+|**2025-02-19**|**VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare**|Anudeex Shetty et.al.|[2502.13775v1](http://arxiv.org/abs/2502.13775v1)|null|
+|**2025-02-19**|**AI Software Engineer: Programming with Trust**|Abhik Roychoudhury et.al.|[2502.13767v1](http://arxiv.org/abs/2502.13767v1)|null|
+|**2025-02-19**|**Inference of Abstraction for Grounded Predicate Logic**|Hiroyuki Kido et.al.|[2502.13743v1](http://arxiv.org/abs/2502.13743v1)|null|
+|**2025-02-19**|**PEDRO-V: From a concurrent engineering case study to a promising phase zero mission definition**|Domenico D'Auria et.al.|[2502.13737v1](http://arxiv.org/abs/2502.13737v1)|null|
+|**2025-02-19**|**CARE: Confidence-Aware Regression Estimation of building density fine-tuning EO Foundation Models**|Nikolaos Dionelis et.al.|[2502.13734v1](http://arxiv.org/abs/2502.13734v1)|null|
+|**2025-02-19**|**AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models**|Yuanyuan Xu et.al.|[2502.13626v1](http://arxiv.org/abs/2502.13626v1)|null|
+|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|null|
+|**2025-02-19**|**Amplitude analysis of $ψ(3686)\to γK_S^0 K_S^0 $**|BESIII Collaboration et.al.|[2502.13540v1](http://arxiv.org/abs/2502.13540v1)|null|
+|**2025-02-19**|**Integration of Agentic AI with 6G Networks for Mission-Critical Applications: Use-case and Challenges**|Sunder Ali Khowaja et.al.|[2502.13476v1](http://arxiv.org/abs/2502.13476v1)|null|
+|**2025-02-19**|**MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation**|Lingfeng Zhang et.al.|[2502.13451v1](http://arxiv.org/abs/2502.13451v1)|null|
+|**2025-02-19**|**Vision-Based Generic Potential Function for Policy Alignment in Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2502.13430v1](http://arxiv.org/abs/2502.13430v1)|null|
+|**2025-02-19**|**Virtual Encounters of the Haptic Kind: Towards a Multi-User VR System for Real-Time Social Touch**|Premankur Banerjee et.al.|[2502.13421v1](http://arxiv.org/abs/2502.13421v1)|null|
+|**2025-02-19**|**RLTHF: Targeted Human Feedback for LLM Alignment**|Yifei Xu et.al.|[2502.13417v1](http://arxiv.org/abs/2502.13417v1)|null|
+|**2025-02-19**|**Flow-based generative models as iterative algorithms in probability space**|Yao Xie et.al.|[2502.13394v1](http://arxiv.org/abs/2502.13394v1)|null|
+|**2025-02-19**|**Searching Axion-like Dark Matter by Amplifying Weak Magnetic Field with Quantum Zeno effect**|J. Dong et.al.|[2502.13393v1](http://arxiv.org/abs/2502.13393v1)|null|
+|**2025-02-19**|**Fighter Jet Navigation and Combat using Deep Reinforcement Learning with Explainable AI**|Swati Kar et.al.|[2502.13373v1](http://arxiv.org/abs/2502.13373v1)|null|
+|**2025-02-18**|**Adjust for Trust: Mitigating Trust-Induced Inappropriate Reliance on AI Assistance**|Tejas Srinivasan et.al.|[2502.13321v1](http://arxiv.org/abs/2502.13321v1)|null|
+|**2025-02-18**|**The "Who'', "What'', and "How'' of Responsible AI Governance: A Systematic Review and Meta-Analysis of (Actor, Stage)-Specific Tools**|Blaine Kuehnert et.al.|[2502.13294v1](http://arxiv.org/abs/2502.13294v1)|null|
