@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965v1](http://arxiv.org/abs/2502.13965v1)|null|
-|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923v1](http://arxiv.org/abs/2502.13923v1)|null|
-|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899v1](http://arxiv.org/abs/2502.13899v1)|null|
-|**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891v1](http://arxiv.org/abs/2502.13891v1)|null|
-|**2025-02-19**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874v1](http://arxiv.org/abs/2502.13874v1)|null|
-|**2025-02-19**|**ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities**|Chanjin Zheng et.al.|[2502.13832v1](http://arxiv.org/abs/2502.13832v1)|null|
-|**2025-02-19**|**Building Age Estimation: A New Multi-Modal Benchmark Dataset and Community Challenge**|Nikolaos Dionelis et.al.|[2502.13818v1](http://arxiv.org/abs/2502.13818v1)|null|
-|**2025-02-19**|**Exploring Embodied Emotional Communication: A Human-oriented Review of Mediated Social Touch**|Liwen He et.al.|[2502.13816v1](http://arxiv.org/abs/2502.13816v1)|null|
-|**2025-02-19**|**AnDB: Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis**|Tianqing Wang et.al.|[2502.13805v1](http://arxiv.org/abs/2502.13805v1)|null|
-|**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789v1](http://arxiv.org/abs/2502.13789v1)|null|
-|**2025-02-19**|**Helix-mRNA: A Hybrid Foundation Model For Full Sequence mRNA Therapeutics**|Matthew Wood et.al.|[2502.13785v1](http://arxiv.org/abs/2502.13785v1)|null|
-|**2025-02-19**|**User Agency and System Automation in Interactive Intelligent Systems**|Thomas Langerak et.al.|[2502.13779v1](http://arxiv.org/abs/2502.13779v1)|null|
-|**2025-02-19**|**VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare**|Anudeex Shetty et.al.|[2502.13775v1](http://arxiv.org/abs/2502.13775v1)|null|
-|**2025-02-19**|**AI Software Engineer: Programming with Trust**|Abhik Roychoudhury et.al.|[2502.13767v1](http://arxiv.org/abs/2502.13767v1)|null|
-|**2025-02-19**|**Inference of Abstraction for Grounded Predicate Logic**|Hiroyuki Kido et.al.|[2502.13743v1](http://arxiv.org/abs/2502.13743v1)|null|
-|**2025-02-19**|**PEDRO-V: From a concurrent engineering case study to a promising phase zero mission definition**|Domenico D'Auria et.al.|[2502.13737v1](http://arxiv.org/abs/2502.13737v1)|null|
-|**2025-02-19**|**CARE: Confidence-Aware Regression Estimation of building density fine-tuning EO Foundation Models**|Nikolaos Dionelis et.al.|[2502.13734v1](http://arxiv.org/abs/2502.13734v1)|null|
-|**2025-02-19**|**AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models**|Yuanyuan Xu et.al.|[2502.13626v1](http://arxiv.org/abs/2502.13626v1)|null|
-|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|null|
-|**2025-02-19**|**Amplitude analysis of $ψ(3686)\to γK_S^0 K_S^0 $**|BESIII Collaboration et.al.|[2502.13540v1](http://arxiv.org/abs/2502.13540v1)|null|
-|**2025-02-19**|**Integration of Agentic AI with 6G Networks for Mission-Critical Applications: Use-case and Challenges**|Sunder Ali Khowaja et.al.|[2502.13476v1](http://arxiv.org/abs/2502.13476v1)|null|
-|**2025-02-19**|**MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation**|Lingfeng Zhang et.al.|[2502.13451v1](http://arxiv.org/abs/2502.13451v1)|null|
-|**2025-02-19**|**Vision-Based Generic Potential Function for Policy Alignment in Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2502.13430v1](http://arxiv.org/abs/2502.13430v1)|null|
-|**2025-02-19**|**Virtual Encounters of the Haptic Kind: Towards a Multi-User VR System for Real-Time Social Touch**|Premankur Banerjee et.al.|[2502.13421v1](http://arxiv.org/abs/2502.13421v1)|null|
-|**2025-02-19**|**RLTHF: Targeted Human Feedback for LLM Alignment**|Yifei Xu et.al.|[2502.13417v1](http://arxiv.org/abs/2502.13417v1)|null|
-|**2025-02-19**|**Flow-based generative models as iterative algorithms in probability space**|Yao Xie et.al.|[2502.13394v1](http://arxiv.org/abs/2502.13394v1)|null|
-|**2025-02-19**|**Searching Axion-like Dark Matter by Amplifying Weak Magnetic Field with Quantum Zeno effect**|J. Dong et.al.|[2502.13393v1](http://arxiv.org/abs/2502.13393v1)|null|
-|**2025-02-19**|**Fighter Jet Navigation and Combat using Deep Reinforcement Learning with Explainable AI**|Swati Kar et.al.|[2502.13373v1](http://arxiv.org/abs/2502.13373v1)|null|
-|**2025-02-18**|**Adjust for Trust: Mitigating Trust-Induced Inappropriate Reliance on AI Assistance**|Tejas Srinivasan et.al.|[2502.13321v1](http://arxiv.org/abs/2502.13321v1)|null|
-|**2025-02-18**|**The "Who'', "What'', and "How'' of Responsible AI Governance: A Systematic Review and Meta-Analysis of (Actor, Stage)-Specific Tools**|Blaine Kuehnert et.al.|[2502.13294v1](http://arxiv.org/abs/2502.13294v1)|null|
+|**2025-02-20**|**Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical and Cultural Artifacts**|Sara Ghaboura et.al.|[2502.14865v1](http://arxiv.org/abs/2502.14865v1)|null|
+|**2025-02-20**|**Interpretable Text Embeddings and Text Similarity Explanation: A Primer**|Juri Opitz et.al.|[2502.14862v1](http://arxiv.org/abs/2502.14862v1)|null|
+|**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833v1](http://arxiv.org/abs/2502.14833v1)|null|
+|**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819v1](http://arxiv.org/abs/2502.14819v1)|null|
+|**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815v1](http://arxiv.org/abs/2502.14815v1)|null|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802v1](http://arxiv.org/abs/2502.14802v1)|null|
+|**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780v1](http://arxiv.org/abs/2502.14780v1)|null|
+|**2025-02-20**|**AIdeation: Designing a Human-AI Collaborative Ideation System for Concept Designers**|Wen-Fan Wang et.al.|[2502.14747v1](http://arxiv.org/abs/2502.14747v1)|null|
+|**2025-02-20**|**Multi-Agent Coordination across Diverse Applications: A Survey**|Lijun Sun et.al.|[2502.14743v1](http://arxiv.org/abs/2502.14743v1)|null|
+|**2025-02-20**|**Human Misperception of Generative-AI Alignment: A Laboratory Experiment**|Kevin He et.al.|[2502.14708v1](http://arxiv.org/abs/2502.14708v1)|null|
+|**2025-02-20**|**Explanations of Deep Language Models Explain Language Representations in the Brain**|Maryam Rahimi et.al.|[2502.14671v1](http://arxiv.org/abs/2502.14671v1)|null|
+|**2025-02-20**|**Augmenting Coaching with GenAI: Insights into Use, Effectiveness, and Future Potential**|Jennifer Haase et.al.|[2502.14632v1](http://arxiv.org/abs/2502.14632v1)|null|
+|**2025-02-20**|**A Statistical Case Against Empirical Human-AI Alignment**|Julian Rodemann et.al.|[2502.14581v1](http://arxiv.org/abs/2502.14581v1)|null|
+|**2025-02-20**|**Less is More: Improving LLM Alignment via Preference Data Selection**|Xun Deng et.al.|[2502.14560v1](http://arxiv.org/abs/2502.14560v1)|null|
+|**2025-02-20**|**From Mutation to Degradation: Predicting Nonsense-Mediated Decay with NMDEP**|Ali Saadat et.al.|[2502.14547v1](http://arxiv.org/abs/2502.14547v1)|null|
+|**2025-02-20**|**MLGym: A New Framework and Benchmark for Advancing AI Research Agents**|Deepak Nathani et.al.|[2502.14499v1](http://arxiv.org/abs/2502.14499v1)|null|
+|**2025-02-20**|**Statistical Scenario Modelling and Lookalike Distributions for Multi-Variate AI Risk**|Elija Perrier et.al.|[2502.14491v1](http://arxiv.org/abs/2502.14491v1)|null|
+|**2025-02-20**|**An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs**|Luca Crupi et.al.|[2502.14455v1](http://arxiv.org/abs/2502.14455v1)|null|
+|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445v1](http://arxiv.org/abs/2502.14445v1)|null|
+|**2025-02-20**|**HPS: Hard Preference Sampling for Human Preference Alignment**|Xiandong Zou et.al.|[2502.14400v1](http://arxiv.org/abs/2502.14400v1)|null|
+|**2025-02-20**|**S*: Test Time Scaling for Code Generation**|Dacheng Li et.al.|[2502.14382v1](http://arxiv.org/abs/2502.14382v1)|null|
+|**2025-02-20**|**SolSearch: An LLM-Driven Framework for Efficient SAT-Solving Code Generation**|Junjie Sheng et.al.|[2502.14328v1](http://arxiv.org/abs/2502.14328v1)|null|
+|**2025-02-20**|**The Impact and Feasibility of Self-Confidence Shaping for AI-Assisted Decision-Making**|Takehiro Takayanagi et.al.|[2502.14311v1](http://arxiv.org/abs/2502.14311v1)|null|
+|**2025-02-20**|**Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications**|Kayhan Behdin et.al.|[2502.14305v1](http://arxiv.org/abs/2502.14305v1)|null|
+|**2025-02-20**|**An Evaluation of Sakana's AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards 'Artificial General Research Intelligence' (AGRI)?**|Joeran Beel et.al.|[2502.14297v1](http://arxiv.org/abs/2502.14297v1)|null|
+|**2025-02-20**|**On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective**|Yue Huang et.al.|[2502.14296v1](http://arxiv.org/abs/2502.14296v1)|null|
+|**2025-02-20**|**SPRIG: Stackelberg Perception-Reinforcement Learning with Internal Game Dynamics**|Fernando Martinez-Lopez et.al.|[2502.14264v1](http://arxiv.org/abs/2502.14264v1)|null|
+|**2025-02-20**|**Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation**|Lingfeng Zhang et.al.|[2502.14254v1](http://arxiv.org/abs/2502.14254v1)|null|
+|**2025-02-20**|**Combined Quantum and Post-Quantum Security for Earth-Satellite Channels**|Anju Rani et.al.|[2502.14240v1](http://arxiv.org/abs/2502.14240v1)|null|
+|**2025-02-20**|**Feedforward in Generative AI: Opportunities for a Design Space**|Bryan Min et.al.|[2502.14229v1](http://arxiv.org/abs/2502.14229v1)|null|
