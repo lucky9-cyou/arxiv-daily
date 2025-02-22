@@ -20,7 +20,7 @@
 |**2025-02-20**|**MLGym: A New Framework and Benchmark for Advancing AI Research Agents**|Deepak Nathani et.al.|[2502.14499v1](http://arxiv.org/abs/2502.14499v1)|null|
 |**2025-02-20**|**Statistical Scenario Modelling and Lookalike Distributions for Multi-Variate AI Risk**|Elija Perrier et.al.|[2502.14491v1](http://arxiv.org/abs/2502.14491v1)|null|
 |**2025-02-20**|**An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs**|Luca Crupi et.al.|[2502.14455v1](http://arxiv.org/abs/2502.14455v1)|null|
-|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445v1](http://arxiv.org/abs/2502.14445v1)|null|
+|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445v1](http://arxiv.org/abs/2502.14445v1)|[link](https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard)|
 |**2025-02-20**|**HPS: Hard Preference Sampling for Human Preference Alignment**|Xiandong Zou et.al.|[2502.14400v1](http://arxiv.org/abs/2502.14400v1)|null|
 |**2025-02-20**|**S*: Test Time Scaling for Code Generation**|Dacheng Li et.al.|[2502.14382v1](http://arxiv.org/abs/2502.14382v1)|null|
 |**2025-02-20**|**SolSearch: An LLM-Driven Framework for Efficient SAT-Solving Code Generation**|Junjie Sheng et.al.|[2502.14328v1](http://arxiv.org/abs/2502.14328v1)|null|
