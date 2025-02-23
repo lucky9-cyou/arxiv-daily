@@ -7,7 +7,7 @@
 |**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833v1](http://arxiv.org/abs/2502.14833v1)|null|
 |**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819v1](http://arxiv.org/abs/2502.14819v1)|null|
 |**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815v1](http://arxiv.org/abs/2502.14815v1)|null|
-|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802v1](http://arxiv.org/abs/2502.14802v1)|null|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802v1](http://arxiv.org/abs/2502.14802v1)|[link](https://github.com/osu-nlp-group/hipporag)|
 |**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780v1](http://arxiv.org/abs/2502.14780v1)|null|
 |**2025-02-20**|**AIdeation: Designing a Human-AI Collaborative Ideation System for Concept Designers**|Wen-Fan Wang et.al.|[2502.14747v1](http://arxiv.org/abs/2502.14747v1)|null|
 |**2025-02-20**|**Multi-Agent Coordination across Diverse Applications: A Survey**|Lijun Sun et.al.|[2502.14743v1](http://arxiv.org/abs/2502.14743v1)|null|
@@ -22,7 +22,7 @@
 |**2025-02-20**|**An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs**|Luca Crupi et.al.|[2502.14455v1](http://arxiv.org/abs/2502.14455v1)|null|
 |**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445v1](http://arxiv.org/abs/2502.14445v1)|[link](https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard)|
 |**2025-02-20**|**HPS: Hard Preference Sampling for Human Preference Alignment**|Xiandong Zou et.al.|[2502.14400v1](http://arxiv.org/abs/2502.14400v1)|null|
-|**2025-02-20**|**S*: Test Time Scaling for Code Generation**|Dacheng Li et.al.|[2502.14382v1](http://arxiv.org/abs/2502.14382v1)|null|
+|**2025-02-20**|**S*: Test Time Scaling for Code Generation**|Dacheng Li et.al.|[2502.14382v1](http://arxiv.org/abs/2502.14382v1)|[link](https://github.com/novasky-ai/skythought)|
 |**2025-02-20**|**SolSearch: An LLM-Driven Framework for Efficient SAT-Solving Code Generation**|Junjie Sheng et.al.|[2502.14328v1](http://arxiv.org/abs/2502.14328v1)|null|
 |**2025-02-20**|**The Impact and Feasibility of Self-Confidence Shaping for AI-Assisted Decision-Making**|Takehiro Takayanagi et.al.|[2502.14311v1](http://arxiv.org/abs/2502.14311v1)|null|
 |**2025-02-20**|**Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications**|Kayhan Behdin et.al.|[2502.14305v1](http://arxiv.org/abs/2502.14305v1)|null|

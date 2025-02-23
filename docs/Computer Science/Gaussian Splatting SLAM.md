@@ -28,7 +28,7 @@
 |**2025-02-19**|**Experiment Design with Gaussian Process Regression with Applications to Chance-Constrained Control**|Sean Anderson et.al.|[2502.14066v1](http://arxiv.org/abs/2502.14066v1)|null|
 |**2025-02-19**|**Goggin's corrected Kalman Filter: Guarantees and Filtering Regimes**|Imon Banerjee et.al.|[2502.14053v1](http://arxiv.org/abs/2502.14053v1)|null|
 |**2025-02-19**|**Decoherence-induced self-dual criticality in topological states of matter**|Qingyuan Wang et.al.|[2502.14034v1](http://arxiv.org/abs/2502.14034v1)|null|
-|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961v1](http://arxiv.org/abs/2502.13961v1)|null|
+|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961v1](http://arxiv.org/abs/2502.13961v1)|[link](https://github.com/IdePHICS/ComputationalDepth)|
 |**2025-02-19**|**Partially Observable Gaussian Process Network and Doubly Stochastic Variational Inference**|Saksham Kiroriwal et.al.|[2502.13905v1](http://arxiv.org/abs/2502.13905v1)|null|
 |**2025-02-19**|**High-efficiency Electro-Optic Lens for radio frequency beam wavefront modulation for mode mismatch sensing**|Liu Tao et.al.|[2502.13885v1](http://arxiv.org/abs/2502.13885v1)|null|
 |**2025-02-19**|**Elastically Buckled Film-Substrate System as a Two-dimensional Crystal**|Wenqing Zhu et.al.|[2502.13864v1](http://arxiv.org/abs/2502.13864v1)|null|
