@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**Quasi-invariance for SLE welding measures**|Shuo Fan et.al.|[2502.15669v1](http://arxiv.org/abs/2502.15669v1)|null|
+|**2025-02-21**|**Controlling curvature of self-assembling surfaces via patchy particle design**|Andraž Gnidovec et.al.|[2502.15668v1](http://arxiv.org/abs/2502.15668v1)|null|
+|**2025-02-21**|**Local geometry of high-dimensional mixture models: Effective spectral theory and dynamical transitions**|Gerard Ben Arous et.al.|[2502.15655v1](http://arxiv.org/abs/2502.15655v1)|null|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
+|**2025-02-21**|**KAD: No More FAD! An Effective and Efficient Evaluation Metric for Audio Generation**|Yoonjin Chung et.al.|[2502.15602v1](http://arxiv.org/abs/2502.15602v1)|null|
+|**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584v1](http://arxiv.org/abs/2502.15584v1)|null|
+|**2025-02-21**|**Feature maps for the Laplacian kernel and its generalizations**|Sudhendu Ahir et.al.|[2502.15575v1](http://arxiv.org/abs/2502.15575v1)|null|
+|**2025-02-21**|**Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors**|Milad Sefidgaran et.al.|[2502.15540v1](http://arxiv.org/abs/2502.15540v1)|null|
+|**2025-02-21**|**Decoding for Punctured Convolutional and Turbo Codes: A Deep Learning Solution for Protocols Compliance**|Yongli Yan et.al.|[2502.15475v1](http://arxiv.org/abs/2502.15475v1)|null|
+|**2025-02-21**|**Probabilistic morphisms and Bayesian supervised learning**|Hông Vân Lê et.al.|[2502.15408v1](http://arxiv.org/abs/2502.15408v1)|null|
+|**2025-02-21**|**Constructing Fermionic Hamiltonians with Non-Gaussianic low-energy states**|Kartik Anand et.al.|[2502.15368v1](http://arxiv.org/abs/2502.15368v1)|null|
+|**2025-02-21**|**TemplateGeNN: Neural Networks used to accelerate Gravitational Wave Template Bank Generation**|Susanna Green et.al.|[2502.15337v1](http://arxiv.org/abs/2502.15337v1)|null|
+|**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309v1](http://arxiv.org/abs/2502.15309v1)|[link](https://github.com/geluzhou/dynamic-gsg)|
+|**2025-02-21**|**Hierarchical Bayesian estimation of population-level torque law parameters from anomalous pulsar braking indices**|Andrés F. Vargas et.al.|[2502.15211v1](http://arxiv.org/abs/2502.15211v1)|null|
+|**2025-02-21**|**Optimizing Product Provenance Verification using Data Valuation Methods**|Raquib Bin Yousuf et.al.|[2502.15177v1](http://arxiv.org/abs/2502.15177v1)|null|
+|**2025-02-21**|**Optimal and Provable Calibration in High-Dimensional Binary Classification: Angular Calibration and Platt Scaling**|Yufan Li et.al.|[2502.15131v1](http://arxiv.org/abs/2502.15131v1)|null|
+|**2025-02-21**|**Do we really need the Rademacher complexities?**|Daniel Bartl et.al.|[2502.15118v1](http://arxiv.org/abs/2502.15118v1)|null|
+|**2025-02-21**|**Uniform mean estimation via generic chaining**|Daniel Bartl et.al.|[2502.15116v1](http://arxiv.org/abs/2502.15116v1)|null|
+|**2025-02-21**|**Multi-Wavelength characterization of VVVX open clusters**|C. O. Obasi et.al.|[2502.15114v1](http://arxiv.org/abs/2502.15114v1)|null|
+|**2025-02-20**|**Calibrating the Instrumental Drift in MAROON-X using an Ensemble Analysis**|Ritvik Basant et.al.|[2502.15074v1](http://arxiv.org/abs/2502.15074v1)|null|
+|**2025-02-20**|**GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data**|Rui Deng et.al.|[2502.15032v1](http://arxiv.org/abs/2502.15032v1)|null|
+|**2025-02-20**|**Adaptive Non-Gaussian Quantum State Engineering**|Valerio Crescimanna et.al.|[2502.14967v1](http://arxiv.org/abs/2502.14967v1)|null|
 |**2025-02-20**|**The Fourier coefficients of the holomorphic multiplicative chaos in the limit of large frequency**|Joseph Najnudel et.al.|[2502.14863v1](http://arxiv.org/abs/2502.14863v1)|null|
 |**2025-02-20**|**Primordial full bispectra from the general bounce cosmology**|Shingo Akama et.al.|[2502.14850v1](http://arxiv.org/abs/2502.14850v1)|null|
-|**2025-02-20**|**An Adversarial Analysis of Thompson Sampling for Full-information Online Learning: from Finite to Infinite Action Spaces**|Alexander Terenin et.al.|[2502.14790v1](http://arxiv.org/abs/2502.14790v1)|null|
+|**2025-02-20**|**An Adversarial Analysis of Thompson Sampling for Full-information Online Learning: from Finite to Infinite Action Spaces**|Alexander Terenin et.al.|[2502.14790v2](http://arxiv.org/abs/2502.14790v2)|null|
 |**2025-02-20**|**Branching with selection and mutation II: Mutant fitness of Gumbel type**|Su-Chan Park et.al.|[2502.14774v1](http://arxiv.org/abs/2502.14774v1)|null|
 |**2025-02-20**|**Efficient Multivariate Robust Mean Estimation Under Mean-Shift Contamination**|Ilias Diakonikolas et.al.|[2502.14772v1](http://arxiv.org/abs/2502.14772v1)|null|
-|**2025-02-20**|**Bispectrum constraints on Primordial non-Gaussianities with the eBOSS DR16 quasars**|Marina S. Cagliari et.al.|[2502.14758v1](http://arxiv.org/abs/2502.14758v1)|null|
+|**2025-02-20**|**Bispectrum constraints on Primordial non-Gaussianities with the eBOSS DR16 quasars**|Marina S. Cagliari et.al.|[2502.14758v1](http://arxiv.org/abs/2502.14758v1)|[link](https://github.com/mcagliari/eboss-dr16-qso-oqe)|
 |**2025-02-20**|**Classical and quantum Coxeter codes: Extending the Reed-Muller family**|Nolan J. Coble et.al.|[2502.14746v1](http://arxiv.org/abs/2502.14746v1)|null|
 |**2025-02-20**|**Interferometric detection of continuous-variable entanglement using two states**|Elena Callus et.al.|[2502.14700v1](http://arxiv.org/abs/2502.14700v1)|null|
-|**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684v1](http://arxiv.org/abs/2502.14684v1)|null|
-|**2025-02-20**|**A primordial origin to cosmic tensions: towards a joint solution to the $H_0$ and $S_8$ tensions with early dark energy and scale-dependent primordial non-Gaussianities**|Clément Stahl et.al.|[2502.14608v1](http://arxiv.org/abs/2502.14608v1)|null|
-|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604v1](http://arxiv.org/abs/2502.14604v1)|null|
-|**2025-02-20**|**A Theory for Conditional Generative Modeling on Multiple Data Sources**|Rongzhen Wang et.al.|[2502.14583v1](http://arxiv.org/abs/2502.14583v1)|null|
-|**2025-02-20**|**Quantum computer formulation of the FKP-operator eigenvalue problem for probabilistic learning on manifolds**|Christian Soize et.al.|[2502.14580v1](http://arxiv.org/abs/2502.14580v1)|null|
-|**2025-02-20**|**Modeling Tidal Streams and Tidal Tails around Galaxies Using Deep Wendelstein Imaging Data**|Jan-Niklas Pippert et.al.|[2502.14531v1](http://arxiv.org/abs/2502.14531v1)|null|
-|**2025-02-20**|**MOJAVE -- XXII. Brightness temperature distributions and geometric profiles along parsec-scale AGN jets**|E. V. Kravchenko et.al.|[2502.14516v1](http://arxiv.org/abs/2502.14516v1)|null|
-|**2025-02-20**|**Provable Quantum Algorithm Advantage for Gaussian Process Quadrature**|Cristian A. Galvis-Florez et.al.|[2502.14467v1](http://arxiv.org/abs/2502.14467v1)|null|
-|**2025-02-20**|**Exploiting Deblurring Networks for Radiance Fields**|Haeyun Choi et.al.|[2502.14454v1](http://arxiv.org/abs/2502.14454v1)|null|
-|**2025-02-20**|**Daily Land Surface Temperature Reconstruction in Landsat Cross-Track Areas Using Deep Ensemble Learning With Uncertainty Quantification**|Shengjie Liu et.al.|[2502.14433v1](http://arxiv.org/abs/2502.14433v1)|null|
-|**2025-02-20**|**Exact non-Markovian master equations: a generalized derivation for quadratic systems**|Antonio D'Abbruzzo et.al.|[2502.14364v1](http://arxiv.org/abs/2502.14364v1)|null|
-|**2025-02-20**|**Primordial black holes from the ultraslow-roll phase in the inflaton--curvaton mixed field inflation**|Bing-Yu Su et.al.|[2502.14323v1](http://arxiv.org/abs/2502.14323v1)|null|
-|**2025-02-20**|**Bayesian Parameter Inference and Uncertainty Quantification for a Computational Pulmonary Hemodynamics Model Using Gaussian Processes**|Amirreza Kachabi et.al.|[2502.14251v1](http://arxiv.org/abs/2502.14251v1)|null|
-|**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235v1](http://arxiv.org/abs/2502.14235v1)|null|
-|**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129v1](http://arxiv.org/abs/2502.14129v1)|null|
-|**2025-02-19**|**Experiment Design with Gaussian Process Regression with Applications to Chance-Constrained Control**|Sean Anderson et.al.|[2502.14066v1](http://arxiv.org/abs/2502.14066v1)|null|
-|**2025-02-19**|**Goggin's corrected Kalman Filter: Guarantees and Filtering Regimes**|Imon Banerjee et.al.|[2502.14053v1](http://arxiv.org/abs/2502.14053v1)|null|
-|**2025-02-19**|**Decoherence-induced self-dual criticality in topological states of matter**|Qingyuan Wang et.al.|[2502.14034v1](http://arxiv.org/abs/2502.14034v1)|null|
-|**2025-02-19**|**The Computational Advantage of Depth: Learning High-Dimensional Hierarchical Functions with Gradient Descent**|Yatin Dandi et.al.|[2502.13961v1](http://arxiv.org/abs/2502.13961v1)|[link](https://github.com/IdePHICS/ComputationalDepth)|
-|**2025-02-19**|**Partially Observable Gaussian Process Network and Doubly Stochastic Variational Inference**|Saksham Kiroriwal et.al.|[2502.13905v1](http://arxiv.org/abs/2502.13905v1)|null|
-|**2025-02-19**|**High-efficiency Electro-Optic Lens for radio frequency beam wavefront modulation for mode mismatch sensing**|Liu Tao et.al.|[2502.13885v1](http://arxiv.org/abs/2502.13885v1)|null|
-|**2025-02-19**|**Elastically Buckled Film-Substrate System as a Two-dimensional Crystal**|Wenqing Zhu et.al.|[2502.13864v1](http://arxiv.org/abs/2502.13864v1)|null|
