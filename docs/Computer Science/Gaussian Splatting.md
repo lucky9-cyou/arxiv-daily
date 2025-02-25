@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-21**|**Quasi-invariance for SLE welding measures**|Shuo Fan et.al.|[2502.15669v1](http://arxiv.org/abs/2502.15669v1)|null|
-|**2025-02-21**|**Controlling curvature of self-assembling surfaces via patchy particle design**|Andraž Gnidovec et.al.|[2502.15668v1](http://arxiv.org/abs/2502.15668v1)|null|
-|**2025-02-21**|**Local geometry of high-dimensional mixture models: Effective spectral theory and dynamical transitions**|Gerard Ben Arous et.al.|[2502.15655v1](http://arxiv.org/abs/2502.15655v1)|null|
-|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
-|**2025-02-21**|**KAD: No More FAD! An Effective and Efficient Evaluation Metric for Audio Generation**|Yoonjin Chung et.al.|[2502.15602v1](http://arxiv.org/abs/2502.15602v1)|null|
-|**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584v1](http://arxiv.org/abs/2502.15584v1)|null|
-|**2025-02-21**|**Feature maps for the Laplacian kernel and its generalizations**|Sudhendu Ahir et.al.|[2502.15575v1](http://arxiv.org/abs/2502.15575v1)|null|
-|**2025-02-21**|**Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors**|Milad Sefidgaran et.al.|[2502.15540v1](http://arxiv.org/abs/2502.15540v1)|null|
-|**2025-02-21**|**Decoding for Punctured Convolutional and Turbo Codes: A Deep Learning Solution for Protocols Compliance**|Yongli Yan et.al.|[2502.15475v1](http://arxiv.org/abs/2502.15475v1)|null|
-|**2025-02-21**|**Probabilistic morphisms and Bayesian supervised learning**|Hông Vân Lê et.al.|[2502.15408v1](http://arxiv.org/abs/2502.15408v1)|null|
-|**2025-02-21**|**Constructing Fermionic Hamiltonians with Non-Gaussianic low-energy states**|Kartik Anand et.al.|[2502.15368v1](http://arxiv.org/abs/2502.15368v1)|null|
-|**2025-02-21**|**TemplateGeNN: Neural Networks used to accelerate Gravitational Wave Template Bank Generation**|Susanna Green et.al.|[2502.15337v1](http://arxiv.org/abs/2502.15337v1)|null|
-|**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309v1](http://arxiv.org/abs/2502.15309v1)|[link](https://github.com/geluzhou/dynamic-gsg)|
-|**2025-02-21**|**Hierarchical Bayesian estimation of population-level torque law parameters from anomalous pulsar braking indices**|Andrés F. Vargas et.al.|[2502.15211v1](http://arxiv.org/abs/2502.15211v1)|null|
-|**2025-02-21**|**Optimizing Product Provenance Verification using Data Valuation Methods**|Raquib Bin Yousuf et.al.|[2502.15177v1](http://arxiv.org/abs/2502.15177v1)|null|
-|**2025-02-21**|**Optimal and Provable Calibration in High-Dimensional Binary Classification: Angular Calibration and Platt Scaling**|Yufan Li et.al.|[2502.15131v1](http://arxiv.org/abs/2502.15131v1)|null|
-|**2025-02-21**|**Do we really need the Rademacher complexities?**|Daniel Bartl et.al.|[2502.15118v1](http://arxiv.org/abs/2502.15118v1)|null|
-|**2025-02-21**|**Uniform mean estimation via generic chaining**|Daniel Bartl et.al.|[2502.15116v1](http://arxiv.org/abs/2502.15116v1)|null|
-|**2025-02-21**|**Multi-Wavelength characterization of VVVX open clusters**|C. O. Obasi et.al.|[2502.15114v1](http://arxiv.org/abs/2502.15114v1)|null|
-|**2025-02-20**|**Calibrating the Instrumental Drift in MAROON-X using an Ensemble Analysis**|Ritvik Basant et.al.|[2502.15074v1](http://arxiv.org/abs/2502.15074v1)|null|
-|**2025-02-20**|**GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data**|Rui Deng et.al.|[2502.15032v1](http://arxiv.org/abs/2502.15032v1)|null|
-|**2025-02-20**|**Adaptive Non-Gaussian Quantum State Engineering**|Valerio Crescimanna et.al.|[2502.14967v1](http://arxiv.org/abs/2502.14967v1)|null|
-|**2025-02-20**|**The Fourier coefficients of the holomorphic multiplicative chaos in the limit of large frequency**|Joseph Najnudel et.al.|[2502.14863v1](http://arxiv.org/abs/2502.14863v1)|null|
-|**2025-02-20**|**Primordial full bispectra from the general bounce cosmology**|Shingo Akama et.al.|[2502.14850v1](http://arxiv.org/abs/2502.14850v1)|null|
-|**2025-02-20**|**An Adversarial Analysis of Thompson Sampling for Full-information Online Learning: from Finite to Infinite Action Spaces**|Alexander Terenin et.al.|[2502.14790v2](http://arxiv.org/abs/2502.14790v2)|null|
-|**2025-02-20**|**Branching with selection and mutation II: Mutant fitness of Gumbel type**|Su-Chan Park et.al.|[2502.14774v1](http://arxiv.org/abs/2502.14774v1)|null|
-|**2025-02-20**|**Efficient Multivariate Robust Mean Estimation Under Mean-Shift Contamination**|Ilias Diakonikolas et.al.|[2502.14772v1](http://arxiv.org/abs/2502.14772v1)|null|
-|**2025-02-20**|**Bispectrum constraints on Primordial non-Gaussianities with the eBOSS DR16 quasars**|Marina S. Cagliari et.al.|[2502.14758v1](http://arxiv.org/abs/2502.14758v1)|[link](https://github.com/mcagliari/eboss-dr16-qso-oqe)|
-|**2025-02-20**|**Classical and quantum Coxeter codes: Extending the Reed-Muller family**|Nolan J. Coble et.al.|[2502.14746v1](http://arxiv.org/abs/2502.14746v1)|null|
-|**2025-02-20**|**Interferometric detection of continuous-variable entanglement using two states**|Elena Callus et.al.|[2502.14700v1](http://arxiv.org/abs/2502.14700v1)|null|
+|**2025-02-24**|**Invariance principle for the Gaussian Multiplicative Chaos via a high dimensional CLT with low rank increments**|Mriganka Basu Roy Chowdhury et.al.|[2502.17412v1](http://arxiv.org/abs/2502.17412v1)|null|
+|**2025-02-24**|**Mapping Parameter Correlations in Spinning Binary Black Hole Mergers**|Karen Kang et.al.|[2502.17402v1](http://arxiv.org/abs/2502.17402v1)|null|
+|**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
+|**2025-02-24**|**Bayesian Hierarchical Emulators for Multi-Level Models: BayHEm**|Louise Kimpton et.al.|[2502.17367v1](http://arxiv.org/abs/2502.17367v1)|null|
+|**2025-02-24**|**Quadrature squeezing in a nanophotonic microresonator**|Alexander E. Ulanov et.al.|[2502.17337v1](http://arxiv.org/abs/2502.17337v1)|null|
+|**2025-02-24**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288v1](http://arxiv.org/abs/2502.17288v1)|null|
+|**2025-02-24**|**On a class of high dimensional linear regression methods with debiasing and thresholding**|Ying-Ao Wang et.al.|[2502.17261v1](http://arxiv.org/abs/2502.17261v1)|null|
+|**2025-02-24**|**Learning Image Fractals Using Chaotic Differentiable Point Splatting**|Adarsh Djeacoumar et.al.|[2502.17230v1](http://arxiv.org/abs/2502.17230v1)|null|
+|**2025-02-24**|**Continuous variable quantum teleportation, $U(2)$ invariant squeezing and non-Gaussian resource states**|Mohak Sharma et.al.|[2502.17182v1](http://arxiv.org/abs/2502.17182v1)|null|
+|**2025-02-24**|**A Pragmatic Note on Evaluating Generative Models with Fréchet Inception Distance for Retinal Image Synthesis**|Yuli Wu et.al.|[2502.17160v1](http://arxiv.org/abs/2502.17160v1)|null|
+|**2025-02-24**|**The feasibility of multi-graph alignment: a Bayesian approach**|Louis Vassaux et.al.|[2502.17142v1](http://arxiv.org/abs/2502.17142v1)|null|
+|**2025-02-24**|**Qualitative quasi-invariance of low regularity Gaussian measures for the 1d quintic nonlinear Schrödinger equation**|Alexis Knezevitch et.al.|[2502.17094v1](http://arxiv.org/abs/2502.17094v1)|null|
+|**2025-02-24**|**VR-Pipe: Streamlining Hardware Graphics Pipeline for Volume Rendering**|Junseo Lee et.al.|[2502.17078v1](http://arxiv.org/abs/2502.17078v1)|null|
+|**2025-02-24**|**Conformal welding and the matter--Liouville--ghost factorisation**|Guillaume Baverez et.al.|[2502.17076v1](http://arxiv.org/abs/2502.17076v1)|null|
+|**2025-02-24**|**Noise Modulation over Wireless Energy Transfer: JEIH-Noise Mod**|Erkin Yapici et.al.|[2502.17074v1](http://arxiv.org/abs/2502.17074v1)|null|
+|**2025-02-24**|**On Space-Filling Input Design for Nonlinear Dynamic Model Learning: A Gaussian Process Approach**|Yuhan Liu et.al.|[2502.17042v1](http://arxiv.org/abs/2502.17042v1)|null|
+|**2025-02-24**|**A Multipole-Based Framework for Kerr Black Hole Mimickers: From General Construction to a Specific Case of Study**|Claudio Gambino et.al.|[2502.17032v1](http://arxiv.org/abs/2502.17032v1)|null|
+|**2025-02-24**|**Gaussian Difference: Find Any Change Instance in 3D Scenes**|Binbin Jiang et.al.|[2502.16941v1](http://arxiv.org/abs/2502.16941v1)|null|
+|**2025-02-24**|**A dynamic copula model for probabilistic forecasting of non-Gaussian multivariate time series**|John Zito et.al.|[2502.16874v1](http://arxiv.org/abs/2502.16874v1)|null|
+|**2025-02-24**|**Distributionally Robust Active Learning for Gaussian Process Regression**|Shion Takeno et.al.|[2502.16870v1](http://arxiv.org/abs/2502.16870v1)|null|
+|**2025-02-24**|**Random matrices acting on sets: Independent columns**|Yaniv Plan et.al.|[2502.16827v1](http://arxiv.org/abs/2502.16827v1)|null|
+|**2025-02-24**|**Weighted model calibration with spatial conditional information**|Michele Nguyen et.al.|[2502.16785v1](http://arxiv.org/abs/2502.16785v1)|null|
+|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773v1](http://arxiv.org/abs/2502.16773v1)|null|
+|**2025-02-24**|**Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity**|George Giapitzakis et.al.|[2502.16763v1](http://arxiv.org/abs/2502.16763v1)|null|
+|**2025-02-23**|**Evidence of a Disk-wind Origin for Fluorescent H$_2$ in Classical T Tauri Stars**|Matt Kalscheur et.al.|[2502.16749v1](http://arxiv.org/abs/2502.16749v1)|null|
+|**2025-02-23**|**GS-TransUNet: Integrated 2D Gaussian Splatting and Transformer UNet for Accurate Skin Lesion Analysis**|Anand Kumar et.al.|[2502.16748v1](http://arxiv.org/abs/2502.16748v1)|null|
+|**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652v1](http://arxiv.org/abs/2502.16652v1)|null|
+|**2025-02-23**|**Optimal Kernel Learning for Gaussian Process Models with High-Dimensional Input**|Lulu Kang et.al.|[2502.16617v1](http://arxiv.org/abs/2502.16617v1)|null|
+|**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575v1](http://arxiv.org/abs/2502.16575v1)|null|
+|**2025-02-23**|**Gaussian Process Regression for Improved Underwater Navigation**|Nadav Cohen et.al.|[2502.16510v1](http://arxiv.org/abs/2502.16510v1)|null|
