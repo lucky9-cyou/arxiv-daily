@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463v1](http://arxiv.org/abs/2502.18463v1)|null|
+|**2025-02-25**|**Trotter error and gate complexity of the SYK and sparse SYK models**|Yiyuan Chen et.al.|[2502.18420v1](http://arxiv.org/abs/2502.18420v1)|null|
+|**2025-02-25**|**Sparse Bayesian Generative Modeling for Joint Parameter and Channel Estimation**|Benedikt Böck et.al.|[2502.18369v1](http://arxiv.org/abs/2502.18369v1)|null|
+|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347v1](http://arxiv.org/abs/2502.18347v1)|null|
+|**2025-02-25**|**A Unified Bayesian Perspective for Conventional and Robust Adaptive Filters**|Leszek Szczecinski et.al.|[2502.18325v1](http://arxiv.org/abs/2502.18325v1)|null|
+|**2025-02-25**|**Near-Optimal Approximations for Bayesian Inference in Function Space**|Veit Wild et.al.|[2502.18279v1](http://arxiv.org/abs/2502.18279v1)|null|
+|**2025-02-25**|**A Normal Variance Mixture Model for Robust Kalman Filtering**|Michael J. Walsh et.al.|[2502.18206v1](http://arxiv.org/abs/2502.18206v1)|null|
+|**2025-02-25**|**A Novel Approach to Identifying Open Star Cluster Members in {\it Gaia} DR3: Integrating MST and GMM Techniques**|Rafe Sharif et.al.|[2502.18082v1](http://arxiv.org/abs/2502.18082v1)|[link](https://github.com/Astrolab-AUT/MST-GMM-membersip)|
+|**2025-02-25**|**Unified $χ^2$ discriminators for gravitational wave searches from compact coalescing binaries**|Sanjeev Dhurandhar et.al.|[2502.18051v1](http://arxiv.org/abs/2502.18051v1)|null|
+|**2025-02-25**|**Golden Ratio Mixing of Real and Synthetic Data for Stabilizing Generative Model Training**|Hengzhi He et.al.|[2502.18049v1](http://arxiv.org/abs/2502.18049v1)|null|
+|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
+|**2025-02-25**|**ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents**|Qiuchen Wang et.al.|[2502.18017v1](http://arxiv.org/abs/2502.18017v1)|null|
+|**2025-02-25**|**Model-Free Adversarial Purification via Coarse-To-Fine Tensor Network Representation**|Guang Lin et.al.|[2502.17972v1](http://arxiv.org/abs/2502.17972v1)|null|
+|**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860v1](http://arxiv.org/abs/2502.17860v1)|null|
+|**2025-02-25**|**LAM: Large Avatar Model for One-shot Animatable Gaussian Head**|Yisheng He et.al.|[2502.17796v1](http://arxiv.org/abs/2502.17796v1)|null|
+|**2025-02-25**|**Sample Selection via Contrastive Fragmentation for Noisy Label Regression**|Chris Dongjoo Kim et.al.|[2502.17771v1](http://arxiv.org/abs/2502.17771v1)|null|
+|**2025-02-25**|**Kinematics of metallicity populations in Omega Centauri using Gaia Focused Product Release and Hubble Space Telescope**|Nagaraj Vernekar et.al.|[2502.17755v1](http://arxiv.org/abs/2502.17755v1)|null|
+|**2025-02-24**|**Quantative bounds for high-dimensional non-linear functionals of Gaussian processes**|Andreas Basse-O'Connor et.al.|[2502.17718v1](http://arxiv.org/abs/2502.17718v1)|null|
+|**2025-02-24**|**Spectral Efficiency Expression for the Non-Linear Schrödinger Channel in the Low Noise Limit Using Scattering Data**|Pavlos Kazakopoulos et.al.|[2502.17702v1](http://arxiv.org/abs/2502.17702v1)|null|
+|**2025-02-24**|**A Fokker-Planck-Based Loss Function that Bridges Dynamics with Density Estimation**|Zhixin Lu et.al.|[2502.17690v1](http://arxiv.org/abs/2502.17690v1)|null|
+|**2025-02-24**|**High-Dimensional Covariate-Dependent Gaussian Graphical Models**|Jiacheng Wang et.al.|[2502.17684v1](http://arxiv.org/abs/2502.17684v1)|null|
+|**2025-02-24**|**Optimal Recovery Meets Minimax Estimation**|Ronald DeVore et.al.|[2502.17671v1](http://arxiv.org/abs/2502.17671v1)|null|
+|**2025-02-24**|**Gaussian Process-Based Scalar Field Estimation in GPS-Denied Environments**|Muzaffar Qureshi et.al.|[2502.17584v1](http://arxiv.org/abs/2502.17584v1)|null|
+|**2025-02-24**|**Optimizing the Hunt for Extraterrestrial High-Energy Neutrino Counterparts**|Pouya M. Kouch et.al.|[2502.17567v1](http://arxiv.org/abs/2502.17567v1)|null|
 |**2025-02-24**|**Invariance principle for the Gaussian Multiplicative Chaos via a high dimensional CLT with low rank increments**|Mriganka Basu Roy Chowdhury et.al.|[2502.17412v1](http://arxiv.org/abs/2502.17412v1)|null|
-|**2025-02-24**|**Mapping Parameter Correlations in Spinning Binary Black Hole Mergers**|Karen Kang et.al.|[2502.17402v1](http://arxiv.org/abs/2502.17402v1)|null|
+|**2025-02-24**|**Mapping Parameter Correlations in Spinning Binary Black Hole Mergers**|Karen Kang et.al.|[2502.17402v1](http://arxiv.org/abs/2502.17402v1)|[link](https://github.com/yixinkang/MappingBBHParameters)|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
 |**2025-02-24**|**Bayesian Hierarchical Emulators for Multi-Level Models: BayHEm**|Louise Kimpton et.al.|[2502.17367v1](http://arxiv.org/abs/2502.17367v1)|null|
 |**2025-02-24**|**Quadrature squeezing in a nanophotonic microresonator**|Alexander E. Ulanov et.al.|[2502.17337v1](http://arxiv.org/abs/2502.17337v1)|null|
-|**2025-02-24**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288v1](http://arxiv.org/abs/2502.17288v1)|null|
-|**2025-02-24**|**On a class of high dimensional linear regression methods with debiasing and thresholding**|Ying-Ao Wang et.al.|[2502.17261v1](http://arxiv.org/abs/2502.17261v1)|null|
-|**2025-02-24**|**Learning Image Fractals Using Chaotic Differentiable Point Splatting**|Adarsh Djeacoumar et.al.|[2502.17230v1](http://arxiv.org/abs/2502.17230v1)|null|
-|**2025-02-24**|**Continuous variable quantum teleportation, $U(2)$ invariant squeezing and non-Gaussian resource states**|Mohak Sharma et.al.|[2502.17182v1](http://arxiv.org/abs/2502.17182v1)|null|
-|**2025-02-24**|**A Pragmatic Note on Evaluating Generative Models with Fréchet Inception Distance for Retinal Image Synthesis**|Yuli Wu et.al.|[2502.17160v1](http://arxiv.org/abs/2502.17160v1)|null|
-|**2025-02-24**|**The feasibility of multi-graph alignment: a Bayesian approach**|Louis Vassaux et.al.|[2502.17142v1](http://arxiv.org/abs/2502.17142v1)|null|
-|**2025-02-24**|**Qualitative quasi-invariance of low regularity Gaussian measures for the 1d quintic nonlinear Schrödinger equation**|Alexis Knezevitch et.al.|[2502.17094v1](http://arxiv.org/abs/2502.17094v1)|null|
-|**2025-02-24**|**VR-Pipe: Streamlining Hardware Graphics Pipeline for Volume Rendering**|Junseo Lee et.al.|[2502.17078v1](http://arxiv.org/abs/2502.17078v1)|null|
-|**2025-02-24**|**Conformal welding and the matter--Liouville--ghost factorisation**|Guillaume Baverez et.al.|[2502.17076v1](http://arxiv.org/abs/2502.17076v1)|null|
-|**2025-02-24**|**Noise Modulation over Wireless Energy Transfer: JEIH-Noise Mod**|Erkin Yapici et.al.|[2502.17074v1](http://arxiv.org/abs/2502.17074v1)|null|
-|**2025-02-24**|**On Space-Filling Input Design for Nonlinear Dynamic Model Learning: A Gaussian Process Approach**|Yuhan Liu et.al.|[2502.17042v1](http://arxiv.org/abs/2502.17042v1)|null|
-|**2025-02-24**|**A Multipole-Based Framework for Kerr Black Hole Mimickers: From General Construction to a Specific Case of Study**|Claudio Gambino et.al.|[2502.17032v1](http://arxiv.org/abs/2502.17032v1)|null|
-|**2025-02-24**|**Gaussian Difference: Find Any Change Instance in 3D Scenes**|Binbin Jiang et.al.|[2502.16941v1](http://arxiv.org/abs/2502.16941v1)|null|
-|**2025-02-24**|**A dynamic copula model for probabilistic forecasting of non-Gaussian multivariate time series**|John Zito et.al.|[2502.16874v1](http://arxiv.org/abs/2502.16874v1)|null|
-|**2025-02-24**|**Distributionally Robust Active Learning for Gaussian Process Regression**|Shion Takeno et.al.|[2502.16870v1](http://arxiv.org/abs/2502.16870v1)|null|
-|**2025-02-24**|**Random matrices acting on sets: Independent columns**|Yaniv Plan et.al.|[2502.16827v1](http://arxiv.org/abs/2502.16827v1)|null|
-|**2025-02-24**|**Weighted model calibration with spatial conditional information**|Michele Nguyen et.al.|[2502.16785v1](http://arxiv.org/abs/2502.16785v1)|null|
-|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773v1](http://arxiv.org/abs/2502.16773v1)|null|
-|**2025-02-24**|**Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity**|George Giapitzakis et.al.|[2502.16763v1](http://arxiv.org/abs/2502.16763v1)|[link](https://github.com/opallab/permlearn)|
-|**2025-02-23**|**Evidence of a Disk-wind Origin for Fluorescent H$_2$ in Classical T Tauri Stars**|Matt Kalscheur et.al.|[2502.16749v1](http://arxiv.org/abs/2502.16749v1)|null|
-|**2025-02-23**|**GS-TransUNet: Integrated 2D Gaussian Splatting and Transformer UNet for Accurate Skin Lesion Analysis**|Anand Kumar et.al.|[2502.16748v1](http://arxiv.org/abs/2502.16748v1)|null|
-|**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652v1](http://arxiv.org/abs/2502.16652v1)|null|
-|**2025-02-23**|**Optimal Kernel Learning for Gaussian Process Models with High-Dimensional Input**|Lulu Kang et.al.|[2502.16617v1](http://arxiv.org/abs/2502.16617v1)|null|
-|**2025-02-23**|**Efficient 4D Gaussian Stream with Low Rank Adaptation**|Zhenhuan Liu et.al.|[2502.16575v1](http://arxiv.org/abs/2502.16575v1)|null|
-|**2025-02-23**|**Gaussian Process Regression for Improved Underwater Navigation**|Nadav Cohen et.al.|[2502.16510v1](http://arxiv.org/abs/2502.16510v1)|null|
+|**2025-02-24**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288v2](http://arxiv.org/abs/2502.17288v2)|null|
