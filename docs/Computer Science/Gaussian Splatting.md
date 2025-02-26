@@ -25,7 +25,7 @@
 |**2025-02-24**|**Random matrices acting on sets: Independent columns**|Yaniv Plan et.al.|[2502.16827v1](http://arxiv.org/abs/2502.16827v1)|null|
 |**2025-02-24**|**Weighted model calibration with spatial conditional information**|Michele Nguyen et.al.|[2502.16785v1](http://arxiv.org/abs/2502.16785v1)|null|
 |**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773v1](http://arxiv.org/abs/2502.16773v1)|null|
-|**2025-02-24**|**Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity**|George Giapitzakis et.al.|[2502.16763v1](http://arxiv.org/abs/2502.16763v1)|null|
+|**2025-02-24**|**Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity**|George Giapitzakis et.al.|[2502.16763v1](http://arxiv.org/abs/2502.16763v1)|[link](https://github.com/opallab/permlearn)|
 |**2025-02-23**|**Evidence of a Disk-wind Origin for Fluorescent H$_2$ in Classical T Tauri Stars**|Matt Kalscheur et.al.|[2502.16749v1](http://arxiv.org/abs/2502.16749v1)|null|
 |**2025-02-23**|**GS-TransUNet: Integrated 2D Gaussian Splatting and Transformer UNet for Accurate Skin Lesion Analysis**|Anand Kumar et.al.|[2502.16748v1](http://arxiv.org/abs/2502.16748v1)|null|
 |**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652v1](http://arxiv.org/abs/2502.16652v1)|null|
