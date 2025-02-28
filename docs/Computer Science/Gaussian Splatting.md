@@ -24,9 +24,9 @@
 |**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463v1](http://arxiv.org/abs/2502.18463v1)|null|
 |**2025-02-25**|**Trotter error and gate complexity of the SYK and sparse SYK models**|Yiyuan Chen et.al.|[2502.18420v1](http://arxiv.org/abs/2502.18420v1)|null|
 |**2025-02-25**|**Sparse Bayesian Generative Modeling for Joint Parameter and Channel Estimation**|Benedikt Böck et.al.|[2502.18369v1](http://arxiv.org/abs/2502.18369v1)|null|
-|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347v1](http://arxiv.org/abs/2502.18347v1)|null|
+|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347v1](http://arxiv.org/abs/2502.18347v1)|[link](https://github.com/neurostatslab/clds)|
 |**2025-02-25**|**A Unified Bayesian Perspective for Conventional and Robust Adaptive Filters**|Leszek Szczecinski et.al.|[2502.18325v1](http://arxiv.org/abs/2502.18325v1)|null|
-|**2025-02-25**|**Near-Optimal Approximations for Bayesian Inference in Function Space**|Veit Wild et.al.|[2502.18279v1](http://arxiv.org/abs/2502.18279v1)|null|
+|**2025-02-25**|**Near-Optimal Approximations for Bayesian Inference in Function Space**|Veit Wild et.al.|[2502.18279v1](http://arxiv.org/abs/2502.18279v1)|[link](https://github.com/jswu18/projected-langevin-sampling)|
 |**2025-02-25**|**A Normal Variance Mixture Model for Robust Kalman Filtering**|Michael J. Walsh et.al.|[2502.18206v1](http://arxiv.org/abs/2502.18206v1)|null|
 |**2025-02-25**|**A Novel Approach to Identifying Open Star Cluster Members in {\it Gaia} DR3: Integrating MST and GMM Techniques**|Rafe Sharif et.al.|[2502.18082v1](http://arxiv.org/abs/2502.18082v1)|[link](https://github.com/Astrolab-AUT/MST-GMM-membersip)|
 |**2025-02-25**|**Unified $χ^2$ discriminators for gravitational wave searches from compact coalescing binaries**|Sanjeev Dhurandhar et.al.|[2502.18051v1](http://arxiv.org/abs/2502.18051v1)|null|
