@@ -1,9 +1,43 @@
 # arxiv-daily
- Automated deployment @ 2025-02-28 20:05:19 Asia/Shanghai
+ Automated deployment @ 2025-02-28 20:17:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
+
+### NeRF
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
+|**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873v1](http://arxiv.org/abs/2502.19873v1)|null|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|null|
+|**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125v1](http://arxiv.org/abs/2502.19125v1)|null|
+|**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992v1](http://arxiv.org/abs/2502.16992v1)|[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)|
+|**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351v1](http://arxiv.org/abs/2502.16351v1)|null|
+|**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302v1](http://arxiv.org/abs/2502.16302v1)|null|
+|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635v2](http://arxiv.org/abs/2502.15635v2)|null|
+|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
+|**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178v1](http://arxiv.org/abs/2502.14178v1)|null|
+|**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129v1](http://arxiv.org/abs/2502.14129v1)|null|
+|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335v1](http://arxiv.org/abs/2502.13335v1)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196v1](http://arxiv.org/abs/2502.13196v1)|null|
+|**2025-02-18**|**ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition**|Quoc-Anh Bui et.al.|[2502.12673v1](http://arxiv.org/abs/2502.12673v1)|null|
+|**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080v2](http://arxiv.org/abs/2502.12080v2)|[link](https://github.com/skhu101/humangif)|
+|**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801v1](http://arxiv.org/abs/2502.11801v1)|null|
+|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623v1](http://arxiv.org/abs/2502.09623v1)|null|
+|**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111v1](http://arxiv.org/abs/2502.09111v1)|null|
+|**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352v1](http://arxiv.org/abs/2502.08352v1)|null|
+|**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030v1](http://arxiv.org/abs/2502.07030v1)|null|
+|**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007v1](http://arxiv.org/abs/2502.07007v1)|null|
+|**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708v1](http://arxiv.org/abs/2502.05708v1)|null|
+|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v2](http://arxiv.org/abs/2502.04843v2)|null|
+|**2025-02-05**|**VistaFlow: Photorealistic Volumetric Reconstruction with Dynamic Resolution Management via Q-Learning**|Jayram Palamadai et.al.|[2502.05222v1](http://arxiv.org/abs/2502.05222v1)|null|
+|**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
+|**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372v1](http://arxiv.org/abs/2502.02372v1)|null|
+|**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405v1](http://arxiv.org/abs/2502.01405v1)|null|
+|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978v2](http://arxiv.org/abs/2501.17978v2)|null|
+|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312v2](http://arxiv.org/abs/2501.16312v2)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,40 +107,6 @@
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782v1](http://arxiv.org/abs/2502.19782v1)|null|
 |**2025-02-27**|**LUCAS: Layered Universal Codec Avatars**|Di Liu et.al.|[2502.19739v1](http://arxiv.org/abs/2502.19739v1)|null|
 
-### NeRF
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
-|**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873v1](http://arxiv.org/abs/2502.19873v1)|null|
-|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|null|
-|**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125v1](http://arxiv.org/abs/2502.19125v1)|null|
-|**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
-|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992v1](http://arxiv.org/abs/2502.16992v1)|[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)|
-|**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351v1](http://arxiv.org/abs/2502.16351v1)|null|
-|**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302v1](http://arxiv.org/abs/2502.16302v1)|null|
-|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635v2](http://arxiv.org/abs/2502.15635v2)|null|
-|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
-|**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178v1](http://arxiv.org/abs/2502.14178v1)|null|
-|**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129v1](http://arxiv.org/abs/2502.14129v1)|null|
-|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335v1](http://arxiv.org/abs/2502.13335v1)|null|
-|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196v1](http://arxiv.org/abs/2502.13196v1)|null|
-|**2025-02-18**|**ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition**|Quoc-Anh Bui et.al.|[2502.12673v1](http://arxiv.org/abs/2502.12673v1)|null|
-|**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080v2](http://arxiv.org/abs/2502.12080v2)|[link](https://github.com/skhu101/humangif)|
-|**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801v1](http://arxiv.org/abs/2502.11801v1)|null|
-|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623v1](http://arxiv.org/abs/2502.09623v1)|null|
-|**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111v1](http://arxiv.org/abs/2502.09111v1)|null|
-|**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352v1](http://arxiv.org/abs/2502.08352v1)|null|
-|**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030v1](http://arxiv.org/abs/2502.07030v1)|null|
-|**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007v1](http://arxiv.org/abs/2502.07007v1)|null|
-|**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708v1](http://arxiv.org/abs/2502.05708v1)|null|
-|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v2](http://arxiv.org/abs/2502.04843v2)|null|
-|**2025-02-05**|**VistaFlow: Photorealistic Volumetric Reconstruction with Dynamic Resolution Management via Q-Learning**|Jayram Palamadai et.al.|[2502.05222v1](http://arxiv.org/abs/2502.05222v1)|null|
-|**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
-|**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372v1](http://arxiv.org/abs/2502.02372v1)|null|
-|**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405v1](http://arxiv.org/abs/2502.01405v1)|null|
-|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978v2](http://arxiv.org/abs/2501.17978v2)|null|
-|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312v2](http://arxiv.org/abs/2501.16312v2)|null|
-
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -143,40 +143,6 @@
 
 ## Robotics
 
-### Embody
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396v1](http://arxiv.org/abs/2502.20396v1)|null|
-|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383v1](http://arxiv.org/abs/2502.20383v1)|null|
-|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382v1](http://arxiv.org/abs/2502.20382v1)|null|
-|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364v1](http://arxiv.org/abs/2502.20364v1)|null|
-|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356v1](http://arxiv.org/abs/2502.20356v1)|null|
-|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354v1](http://arxiv.org/abs/2502.20354v1)|null|
-|**2025-02-27**|**Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior**|Wilka Carvalho et.al.|[2502.20349v1](http://arxiv.org/abs/2502.20349v1)|null|
-|**2025-02-27**|**Reservoir Computing and Photoelectrochemical Sensors: A Marriage of Convenience**|Gisya Abdi et.al.|[2502.20342v1](http://arxiv.org/abs/2502.20342v1)|null|
-|**2025-02-27**|**ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications**|Azuka Chiejina et.al.|[2502.20320v1](http://arxiv.org/abs/2502.20320v1)|null|
-|**2025-02-27**|**LangProBe: a Language Programs Benchmark**|Shangyin Tan et.al.|[2502.20315v1](http://arxiv.org/abs/2502.20315v1)|null|
-|**2025-02-27**|**EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants**|Franck Cappello et.al.|[2502.20309v1](http://arxiv.org/abs/2502.20309v1)|null|
-|**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301v1](http://arxiv.org/abs/2502.20301v1)|null|
-|**2025-02-27**|**Interpreting AI for Fusion: an application to Plasma Profile Analysis for Tearing Mode Stability**|Hiro J Farre-Kaga et.al.|[2502.20294v1](http://arxiv.org/abs/2502.20294v1)|null|
-|**2025-02-27**|**LLM as a Broken Telephone: Iterative Generation Distorts Information**|Amr Mohamed et.al.|[2502.20258v1](http://arxiv.org/abs/2502.20258v1)|null|
-|**2025-02-27**|**The Impact of Transparency in AI Systems on Users' Data-Sharing Intentions: A Scenario-Based Experiment**|Julian Rosenberger et.al.|[2502.20243v1](http://arxiv.org/abs/2502.20243v1)|null|
-|**2025-02-27**|**AI Will Always Love You: Studying Implicit Biases in Romantic AI Companions**|Clare Grogan et.al.|[2502.20231v1](http://arxiv.org/abs/2502.20231v1)|null|
-|**2025-02-27**|**An Extensive Evaluation of PDDL Capabilities in off-the-shelf LLMs**|Kaustubh Vyas et.al.|[2502.20175v1](http://arxiv.org/abs/2502.20175v1)|null|
-|**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140v1](http://arxiv.org/abs/2502.20140v1)|null|
-|**2025-02-27**|**Sketch & Paint: Stroke-by-Stroke Evolution of Visual Artworks**|Jeripothula Prudviraj et.al.|[2502.20119v1](http://arxiv.org/abs/2502.20119v1)|null|
-|**2025-02-27**|**Methodology for GPU Frequency Switching Latency Measurement**|Daniel Velicka et.al.|[2502.20075v1](http://arxiv.org/abs/2502.20075v1)|null|
-|**2025-02-27**|**Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**|Haochen Sun et.al.|[2502.20073v1](http://arxiv.org/abs/2502.20073v1)|null|
-|**2025-02-27**|**A high-performance and portable implementation of the SISSO method for CPUs and GPUs**|Sebastian Eibl et.al.|[2502.20072v1](http://arxiv.org/abs/2502.20072v1)|null|
-|**2025-02-27**|**RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles**|Ahmet Onur Akman et.al.|[2502.20065v1](http://arxiv.org/abs/2502.20065v1)|null|
-|**2025-02-27**|**InCoRe -- An Interactive Co-Regulation Model: Training Teacher Communication Skills in Demanding Classroom Situations**|Chirag Bhuvaneshwara et.al.|[2502.20025v1](http://arxiv.org/abs/2502.20025v1)|null|
-|**2025-02-27**|**Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)**|Pedram Bakhtiarifard et.al.|[2502.20016v1](http://arxiv.org/abs/2502.20016v1)|null|
-|**2025-02-27**|**SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks**|Nikolay Blagoev et.al.|[2502.19913v1](http://arxiv.org/abs/2502.19913v1)|null|
-|**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899v1](http://arxiv.org/abs/2502.19899v1)|null|
-|**2025-02-27**|**AI-Powered Noisy Quantum Emulation: Generalized Gate-Based Protocols for Hardware-Agnostic Simulation**|Matthew Ho et.al.|[2502.19872v1](http://arxiv.org/abs/2502.19872v1)|null|
-|**2025-02-27**|**Precision measurement of the branching fraction for the decay $ψ(2S)\rightarrowτ^{+}τ^{-}$**|BESIII Collaboration et.al.|[2502.19850v1](http://arxiv.org/abs/2502.19850v1)|null|
-|**2025-02-27**|**Empowering Social Service with AI: Insights from a Participatory Design Study with Practitioners**|Yugin Tan et.al.|[2502.19822v1](http://arxiv.org/abs/2502.19822v1)|null|
-
 ### SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -210,3 +176,37 @@
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|[link](https://github.com/lastbasket/endo-2dtam)|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
+
+### Embody
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396v1](http://arxiv.org/abs/2502.20396v1)|null|
+|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383v1](http://arxiv.org/abs/2502.20383v1)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382v1](http://arxiv.org/abs/2502.20382v1)|null|
+|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364v1](http://arxiv.org/abs/2502.20364v1)|null|
+|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356v1](http://arxiv.org/abs/2502.20356v1)|null|
+|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354v1](http://arxiv.org/abs/2502.20354v1)|null|
+|**2025-02-27**|**Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior**|Wilka Carvalho et.al.|[2502.20349v1](http://arxiv.org/abs/2502.20349v1)|null|
+|**2025-02-27**|**Reservoir Computing and Photoelectrochemical Sensors: A Marriage of Convenience**|Gisya Abdi et.al.|[2502.20342v1](http://arxiv.org/abs/2502.20342v1)|null|
+|**2025-02-27**|**ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications**|Azuka Chiejina et.al.|[2502.20320v1](http://arxiv.org/abs/2502.20320v1)|null|
+|**2025-02-27**|**LangProBe: a Language Programs Benchmark**|Shangyin Tan et.al.|[2502.20315v1](http://arxiv.org/abs/2502.20315v1)|null|
+|**2025-02-27**|**EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants**|Franck Cappello et.al.|[2502.20309v1](http://arxiv.org/abs/2502.20309v1)|null|
+|**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301v1](http://arxiv.org/abs/2502.20301v1)|null|
+|**2025-02-27**|**Interpreting AI for Fusion: an application to Plasma Profile Analysis for Tearing Mode Stability**|Hiro J Farre-Kaga et.al.|[2502.20294v1](http://arxiv.org/abs/2502.20294v1)|null|
+|**2025-02-27**|**LLM as a Broken Telephone: Iterative Generation Distorts Information**|Amr Mohamed et.al.|[2502.20258v1](http://arxiv.org/abs/2502.20258v1)|null|
+|**2025-02-27**|**The Impact of Transparency in AI Systems on Users' Data-Sharing Intentions: A Scenario-Based Experiment**|Julian Rosenberger et.al.|[2502.20243v1](http://arxiv.org/abs/2502.20243v1)|null|
+|**2025-02-27**|**AI Will Always Love You: Studying Implicit Biases in Romantic AI Companions**|Clare Grogan et.al.|[2502.20231v1](http://arxiv.org/abs/2502.20231v1)|null|
+|**2025-02-27**|**An Extensive Evaluation of PDDL Capabilities in off-the-shelf LLMs**|Kaustubh Vyas et.al.|[2502.20175v1](http://arxiv.org/abs/2502.20175v1)|null|
+|**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140v1](http://arxiv.org/abs/2502.20140v1)|null|
+|**2025-02-27**|**Sketch & Paint: Stroke-by-Stroke Evolution of Visual Artworks**|Jeripothula Prudviraj et.al.|[2502.20119v1](http://arxiv.org/abs/2502.20119v1)|null|
+|**2025-02-27**|**Methodology for GPU Frequency Switching Latency Measurement**|Daniel Velicka et.al.|[2502.20075v1](http://arxiv.org/abs/2502.20075v1)|null|
+|**2025-02-27**|**Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**|Haochen Sun et.al.|[2502.20073v1](http://arxiv.org/abs/2502.20073v1)|null|
+|**2025-02-27**|**A high-performance and portable implementation of the SISSO method for CPUs and GPUs**|Sebastian Eibl et.al.|[2502.20072v1](http://arxiv.org/abs/2502.20072v1)|null|
+|**2025-02-27**|**RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles**|Ahmet Onur Akman et.al.|[2502.20065v1](http://arxiv.org/abs/2502.20065v1)|null|
+|**2025-02-27**|**InCoRe -- An Interactive Co-Regulation Model: Training Teacher Communication Skills in Demanding Classroom Situations**|Chirag Bhuvaneshwara et.al.|[2502.20025v1](http://arxiv.org/abs/2502.20025v1)|null|
+|**2025-02-27**|**Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)**|Pedram Bakhtiarifard et.al.|[2502.20016v1](http://arxiv.org/abs/2502.20016v1)|null|
+|**2025-02-27**|**SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks**|Nikolay Blagoev et.al.|[2502.19913v1](http://arxiv.org/abs/2502.19913v1)|null|
+|**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899v1](http://arxiv.org/abs/2502.19899v1)|null|
+|**2025-02-27**|**AI-Powered Noisy Quantum Emulation: Generalized Gate-Based Protocols for Hardware-Agnostic Simulation**|Matthew Ho et.al.|[2502.19872v1](http://arxiv.org/abs/2502.19872v1)|null|
+|**2025-02-27**|**Precision measurement of the branching fraction for the decay $ψ(2S)\rightarrowτ^{+}τ^{-}$**|BESIII Collaboration et.al.|[2502.19850v1](http://arxiv.org/abs/2502.19850v1)|null|
+|**2025-02-27**|**Empowering Social Service with AI: Insights from a Participatory Design Study with Practitioners**|Yugin Tan et.al.|[2502.19822v1](http://arxiv.org/abs/2502.19822v1)|null|
