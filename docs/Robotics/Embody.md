@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396v1](http://arxiv.org/abs/2502.20396v1)|null|
-|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383v1](http://arxiv.org/abs/2502.20383v1)|null|
-|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382v1](http://arxiv.org/abs/2502.20382v1)|null|
-|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364v1](http://arxiv.org/abs/2502.20364v1)|null|
-|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356v1](http://arxiv.org/abs/2502.20356v1)|null|
-|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354v1](http://arxiv.org/abs/2502.20354v1)|null|
-|**2025-02-27**|**Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior**|Wilka Carvalho et.al.|[2502.20349v1](http://arxiv.org/abs/2502.20349v1)|null|
-|**2025-02-27**|**Reservoir Computing and Photoelectrochemical Sensors: A Marriage of Convenience**|Gisya Abdi et.al.|[2502.20342v1](http://arxiv.org/abs/2502.20342v1)|null|
-|**2025-02-27**|**ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications**|Azuka Chiejina et.al.|[2502.20320v1](http://arxiv.org/abs/2502.20320v1)|null|
-|**2025-02-27**|**LangProBe: a Language Programs Benchmark**|Shangyin Tan et.al.|[2502.20315v1](http://arxiv.org/abs/2502.20315v1)|null|
-|**2025-02-27**|**EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants**|Franck Cappello et.al.|[2502.20309v1](http://arxiv.org/abs/2502.20309v1)|null|
-|**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301v1](http://arxiv.org/abs/2502.20301v1)|null|
-|**2025-02-27**|**Interpreting AI for Fusion: an application to Plasma Profile Analysis for Tearing Mode Stability**|Hiro J Farre-Kaga et.al.|[2502.20294v1](http://arxiv.org/abs/2502.20294v1)|null|
-|**2025-02-27**|**LLM as a Broken Telephone: Iterative Generation Distorts Information**|Amr Mohamed et.al.|[2502.20258v1](http://arxiv.org/abs/2502.20258v1)|null|
-|**2025-02-27**|**The Impact of Transparency in AI Systems on Users' Data-Sharing Intentions: A Scenario-Based Experiment**|Julian Rosenberger et.al.|[2502.20243v1](http://arxiv.org/abs/2502.20243v1)|null|
-|**2025-02-27**|**AI Will Always Love You: Studying Implicit Biases in Romantic AI Companions**|Clare Grogan et.al.|[2502.20231v1](http://arxiv.org/abs/2502.20231v1)|null|
-|**2025-02-27**|**An Extensive Evaluation of PDDL Capabilities in off-the-shelf LLMs**|Kaustubh Vyas et.al.|[2502.20175v1](http://arxiv.org/abs/2502.20175v1)|null|
-|**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140v1](http://arxiv.org/abs/2502.20140v1)|null|
-|**2025-02-27**|**Sketch & Paint: Stroke-by-Stroke Evolution of Visual Artworks**|Jeripothula Prudviraj et.al.|[2502.20119v1](http://arxiv.org/abs/2502.20119v1)|null|
-|**2025-02-27**|**Methodology for GPU Frequency Switching Latency Measurement**|Daniel Velicka et.al.|[2502.20075v1](http://arxiv.org/abs/2502.20075v1)|null|
-|**2025-02-27**|**Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**|Haochen Sun et.al.|[2502.20073v1](http://arxiv.org/abs/2502.20073v1)|null|
-|**2025-02-27**|**A high-performance and portable implementation of the SISSO method for CPUs and GPUs**|Sebastian Eibl et.al.|[2502.20072v1](http://arxiv.org/abs/2502.20072v1)|null|
-|**2025-02-27**|**RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles**|Ahmet Onur Akman et.al.|[2502.20065v1](http://arxiv.org/abs/2502.20065v1)|null|
-|**2025-02-27**|**InCoRe -- An Interactive Co-Regulation Model: Training Teacher Communication Skills in Demanding Classroom Situations**|Chirag Bhuvaneshwara et.al.|[2502.20025v1](http://arxiv.org/abs/2502.20025v1)|null|
-|**2025-02-27**|**Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)**|Pedram Bakhtiarifard et.al.|[2502.20016v1](http://arxiv.org/abs/2502.20016v1)|null|
-|**2025-02-27**|**SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks**|Nikolay Blagoev et.al.|[2502.19913v1](http://arxiv.org/abs/2502.19913v1)|null|
-|**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899v1](http://arxiv.org/abs/2502.19899v1)|null|
-|**2025-02-27**|**AI-Powered Noisy Quantum Emulation: Generalized Gate-Based Protocols for Hardware-Agnostic Simulation**|Matthew Ho et.al.|[2502.19872v1](http://arxiv.org/abs/2502.19872v1)|null|
-|**2025-02-27**|**Precision measurement of the branching fraction for the decay $ψ(2S)\rightarrowτ^{+}τ^{-}$**|BESIII Collaboration et.al.|[2502.19850v1](http://arxiv.org/abs/2502.19850v1)|null|
-|**2025-02-27**|**Empowering Social Service with AI: Insights from a Participatory Design Study with Practitioners**|Yugin Tan et.al.|[2502.19822v1](http://arxiv.org/abs/2502.19822v1)|null|
+|**2025-02-28**|**Hybrid Team Tetris: A New Platform For Hybrid Multi-Agent, Multi-Human Teaming**|Kaleb Mcdowell et.al.|[2502.21300v1](http://arxiv.org/abs/2502.21300v1)|null|
+|**2025-02-28**|**Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis**|Li Yang et.al.|[2502.21286v1](http://arxiv.org/abs/2502.21286v1)|null|
+|**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266v1](http://arxiv.org/abs/2502.21266v1)|null|
+|**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267v1](http://arxiv.org/abs/2502.21267v1)|null|
+|**2025-02-28**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264v1](http://arxiv.org/abs/2502.21264v1)|null|
+|**2025-02-28**|**Modeling Human Beliefs about AI Behavior for Scalable Oversight**|Leon Lang et.al.|[2502.21262v1](http://arxiv.org/abs/2502.21262v1)|null|
+|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250v1](http://arxiv.org/abs/2502.21250v1)|null|
+|**2025-02-28**|**Digital Doppelgangers: Ethical and Societal Implications of Pre-Mortem AI Clones**|Vijayalaxmi Methuku et.al.|[2502.21248v1](http://arxiv.org/abs/2502.21248v1)|null|
+|**2025-02-28**|**TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**|Haoran Zhang et.al.|[2502.21245v1](http://arxiv.org/abs/2502.21245v1)|null|
+|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236v1](http://arxiv.org/abs/2502.21236v1)|null|
+|**2025-02-28**|**XAIxArts Manifesto: Explainable AI for the Arts**|Nick Bryan-Kinns et.al.|[2502.21220v1](http://arxiv.org/abs/2502.21220v1)|null|
+|**2025-02-28**|**Brickify: Enabling Expressive Design Intent Specification through Direct Manipulation on Design Tokens**|Xinyu Shi et.al.|[2502.21219v1](http://arxiv.org/abs/2502.21219v1)|null|
+|**2025-02-28**|**An Algebraic Framework for Hierarchical Probabilistic Abstraction**|Nijesh Upreti et.al.|[2502.21216v1](http://arxiv.org/abs/2502.21216v1)|null|
+|**2025-02-28**|**AI-Enhanced Self-Triggering for Extensive Air Showers: Performance and FPGA Feasibility**|Qader Dorosti et.al.|[2502.21198v1](http://arxiv.org/abs/2502.21198v1)|null|
+|**2025-02-28**|**SYN-LUNGS: Towards Simulating Lung Nodules with Anatomy-Informed Digital Twins for AI Training**|Fakrul Islam Tushar et.al.|[2502.21187v1](http://arxiv.org/abs/2502.21187v1)|null|
+|**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151v1](http://arxiv.org/abs/2502.21151v1)|null|
+|**2025-02-28**|**Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models**|Ruta Binkyte et.al.|[2502.21123v1](http://arxiv.org/abs/2502.21123v1)|null|
+|**2025-02-28**|**Optimizing Large Language Models for ESG Activity Detection in Financial Texts**|Mattia Birti et.al.|[2502.21112v1](http://arxiv.org/abs/2502.21112v1)|null|
+|**2025-02-28**|**A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage**|Youngjin Yoo et.al.|[2502.21106v1](http://arxiv.org/abs/2502.21106v1)|null|
+|**2025-02-28**|**Measuring and identifying factors of individuals' trust in Large Language Models**|Edoardo Sebastiano De Duro et.al.|[2502.21028v1](http://arxiv.org/abs/2502.21028v1)|null|
+|**2025-02-28**|**A RISC-V Multicore and GPU SoC Platform with a Qualifiable Software Stack for Safety Critical Systems**|Marc Solé i Bonet et.al.|[2502.21027v1](http://arxiv.org/abs/2502.21027v1)|null|
+|**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019v1](http://arxiv.org/abs/2502.21019v1)|null|
+|**2025-02-28**|**Explainable Biomedical Claim Verification with Large Language Models**|Siting Liang et.al.|[2502.21014v1](http://arxiv.org/abs/2502.21014v1)|null|
+|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996v1](http://arxiv.org/abs/2502.20996v1)|null|
+|**2025-02-28**|**The Impact of Navigation on Proxemics in an Immersive Virtual Environment with Conversational Agents**|Rose Connolly et.al.|[2502.20990v1](http://arxiv.org/abs/2502.20990v1)|null|
+|**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988v1](http://arxiv.org/abs/2502.20988v1)|null|
+|**2025-02-28**|**Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**|Weixiang Zhao et.al.|[2502.20968v1](http://arxiv.org/abs/2502.20968v1)|null|
+|**2025-02-28**|**Understanding intra-node communication in HPC systems and Datacenters**|Joaquin Tarraga-Moreno et.al.|[2502.20965v1](http://arxiv.org/abs/2502.20965v1)|null|
+|**2025-02-28**|**Retrieval Augmented Generation for Topic Modeling in Organizational Research: An Introduction with Empirical Demonstration**|Gerion Spielberger et.al.|[2502.20963v1](http://arxiv.org/abs/2502.20963v1)|null|
+|**2025-02-28**|**Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation**|Utku Ozbulak et.al.|[2502.20934v1](http://arxiv.org/abs/2502.20934v1)|null|
