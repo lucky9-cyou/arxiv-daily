@@ -10,7 +10,7 @@
 |**2025-02-28**|**$Δ$-model correction of Foundation Model based on the models own understanding**|Mads-Peter Verner Christiansen et.al.|[2502.21179v1](http://arxiv.org/abs/2502.21179v1)|null|
 |**2025-02-28**|**A Division Algorithm for the Gaussian Integers' Minimal Euclidean Function**|Hester Graves et.al.|[2502.21136v1](http://arxiv.org/abs/2502.21136v1)|null|
 |**2025-02-28**|**The two filter formula reconsidered: Smoothing in partially observed Gauss--Markov models without information parametrization**|Filip Tronarp et.al.|[2502.21116v1](http://arxiv.org/abs/2502.21116v1)|null|
-|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v1](http://arxiv.org/abs/2502.21093v1)|null|
+|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v2](http://arxiv.org/abs/2502.21093v2)|null|
 |**2025-02-28**|**Non-Gaussian velocity distributions Maxwell would understand**|J. A. S. Lima et.al.|[2502.21061v1](http://arxiv.org/abs/2502.21061v1)|null|
 |**2025-02-28**|**Forecasting Monthly Residential Natural Gas Demand Using Just-In-Time-Learning Modeling**|Burak Alakent et.al.|[2502.20989v1](http://arxiv.org/abs/2502.20989v1)|null|
 |**2025-02-28**|**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2502.20981v1](http://arxiv.org/abs/2502.20981v1)|null|
@@ -18,7 +18,7 @@
 |**2025-02-28**|**Moment generating functions and moderate deviation principles for lacunary trigonometric sums**|Christoph Aistleitner et.al.|[2502.20930v1](http://arxiv.org/abs/2502.20930v1)|null|
 |**2025-02-28**|**Pattern and Origin for the Extreme $γ$-ray Flares of 3C 454.3 and 3C 279: An Astrophysical Critical Damper?**|Haiyun Zhang et.al.|[2502.20867v1](http://arxiv.org/abs/2502.20867v1)|null|
 |**2025-02-28**|**A Laplace duality for integration**|Jean B Lasserre et.al.|[2502.20842v1](http://arxiv.org/abs/2502.20842v1)|null|
-|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v1](http://arxiv.org/abs/2502.20801v1)|null|
+|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v2](http://arxiv.org/abs/2502.20801v2)|null|
 |**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
 |**2025-02-28**|**Probing inflationary gravitational waves with cross-correlations: improved forecasting and validation with simulations**|Toshiya Namikawa et.al.|[2502.20741v1](http://arxiv.org/abs/2502.20741v1)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-04 09:01:13 Asia/Shanghai
+ Automated deployment @ 2025-03-04 20:05:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -16,7 +16,7 @@
 |**2025-02-28**|**$Δ$-model correction of Foundation Model based on the models own understanding**|Mads-Peter Verner Christiansen et.al.|[2502.21179v1](http://arxiv.org/abs/2502.21179v1)|null|
 |**2025-02-28**|**A Division Algorithm for the Gaussian Integers' Minimal Euclidean Function**|Hester Graves et.al.|[2502.21136v1](http://arxiv.org/abs/2502.21136v1)|null|
 |**2025-02-28**|**The two filter formula reconsidered: Smoothing in partially observed Gauss--Markov models without information parametrization**|Filip Tronarp et.al.|[2502.21116v1](http://arxiv.org/abs/2502.21116v1)|null|
-|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v1](http://arxiv.org/abs/2502.21093v1)|null|
+|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v2](http://arxiv.org/abs/2502.21093v2)|null|
 |**2025-02-28**|**Non-Gaussian velocity distributions Maxwell would understand**|J. A. S. Lima et.al.|[2502.21061v1](http://arxiv.org/abs/2502.21061v1)|null|
 |**2025-02-28**|**Forecasting Monthly Residential Natural Gas Demand Using Just-In-Time-Learning Modeling**|Burak Alakent et.al.|[2502.20989v1](http://arxiv.org/abs/2502.20989v1)|null|
 |**2025-02-28**|**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2502.20981v1](http://arxiv.org/abs/2502.20981v1)|null|
@@ -24,7 +24,7 @@
 |**2025-02-28**|**Moment generating functions and moderate deviation principles for lacunary trigonometric sums**|Christoph Aistleitner et.al.|[2502.20930v1](http://arxiv.org/abs/2502.20930v1)|null|
 |**2025-02-28**|**Pattern and Origin for the Extreme $γ$-ray Flares of 3C 454.3 and 3C 279: An Astrophysical Critical Damper?**|Haiyun Zhang et.al.|[2502.20867v1](http://arxiv.org/abs/2502.20867v1)|null|
 |**2025-02-28**|**A Laplace duality for integration**|Jean B Lasserre et.al.|[2502.20842v1](http://arxiv.org/abs/2502.20842v1)|null|
-|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v1](http://arxiv.org/abs/2502.20801v1)|null|
+|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v2](http://arxiv.org/abs/2502.20801v2)|null|
 |**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
 |**2025-02-28**|**Probing inflationary gravitational waves with cross-correlations: improved forecasting and validation with simulations**|Toshiya Namikawa et.al.|[2502.20741v1](http://arxiv.org/abs/2502.20741v1)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
@@ -118,7 +118,7 @@
 |**2025-02-28**|**$Δ$-model correction of Foundation Model based on the models own understanding**|Mads-Peter Verner Christiansen et.al.|[2502.21179v1](http://arxiv.org/abs/2502.21179v1)|null|
 |**2025-02-28**|**A Division Algorithm for the Gaussian Integers' Minimal Euclidean Function**|Hester Graves et.al.|[2502.21136v1](http://arxiv.org/abs/2502.21136v1)|null|
 |**2025-02-28**|**The two filter formula reconsidered: Smoothing in partially observed Gauss--Markov models without information parametrization**|Filip Tronarp et.al.|[2502.21116v1](http://arxiv.org/abs/2502.21116v1)|null|
-|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v1](http://arxiv.org/abs/2502.21093v1)|null|
+|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v2](http://arxiv.org/abs/2502.21093v2)|null|
 |**2025-02-28**|**Non-Gaussian velocity distributions Maxwell would understand**|J. A. S. Lima et.al.|[2502.21061v1](http://arxiv.org/abs/2502.21061v1)|null|
 |**2025-02-28**|**Forecasting Monthly Residential Natural Gas Demand Using Just-In-Time-Learning Modeling**|Burak Alakent et.al.|[2502.20989v1](http://arxiv.org/abs/2502.20989v1)|null|
 |**2025-02-28**|**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2502.20981v1](http://arxiv.org/abs/2502.20981v1)|null|
@@ -126,7 +126,7 @@
 |**2025-02-28**|**Moment generating functions and moderate deviation principles for lacunary trigonometric sums**|Christoph Aistleitner et.al.|[2502.20930v1](http://arxiv.org/abs/2502.20930v1)|null|
 |**2025-02-28**|**Pattern and Origin for the Extreme $γ$-ray Flares of 3C 454.3 and 3C 279: An Astrophysical Critical Damper?**|Haiyun Zhang et.al.|[2502.20867v1](http://arxiv.org/abs/2502.20867v1)|null|
 |**2025-02-28**|**A Laplace duality for integration**|Jean B Lasserre et.al.|[2502.20842v1](http://arxiv.org/abs/2502.20842v1)|null|
-|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v1](http://arxiv.org/abs/2502.20801v1)|null|
+|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v2](http://arxiv.org/abs/2502.20801v2)|null|
 |**2025-02-28**|**Probing inflationary gravitational waves with cross-correlations: improved forecasting and validation with simulations**|Toshiya Namikawa et.al.|[2502.20741v1](http://arxiv.org/abs/2502.20741v1)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
 |**2025-02-28**|**Wavelet-based density sketching with functional hierarchical tensor**|Xun Tang et.al.|[2502.20655v1](http://arxiv.org/abs/2502.20655v1)|null|
@@ -142,40 +142,6 @@
 |**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376v1](http://arxiv.org/abs/2502.20376v1)|null|
 
 ## Robotics
-
-### Embody
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-28**|**Hybrid Team Tetris: A New Platform For Hybrid Multi-Agent, Multi-Human Teaming**|Kaleb Mcdowell et.al.|[2502.21300v1](http://arxiv.org/abs/2502.21300v1)|null|
-|**2025-02-28**|**Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis**|Li Yang et.al.|[2502.21286v1](http://arxiv.org/abs/2502.21286v1)|null|
-|**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266v1](http://arxiv.org/abs/2502.21266v1)|null|
-|**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267v1](http://arxiv.org/abs/2502.21267v1)|null|
-|**2025-02-28**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264v1](http://arxiv.org/abs/2502.21264v1)|null|
-|**2025-02-28**|**Modeling Human Beliefs about AI Behavior for Scalable Oversight**|Leon Lang et.al.|[2502.21262v1](http://arxiv.org/abs/2502.21262v1)|null|
-|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250v1](http://arxiv.org/abs/2502.21250v1)|null|
-|**2025-02-28**|**Digital Doppelgangers: Ethical and Societal Implications of Pre-Mortem AI Clones**|Vijayalaxmi Methuku et.al.|[2502.21248v1](http://arxiv.org/abs/2502.21248v1)|null|
-|**2025-02-28**|**TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**|Haoran Zhang et.al.|[2502.21245v1](http://arxiv.org/abs/2502.21245v1)|null|
-|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236v1](http://arxiv.org/abs/2502.21236v1)|null|
-|**2025-02-28**|**XAIxArts Manifesto: Explainable AI for the Arts**|Nick Bryan-Kinns et.al.|[2502.21220v1](http://arxiv.org/abs/2502.21220v1)|null|
-|**2025-02-28**|**Brickify: Enabling Expressive Design Intent Specification through Direct Manipulation on Design Tokens**|Xinyu Shi et.al.|[2502.21219v1](http://arxiv.org/abs/2502.21219v1)|null|
-|**2025-02-28**|**An Algebraic Framework for Hierarchical Probabilistic Abstraction**|Nijesh Upreti et.al.|[2502.21216v1](http://arxiv.org/abs/2502.21216v1)|null|
-|**2025-02-28**|**AI-Enhanced Self-Triggering for Extensive Air Showers: Performance and FPGA Feasibility**|Qader Dorosti et.al.|[2502.21198v1](http://arxiv.org/abs/2502.21198v1)|null|
-|**2025-02-28**|**SYN-LUNGS: Towards Simulating Lung Nodules with Anatomy-Informed Digital Twins for AI Training**|Fakrul Islam Tushar et.al.|[2502.21187v1](http://arxiv.org/abs/2502.21187v1)|null|
-|**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151v1](http://arxiv.org/abs/2502.21151v1)|null|
-|**2025-02-28**|**Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models**|Ruta Binkyte et.al.|[2502.21123v1](http://arxiv.org/abs/2502.21123v1)|null|
-|**2025-02-28**|**Optimizing Large Language Models for ESG Activity Detection in Financial Texts**|Mattia Birti et.al.|[2502.21112v1](http://arxiv.org/abs/2502.21112v1)|null|
-|**2025-02-28**|**A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage**|Youngjin Yoo et.al.|[2502.21106v1](http://arxiv.org/abs/2502.21106v1)|null|
-|**2025-02-28**|**Measuring and identifying factors of individuals' trust in Large Language Models**|Edoardo Sebastiano De Duro et.al.|[2502.21028v1](http://arxiv.org/abs/2502.21028v1)|null|
-|**2025-02-28**|**A RISC-V Multicore and GPU SoC Platform with a Qualifiable Software Stack for Safety Critical Systems**|Marc Solé i Bonet et.al.|[2502.21027v1](http://arxiv.org/abs/2502.21027v1)|null|
-|**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019v1](http://arxiv.org/abs/2502.21019v1)|null|
-|**2025-02-28**|**Explainable Biomedical Claim Verification with Large Language Models**|Siting Liang et.al.|[2502.21014v1](http://arxiv.org/abs/2502.21014v1)|null|
-|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996v1](http://arxiv.org/abs/2502.20996v1)|null|
-|**2025-02-28**|**The Impact of Navigation on Proxemics in an Immersive Virtual Environment with Conversational Agents**|Rose Connolly et.al.|[2502.20990v1](http://arxiv.org/abs/2502.20990v1)|null|
-|**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988v1](http://arxiv.org/abs/2502.20988v1)|null|
-|**2025-02-28**|**Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**|Weixiang Zhao et.al.|[2502.20968v1](http://arxiv.org/abs/2502.20968v1)|null|
-|**2025-02-28**|**Understanding intra-node communication in HPC systems and Datacenters**|Joaquin Tarraga-Moreno et.al.|[2502.20965v1](http://arxiv.org/abs/2502.20965v1)|null|
-|**2025-02-28**|**Retrieval Augmented Generation for Topic Modeling in Organizational Research: An Introduction with Empirical Demonstration**|Gerion Spielberger et.al.|[2502.20963v1](http://arxiv.org/abs/2502.20963v1)|null|
-|**2025-02-28**|**Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation**|Utku Ozbulak et.al.|[2502.20934v1](http://arxiv.org/abs/2502.20934v1)|null|
 
 ### SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -210,3 +176,37 @@
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|[link](https://github.com/crepuscularlight/semanticloopclosure)|
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|[link](https://github.com/lastbasket/endo-2dtam)|
 |**2025-01-31**|**GO: The Great Outdoors Multimodal Dataset**|Peng Jiang et.al.|[2501.19274v1](http://arxiv.org/abs/2501.19274v1)|null|
+
+### Embody
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-28**|**Hybrid Team Tetris: A New Platform For Hybrid Multi-Agent, Multi-Human Teaming**|Kaleb Mcdowell et.al.|[2502.21300v1](http://arxiv.org/abs/2502.21300v1)|null|
+|**2025-02-28**|**Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis**|Li Yang et.al.|[2502.21286v1](http://arxiv.org/abs/2502.21286v1)|null|
+|**2025-02-28**|**Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform**|Lucio Anderlini et.al.|[2502.21266v1](http://arxiv.org/abs/2502.21266v1)|null|
+|**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267v1](http://arxiv.org/abs/2502.21267v1)|null|
+|**2025-02-28**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264v2](http://arxiv.org/abs/2502.21264v2)|null|
+|**2025-02-28**|**Modeling Human Beliefs about AI Behavior for Scalable Oversight**|Leon Lang et.al.|[2502.21262v1](http://arxiv.org/abs/2502.21262v1)|null|
+|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250v1](http://arxiv.org/abs/2502.21250v1)|null|
+|**2025-02-28**|**Digital Doppelgangers: Ethical and Societal Implications of Pre-Mortem AI Clones**|Vijayalaxmi Methuku et.al.|[2502.21248v1](http://arxiv.org/abs/2502.21248v1)|null|
+|**2025-02-28**|**TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**|Haoran Zhang et.al.|[2502.21245v1](http://arxiv.org/abs/2502.21245v1)|null|
+|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236v1](http://arxiv.org/abs/2502.21236v1)|null|
+|**2025-02-28**|**XAIxArts Manifesto: Explainable AI for the Arts**|Nick Bryan-Kinns et.al.|[2502.21220v1](http://arxiv.org/abs/2502.21220v1)|null|
+|**2025-02-28**|**Brickify: Enabling Expressive Design Intent Specification through Direct Manipulation on Design Tokens**|Xinyu Shi et.al.|[2502.21219v1](http://arxiv.org/abs/2502.21219v1)|null|
+|**2025-02-28**|**An Algebraic Framework for Hierarchical Probabilistic Abstraction**|Nijesh Upreti et.al.|[2502.21216v1](http://arxiv.org/abs/2502.21216v1)|null|
+|**2025-02-28**|**AI-Enhanced Self-Triggering for Extensive Air Showers: Performance and FPGA Feasibility**|Qader Dorosti et.al.|[2502.21198v1](http://arxiv.org/abs/2502.21198v1)|null|
+|**2025-02-28**|**SYN-LUNGS: Towards Simulating Lung Nodules with Anatomy-Informed Digital Twins for AI Training**|Fakrul Islam Tushar et.al.|[2502.21187v1](http://arxiv.org/abs/2502.21187v1)|null|
+|**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151v1](http://arxiv.org/abs/2502.21151v1)|null|
+|**2025-02-28**|**Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models**|Ruta Binkyte et.al.|[2502.21123v2](http://arxiv.org/abs/2502.21123v2)|null|
+|**2025-02-28**|**Optimizing Large Language Models for ESG Activity Detection in Financial Texts**|Mattia Birti et.al.|[2502.21112v1](http://arxiv.org/abs/2502.21112v1)|null|
+|**2025-02-28**|**A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage**|Youngjin Yoo et.al.|[2502.21106v1](http://arxiv.org/abs/2502.21106v1)|null|
+|**2025-02-28**|**Measuring and identifying factors of individuals' trust in Large Language Models**|Edoardo Sebastiano De Duro et.al.|[2502.21028v1](http://arxiv.org/abs/2502.21028v1)|null|
+|**2025-02-28**|**A RISC-V Multicore and GPU SoC Platform with a Qualifiable Software Stack for Safety Critical Systems**|Marc Solé i Bonet et.al.|[2502.21027v1](http://arxiv.org/abs/2502.21027v1)|null|
+|**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019v1](http://arxiv.org/abs/2502.21019v1)|null|
+|**2025-02-28**|**Explainable Biomedical Claim Verification with Large Language Models**|Siting Liang et.al.|[2502.21014v1](http://arxiv.org/abs/2502.21014v1)|null|
+|**2025-02-28**|**Towards Specialized Wireless Networks Using an ML-Driven Radio Interface**|Kamil Szczech et.al.|[2502.20996v1](http://arxiv.org/abs/2502.20996v1)|null|
+|**2025-02-28**|**The Impact of Navigation on Proxemics in an Immersive Virtual Environment with Conversational Agents**|Rose Connolly et.al.|[2502.20990v1](http://arxiv.org/abs/2502.20990v1)|null|
+|**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988v1](http://arxiv.org/abs/2502.20988v1)|null|
+|**2025-02-28**|**Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**|Weixiang Zhao et.al.|[2502.20968v1](http://arxiv.org/abs/2502.20968v1)|null|
+|**2025-02-28**|**Understanding intra-node communication in HPC systems and Datacenters**|Joaquin Tarraga-Moreno et.al.|[2502.20965v1](http://arxiv.org/abs/2502.20965v1)|null|
+|**2025-02-28**|**Retrieval Augmented Generation for Topic Modeling in Organizational Research: An Introduction with Empirical Demonstration**|Gerion Spielberger et.al.|[2502.20963v1](http://arxiv.org/abs/2502.20963v1)|null|
+|**2025-02-28**|**Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation**|Utku Ozbulak et.al.|[2502.20934v1](http://arxiv.org/abs/2502.20934v1)|null|
