@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-28**|**AutoComb: Automated Comb Sign Detector for 3D CTE Scans**|Shashwat Gupta et.al.|[2502.21311v1](http://arxiv.org/abs/2502.21311v1)|null|
-|**2025-02-28**|**Quantum arrival times in free fall**|Mathieu Beau et.al.|[2502.21295v1](http://arxiv.org/abs/2502.21295v1)|null|
-|**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292v1](http://arxiv.org/abs/2502.21292v1)|null|
-|**2025-02-28**|**Large Sample Inference with Dynamic Information Borrowing**|Sergey Tarima et.al.|[2502.21282v1](http://arxiv.org/abs/2502.21282v1)|null|
-|**2025-02-28**|**Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks**|Andrea Montanari et.al.|[2502.21269v1](http://arxiv.org/abs/2502.21269v1)|null|
-|**2025-02-28**|**$Δ$-model correction of Foundation Model based on the models own understanding**|Mads-Peter Verner Christiansen et.al.|[2502.21179v1](http://arxiv.org/abs/2502.21179v1)|null|
-|**2025-02-28**|**A Division Algorithm for the Gaussian Integers' Minimal Euclidean Function**|Hester Graves et.al.|[2502.21136v1](http://arxiv.org/abs/2502.21136v1)|null|
-|**2025-02-28**|**The two filter formula reconsidered: Smoothing in partially observed Gauss--Markov models without information parametrization**|Filip Tronarp et.al.|[2502.21116v1](http://arxiv.org/abs/2502.21116v1)|null|
-|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v2](http://arxiv.org/abs/2502.21093v2)|null|
-|**2025-02-28**|**Non-Gaussian velocity distributions Maxwell would understand**|J. A. S. Lima et.al.|[2502.21061v1](http://arxiv.org/abs/2502.21061v1)|null|
-|**2025-02-28**|**Forecasting Monthly Residential Natural Gas Demand Using Just-In-Time-Learning Modeling**|Burak Alakent et.al.|[2502.20989v1](http://arxiv.org/abs/2502.20989v1)|null|
-|**2025-02-28**|**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2502.20981v1](http://arxiv.org/abs/2502.20981v1)|null|
-|**2025-02-28**|**Post-Hoc Uncertainty Quantification in Pre-Trained Neural Networks via Activation-Level Gaussian Processes**|Richard Bergna et.al.|[2502.20966v1](http://arxiv.org/abs/2502.20966v1)|null|
-|**2025-02-28**|**Moment generating functions and moderate deviation principles for lacunary trigonometric sums**|Christoph Aistleitner et.al.|[2502.20930v1](http://arxiv.org/abs/2502.20930v1)|null|
-|**2025-02-28**|**Pattern and Origin for the Extreme $γ$-ray Flares of 3C 454.3 and 3C 279: An Astrophysical Critical Damper?**|Haiyun Zhang et.al.|[2502.20867v1](http://arxiv.org/abs/2502.20867v1)|null|
-|**2025-02-28**|**A Laplace duality for integration**|Jean B Lasserre et.al.|[2502.20842v1](http://arxiv.org/abs/2502.20842v1)|null|
-|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801v2](http://arxiv.org/abs/2502.20801v2)|null|
-|**2025-02-28**|**Probing inflationary gravitational waves with cross-correlations: improved forecasting and validation with simulations**|Toshiya Namikawa et.al.|[2502.20741v1](http://arxiv.org/abs/2502.20741v1)|null|
-|**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
-|**2025-02-28**|**Wavelet-based density sketching with functional hierarchical tensor**|Xun Tang et.al.|[2502.20655v1](http://arxiv.org/abs/2502.20655v1)|null|
-|**2025-02-28**|**Unified signal response for stochastic resonance in bistable systems**|Cong Liu et.al.|[2502.20638v1](http://arxiv.org/abs/2502.20638v1)|null|
-|**2025-02-27**|**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**|Jianing Zhang et.al.|[2502.20565v1](http://arxiv.org/abs/2502.20565v1)|null|
-|**2025-02-27**|**Revisiting Kernel Attention with Correlated Gaussian Process Representation**|Long Minh Bui et.al.|[2502.20525v1](http://arxiv.org/abs/2502.20525v1)|null|
-|**2025-02-27**|**Enhanced spatiotemporal optical vortices and vortex chains from Hermite-Gauss modes with a tilted pulse front**|Miguel A. Porras et.al.|[2502.20483v1](http://arxiv.org/abs/2502.20483v1)|null|
-|**2025-02-27**|**Vlasov Perturbation Theory and the role of higher cumulants**|Mathias Garny et.al.|[2502.20451v1](http://arxiv.org/abs/2502.20451v1)|null|
-|**2025-02-27**|**Searching for additional structure and redshift evolution in the observed binary black hole population with a parametric time-dependent mass distribution**|Vasco Gennari et.al.|[2502.20445v1](http://arxiv.org/abs/2502.20445v1)|null|
-|**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386v1](http://arxiv.org/abs/2502.20386v1)|null|
-|**2025-02-27**|**rSPDE: tools for statistical modeling using fractional SPDEs**|David Bolin et.al.|[2502.20385v1](http://arxiv.org/abs/2502.20385v1)|null|
-|**2025-02-27**|**Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**|Hanyang Kong et.al.|[2502.20378v1](http://arxiv.org/abs/2502.20378v1)|null|
-|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376v1](http://arxiv.org/abs/2502.20376v1)|null|
+|**2025-03-04**|**ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models**|Qinyu Zhao et.al.|[2503.02883v1](http://arxiv.org/abs/2503.02883v1)|null|
+|**2025-03-04**|**A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations**|Purba Mukherjee et.al.|[2503.02880v1](http://arxiv.org/abs/2503.02880v1)|null|
+|**2025-03-04**|**Spike-and-Slab Posterior Sampling in High Dimensions**|Syamantak Kumar et.al.|[2503.02798v1](http://arxiv.org/abs/2503.02798v1)|null|
+|**2025-03-04**|**New investigation of the electronic and structural properties of (Mg,Ti)-doped and co-doped ZnO structures: A DFT and DFT+U study**|Sidi Ahmedbowba et.al.|[2503.02731v1](http://arxiv.org/abs/2503.02731v1)|null|
+|**2025-03-04**|**Measurement noise scaling laws for cellular representation learning**|Gokul Gowri et.al.|[2503.02726v1](http://arxiv.org/abs/2503.02726v1)|null|
+|**2025-03-04**|**Proof of a Conjecture of Drton, Sturmfels and Sullivant on the maximum likelihood degree of the Gaussian graphical model of a cycle**|Rodica Andreea Dinu et.al.|[2503.02704v1](http://arxiv.org/abs/2503.02704v1)|null|
+|**2025-03-04**|**Generative Modeling of Microweather Wind Velocities for Urban Air Mobility**|Tristan A. Shah et.al.|[2503.02690v1](http://arxiv.org/abs/2503.02690v1)|null|
+|**2025-03-04**|**Hamilton-Jacobi-Bellman Equations in the Wasserstein Space for the Optimal Control of the Kushner-Stratonovich Equation**|Hexiang Wan et.al.|[2503.02654v1](http://arxiv.org/abs/2503.02654v1)|null|
+|**2025-03-04**|**Weighted Euclidean Distance Matrices over Mixed Continuous and Categorical Inputs for Gaussian Process Models**|Mingyu Pu et.al.|[2503.02630v1](http://arxiv.org/abs/2503.02630v1)|null|
+|**2025-03-04**|**Asymptotic fluctuations of smooth linear statistics of independently perturbed lattices**|Gabriel Mastrilli et.al.|[2503.02627v1](http://arxiv.org/abs/2503.02627v1)|null|
+|**2025-03-04**|**Nonadiabatic quantum kinetic equations and Dirac-Heisenberg-Wigner formalism for Schwinger pair production in time-varying electric fields with multiple components**|Z. L. Li et.al.|[2503.02530v1](http://arxiv.org/abs/2503.02530v1)|null|
+|**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452v1](http://arxiv.org/abs/2503.02452v1)|null|
+|**2025-03-04**|**Hermite-Gaussian multi-mode excitation in spatial gain shaping approaches for laser resonators**|Michael Zwilich et.al.|[2503.02363v1](http://arxiv.org/abs/2503.02363v1)|null|
+|**2025-03-04**|**SpecDis: Value added distance catalogue for 4 million stars from DESI Year-1 data**|Songting Li et.al.|[2503.02291v1](http://arxiv.org/abs/2503.02291v1)|null|
+|**2025-03-04**|**HiGP: A high-performance Python package for Gaussian Process**|Hua Huang et.al.|[2503.02259v1](http://arxiv.org/abs/2503.02259v1)|null|
+|**2025-03-04**|**DESI Spectroscopy of HETDEX Emission-line Candidates I: Line Discrimination Validation**|Martin Landriau et.al.|[2503.02229v1](http://arxiv.org/abs/2503.02229v1)|null|
+|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223v1](http://arxiv.org/abs/2503.02223v1)|null|
+|**2025-03-04**|**Joint ML-Bayesian Approach to Adaptive Radar Detection in the presence of Gaussian Interference**|Chaoran Yin et.al.|[2503.02214v1](http://arxiv.org/abs/2503.02214v1)|null|
+|**2025-03-04**|**Online Inference for Quantiles by Constant Learning-Rate Stochastic Gradient Descent**|Ziyang Wei et.al.|[2503.02178v1](http://arxiv.org/abs/2503.02178v1)|null|
+|**2025-03-04**|**What Influences the Field Goal Attempts of Professional Players? Analysis of Basketball Shot Charts via Log Gaussian Cox Processes with Spatially Varying Coefficients**|Jiahao Cao et.al.|[2503.02137v1](http://arxiv.org/abs/2503.02137v1)|null|
+|**2025-03-03**|**Comments on: "Introduction to the Absolute Brightness and Number Statistics in Spontaneous Parametric Down-Conversion" (2019 J. Opt. 21, 043501)**|James Schneeloch et.al.|[2503.02062v1](http://arxiv.org/abs/2503.02062v1)|null|
+|**2025-03-03**|**Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization**|Jamie Wynn et.al.|[2503.02009v1](http://arxiv.org/abs/2503.02009v1)|null|
+|**2025-03-03**|**Cuscuton Bounce Beyond the Linear Regime: Bispectrum and Strong Coupling Constraints**|Amir Dehghani et.al.|[2503.01992v1](http://arxiv.org/abs/2503.01992v1)|null|
+|**2025-03-03**|**Entanglement dynamics of many-body quantum states with evolving system conditions**|Devanshu Shekhar et.al.|[2503.01989v1](http://arxiv.org/abs/2503.01989v1)|null|
+|**2025-03-03**|**The Simons Observatory: Quantifying the impact of beam chromaticity on large-scale B-mode science**|Nadia Dachlythra et.al.|[2503.01791v1](http://arxiv.org/abs/2503.01791v1)|null|
+|**2025-03-03**|**Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**|Jay Zhangjie Wu et.al.|[2503.01774v1](http://arxiv.org/abs/2503.01774v1)|null|
+|**2025-03-03**|**Optimal Differentially Private Sampling of Unbounded Gaussians**|Valentio Iverson et.al.|[2503.01766v1](http://arxiv.org/abs/2503.01766v1)|null|
+|**2025-03-03**|**The Volterra Stein-Stein model with stochastic interest rates**|Eduardo Abi Jaber et.al.|[2503.01716v1](http://arxiv.org/abs/2503.01716v1)|null|
+|**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646v1](http://arxiv.org/abs/2503.01646v1)|null|
+|**2025-03-03**|**Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior**|Chen Guo et.al.|[2503.01610v1](http://arxiv.org/abs/2503.01610v1)|null|
