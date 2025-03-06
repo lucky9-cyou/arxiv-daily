@@ -1,77 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2025-03-06 20:52:31 Asia/Shanghai
+ Automated deployment @ 2025-03-06 21:04:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
-
-## Robotics
-
-### SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230v1](http://arxiv.org/abs/2503.03230v1)|null|
-|**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192v1](http://arxiv.org/abs/2503.03192v1)|null|
-|**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955v1](http://arxiv.org/abs/2503.02955v1)|null|
-|**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383v1](http://arxiv.org/abs/2503.02383v1)|null|
-|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223v1](http://arxiv.org/abs/2503.02223v1)|null|
-|**2025-03-03**|**Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**|Marco Giberna et.al.|[2503.02050v1](http://arxiv.org/abs/2503.02050v1)|null|
-|**2025-03-03**|**vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**|Ali Tourani et.al.|[2503.01783v1](http://arxiv.org/abs/2503.01783v1)|null|
-|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661v1](http://arxiv.org/abs/2503.01661v1)|null|
-|**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646v1](http://arxiv.org/abs/2503.01646v1)|null|
-|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|null|
-|**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547v1](http://arxiv.org/abs/2503.01547v1)|[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)|
-|**2025-03-03**|**Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**|Xintao Chao et.al.|[2503.01543v1](http://arxiv.org/abs/2503.01543v1)|null|
-|**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
-|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|null|
-|**2025-03-03**|**Convex Hull-based Algebraic Constraint for Visual Quadric SLAM**|Xiaolong Yu et.al.|[2503.01254v1](http://arxiv.org/abs/2503.01254v1)|[link](https://github.com/tiev-tongji/convexhull-based-algebraic-constraint)|
-|**2025-03-03**|**FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion**|Yansong Xu et.al.|[2503.01109v1](http://arxiv.org/abs/2503.01109v1)|null|
-|**2025-03-01**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397v3](http://arxiv.org/abs/2503.00397v3)|null|
-|**2025-03-01**|**CRADMap: Applied Distributed Volumetric Mapping with 5G-Connected Multi-Robots and 4D Radar Sensing**|Maaz Qureshi et.al.|[2503.00262v1](http://arxiv.org/abs/2503.00262v1)|null|
-|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
-|**2025-02-26**|**Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**|Petri Mäkinen et.al.|[2502.19169v1](http://arxiv.org/abs/2502.19169v1)|null|
-|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
-|**2025-02-25**|**S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**|Hriday Bavle et.al.|[2502.18044v2](http://arxiv.org/abs/2502.18044v2)|[link](https://github.com/snt-arg/lidar_situational_graphs)|
-|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|[link](https://github.com/gmberton/megaloc)|
-|**2025-02-24**|**SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**|Haoming Huang et.al.|[2502.16856v1](http://arxiv.org/abs/2502.16856v1)|[link](https://github.com/hkust-aerial-robotics/slabim)|
-|**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495v2](http://arxiv.org/abs/2502.16495v2)|null|
-|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
-|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
-|**2025-02-19**|**Slamming: Training a Speech Language Model on One GPU in a Day**|Gallil Maimon et.al.|[2502.15814v1](http://arxiv.org/abs/2502.15814v1)|[link](https://github.com/slp-rl/slamkit)|
-|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
-|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
-
-### Embody
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750v1](http://arxiv.org/abs/2503.03750v1)|null|
-|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730v1](http://arxiv.org/abs/2503.03730v1)|null|
-|**2025-03-05**|**Handling Uncertainty in Health Data using Generative Algorithms**|Mahdi Arab Loodaricheh et.al.|[2503.03715v1](http://arxiv.org/abs/2503.03715v1)|null|
-|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664v1](http://arxiv.org/abs/2503.03664v1)|null|
-|**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645v1](http://arxiv.org/abs/2503.03645v1)|null|
-|**2025-03-05**|**Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation**|Xiaomeng Zhu et.al.|[2503.03556v1](http://arxiv.org/abs/2503.03556v1)|null|
-|**2025-03-05**|**AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking**|Mashrur Rashik et.al.|[2503.03532v1](http://arxiv.org/abs/2503.03532v1)|[link](https://github.com/mashrur29/AI-Enabled-Conversational-Journaling-Agent)|
-|**2025-03-05**|**Higher Stakes, Healthier Trust? An Application-Grounded Approach to Assessing Healthy Trust in High-Stakes Human-AI Collaboration**|David S. Johnson et.al.|[2503.03529v1](http://arxiv.org/abs/2503.03529v1)|null|
-|**2025-03-05**|**O-RAN xApps Conflict Management using Graph Convolutional Networks**|Maryam Al Shami et.al.|[2503.03523v1](http://arxiv.org/abs/2503.03523v1)|null|
-|**2025-03-05**|**Rethinking Synthetic Data definitions: A privacy driven approach**|Vibeke Binz Vallevik et.al.|[2503.03506v1](http://arxiv.org/abs/2503.03506v1)|null|
-|**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503v1](http://arxiv.org/abs/2503.03503v1)|null|
-|**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499v1](http://arxiv.org/abs/2503.03499v1)|null|
-|**2025-03-05**|**TEDDY: A Family Of Foundation Models For Understanding Single Cell Biology**|Alexis Chevalier et.al.|[2503.03485v1](http://arxiv.org/abs/2503.03485v1)|null|
-|**2025-03-05**|**Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Mapping Reconstruction**|Linyu Fan et.al.|[2503.03475v1](http://arxiv.org/abs/2503.03475v1)|null|
-|**2025-03-05**|**Towards Continuous Experiment-driven MLOps**|Keerthiga Rajenthiram et.al.|[2503.03455v1](http://arxiv.org/abs/2503.03455v1)|null|
-|**2025-03-05**|**Biased Heritage: How Datasets Shape Models in Facial Expression Recognition**|Iris Dominguez-Catena et.al.|[2503.03446v1](http://arxiv.org/abs/2503.03446v1)|[link](https://github.com/arin-upna/biased-heritage)|
-|**2025-03-05**|**Exploring Visual Prompts: Refining Images with Scribbles and Annotations in Generative AI Image Tools**|Hyerim Park et.al.|[2503.03398v1](http://arxiv.org/abs/2503.03398v1)|null|
-|**2025-03-05**|**AI-Driven Multi-Stage Computer Vision System for Defect Detection in Laser-Engraved Industrial Nameplates**|Adhish Anitha Vilasan et.al.|[2503.03395v1](http://arxiv.org/abs/2503.03395v1)|null|
-|**2025-03-05**|**"Till I can get my satisfaction": Open Questions in the Public Desire to Punish AI**|Eddie L. Ungless et.al.|[2503.03383v1](http://arxiv.org/abs/2503.03383v1)|null|
-|**2025-03-05**|**The Serendipity of Claude AI: Case of the 13 Low-Resource National Languages of Mali**|Alou Dembele et.al.|[2503.03380v1](http://arxiv.org/abs/2503.03380v1)|null|
-|**2025-03-05**|**From Infants to AI: Incorporating Infant-like Learning in Models Boosts Efficiency and Generalization in Learning Social Prediction Tasks**|Shify Treger et.al.|[2503.03361v1](http://arxiv.org/abs/2503.03361v1)|null|
-|**2025-03-05**|**Which books do I like?**|Hannes Rosenbusch et.al.|[2503.03300v1](http://arxiv.org/abs/2503.03300v1)|null|
-|**2025-03-05**|**Reduced Spatial Dependency for More General Video-level Deepfake Detection**|Beilin Chu et.al.|[2503.03270v1](http://arxiv.org/abs/2503.03270v1)|null|
-|**2025-03-05**|**Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**|Gazi Tanbhir et.al.|[2503.03267v1](http://arxiv.org/abs/2503.03267v1)|null|
-|**2025-03-05**|**A 262 TOPS Hyperdimensional Photonic AI Accelerator powered by a Si3N4 microcomb laser**|Christos Pappas et.al.|[2503.03263v1](http://arxiv.org/abs/2503.03263v1)|null|
-|**2025-03-05**|**Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment**|Han Zheng et.al.|[2503.03208v1](http://arxiv.org/abs/2503.03208v1)|null|
-|**2025-03-05**|**Enhancing Cybersecurity in Critical Infrastructure with LLM-Assisted Explainable IoT Systems**|Ashutosh Ghimire et.al.|[2503.03180v1](http://arxiv.org/abs/2503.03180v1)|null|
-|**2025-03-05**|**UnPuzzle: A Unified Framework for Pathology Image Analysis**|Dankai Liao et.al.|[2503.03152v1](http://arxiv.org/abs/2503.03152v1)|null|
-|**2025-03-05**|**Position: Model Collapse Does Not Mean What You Think**|Rylan Schaeffer et.al.|[2503.03150v1](http://arxiv.org/abs/2503.03150v1)|null|
-|**2025-03-05**|**Knowledge Augmentation in Federation: Rethinking What Collaborative Learning Can Bring Back to Decentralized Data**|Wentai Wu et.al.|[2503.03140v1](http://arxiv.org/abs/2503.03140v1)|null|
 
 ## Computer Science
 
@@ -210,3 +140,73 @@
 |**2025-03-04**|**Measurement noise scaling laws for cellular representation learning**|Gokul Gowri et.al.|[2503.02726v1](http://arxiv.org/abs/2503.02726v1)|null|
 |**2025-03-04**|**Proof of a Conjecture of Drton, Sturmfels and Sullivant on the maximum likelihood degree of the Gaussian graphical model of a cycle**|Rodica Andreea Dinu et.al.|[2503.02704v1](http://arxiv.org/abs/2503.02704v1)|null|
 |**2025-03-04**|**Generative Modeling of Microweather Wind Velocities for Urban Air Mobility**|Tristan A. Shah et.al.|[2503.02690v1](http://arxiv.org/abs/2503.02690v1)|null|
+
+## Robotics
+
+### SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230v1](http://arxiv.org/abs/2503.03230v1)|null|
+|**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192v1](http://arxiv.org/abs/2503.03192v1)|null|
+|**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955v1](http://arxiv.org/abs/2503.02955v1)|null|
+|**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383v1](http://arxiv.org/abs/2503.02383v1)|null|
+|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223v1](http://arxiv.org/abs/2503.02223v1)|null|
+|**2025-03-03**|**Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**|Marco Giberna et.al.|[2503.02050v1](http://arxiv.org/abs/2503.02050v1)|null|
+|**2025-03-03**|**vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**|Ali Tourani et.al.|[2503.01783v1](http://arxiv.org/abs/2503.01783v1)|null|
+|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661v1](http://arxiv.org/abs/2503.01661v1)|null|
+|**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646v1](http://arxiv.org/abs/2503.01646v1)|null|
+|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|null|
+|**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547v1](http://arxiv.org/abs/2503.01547v1)|[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)|
+|**2025-03-03**|**Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**|Xintao Chao et.al.|[2503.01543v1](http://arxiv.org/abs/2503.01543v1)|null|
+|**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
+|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|null|
+|**2025-03-03**|**Convex Hull-based Algebraic Constraint for Visual Quadric SLAM**|Xiaolong Yu et.al.|[2503.01254v1](http://arxiv.org/abs/2503.01254v1)|[link](https://github.com/tiev-tongji/convexhull-based-algebraic-constraint)|
+|**2025-03-03**|**FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion**|Yansong Xu et.al.|[2503.01109v1](http://arxiv.org/abs/2503.01109v1)|null|
+|**2025-03-01**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397v3](http://arxiv.org/abs/2503.00397v3)|null|
+|**2025-03-01**|**CRADMap: Applied Distributed Volumetric Mapping with 5G-Connected Multi-Robots and 4D Radar Sensing**|Maaz Qureshi et.al.|[2503.00262v1](http://arxiv.org/abs/2503.00262v1)|null|
+|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
+|**2025-02-26**|**Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**|Petri Mäkinen et.al.|[2502.19169v1](http://arxiv.org/abs/2502.19169v1)|null|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
+|**2025-02-25**|**S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**|Hriday Bavle et.al.|[2502.18044v2](http://arxiv.org/abs/2502.18044v2)|[link](https://github.com/snt-arg/lidar_situational_graphs)|
+|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|[link](https://github.com/gmberton/megaloc)|
+|**2025-02-24**|**SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**|Haoming Huang et.al.|[2502.16856v1](http://arxiv.org/abs/2502.16856v1)|[link](https://github.com/hkust-aerial-robotics/slabim)|
+|**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495v2](http://arxiv.org/abs/2502.16495v2)|null|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
+|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
+|**2025-02-19**|**Slamming: Training a Speech Language Model on One GPU in a Day**|Gallil Maimon et.al.|[2502.15814v1](http://arxiv.org/abs/2502.15814v1)|[link](https://github.com/slp-rl/slamkit)|
+|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
+
+### Embody
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750v1](http://arxiv.org/abs/2503.03750v1)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730v1](http://arxiv.org/abs/2503.03730v1)|null|
+|**2025-03-05**|**Handling Uncertainty in Health Data using Generative Algorithms**|Mahdi Arab Loodaricheh et.al.|[2503.03715v1](http://arxiv.org/abs/2503.03715v1)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664v1](http://arxiv.org/abs/2503.03664v1)|null|
+|**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645v1](http://arxiv.org/abs/2503.03645v1)|null|
+|**2025-03-05**|**Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation**|Xiaomeng Zhu et.al.|[2503.03556v1](http://arxiv.org/abs/2503.03556v1)|null|
+|**2025-03-05**|**AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking**|Mashrur Rashik et.al.|[2503.03532v1](http://arxiv.org/abs/2503.03532v1)|[link](https://github.com/mashrur29/AI-Enabled-Conversational-Journaling-Agent)|
+|**2025-03-05**|**Higher Stakes, Healthier Trust? An Application-Grounded Approach to Assessing Healthy Trust in High-Stakes Human-AI Collaboration**|David S. Johnson et.al.|[2503.03529v1](http://arxiv.org/abs/2503.03529v1)|null|
+|**2025-03-05**|**O-RAN xApps Conflict Management using Graph Convolutional Networks**|Maryam Al Shami et.al.|[2503.03523v1](http://arxiv.org/abs/2503.03523v1)|null|
+|**2025-03-05**|**Rethinking Synthetic Data definitions: A privacy driven approach**|Vibeke Binz Vallevik et.al.|[2503.03506v1](http://arxiv.org/abs/2503.03506v1)|null|
+|**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503v1](http://arxiv.org/abs/2503.03503v1)|null|
+|**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499v1](http://arxiv.org/abs/2503.03499v1)|null|
+|**2025-03-05**|**TEDDY: A Family Of Foundation Models For Understanding Single Cell Biology**|Alexis Chevalier et.al.|[2503.03485v1](http://arxiv.org/abs/2503.03485v1)|null|
+|**2025-03-05**|**Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Mapping Reconstruction**|Linyu Fan et.al.|[2503.03475v1](http://arxiv.org/abs/2503.03475v1)|null|
+|**2025-03-05**|**Towards Continuous Experiment-driven MLOps**|Keerthiga Rajenthiram et.al.|[2503.03455v1](http://arxiv.org/abs/2503.03455v1)|null|
+|**2025-03-05**|**Biased Heritage: How Datasets Shape Models in Facial Expression Recognition**|Iris Dominguez-Catena et.al.|[2503.03446v1](http://arxiv.org/abs/2503.03446v1)|[link](https://github.com/arin-upna/biased-heritage)|
+|**2025-03-05**|**Exploring Visual Prompts: Refining Images with Scribbles and Annotations in Generative AI Image Tools**|Hyerim Park et.al.|[2503.03398v1](http://arxiv.org/abs/2503.03398v1)|null|
+|**2025-03-05**|**AI-Driven Multi-Stage Computer Vision System for Defect Detection in Laser-Engraved Industrial Nameplates**|Adhish Anitha Vilasan et.al.|[2503.03395v1](http://arxiv.org/abs/2503.03395v1)|null|
+|**2025-03-05**|**"Till I can get my satisfaction": Open Questions in the Public Desire to Punish AI**|Eddie L. Ungless et.al.|[2503.03383v1](http://arxiv.org/abs/2503.03383v1)|null|
+|**2025-03-05**|**The Serendipity of Claude AI: Case of the 13 Low-Resource National Languages of Mali**|Alou Dembele et.al.|[2503.03380v1](http://arxiv.org/abs/2503.03380v1)|null|
+|**2025-03-05**|**From Infants to AI: Incorporating Infant-like Learning in Models Boosts Efficiency and Generalization in Learning Social Prediction Tasks**|Shify Treger et.al.|[2503.03361v1](http://arxiv.org/abs/2503.03361v1)|null|
+|**2025-03-05**|**Which books do I like?**|Hannes Rosenbusch et.al.|[2503.03300v1](http://arxiv.org/abs/2503.03300v1)|null|
+|**2025-03-05**|**Reduced Spatial Dependency for More General Video-level Deepfake Detection**|Beilin Chu et.al.|[2503.03270v1](http://arxiv.org/abs/2503.03270v1)|null|
+|**2025-03-05**|**Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**|Gazi Tanbhir et.al.|[2503.03267v1](http://arxiv.org/abs/2503.03267v1)|null|
+|**2025-03-05**|**A 262 TOPS Hyperdimensional Photonic AI Accelerator powered by a Si3N4 microcomb laser**|Christos Pappas et.al.|[2503.03263v1](http://arxiv.org/abs/2503.03263v1)|null|
+|**2025-03-05**|**Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment**|Han Zheng et.al.|[2503.03208v1](http://arxiv.org/abs/2503.03208v1)|null|
+|**2025-03-05**|**Enhancing Cybersecurity in Critical Infrastructure with LLM-Assisted Explainable IoT Systems**|Ashutosh Ghimire et.al.|[2503.03180v1](http://arxiv.org/abs/2503.03180v1)|null|
+|**2025-03-05**|**UnPuzzle: A Unified Framework for Pathology Image Analysis**|Dankai Liao et.al.|[2503.03152v1](http://arxiv.org/abs/2503.03152v1)|null|
+|**2025-03-05**|**Position: Model Collapse Does Not Mean What You Think**|Rylan Schaeffer et.al.|[2503.03150v1](http://arxiv.org/abs/2503.03150v1)|null|
+|**2025-03-05**|**Knowledge Augmentation in Federation: Rethinking What Collaborative Learning Can Bring Back to Decentralized Data**|Wentai Wu et.al.|[2503.03140v1](http://arxiv.org/abs/2503.03140v1)|null|
