@@ -23,7 +23,7 @@
 |**2025-03-05**|**NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics**|Kun Yang et.al.|[2503.03115v1](http://arxiv.org/abs/2503.03115v1)|null|
 |**2025-03-05**|**Using Gravitational Wave Signals to Disentangle Early Matter Dominated Epochs**|Matthew Pearce et.al.|[2503.03101v1](http://arxiv.org/abs/2503.03101v1)|null|
 |**2025-03-05**|**Quantum-enhanced radio-frequency photonic distributed imaging**|Haowei Shi et.al.|[2503.03075v1](http://arxiv.org/abs/2503.03075v1)|null|
-|**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007v1](http://arxiv.org/abs/2503.03007v1)|null|
+|**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007v1](http://arxiv.org/abs/2503.03007v1)|[link](https://github.com/Evan1578/BIPSDA)|
 |**2025-03-04**|**Transmissions and group delay time in graphene with proximity exchange field and double barriers**|Ahmed Jellal et.al.|[2503.02994v1](http://arxiv.org/abs/2503.02994v1)|null|
 |**2025-03-04**|**Integrating Predictive and Generative Capabilities by Latent Space Design via the DKL-VAE Model**|Boris N. Slautin et.al.|[2503.02978v1](http://arxiv.org/abs/2503.02978v1)|null|
 |**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955v1](http://arxiv.org/abs/2503.02955v1)|null|
