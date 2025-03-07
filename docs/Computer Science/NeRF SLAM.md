@@ -2,6 +2,11 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286v1](http://arxiv.org/abs/2503.04286v1)|null|
+|**2025-03-06**|**DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**|Joshua Bird et.al.|[2503.04126v1](http://arxiv.org/abs/2503.04126v1)|null|
+|**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079v1](http://arxiv.org/abs/2503.04079v1)|null|
+|**2025-03-05**|**Equivariant Filter Design for Range-only SLAM**|Yixiao Ge et.al.|[2503.03973v1](http://arxiv.org/abs/2503.03973v1)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890v1](http://arxiv.org/abs/2503.03890v1)|null|
 |**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230v1](http://arxiv.org/abs/2503.03230v1)|null|
 |**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192v1](http://arxiv.org/abs/2503.03192v1)|null|
 |**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955v1](http://arxiv.org/abs/2503.02955v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199v1](http://arxiv.org/abs/2503.01199v1)|null|
 |**2025-03-03**|**FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion**|Yansong Xu et.al.|[2503.01109v1](http://arxiv.org/abs/2503.01109v1)|null|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887v1](http://arxiv.org/abs/2503.00887v1)|null|
-|**2025-03-01**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397v3](http://arxiv.org/abs/2503.00397v3)|null|
-|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|null|
-|**2025-03-01**|**CRADMap: Applied Distributed Volumetric Mapping with 5G-Connected Multi-Robots and 4D Radar Sensing**|Maaz Qureshi et.al.|[2503.00262v1](http://arxiv.org/abs/2503.00262v1)|null|
-|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
-|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
