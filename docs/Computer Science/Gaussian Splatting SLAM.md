@@ -8,7 +8,7 @@
 |**2025-03-06**|**Bayesian estimation of a multivariate TAR model when the noise process distribution belongs to the class of Gaussian variance mixtures**|L. H. Vanegas et.al.|[2503.04593v1](http://arxiv.org/abs/2503.04593v1)|null|
 |**2025-03-06**|**Investigating the nature of $N(1535)$ and $Λ(1405)$ in a quenched chiral quark model**|Yue Tan et.al.|[2503.04586v1](http://arxiv.org/abs/2503.04586v1)|null|
 |**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470v1](http://arxiv.org/abs/2503.04470v1)|null|
-|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459v1](http://arxiv.org/abs/2503.04459v1)|[link](https://github.com/AIM-SKKU/QA-TIGER)|
+|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459v2](http://arxiv.org/abs/2503.04459v2)|[link](https://github.com/AIM-SKKU/QA-TIGER)|
 |**2025-03-06**|**Non-parametric kernel density estimation of magnitude distribution for the analysis of seismic hazard posed by anthropogenic seismicity**|Francis Tong et.al.|[2503.04393v1](http://arxiv.org/abs/2503.04393v1)|null|
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333v1](http://arxiv.org/abs/2503.04333v1)|null|
 |**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314v1](http://arxiv.org/abs/2503.04314v1)|null|
