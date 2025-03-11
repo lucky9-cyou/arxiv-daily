@@ -2,9 +2,6 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-10**|**Runtime Detection of Adversarial Attacks in AI Accelerators Using Performance Counters**|Habibur Rahaman et.al.|[2503.07568v1](http://arxiv.org/abs/2503.07568v1)|null|
-|**2025-03-10**|**Junior Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review**|Samuel Ferino et.al.|[2503.07556v1](http://arxiv.org/abs/2503.07556v1)|null|
-|**2025-03-10**|**AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol**|Maurice Ongala et.al.|[2503.07540v1](http://arxiv.org/abs/2503.07540v1)|null|
 |**2025-03-10**|**Securing External Deeper-than-black-box GPAI Evaluations**|Alejandro Tlaie et.al.|[2503.07496v1](http://arxiv.org/abs/2503.07496v1)|null|
 |**2025-03-10**|**QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks**|Constantin Schempp et.al.|[2503.07479v1](http://arxiv.org/abs/2503.07479v1)|null|
 |**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463v1](http://arxiv.org/abs/2503.07463v1)|null|
@@ -32,3 +29,6 @@
 |**2025-03-10**|**Exploring Multimodal Perception in Large Language Models Through Perceptual Strength Ratings**|Jonghyun Lee et.al.|[2503.06980v1](http://arxiv.org/abs/2503.06980v1)|null|
 |**2025-03-10**|**Lightweight Multimodal Artificial Intelligence Framework for Maritime Multi-Scene Recognition**|Xinyu Xi et.al.|[2503.06978v1](http://arxiv.org/abs/2503.06978v1)|null|
 |**2025-03-10**|**A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis**|Xiang Liu et.al.|[2503.06973v1](http://arxiv.org/abs/2503.06973v1)|null|
+|**2025-03-10**|**Deuterium-deuterium fusion charged particle detection using CR-39 and Deep Learning Model**|Yuxing Wang et.al.|[2503.06932v1](http://arxiv.org/abs/2503.06932v1)|null|
+|**2025-03-10**|**FinTSBridge: A New Evaluation Suite for Real-world Financial Prediction with Advanced Time Series Models**|Yanlong Wang et.al.|[2503.06928v1](http://arxiv.org/abs/2503.06928v1)|null|
+|**2025-03-10**|**Combinatorial Optimization via LLM-driven Iterated Fine-tuning**|Pranjal Awasthi et.al.|[2503.06917v1](http://arxiv.org/abs/2503.06917v1)|null|
