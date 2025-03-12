@@ -2,6 +2,11 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**Towards construction of superintegrable basis in matrix models**|Azheev Batukhan et.al.|[2503.07583v1](http://arxiv.org/abs/2503.07583v1)|null|
+|**2025-03-10**|**Complexity Analysis of Environmental Time Series**|Holger Lange et.al.|[2503.07582v1](http://arxiv.org/abs/2503.07582v1)|null|
+|**2025-03-10**|**Genuine Continuous Quantumness**|Vojtěch Kala et.al.|[2503.07574v1](http://arxiv.org/abs/2503.07574v1)|null|
+|**2025-03-10**|**Degenerate parabolic equations in divergence form: fundamental solution and Gaussian bounds**|Khalid Baadi et.al.|[2503.07569v1](http://arxiv.org/abs/2503.07569v1)|null|
+|**2025-03-10**|**Fourier transform of nonlinear images of self-similar measures: quantitative aspects**|Amlan Banaji et.al.|[2503.07508v1](http://arxiv.org/abs/2503.07508v1)|null|
 |**2025-03-10**|**SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting**|Jiahui Zhang et.al.|[2503.07476v1](http://arxiv.org/abs/2503.07476v1)|null|
 |**2025-03-10**|**Sample Complexity of Nonparametric Closeness Testing for Continuous Distributions and Its Application to Causal Discovery with Hidden Confounding**|Fateme Jamshidi et.al.|[2503.07475v1](http://arxiv.org/abs/2503.07475v1)|null|
 |**2025-03-10**|**EigenGS Representation: From Eigenspace to Gaussian Image Space**|Lo-Wei Tai et.al.|[2503.07446v1](http://arxiv.org/abs/2503.07446v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-10**|**ActiveInitSplat: How Active Image Selection Helps Gaussian Splatting**|Konstantinos D. Polyzos et.al.|[2503.06859v1](http://arxiv.org/abs/2503.06859v1)|null|
 |**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779v1](http://arxiv.org/abs/2503.06779v1)|null|
 |**2025-03-09**|**Chance-constrained Linear Quadratic Gaussian Games for Multi-robot Interaction under Uncertainty**|Kai Ren et.al.|[2503.06776v1](http://arxiv.org/abs/2503.06776v1)|null|
-|**2025-03-09**|**Gaussian RBFNet: Gaussian Radial Basis Functions for Fast and Accurate Representation and Reconstruction of Neural Fields**|Abdelaziz Bouzidi et.al.|[2503.06762v1](http://arxiv.org/abs/2503.06762v1)|null|
-|**2025-03-09**|**CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**|Rui Song et.al.|[2503.06744v1](http://arxiv.org/abs/2503.06744v1)|null|
-|**2025-03-09**|**D3DR: Lighting-Aware Object Insertion in Gaussian Splatting**|Vsevolod Skorokhodov et.al.|[2503.06740v1](http://arxiv.org/abs/2503.06740v1)|null|
-|**2025-03-09**|**Faster and Space Efficient Indexing for Locality Sensitive Hashing**|Bhisham Dev Verma et.al.|[2503.06737v1](http://arxiv.org/abs/2503.06737v1)|null|
-|**2025-03-09**|**Continuous Online Adaptation Driven by User Interaction for Medical Image Segmentation**|Wentian Xu et.al.|[2503.06717v1](http://arxiv.org/abs/2503.06717v1)|null|
