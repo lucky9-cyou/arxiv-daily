@@ -26,7 +26,7 @@
 |**2025-03-11**|**Trinity: A Modular Humanoid Robot AI System**|Jingkai Sun et.al.|[2503.08338v1](http://arxiv.org/abs/2503.08338v1)|null|
 |**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336v1](http://arxiv.org/abs/2503.08336v1)|null|
 |**2025-03-11**|**MINT-Demo: Membership Inference Test Demonstrator**|Daniel DeAlcala et.al.|[2503.08332v1](http://arxiv.org/abs/2503.08332v1)|null|
-|**2025-03-11**|**$^R$FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307v1](http://arxiv.org/abs/2503.08307v1)|null|
+|**2025-03-11**|**$^R$FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307v2](http://arxiv.org/abs/2503.08307v2)|null|
 |**2025-03-11**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306v1](http://arxiv.org/abs/2503.08306v1)|null|
 |**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302v1](http://arxiv.org/abs/2503.08302v1)|null|
 |**2025-03-11**|**HERO: Human Reaction Generation from Videos**|Chengjun Yu et.al.|[2503.08270v1](http://arxiv.org/abs/2503.08270v1)|null|
