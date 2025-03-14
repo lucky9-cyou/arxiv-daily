@@ -28,7 +28,7 @@
 |**2025-03-12**|**Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding**|Haoyu Zhang et.al.|[2503.09143v1](http://arxiv.org/abs/2503.09143v1)|null|
 |**2025-03-12**|**Spiritus: An AI-Assisted Tool for Creating 2D Characters and Animations**|Qirui Sun et.al.|[2503.09127v1](http://arxiv.org/abs/2503.09127v1)|null|
 |**2025-03-12**|**Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge**|Maximilian Abstreiter et.al.|[2503.09114v1](http://arxiv.org/abs/2503.09114v1)|null|
-|**2025-03-12**|**Intrinsic low-temperature magnetic properties on the ultra-clean UTe$_2$ with $T_{\rm c}$ = 2.1 K revealed by $^{125}$Te NMR**|Hiroki Matsumura et.al.|[2503.09109v1](http://arxiv.org/abs/2503.09109v1)|null|
+|**2025-03-12**|**Intrinsic low-temperature magnetic properties on the ultra-clean UTe$_2$ with $T_{\rm c}$ = 2.1 K revealed by $^{125}$Te NMR**|Hiroki Matsumura et.al.|[2503.09109v2](http://arxiv.org/abs/2503.09109v2)|null|
 |**2025-03-12**|**"I Like Your Story!": A Co-Creative Story-Crafting Game with a Persona-Driven Character Based on Generative AI**|Jiaying Fu et.al.|[2503.09102v1](http://arxiv.org/abs/2503.09102v1)|null|
 |**2025-03-12**|**C^2 ATTACK: Towards Representation Backdoor on CLIP via Concept Confusion**|Lijie Hu et.al.|[2503.09095v1](http://arxiv.org/abs/2503.09095v1)|null|
 |**2025-03-12**|**Multi-Modal Foundation Models for Computational Pathology: A Survey**|Dong Li et.al.|[2503.09091v1](http://arxiv.org/abs/2503.09091v1)|null|

@@ -12,7 +12,7 @@
 |**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447v1](http://arxiv.org/abs/2503.09447v1)|null|
 |**2025-03-12**|**Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions**|Gledson Rodrigo Tondo et.al.|[2503.09418v1](http://arxiv.org/abs/2503.09418v1)|null|
 |**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396v1](http://arxiv.org/abs/2503.09396v1)|null|
-|**2025-03-12**|**Canonical equilibrium of mean-field $O(n)$~models in presence of random fields**|Soumya Kanti Pal et.al.|[2503.09389v1](http://arxiv.org/abs/2503.09389v1)|null|
+|**2025-03-12**|**Canonical equilibrium of mean-field $O(n)$~models in presence of random fields**|Soumya Kanti Pal et.al.|[2503.09389v2](http://arxiv.org/abs/2503.09389v2)|null|
 |**2025-03-12**|**Comparing quantum complexity and quantum fidelity**|Nadir Samos Sáenz de Buruaga et.al.|[2503.09364v1](http://arxiv.org/abs/2503.09364v1)|null|
 |**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342v1](http://arxiv.org/abs/2503.09342v1)|null|
 |**2025-03-12**|**SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction**|Dai Sun et.al.|[2503.09332v1](http://arxiv.org/abs/2503.09332v1)|null|
