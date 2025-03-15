@@ -28,7 +28,7 @@
 |**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170v1](http://arxiv.org/abs/2503.10170v1)|null|
 |**2025-03-13**|**VMBench: A Benchmark for Perception-Aligned Video Motion Generation**|Xinrang Ling et.al.|[2503.10076v1](http://arxiv.org/abs/2503.10076v1)|null|
 |**2025-03-13**|**AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI**|Haiqin Cui et.al.|[2503.10070v1](http://arxiv.org/abs/2503.10070v1)|null|
-|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068v1](http://arxiv.org/abs/2503.10068v1)|null|
+|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068v1](http://arxiv.org/abs/2503.10068v1)|[link](https://github.com/han-liu/PDAC_Detection)|
 |**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031v1](http://arxiv.org/abs/2503.10031v1)|null|
 |**2025-03-13**|**OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model**|Bowen Zhang et.al.|[2503.10009v1](http://arxiv.org/abs/2503.10009v1)|null|
 |**2025-03-13**|**Beyond Human: Cognitive and Physical Augmentation through AI, Robotics, and XR -- Opportunities and Risks**|Jie Li et.al.|[2503.09987v1](http://arxiv.org/abs/2503.09987v1)|null|
