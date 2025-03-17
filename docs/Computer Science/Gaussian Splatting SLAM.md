@@ -22,8 +22,8 @@
 |**2025-03-13**|**Numerically robust Gaussian state estimation with singular observation noise**|Nicholas Krämer et.al.|[2503.10279v1](http://arxiv.org/abs/2503.10279v1)|null|
 |**2025-03-13**|**Symplectic Wigner Distribution in the Linear Canonical Transform Domain: Theory and Application**|Yangfan He et.al.|[2503.10274v1](http://arxiv.org/abs/2503.10274v1)|null|
 |**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256v1](http://arxiv.org/abs/2503.10256v1)|null|
-|**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170v1](http://arxiv.org/abs/2503.10170v1)|null|
-|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148v1](http://arxiv.org/abs/2503.10148v1)|null|
+|**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170v1](http://arxiv.org/abs/2503.10170v1)|[link](https://github.com/hku-mars/gs-sdf)|
+|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148v1](http://arxiv.org/abs/2503.10148v1)|[link](https://github.com/realcrane/student-splating-scooping)|
 |**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143v1](http://arxiv.org/abs/2503.10143v1)|null|
 |**2025-03-13**|**The SRG/eROSITA All-Sky Survey : Subaru/HSC-SSP weak-lensing mass measurements for the eRASS1 Galaxy Clusters**|Nobuhiro Okabe et.al.|[2503.09952v1](http://arxiv.org/abs/2503.09952v1)|null|
 |**2025-03-13**|**TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness**|Mu Chen et.al.|[2503.09941v1](http://arxiv.org/abs/2503.09941v1)|null|
