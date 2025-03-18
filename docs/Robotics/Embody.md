@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**Pushing DSP-Free Coherent Interconnect to the Last Inch by Optically Analog Signal Processing**|Mingming Zhang et.al.|[2503.11618v1](http://arxiv.org/abs/2503.11618v1)|null|
-|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615v1](http://arxiv.org/abs/2503.11615v1)|null|
-|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586v1](http://arxiv.org/abs/2503.11586v1)|null|
-|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579v1](http://arxiv.org/abs/2503.11579v1)|null|
-|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572v1](http://arxiv.org/abs/2503.11572v1)|null|
-|**2025-03-14**|**Disentangled Object-Centric Image Representation for Robotic Manipulation**|David Emukpere et.al.|[2503.11565v1](http://arxiv.org/abs/2503.11565v1)|null|
-|**2025-03-14**|**Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks**|Diego Gosmar et.al.|[2503.11517v1](http://arxiv.org/abs/2503.11517v1)|null|
-|**2025-03-14**|**TikZero: Zero-Shot Text-Guided Graphics Program Synthesis**|Jonas Belouadi et.al.|[2503.11509v1](http://arxiv.org/abs/2503.11509v1)|null|
-|**2025-03-14**|**Do Comments and Expertise Still Matter? An Experiment on Programmers' Adoption of AI-Generated JavaScript Code**|Changwen Li et.al.|[2503.11453v1](http://arxiv.org/abs/2503.11453v1)|null|
-|**2025-03-14**|**From Generative AI to Innovative AI: An Evolutionary Roadmap**|Seyed Mahmoud Sajjadi Mohammadabadi et.al.|[2503.11419v1](http://arxiv.org/abs/2503.11419v1)|null|
-|**2025-03-14**|**Quality In, Quality Out: Investigating Training Data's Role in AI Code Generation**|Cristina Improta et.al.|[2503.11402v1](http://arxiv.org/abs/2503.11402v1)|null|
-|**2025-03-14**|**Study of $φ\to K\bar{K}$ and $K_{S}^{0}-K_{L}^{0}$ asymmetry in the amplitude analysis of $D_{s}^{+} \to K_{S}^{0}K_{L}^{0}π^{+}$ decay**|BESIII Collaboration et.al.|[2503.11383v1](http://arxiv.org/abs/2503.11383v1)|null|
-|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346v1](http://arxiv.org/abs/2503.11346v1)|null|
-|**2025-03-14**|**FG-DFPN: Flow Guided Deformable Frame Prediction Network**|M. Akın Yılmaz et.al.|[2503.11343v1](http://arxiv.org/abs/2503.11343v1)|null|
-|**2025-03-14**|**Advancements in Real-Time Oncology Diagnosis: Harnessing AI and Image Fusion Techniques**|Leila Bagheriye et.al.|[2503.11332v1](http://arxiv.org/abs/2503.11332v1)|null|
-|**2025-03-14**|**A Data-Driven Exploration of Elevation Cues in HRTFs: An Explainable AI Perspective Across Multiple Datasets**|Juan Antonio De Rus et.al.|[2503.11312v1](http://arxiv.org/abs/2503.11312v1)|null|
-|**2025-03-14**|**OPTIMUS: Predicting Multivariate Outcomes in Alzheimer's Disease Using Multi-modal Data amidst Missing Values**|Christelle Schneuwly Diaz et.al.|[2503.11282v1](http://arxiv.org/abs/2503.11282v1)|null|
-|**2025-03-14**|**AI and Deep Learning for Automated Segmentation and Quantitative Measurement of Spinal Structures in MRI**|Praveen Shastry et.al.|[2503.11281v1](http://arxiv.org/abs/2503.11281v1)|null|
-|**2025-03-14**|**AI-Assisted Object Condensation Clustering for Calorimeter Shower Reconstruction at CLAS12**|Gregory Matousek et.al.|[2503.11277v1](http://arxiv.org/abs/2503.11277v1)|null|
-|**2025-03-14**|**Financial Fraud Detection with Entropy Computing**|Babak Emami et.al.|[2503.11273v1](http://arxiv.org/abs/2503.11273v1)|null|
-|**2025-03-14**|**Exploring Competitive and Collusive Behaviors in Algorithmic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2503.11270v1](http://arxiv.org/abs/2503.11270v1)|null|
-|**2025-03-14**|**Line of Duty: Evaluating LLM Self-Knowledge via Consistency in Feasibility Boundaries**|Sahil Kale et.al.|[2503.11256v1](http://arxiv.org/abs/2503.11256v1)|null|
-|**2025-03-14**|**Step-Video-TI2V Technical Report: A State-of-the-Art Text-Driven Image-to-Video Generation Model**|Haoyang Huang et.al.|[2503.11251v1](http://arxiv.org/abs/2503.11251v1)|null|
-|**2025-03-14**|**PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders**|Ahmed Frikha et.al.|[2503.11232v1](http://arxiv.org/abs/2503.11232v1)|null|
-|**2025-03-14**|**Provenance Detection for AI-Generated Images: Combining Perceptual Hashing, Homomorphic Encryption, and AI Detection Models**|Shree Singhi et.al.|[2503.11195v1](http://arxiv.org/abs/2503.11195v1)|null|
-|**2025-03-14**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117v1](http://arxiv.org/abs/2503.11117v1)|null|
-|**2025-03-14**|**Trust in Disinformation Narratives: a Trust in the News Experiment**|Hanbyul Song et.al.|[2503.11116v1](http://arxiv.org/abs/2503.11116v1)|null|
-|**2025-03-14**|**Vipera: Towards systematic auditing of generative text-to-image models at scale**|Yanwei Huang et.al.|[2503.11113v1](http://arxiv.org/abs/2503.11113v1)|null|
-|**2025-03-14**|**AI-assisted hyper-dimensional broadband quantum memory with efficiency above 90% in warm atoms**|Zeliang Wu et.al.|[2503.11098v1](http://arxiv.org/abs/2503.11098v1)|null|
-|**2025-03-14**|**Augmenting Image Annotation: A Human-LMM Collaborative Framework for Efficient Object Selection and Label Generation**|He Zhang et.al.|[2503.11096v1](http://arxiv.org/abs/2503.11096v1)|null|
+|**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|null|
+|**2025-03-17**|**Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes**|Nhi Pham et.al.|[2503.13429v1](http://arxiv.org/abs/2503.13429v1)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427v1](http://arxiv.org/abs/2503.13427v1)|null|
+|**2025-03-17**|**Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation**|Xinyu Lian et.al.|[2503.13424v1](http://arxiv.org/abs/2503.13424v1)|null|
+|**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421v1](http://arxiv.org/abs/2503.13421v1)|null|
+|**2025-03-17**|**Securing Virtual Reality Experiences: Unveiling and Tackling Cybersickness Attacks with Explainable AI**|Ripan Kumar Kundu et.al.|[2503.13419v1](http://arxiv.org/abs/2503.13419v1)|null|
+|**2025-03-17**|**FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation**|Shijie Fang et.al.|[2503.13418v1](http://arxiv.org/abs/2503.13418v1)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|null|
+|**2025-03-17**|**Investigating the effect of CPT in lateral spreading prediction using Explainable AI**|Cheng-Hsi Hsiao et.al.|[2503.13389v1](http://arxiv.org/abs/2503.13389v1)|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|null|
+|**2025-03-17**|**Scalable Runtime Architecture for Data-driven, Hybrid HPC and ML Workflow Applications**|Andre Merzky et.al.|[2503.13343v1](http://arxiv.org/abs/2503.13343v1)|null|
+|**2025-03-17**|**LearnMate: Enhancing Online Education with LLM-Powered Personalized Learning Plans and Support**|Xinyu Jessica Wang et.al.|[2503.13340v1](http://arxiv.org/abs/2503.13340v1)|null|
+|**2025-03-17**|**Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions**|Matteo Esposito et.al.|[2503.13310v1](http://arxiv.org/abs/2503.13310v1)|null|
+|**2025-03-17**|**Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework**|Farnoush Bayatmakou et.al.|[2503.13309v1](http://arxiv.org/abs/2503.13309v1)|null|
+|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294v1](http://arxiv.org/abs/2503.13294v1)|null|
+|**2025-03-17**|**Goal2Story: A Multi-Agent Fleet based on Privately Enabled sLLMs for Impacting Mapping on Requirements Elicitation**|Xinkai Zou et.al.|[2503.13279v1](http://arxiv.org/abs/2503.13279v1)|null|
+|**2025-03-17**|**Artificial Intelligence-Driven Prognostic Classification of COVID-19 Using Chest X-rays: A Deep Learning Approach**|Alfred Simbun et.al.|[2503.13277v1](http://arxiv.org/abs/2503.13277v1)|null|
+|**2025-03-17**|**MAME: Multidimensional Adaptive Metamer Exploration with Human Perceptual Feedback**|Mina Kamao et.al.|[2503.13212v1](http://arxiv.org/abs/2503.13212v1)|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|null|
+|**2025-03-17**|**MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**|Zhen Chen et.al.|[2503.13205v1](http://arxiv.org/abs/2503.13205v1)|null|
+|**2025-03-17**|**Rapfi: Distilling Efficient Neural Network for the Game of Gomoku**|Zhanggen Jin et.al.|[2503.13178v1](http://arxiv.org/abs/2503.13178v1)|null|
+|**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169v1](http://arxiv.org/abs/2503.13169v1)|null|
+|**2025-03-17**|**Are LLMs (Really) Ideological? An IRT-based Analysis and Alignment Tool for Perceived Socio-Economic Bias in LLMs**|Jasmin Wachter et.al.|[2503.13149v1](http://arxiv.org/abs/2503.13149v1)|null|
+|**2025-03-17**|**Enhancing zero-shot learning in medical imaging: integrating clip with advanced techniques for improved chest x-ray analysis**|Prakhar Bhardwaj et.al.|[2503.13134v1](http://arxiv.org/abs/2503.13134v1)|null|
+|**2025-03-17**|**Towards Better Sample Efficiency in Multi-Agent Reinforcement Learning via Exploration**|Amir Baghi et.al.|[2503.13077v1](http://arxiv.org/abs/2503.13077v1)|null|
+|**2025-03-17**|**Overview of the NTCIR-18 Automatic Evaluation of LLMs (AEOLLM) Task**|Junjie Chen et.al.|[2503.13038v1](http://arxiv.org/abs/2503.13038v1)|null|
+|**2025-03-17**|**Halving transcription time: A fast, user-friendly and GDPR-compliant workflow to create AI-assisted transcripts for content analysis**|Jakob Sponholz et.al.|[2503.13031v1](http://arxiv.org/abs/2503.13031v1)|null|
+|**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993v1](http://arxiv.org/abs/2503.12993v1)|null|
+|**2025-03-17**|**Exploring 3D Activity Reasoning and Planning: From Implicit Human Intentions to Route-Aware Planning**|Xueying Jiang et.al.|[2503.12974v1](http://arxiv.org/abs/2503.12974v1)|null|
+|**2025-03-17**|**Training Video Foundation Models with NVIDIA NeMo**|Zeeshan Patel et.al.|[2503.12964v1](http://arxiv.org/abs/2503.12964v1)|null|
