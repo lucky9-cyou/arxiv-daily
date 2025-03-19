@@ -2,6 +2,11 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346v1](http://arxiv.org/abs/2503.14346v1)|null|
+|**2025-03-18**|**GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**|Tingyang Xiao et.al.|[2503.14247v1](http://arxiv.org/abs/2503.14247v1)|null|
+|**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219v1](http://arxiv.org/abs/2503.14219v1)|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|null|
+|**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710v1](http://arxiv.org/abs/2503.13710v1)|null|
 |**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347v1](http://arxiv.org/abs/2503.13347v1)|null|
 |**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|null|
 |**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176v1](http://arxiv.org/abs/2503.13176v1)|null|
@@ -27,8 +32,3 @@
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483v1](http://arxiv.org/abs/2503.08483v1)|null|
 |**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317v2](http://arxiv.org/abs/2503.08317v2)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071v1](http://arxiv.org/abs/2503.08071v1)|null|
-|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952v1](http://arxiv.org/abs/2503.07952v1)|null|
-|**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828v1](http://arxiv.org/abs/2503.07828v1)|null|
-|**2025-03-10**|**POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**|Joey Wilson et.al.|[2503.07819v1](http://arxiv.org/abs/2503.07819v1)|null|
-|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425v1](http://arxiv.org/abs/2503.07425v1)|null|
-|**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890v1](http://arxiv.org/abs/2503.06890v1)|[link](https://github.com/vvEverett/tello_ros)|

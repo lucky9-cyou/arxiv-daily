@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**Optimized 3D Gaussian Splatting using Coarse-to-Fine Image Frequency Modulation**|Umar Farooq et.al.|[2503.14475v1](http://arxiv.org/abs/2503.14475v1)|null|
+|**2025-03-18**|**Recovering Parameters from Edge Fluctuations: Beta-Ensembles and Critically-Spiked Models**|Pierre Yves Gaudreau Lamarre et.al.|[2503.14414v1](http://arxiv.org/abs/2503.14414v1)|null|
+|**2025-03-18**|**Landscape Complexity for the Empirical Risk of Generalized Linear Models: Discrimination between Structured Data**|Theodoros G. Tsironis et.al.|[2503.14403v1](http://arxiv.org/abs/2503.14403v1)|null|
+|**2025-03-18**|**A New Proof of Sub-Gaussian Norm Concentration Inequality**|Zishun Liu et.al.|[2503.14347v1](http://arxiv.org/abs/2503.14347v1)|null|
+|**2025-03-18**|**Classes of non-Gaussian random matrices: long-range eigenvalue correlations and non-ergodic extended eigenvectors**|Joseph W. Baron et.al.|[2503.14282v1](http://arxiv.org/abs/2503.14282v1)|null|
+|**2025-03-18**|**Improving Adaptive Density Control for 3D Gaussian Splatting**|Glenn Grubert et.al.|[2503.14274v1](http://arxiv.org/abs/2503.14274v1)|null|
+|**2025-03-18**|**RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images**|Junjin Xiao et.al.|[2503.14198v1](http://arxiv.org/abs/2503.14198v1)|null|
+|**2025-03-18**|**Optimal Moment-based Characterization of a Gaussian State**|Niels Tripier-Mondancin et.al.|[2503.14188v1](http://arxiv.org/abs/2503.14188v1)|null|
+|**2025-03-18**|**Lightweight Gradient-Aware Upscaling of 3D Gaussian Splatting Images**|Simon Niedermayr et.al.|[2503.14171v1](http://arxiv.org/abs/2503.14171v1)|null|
+|**2025-03-18**|**Fundamental Limits of Matrix Sensing: Exact Asymptotics, Universality, and Applications**|Yizhou Xu et.al.|[2503.14121v1](http://arxiv.org/abs/2503.14121v1)|null|
+|**2025-03-18**|**Numerical evaluation of Gaussian mixture entropy**|Basheer Joudeh et.al.|[2503.14047v1](http://arxiv.org/abs/2503.14047v1)|null|
+|**2025-03-18**|**Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**|Runsong Zhu et.al.|[2503.14029v1](http://arxiv.org/abs/2503.14029v1)|null|
+|**2025-03-18**|**LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**|Wei Lu et.al.|[2503.14012v1](http://arxiv.org/abs/2503.14012v1)|null|
+|**2025-03-18**|**BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**|Minye Wu et.al.|[2503.13961v1](http://arxiv.org/abs/2503.13961v1)|null|
+|**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951v1](http://arxiv.org/abs/2503.13951v1)|null|
+|**2025-03-18**|**Light4GS: Lightweight Compact 4D Gaussian Splatting Generation via Context Model**|Mufan Liu et.al.|[2503.13948v1](http://arxiv.org/abs/2503.13948v1)|null|
+|**2025-03-18**|**COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning**|Yuki Tomita et.al.|[2503.13934v1](http://arxiv.org/abs/2503.13934v1)|null|
+|**2025-03-18**|**Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach**|Sarah Liaw et.al.|[2503.13899v1](http://arxiv.org/abs/2503.13899v1)|null|
+|**2025-03-18**|**A Relaxed Wasserstein Distance Formulation for Mixtures of Radially Contoured Distributions**|Keyu Chen et.al.|[2503.13893v1](http://arxiv.org/abs/2503.13893v1)|null|
+|**2025-03-18**|**Optimization and Characterization of Near-Field Beams with Uniform Linear Arrays**|Sota Uchimura et.al.|[2503.13890v1](http://arxiv.org/abs/2503.13890v1)|null|
+|**2025-03-18**|**Empirical Calibration and Metric Differential Privacy in Language Models**|Pedro Faustini et.al.|[2503.13872v1](http://arxiv.org/abs/2503.13872v1)|null|
+|**2025-03-18**|**Hierarchical Gaussian Random Fields for Multilevel Markov Chain Monte Carlo: Coupling Stochastic Partial Differential Equation and The Karhunen-Loève Decomposition**|Sohail Reddy et.al.|[2503.13830v1](http://arxiv.org/abs/2503.13830v1)|null|
+|**2025-03-17**|**Resonance-free Fabry-Pérot cavity via unrestricted orbital-angular-momentum ladder-up**|Shaghayegh Yaraghi et.al.|[2503.13712v1](http://arxiv.org/abs/2503.13712v1)|null|
+|**2025-03-17**|**Characterizing Gaussian quantum processes with Gaussian resources**|Logan W. Grove et.al.|[2503.13698v1](http://arxiv.org/abs/2503.13698v1)|null|
+|**2025-03-17**|**Chance-Constrained Covariance Steering for Discrete-Time Markov Jump Linear Systems**|Shaurya Shrivastava et.al.|[2503.13675v1](http://arxiv.org/abs/2503.13675v1)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404v1](http://arxiv.org/abs/2503.13404v1)|null|
 |**2025-03-17**|**Complex abstract Wiener spaces**|Tess J. van Leeuwen et.al.|[2503.13346v1](http://arxiv.org/abs/2503.13346v1)|null|
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|null|
 |**2025-03-17**|**A convexity preserving nonconvex regularization for inverse problems under non-Gaussian noise**|Wataru Yata et.al.|[2503.13287v1](http://arxiv.org/abs/2503.13287v1)|null|
 |**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272v1](http://arxiv.org/abs/2503.13272v1)|null|
-|**2025-03-17**|**On the accuracy of posterior recovery with neural network emulators**|H. T. J. Bevins et.al.|[2503.13263v1](http://arxiv.org/abs/2503.13263v1)|null|
-|**2025-03-17**|**Non-asymptotic quantum communication on lossy transmission lines with memory**|Francesco Anna Mele et.al.|[2503.13207v1](http://arxiv.org/abs/2503.13207v1)|null|
-|**2025-03-17**|**OLÉ -- Online Learning Emulation in Cosmology**|Sven Günther et.al.|[2503.13183v1](http://arxiv.org/abs/2503.13183v1)|null|
-|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176v1](http://arxiv.org/abs/2503.13176v1)|null|
-|**2025-03-17**|**Effects of Disorder on the Energy Landscape and Motional Mechanisms Involved in Lithium Ion Dynamics and Transport in Solid Electrolytes: Li5.5PS4.5Cl1.5 Argyrodite as a Case Study**|Mohammad Ali Badragheh et.al.|[2503.13142v1](http://arxiv.org/abs/2503.13142v1)|null|
-|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086v1](http://arxiv.org/abs/2503.13086v1)|null|
-|**2025-03-17**|**Permutation Learning with Only N Parameters: From SoftSort to Self-Organizing Gaussians**|Kai Uwe Barthel et.al.|[2503.13051v1](http://arxiv.org/abs/2503.13051v1)|null|
-|**2025-03-17**|**On a conjecture of Roverato regarding G-Wishart normalising constants**|Ching Wong et.al.|[2503.13046v1](http://arxiv.org/abs/2503.13046v1)|null|
-|**2025-03-17**|**Atom-Field-Medium Interactions II: Covariance Matrix Dynamics for $N$ Harmonic Atoms in a Dielectric-Altered Quantum Field and Effects of Dielectric on Atom-Field Entanglement**|Jen-Tsung Hsiang et.al.|[2503.13022v1](http://arxiv.org/abs/2503.13022v1)|null|
-|**2025-03-17**|**Optimal Denoising in Score-Based Generative Models: The Role of Data Regularity**|Eliot Beyler et.al.|[2503.12966v1](http://arxiv.org/abs/2503.12966v1)|null|
-|**2025-03-17**|**Edgeworth Expansion for Semi-hard Triplet Loss**|Masanari Kimura et.al.|[2503.12893v1](http://arxiv.org/abs/2503.12893v1)|null|
-|**2025-03-17**|**RGBAvatar: Reduced Gaussian Blendshapes for Online Modeling of Head Avatars**|Linzhou Li et.al.|[2503.12886v1](http://arxiv.org/abs/2503.12886v1)|null|
-|**2025-03-17**|**CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.12862v1](http://arxiv.org/abs/2503.12862v1)|null|
-|**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836v1](http://arxiv.org/abs/2503.12836v1)|null|
-|**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806v1](http://arxiv.org/abs/2503.12806v1)|null|
-|**2025-03-17**|**Matrix phase-space representations in quantum optics**|Peter D. Drummond et.al.|[2503.12749v1](http://arxiv.org/abs/2503.12749v1)|null|
-|**2025-03-16**|**Noisy dynamics of Gaussian entanglement: a transient bound entangled phase before separability**|Gurvir Singh et.al.|[2503.12694v1](http://arxiv.org/abs/2503.12694v1)|null|
-|**2025-03-16**|**Discovering uncertainty: Gaussian constitutive neural networks with correlated weights**|Jeremy A. McCulloch et.al.|[2503.12679v1](http://arxiv.org/abs/2503.12679v1)|null|
-|**2025-03-16**|**Extendability of general non-prime $K3$ surfaces without Gaussian maps**|Purnaprajna Bangere et.al.|[2503.12661v1](http://arxiv.org/abs/2503.12661v1)|null|
-|**2025-03-16**|**Asymptotic Expansions of Gaussian and Laguerre Ensembles at the Soft Edge II: Level Densities**|Folkmar Bornemann et.al.|[2503.12644v1](http://arxiv.org/abs/2503.12644v1)|null|
-|**2025-03-16**|**Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**|Heye Huang et.al.|[2503.12637v1](http://arxiv.org/abs/2503.12637v1)|null|
-|**2025-03-16**|**Fast filtering of non-Gaussian models using Amortized Optimal Transport Maps**|Mohammad Al-Jarrah et.al.|[2503.12633v1](http://arxiv.org/abs/2503.12633v1)|null|
-|**2025-03-16**|**Deblur Gaussian Splatting SLAM**|Francesco Girlanda et.al.|[2503.12572v1](http://arxiv.org/abs/2503.12572v1)|null|
-|**2025-03-16**|**Niagara: Normal-Integrated Geometric Affine Field for Scene Reconstruction from a Single View**|Xianzu Wu et.al.|[2503.12553v1](http://arxiv.org/abs/2503.12553v1)|[link](https://github.com/xianzuwu/Niagara)|
-|**2025-03-16**|**MTGS: Multi-Traversal Gaussian Splatting**|Tianyu Li et.al.|[2503.12552v1](http://arxiv.org/abs/2503.12552v1)|null|

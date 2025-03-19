@@ -2,6 +2,8 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219v1](http://arxiv.org/abs/2503.14219v1)|null|
+|**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710v1](http://arxiv.org/abs/2503.13710v1)|null|
 |**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347v1](http://arxiv.org/abs/2503.13347v1)|null|
 |**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176v1](http://arxiv.org/abs/2503.13176v1)|null|
 |**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947v1](http://arxiv.org/abs/2503.12947v1)|null|
@@ -30,5 +32,3 @@
 |**2025-03-03**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582v2](http://arxiv.org/abs/2503.01582v2)|null|
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199v1](http://arxiv.org/abs/2503.01199v1)|[link](https://github.com/moorethreads/litegs)|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887v1](http://arxiv.org/abs/2503.00887v1)|null|
-|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|[link](https://github.com/nepfaff/scalable-real2sim)|
-|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
