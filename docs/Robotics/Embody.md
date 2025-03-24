@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423v1](http://arxiv.org/abs/2503.16423v1)|null|
-|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416v1](http://arxiv.org/abs/2503.16416v1)|null|
-|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408v1](http://arxiv.org/abs/2503.16408v1)|null|
-|**2025-03-20**|**Multiplicity $=$ Volume formula and Newton non-degenerate ideals in regular local rings**|Tài Huy Hà et.al.|[2503.16393v1](http://arxiv.org/abs/2503.16393v1)|null|
-|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392v1](http://arxiv.org/abs/2503.16392v1)|null|
-|**2025-03-20**|**UniSync: A Unified Framework for Audio-Visual Synchronization**|Tao Feng et.al.|[2503.16357v1](http://arxiv.org/abs/2503.16357v1)|null|
-|**2025-03-20**|**Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds**|Murray Shanahan et.al.|[2503.16348v1](http://arxiv.org/abs/2503.16348v1)|null|
-|**2025-03-20**|**Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model**|Seshu Babu Barma et.al.|[2503.16335v1](http://arxiv.org/abs/2503.16335v1)|null|
-|**2025-03-20**|**Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education**|Giovanni Adorni et.al.|[2503.16307v1](http://arxiv.org/abs/2503.16307v1)|null|
-|**2025-03-20**|**Extraction of Bend-Resolved Modal Basis in Deformed Multimode Fiber**|Lubomir Skvarenina et.al.|[2503.16303v1](http://arxiv.org/abs/2503.16303v1)|null|
-|**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288v1](http://arxiv.org/abs/2503.16288v1)|null|
-|**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278v2](http://arxiv.org/abs/2503.16278v2)|null|
-|**2025-03-20**|**AI Agents in Cryptoland: Practical Attacks and No Silver Bullet**|Atharv Singh Patlan et.al.|[2503.16248v1](http://arxiv.org/abs/2503.16248v1)|null|
-|**2025-03-20**|**OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection**|Max Gutbrod et.al.|[2503.16247v1](http://arxiv.org/abs/2503.16247v1)|null|
-|**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233v1](http://arxiv.org/abs/2503.16233v1)|null|
-|**2025-03-20**|**Logic Explanation of AI Classifiers by Categorical Explaining Functors**|Stefano Fioravanti et.al.|[2503.16203v1](http://arxiv.org/abs/2503.16203v1)|null|
-|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161v1](http://arxiv.org/abs/2503.16161v1)|null|
-|**2025-03-20**|**Electromagnetically Induced Transparency Effect Improves Quantum Battery Lifetime**|Cheng-Ge Liu et.al.|[2503.16156v1](http://arxiv.org/abs/2503.16156v1)|null|
-|**2025-03-20**|**The Impact of Revealing Large Language Model Stochasticity on Trust, Reliability, and Anthropomorphization**|Chelse Swoopes et.al.|[2503.16114v1](http://arxiv.org/abs/2503.16114v1)|null|
-|**2025-03-20**|**Fast Homomorphic Linear Algebra with BLAS**|Youngjin Bae et.al.|[2503.16080v1](http://arxiv.org/abs/2503.16080v1)|null|
-|**2025-03-20**|**Search for the radiative leptonic decay $D^+\toγe^+ν_e$ with Deep Learning**|BESIII Collaboration et.al.|[2503.16070v1](http://arxiv.org/abs/2503.16070v1)|null|
-|**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041v1](http://arxiv.org/abs/2503.16041v1)|null|
-|**2025-03-20**|**Autonomous AI imitators increase diversity in homogeneous information ecosystems**|Emil Bakkensen Johansen et.al.|[2503.16021v2](http://arxiv.org/abs/2503.16021v2)|null|
-|**2025-03-20**|**"This could save us months of work" -- Use Cases of AI and Automation Support in Investigative Journalism**|Besjon Cifliku et.al.|[2503.16011v1](http://arxiv.org/abs/2503.16011v1)|null|
-|**2025-03-20**|**Small-scale metric structure and horizons: Probing the nature of gravity**|Alessandro Pesci et.al.|[2503.15992v1](http://arxiv.org/abs/2503.15992v1)|null|
-|**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980v1](http://arxiv.org/abs/2503.15980v1)|null|
-|**2025-03-20**|**A Survey on fMRI-based Brain Decoding for Reconstructing Multimodal Stimuli**|Pengyu Liu et.al.|[2503.15978v1](http://arxiv.org/abs/2503.15978v1)|null|
-|**2025-03-20**|**A multi-model approach using XAI and anomaly detection to predict asteroid hazards**|Amit Kumar Mondal et.al.|[2503.15901v1](http://arxiv.org/abs/2503.15901v1)|null|
-|**2025-03-20**|**WeirdFlows: Anomaly Detection in Financial Transaction Flows**|Arthur Capozzi et.al.|[2503.15896v1](http://arxiv.org/abs/2503.15896v1)|null|
-|**2025-03-20**|**DeepPsy-Agent: A Stage-Aware and Deep-Thinking Emotional Support Agent System**|Kai Chen et.al.|[2503.15876v1](http://arxiv.org/abs/2503.15876v1)|null|
+|**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359v1](http://arxiv.org/abs/2503.17359v1)|null|
+|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354v1](http://arxiv.org/abs/2503.17354v1)|null|
+|**2025-03-21**|**Can AI expose tax loopholes? Towards a new generation of legal policy assistants**|Peter Fratrič et.al.|[2503.17339v1](http://arxiv.org/abs/2503.17339v1)|null|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336v1](http://arxiv.org/abs/2503.17336v1)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332v1](http://arxiv.org/abs/2503.17332v1)|[link](https://github.com/uiuc-kang-lab/cve-bench)|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309v1](http://arxiv.org/abs/2503.17309v1)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302v1](http://arxiv.org/abs/2503.17302v1)|null|
+|**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267v1](http://arxiv.org/abs/2503.17267v1)|null|
+|**2025-03-21**|**Automating Adjudication of Cardiovascular Events Using Large Language Models**|Sonish Sivarajkumar et.al.|[2503.17222v1](http://arxiv.org/abs/2503.17222v1)|null|
+|**2025-03-21**|**PP-DocLayout: A Unified Document Layout Detection Model to Accelerate Large-Scale Data Construction**|Ting Sun et.al.|[2503.17213v1](http://arxiv.org/abs/2503.17213v1)|null|
+|**2025-03-21**|**On high discrepancy $1$-factorizations of complete graphs**|Jiangdong Ai et.al.|[2503.17176v1](http://arxiv.org/abs/2503.17176v1)|null|
+|**2025-03-21**|**Stringent test of $CP$ symmetry in $Σ^+$ hyperon decays**|BESIII Collaboration et.al.|[2503.17165v1](http://arxiv.org/abs/2503.17165v1)|null|
+|**2025-03-21**|**ExplainitAI: When do we trust artificial intelligence? The influence of content and explainability in a cross-cultural comparison**|Sora Kang et.al.|[2503.17158v1](http://arxiv.org/abs/2503.17158v1)|null|
+|**2025-03-21**|**Ubiquitous order known as chaos**|Igor V. Ovchinnikov et.al.|[2503.17157v1](http://arxiv.org/abs/2503.17157v1)|null|
+|**2025-03-21**|**Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation**|Tiarna Lee et.al.|[2503.17089v1](http://arxiv.org/abs/2503.17089v1)|null|
+|**2025-03-21**|**Deterministic AI Agent Personality Expression through Standard Psychological Diagnostics**|J. M. Diederik Kruijssen et.al.|[2503.17085v1](http://arxiv.org/abs/2503.17085v1)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061v1](http://arxiv.org/abs/2503.17061v1)|null|
+|**2025-03-21**|**ExCap3D: Expressive 3D Scene Understanding via Object Captioning with Varying Detail**|Chandan Yeshwanth et.al.|[2503.17044v1](http://arxiv.org/abs/2503.17044v1)|null|
+|**2025-03-21**|**Problem Framing in the AI era: a new model**|Matteo Tuveri et.al.|[2503.17040v1](http://arxiv.org/abs/2503.17040v1)|null|
+|**2025-03-21**|**Developing Critical Thinking in Second Language Learners: Exploring Generative AI like ChatGPT as a Tool for Argumentative Essay Writing**|Simon Suh et.al.|[2503.17013v1](http://arxiv.org/abs/2503.17013v1)|null|
+|**2025-03-21**|**Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks**|Julian Junyan Wang et.al.|[2503.16974v1](http://arxiv.org/abs/2503.16974v1)|null|
+|**2025-03-21**|**Evolving the Computational Notebook: A Two-Dimensional Canvas for Enhanced Human-AI Interaction**|Konstantin Grotov et.al.|[2503.16967v1](http://arxiv.org/abs/2503.16967v1)|null|
+|**2025-03-21**|**When Words Outperform Vision: VLMs Can Self-Improve Via Text-Only Training For Human-Centered Decision Making**|Zhe Hu et.al.|[2503.16965v1](http://arxiv.org/abs/2503.16965v1)|null|
+|**2025-03-21**|**Somatic Safety: An Embodied Approach Towards Safe Human-Robot Interaction**|Steve Benford et.al.|[2503.16960v1](http://arxiv.org/abs/2503.16960v1)|null|
+|**2025-03-21**|**Rankformer: A Graph Transformer for Recommendation based on Ranking Objective**|Sirui Chen et.al.|[2503.16927v1](http://arxiv.org/abs/2503.16927v1)|null|
+|**2025-03-21**|**Assessing AI Explainability: A Usability Study Using a Novel Framework Involving Clinicians**|Mohammad Golam Kibria et.al.|[2503.16920v1](http://arxiv.org/abs/2503.16920v1)|null|
+|**2025-03-21**|**Indoor Localization Based on MSC Map**|Łukasz Kułacz et.al.|[2503.16895v1](http://arxiv.org/abs/2503.16895v1)|null|
+|**2025-03-21**|**In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI**|Shayne Longpre et.al.|[2503.16861v1](http://arxiv.org/abs/2503.16861v1)|null|
+|**2025-03-21**|**Toward AI-driven Multimodal Interfaces for Industrial CAD Modeling**|Jiin Choi et.al.|[2503.16824v1](http://arxiv.org/abs/2503.16824v1)|null|
+|**2025-03-21**|**A Pathway to Near Tissue Computing through Processing-in-CTIA Pixels for Biomedical Applications**|Zihan Yin et.al.|[2503.16798v1](http://arxiv.org/abs/2503.16798v1)|null|
