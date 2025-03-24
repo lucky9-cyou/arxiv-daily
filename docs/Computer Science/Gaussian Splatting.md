@@ -20,7 +20,7 @@
 |**2025-03-20**|**Optimizing realistic continuous-variable quantum teleportation with non-Gaussian resources**|Ankita et.al.|[2503.15909v1](http://arxiv.org/abs/2503.15909v1)|null|
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908v1](http://arxiv.org/abs/2503.15908v1)|null|
 |**2025-03-20**|**Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions**|Boran Wen et.al.|[2503.15898v1](http://arxiv.org/abs/2503.15898v1)|null|
-|**2025-03-20**|**The Gaussian central limit theorem for a stationary time series with infinite varia**|Muneya Matsui et.al.|[2503.15894v1](http://arxiv.org/abs/2503.15894v1)|null|
+|**2025-03-20**|**The Gaussian central limit theorem for a stationary time series with infinite variance**|Muneya Matsui et.al.|[2503.15894v2](http://arxiv.org/abs/2503.15894v2)|null|
 |**2025-03-20**|**Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation**|Tiange Xiang et.al.|[2503.15877v1](http://arxiv.org/abs/2503.15877v1)|null|
 |**2025-03-20**|**VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**|Hyojun Go et.al.|[2503.15855v1](http://arxiv.org/abs/2503.15855v1)|null|
 |**2025-03-20**|**BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting**|Yiren Lu et.al.|[2503.15835v1](http://arxiv.org/abs/2503.15835v1)|null|
