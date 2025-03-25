@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-21**|**Quasinormal Modes of Black Holes: Efficient and Highly Accurate Calculations with Recurrence-Based Methods**|Kristian Benda et.al.|[2503.17325v1](http://arxiv.org/abs/2503.17325v1)|null|
-|**2025-03-21**|**Variational Tail Bounds for Norms of Random Vectors and Matrices**|Sohail Bahmani et.al.|[2503.17300v1](http://arxiv.org/abs/2503.17300v1)|null|
-|**2025-03-21**|**The maximum of the two dimensional Gaussian directed polymer in the subcritical regime**|Clément Cosco et.al.|[2503.17236v1](http://arxiv.org/abs/2503.17236v1)|null|
-|**2025-03-21**|**High moments of 2d directed polymers up to quasi-criticality**|Clément Cosco et.al.|[2503.17232v1](http://arxiv.org/abs/2503.17232v1)|null|
-|**2025-03-21**|**Nonadiabatic master equation for a linearly driven harmonic oscillator**|Sinan Altinisik et.al.|[2503.17207v1](http://arxiv.org/abs/2503.17207v1)|null|
-|**2025-03-21**|**Babuška's paradox in a nonlinear bending model**|Sören Bartels et.al.|[2503.17190v1](http://arxiv.org/abs/2503.17190v1)|null|
-|**2025-03-21**|**Generative adversarial framework to calibrate excursion set models for the 3D morphology of all-solid-state battery cathodes**|Orkun Furat et.al.|[2503.17171v1](http://arxiv.org/abs/2503.17171v1)|null|
-|**2025-03-21**|**Jitter in photon-number-resolved detection by superconducting nanowires**|Mariia Sidorova et.al.|[2503.17146v1](http://arxiv.org/abs/2503.17146v1)|null|
-|**2025-03-21**|**Conversion of photon temporal shape using single gradient metasurface**|Zhaohua Tian et.al.|[2503.17134v1](http://arxiv.org/abs/2503.17134v1)|null|
-|**2025-03-21**|**Unsourced Random Access in MIMO Quasi-Static Rayleigh Fading Channels: Finite Blocklength and Scaling Law Analyses**|Junyuan Gao et.al.|[2503.17088v1](http://arxiv.org/abs/2503.17088v1)|null|
-|**2025-03-21**|**Bayesian reconstruction of anisotropic flow fluctuations at fixed impact parameter**|Enak Roubertie et.al.|[2503.17035v1](http://arxiv.org/abs/2503.17035v1)|null|
-|**2025-03-21**|**TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**|Jianchuan Chen et.al.|[2503.17032v1](http://arxiv.org/abs/2503.17032v1)|null|
-|**2025-03-21**|**From Hyper Roughness to Jumps as $H \to -1/2$**|Eduardo Abi Jaber et.al.|[2503.16985v1](http://arxiv.org/abs/2503.16985v1)|null|
-|**2025-03-21**|**Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting**|Jinbo Yan et.al.|[2503.16979v1](http://arxiv.org/abs/2503.16979v1)|null|
-|**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964v1](http://arxiv.org/abs/2503.16964v1)|null|
-|**2025-03-21**|**Optimized Minimal 3D Gaussian Splatting**|Joo Chan Lee et.al.|[2503.16924v1](http://arxiv.org/abs/2503.16924v1)|null|
-|**2025-03-21**|**Gaussian Blahut-Arimoto Algorithm for Capacity Region Calculation of Gaussian Vector Broadcast Channels**|Tian Jiao et.al.|[2503.16919v1](http://arxiv.org/abs/2503.16919v1)|null|
-|**2025-03-21**|**RigGS: Rigging of 3D Gaussians for Modeling Articulated Objects in Videos**|Yuxin Yao et.al.|[2503.16822v1](http://arxiv.org/abs/2503.16822v1)|null|
-|**2025-03-21**|**System Identification Under Bounded Noise: Optimal Rates Beyond Least Squares**|Xiong Zeng et.al.|[2503.16817v1](http://arxiv.org/abs/2503.16817v1)|null|
-|**2025-03-21**|**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**|Enguang Wang et.al.|[2503.16782v1](http://arxiv.org/abs/2503.16782v1)|null|
-|**2025-03-20**|**SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality**|Chiara Schiavo et.al.|[2503.16747v1](http://arxiv.org/abs/2503.16747v1)|null|
-|**2025-03-20**|**4D Gaussian Splatting SLAM**|Yanyan Li et.al.|[2503.16710v1](http://arxiv.org/abs/2503.16710v1)|null|
-|**2025-03-20**|**Spatial-temporal models for forest inventory data**|Paul B. May et.al.|[2503.16691v1](http://arxiv.org/abs/2503.16691v1)|null|
-|**2025-03-20**|**WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching**|Tianze Luo et.al.|[2503.16689v1](http://arxiv.org/abs/2503.16689v1)|null|
-|**2025-03-20**|**GauRast: Enhancing GPU Triangle Rasterizers to Accelerate 3D Gaussian Splatting**|Sixu Li et.al.|[2503.16681v1](http://arxiv.org/abs/2503.16681v1)|null|
-|**2025-03-20**|**A preliminary data fusion study to assess the feasibility of Foundation Process-Property Models in Laser Powder Bed Fusion**|Oriol Vendrell-Gallart et.al.|[2503.16667v1](http://arxiv.org/abs/2503.16667v1)|null|
-|**2025-03-20**|**Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics**|Thomas Kreutz et.al.|[2503.16639v1](http://arxiv.org/abs/2503.16639v1)|null|
-|**2025-03-20**|**Euclid: Star clusters in IC 342, NGC 2403, and Holmberg II**|S. S. Larsen et.al.|[2503.16637v1](http://arxiv.org/abs/2503.16637v1)|null|
-|**2025-03-20**|**Functional limit theorems for Gaussian-fed queueing network in light and heavy traffic**|Nikolai Kriukov et.al.|[2503.16633v1](http://arxiv.org/abs/2503.16633v1)|null|
-|**2025-03-20**|**Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes**|Ashten Akemoto et.al.|[2503.16613v1](http://arxiv.org/abs/2503.16613v1)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|null|
+|**2025-03-24**|**Inertial-Based LQG Control: A New Look at Inverted Pendulum Stabilization**|Daniel Engelsman et.al.|[2503.18926v1](http://arxiv.org/abs/2503.18926v1)|null|
+|**2025-03-24**|**Law of fractional logarithm for random matrices**|Zhigang Bao et.al.|[2503.18922v1](http://arxiv.org/abs/2503.18922v1)|null|
+|**2025-03-24**|**Causal Links Between Anthropogenic Emissions and Air Pollution Dynamics in Delhi**|Sourish Das et.al.|[2503.18912v1](http://arxiv.org/abs/2503.18912v1)|null|
+|**2025-03-24**|**Calibration Bands for Mean Estimates within the Exponential Dispersion Family**|Łukasz Delong et.al.|[2503.18896v1](http://arxiv.org/abs/2503.18896v1)|null|
+|**2025-03-24**|**CFG-Zero*: Improved Classifier-Free Guidance for Flow Matching Models**|Weichen Fan et.al.|[2503.18886v1](http://arxiv.org/abs/2503.18886v1)|null|
+|**2025-03-24**|**Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity**|André L. P. Considera et.al.|[2503.18851v1](http://arxiv.org/abs/2503.18851v1)|null|
+|**2025-03-24**|**Experimental Evidence of Vortex $γ$ Photons in All-Optical Inverse Compton Scattering**|Mingxuan Wei et.al.|[2503.18843v1](http://arxiv.org/abs/2503.18843v1)|null|
+|**2025-03-24**|**Isoenergetic model for optical downconversion and error-specific limits of the parametric approximation**|D. B. Horoshko et.al.|[2503.18828v1](http://arxiv.org/abs/2503.18828v1)|null|
+|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812v1](http://arxiv.org/abs/2503.18812v1)|null|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794v1](http://arxiv.org/abs/2503.18794v1)|null|
+|**2025-03-24**|**Differentially Private Joint Independence Test**|Xingwei Liu et.al.|[2503.18721v1](http://arxiv.org/abs/2503.18721v1)|null|
+|**2025-03-24**|**GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting**|Lijiang Li et.al.|[2503.18718v1](http://arxiv.org/abs/2503.18718v1)|null|
+|**2025-03-24**|**Hardware-Rasterized Ray-Based Gaussian Splatting**|Samuel Rota Bulò et.al.|[2503.18682v1](http://arxiv.org/abs/2503.18682v1)|null|
+|**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640v1](http://arxiv.org/abs/2503.18640v1)|null|
+|**2025-03-24**|**Maximum Likelihood Estimation Based Complex-Valued Robust Chinese Remainder Theorem and Its Fast Algorithm**|Xiaoping Li et.al.|[2503.18625v1](http://arxiv.org/abs/2503.18625v1)|null|
+|**2025-03-24**|**Multifrequency simultaneous VLBA view of the radio source 3C 111**|V. Bartolini et.al.|[2503.18621v1](http://arxiv.org/abs/2503.18621v1)|null|
+|**2025-03-24**|**Unsupervised Variational Acoustic Clustering**|Luan Vinícius Fiorio et.al.|[2503.18579v1](http://arxiv.org/abs/2503.18579v1)|null|
+|**2025-03-24**|**Minimax Rate-Optimal Inference for Individualized Quantile Treatment Effects in High-dimensional Models**|Jiachen Sun et.al.|[2503.18523v1](http://arxiv.org/abs/2503.18523v1)|null|
+|**2025-03-24**|**StableGS: A Floater-Free Framework for 3D Gaussian Splatting**|Luchao Wang et.al.|[2503.18458v1](http://arxiv.org/abs/2503.18458v1)|null|
+|**2025-03-24**|**ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation**|Guosheng Zhao et.al.|[2503.18438v1](http://arxiv.org/abs/2503.18438v1)|null|
+|**2025-03-24**|**4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video**|Qiang Hu et.al.|[2503.18421v1](http://arxiv.org/abs/2503.18421v1)|null|
+|**2025-03-24**|**DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds**|Youyu Chen et.al.|[2503.18402v1](http://arxiv.org/abs/2503.18402v1)|null|
+|**2025-03-24**|**ε-Cost Sharding: Scaling Hypergraph-Based Static Functions and Filters to Trillions of Keys**|Sebastiano Vigna et.al.|[2503.18397v1](http://arxiv.org/abs/2503.18397v1)|null|
+|**2025-03-24**|**Mitigating Cache Noise in Test-Time Adaptation for Large Vision-Language Models**|Haotian Zhai et.al.|[2503.18334v1](http://arxiv.org/abs/2503.18334v1)|null|
+|**2025-03-24**|**Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems**|Zhidi Lin et.al.|[2503.18309v1](http://arxiv.org/abs/2503.18309v1)|null|
+|**2025-03-24**|**GI-SLAM: Gaussian-Inertial SLAM**|Xulang Liu et.al.|[2503.18275v1](http://arxiv.org/abs/2503.18275v1)|null|
+|**2025-03-23**|**Research impact evaluation based on effective authorship contribution sensitivity: h-leadership index**|Hardik A. Jain et.al.|[2503.18236v1](http://arxiv.org/abs/2503.18236v1)|null|
+|**2025-03-23**|**A Framework for Finding Local Saddle Points in Two-Player Zero-Sum Black-Box Games**|Shubhankar Agarwal et.al.|[2503.18224v1](http://arxiv.org/abs/2503.18224v1)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108v1](http://arxiv.org/abs/2503.18108v1)|null|
