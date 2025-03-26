@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|null|
-|**2025-03-24**|**Statistical Proof of Execution (SPEX)**|Michele Dallachiesa et.al.|[2503.18899v1](http://arxiv.org/abs/2503.18899v1)|null|
-|**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874v1](http://arxiv.org/abs/2503.18874v1)|null|
-|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869v1](http://arxiv.org/abs/2503.18869v1)|null|
-|**2025-03-24**|**Three Kinds of AI Ethics**|Emanuele Ratti et.al.|[2503.18842v1](http://arxiv.org/abs/2503.18842v1)|null|
-|**2025-03-24**|**Interpretable and Fair Mechanisms for Abstaining Classifiers**|Daphne Lenders et.al.|[2503.18826v1](http://arxiv.org/abs/2503.18826v1)|null|
-|**2025-03-24**|**Towards Responsible AI Music: an Investigation of Trustworthy Features for Creative Systems**|Jacopo de Berardinis et.al.|[2503.18814v1](http://arxiv.org/abs/2503.18814v1)|null|
-|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812v1](http://arxiv.org/abs/2503.18812v1)|null|
-|**2025-03-24**|**Artificial Intelligence Can Emulate Human Normative Judgments on Emotional Visual Scenes**|Zaira Romeo et.al.|[2503.18796v1](http://arxiv.org/abs/2503.18796v1)|null|
-|**2025-03-24**|**The case for delegated AI autonomy for Human AI teaming in healthcare**|Yan Jia et.al.|[2503.18778v1](http://arxiv.org/abs/2503.18778v1)|null|
-|**2025-03-24**|**Mechanistic Interpretability of Fine-Tuned Vision Transformers on Distorted Images: Decoding Attention Head Behavior for Transparent and Trustworthy AI**|Nooshin Bahador et.al.|[2503.18762v1](http://arxiv.org/abs/2503.18762v1)|null|
-|**2025-03-24**|**From Trust to Truth: Actionable policies for the use of AI in fact-checking in Germany and Ukraine**|Veronika Solopova et.al.|[2503.18724v1](http://arxiv.org/abs/2503.18724v1)|null|
-|**2025-03-24**|**GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting**|Lijiang Li et.al.|[2503.18718v1](http://arxiv.org/abs/2503.18718v1)|null|
-|**2025-03-24**|**Wireless Hearables With Programmable Speech AI Accelerators**|Malek Itani et.al.|[2503.18698v1](http://arxiv.org/abs/2503.18698v1)|null|
-|**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[2503.18666v1](http://arxiv.org/abs/2503.18666v1)|null|
-|**2025-03-24**|**Rethinking Glaucoma Calibration: Voting-Based Binocular and Metadata Integration**|Taejin Jeong et.al.|[2503.18642v1](http://arxiv.org/abs/2503.18642v1)|null|
-|**2025-03-24**|**From Fragment to One Piece: A Survey on AI-Driven Graphic Design**|Xingxing Zou et.al.|[2503.18641v1](http://arxiv.org/abs/2503.18641v1)|null|
-|**2025-03-24**|**Towards Human-Understandable Multi-Dimensional Concept Discovery**|Arne Grobrügge et.al.|[2503.18629v1](http://arxiv.org/abs/2503.18629v1)|null|
-|**2025-03-24**|**Observation of the decay $ψ(3686)\rightarrow Σ^{0}\barΣ^{0}ω$**|BESIII Collaboration et.al.|[2503.18620v1](http://arxiv.org/abs/2503.18620v1)|null|
-|**2025-03-24**|**The Role of Artificial Intelligence in Enhancing Insulin Recommendations and Therapy Outcomes**|Maria Panagiotou et.al.|[2503.18592v1](http://arxiv.org/abs/2503.18592v1)|null|
-|**2025-03-24**|**MMCR: Advancing Visual Language Model in Multimodal Multi-Turn Contextual Reasoning**|Dawei Yan et.al.|[2503.18533v1](http://arxiv.org/abs/2503.18533v1)|null|
-|**2025-03-24**|**Parental Guidance: Efficient Lifelong Learning through Evolutionary Distillation**|Octi Zhang et.al.|[2503.18531v1](http://arxiv.org/abs/2503.18531v1)|null|
-|**2025-03-24**|**P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**|Yufeng Zhong et.al.|[2503.18525v1](http://arxiv.org/abs/2503.18525v1)|null|
-|**2025-03-24**|**Statistically Testing Training Data for Unwanted Error Patterns using Rule-Oriented Regression**|Stefan Rass et.al.|[2503.18497v1](http://arxiv.org/abs/2503.18497v1)|null|
-|**2025-03-24**|**Verbal Process Supervision Elicits Better Coding Agents**|Hao-Yuan Chen et.al.|[2503.18494v1](http://arxiv.org/abs/2503.18494v1)|null|
-|**2025-03-24**|**Generative AI in Knowledge Work: Design Implications for Data Navigation and Decision-Making**|Bhada Yun et.al.|[2503.18419v1](http://arxiv.org/abs/2503.18419v1)|null|
-|**2025-03-24**|**Offline Meteorology-Pollution Coupling Global Air Pollution Forecasting Model with Bilinear Pooling**|Xu Fan et.al.|[2503.18405v1](http://arxiv.org/abs/2503.18405v1)|null|
-|**2025-03-24**|**Manipulation and the AI Act: Large Language Model Chatbots and the Danger of Mirrors**|Joshua Krook et.al.|[2503.18387v1](http://arxiv.org/abs/2503.18387v1)|null|
-|**2025-03-24**|**How to Capture and Study Conversations Between Research Participants and ChatGPT: GPT for Researchers (g4r.org)**|Jin Kim et.al.|[2503.18303v1](http://arxiv.org/abs/2503.18303v1)|null|
-|**2025-03-24**|**Fact-checking AI-generated news reports: Can LLMs catch their own lies?**|Jiayi Yao et.al.|[2503.18293v1](http://arxiv.org/abs/2503.18293v1)|null|
+|**2025-03-25**|**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**|Liang Pan et.al.|[2503.19901v1](http://arxiv.org/abs/2503.19901v1)|null|
+|**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889v1](http://arxiv.org/abs/2503.19889v1)|null|
+|**2025-03-25**|**A proposal for an incident regime that tracks and counters threats to national security posed by AI systems**|Alejandro Ortega et.al.|[2503.19887v1](http://arxiv.org/abs/2503.19887v1)|null|
+|**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876v1](http://arxiv.org/abs/2503.19876v1)|null|
+|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851v1](http://arxiv.org/abs/2503.19851v1)|null|
+|**2025-03-25**|**Guarding against artificial intelligence--hallucinated citations: the case for full-text reference deposit**|Alex Glynn et.al.|[2503.19848v1](http://arxiv.org/abs/2503.19848v1)|null|
+|**2025-03-25**|**Guidelines For The Choice Of The Baseline in XAI Attribution Methods**|Cristian Morasso et.al.|[2503.19813v1](http://arxiv.org/abs/2503.19813v1)|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v1](http://arxiv.org/abs/2503.19793v1)|null|
+|**2025-03-25**|**PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch**|Abhishek Ghosh et.al.|[2503.19779v1](http://arxiv.org/abs/2503.19779v1)|null|
+|**2025-03-25**|**Prospects and Opportunities with an upgraded FASER Neutrino Detector during the HL-LHC era: Input to the EPPSU**|FASER Collaboration et.al.|[2503.19775v1](http://arxiv.org/abs/2503.19775v1)|null|
+|**2025-03-25**|**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**|Zhi Hou et.al.|[2503.19757v1](http://arxiv.org/abs/2503.19757v1)|null|
+|**2025-03-25**|**Translating Emotions to Annotations - A Participant Perspective of Physiological Emotion Data Collection**|Pragya Singh et.al.|[2503.19636v1](http://arxiv.org/abs/2503.19636v1)|null|
+|**2025-03-25**|**Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review**|Mays Al-Azzawi et.al.|[2503.19626v1](http://arxiv.org/abs/2503.19626v1)|null|
+|**2025-03-25**|**Enabling Rapid Shared Human-AI Mental Model Alignment via the After-Action Review**|Edward Gu et.al.|[2503.19607v1](http://arxiv.org/abs/2503.19607v1)|null|
+|**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606v1](http://arxiv.org/abs/2503.19606v1)|null|
+|**2025-03-25**|**Distinct social-linguistic processing between humans and large audio-language models: Evidence from model-brain alignment**|Hanlin Wu et.al.|[2503.19586v1](http://arxiv.org/abs/2503.19586v1)|null|
+|**2025-03-25**|**FedMM-X: A Trustworthy and Interpretable Framework for Federated Multi-Modal Learning in Dynamic Environments**|Sree Bhargavi Balija et.al.|[2503.19564v1](http://arxiv.org/abs/2503.19564v1)|null|
+|**2025-03-25**|**ZodiAq: An Isotropic Flagella-Inspired Soft Underwater Drone for Safe Marine Exploration**|Anup Teejo Mathew et.al.|[2503.19556v1](http://arxiv.org/abs/2503.19556v1)|null|
+|**2025-03-25**|**Noise Resilient Over-The-Air Federated Learning In Heterogeneous Wireless Networks**|Zubair Shaban et.al.|[2503.19549v1](http://arxiv.org/abs/2503.19549v1)|null|
+|**2025-03-25**|**Measurement of the branching fractions of doubly Cabibbo-suppressed $D$ decays**|BESIII Collaboration et.al.|[2503.19542v1](http://arxiv.org/abs/2503.19542v1)|null|
+|**2025-03-25**|**DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data**|Liming Zheng et.al.|[2503.19516v1](http://arxiv.org/abs/2503.19516v1)|null|
+|**2025-03-25**|**EFIT-mini: An Embedded, Multi-task Neural Network-driven Equilibrium Inversion Algorithm**|Guohui Zheng et.al.|[2503.19467v1](http://arxiv.org/abs/2503.19467v1)|null|
+|**2025-03-25**|**AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges**|Haoyu Gao et.al.|[2503.19444v1](http://arxiv.org/abs/2503.19444v1)|null|
+|**2025-03-25**|**Oxidation States in Solids from Data-Driven Paradigms**|Yue Yin et.al.|[2503.19425v1](http://arxiv.org/abs/2503.19425v1)|null|
+|**2025-03-25**|**CyanKitten: AI-Driven Markerless Motion Capture for Improved Elderly Well-Being**|Mengyao Guo et.al.|[2503.19398v1](http://arxiv.org/abs/2503.19398v1)|null|
+|**2025-03-25**|**Can Vision-Language Models Answer Face to Face Questions in the Real-World?**|Reza Pourreza et.al.|[2503.19356v1](http://arxiv.org/abs/2503.19356v1)|null|
+|**2025-03-25**|**Deep learning approaches for nuclear binding energy prediction: a comparative study of RNN, GRU and LSTM Models**|Amir Jalili et.al.|[2503.19348v1](http://arxiv.org/abs/2503.19348v1)|null|
+|**2025-03-25**|**Efficient Adversarial Detection Frameworks for Vehicle-to-Microgrid Services in Edge Computing**|Ahmed Omara et.al.|[2503.19318v1](http://arxiv.org/abs/2503.19318v1)|null|
+|**2025-03-25**|**Iterative Hypothesis Generation for Scientific Discovery with Monte Carlo Nash Equilibrium Self-Refining Trees**|Gollam Rabby et.al.|[2503.19309v1](http://arxiv.org/abs/2503.19309v1)|null|
+|**2025-03-25**|**CubeRobot: Grounding Language in Rubik's Cube Manipulation via Vision-Language Model**|Feiyang Wang et.al.|[2503.19281v1](http://arxiv.org/abs/2503.19281v1)|null|
