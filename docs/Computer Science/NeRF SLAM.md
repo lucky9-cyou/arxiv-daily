@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794v1](http://arxiv.org/abs/2503.18794v1)|null|
-|**2025-03-24**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513v1](http://arxiv.org/abs/2503.18513v1)|null|
+|**2025-03-24**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513v2](http://arxiv.org/abs/2503.18513v2)|null|
 |**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361v1](http://arxiv.org/abs/2503.18361v1)|null|
 |**2025-03-24**|**GI-SLAM: Gaussian-Inertial SLAM**|Xulang Liu et.al.|[2503.18275v1](http://arxiv.org/abs/2503.18275v1)|null|
 |**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123v1](http://arxiv.org/abs/2503.18123v1)|null|
