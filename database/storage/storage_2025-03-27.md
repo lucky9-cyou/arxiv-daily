@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2025-03-27 20:17:36 Asia/Shanghai
+ Automated deployment @ 2025-03-27 20:34:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779v1](http://arxiv.org/abs/2503.20779v1)|null|
@@ -39,7 +39,7 @@
 |**2025-03-25**|**Estimation of accuracy and reliability of models of $\varphi$-sub-Gaussian stochastic processes in $C(T)$ spaces**|Oleksandr Mokliachuk et.al.|[2503.19789v1](http://arxiv.org/abs/2503.19789v1)|null|
 |**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v2](http://arxiv.org/abs/2503.19753v2)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779v1](http://arxiv.org/abs/2503.20779v1)|null|
