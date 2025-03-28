@@ -28,7 +28,7 @@
 |**2025-03-25**|**EASI Drugs in the Streets of Colombia: Modeling Heterogeneous and Endogenous Drug Preferences**|Santiago Montoya-Blandón et.al.|[2503.20100v1](http://arxiv.org/abs/2503.20100v1)|null|
 |**2025-03-25**|**A morphological catalogue of Nova Remnants**|Edgar Santamaría et.al.|[2503.20053v1](http://arxiv.org/abs/2503.20053v1)|null|
 |**2025-03-25**|**Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields**|Navami Kairanda et.al.|[2503.19976v1](http://arxiv.org/abs/2503.19976v1)|null|
-|**2025-03-25**|**Inferring CSM Properties of Type II SNe Using a Magnitude-Limited ZTF Sample**|K-Ryan Hinds et.al.|[2503.19969v1](http://arxiv.org/abs/2503.19969v1)|null|
+|**2025-03-25**|**Inferring CSM Properties of Type II SNe Using a Magnitude-Limited ZTF Sample**|K-Ryan Hinds et.al.|[2503.19969v2](http://arxiv.org/abs/2503.19969v2)|null|
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913v1](http://arxiv.org/abs/2503.19913v1)|null|
 |**2025-03-25**|**Estimation of accuracy and reliability of models of $\varphi$-sub-Gaussian stochastic processes in $C(T)$ spaces**|Oleksandr Mokliachuk et.al.|[2503.19789v1](http://arxiv.org/abs/2503.19789v1)|null|
 |**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v2](http://arxiv.org/abs/2503.19753v2)|null|
