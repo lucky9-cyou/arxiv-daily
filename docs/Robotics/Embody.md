@@ -2,13 +2,13 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|null|
+|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|[link](https://github.com/vchitect/vbench)|
 |**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735v1](http://arxiv.org/abs/2503.21735v1)|null|
-|**2025-03-27**|**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**|Wenqi Zhang et.al.|[2503.21696v1](http://arxiv.org/abs/2503.21696v1)|null|
+|**2025-03-27**|**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**|Wenqi Zhang et.al.|[2503.21696v1](http://arxiv.org/abs/2503.21696v1)|[link](https://github.com/zwq2018/embodied_reasoner)|
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683v1](http://arxiv.org/abs/2503.21683v1)|null|
 |**2025-03-27**|**Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI**|Danaja Rutar et.al.|[2503.21668v1](http://arxiv.org/abs/2503.21668v1)|null|
 |**2025-03-27**|**Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models**|Thomas Monks et.al.|[2503.21646v1](http://arxiv.org/abs/2503.21646v1)|null|
-|**2025-03-27**|**When Astronomy Meets AI: Manazel For Crescent Visibility Prediction in Morocco**|Yassir Lairgi et.al.|[2503.21634v1](http://arxiv.org/abs/2503.21634v1)|null|
+|**2025-03-27**|**When Astronomy Meets AI: Manazel For Crescent Visibility Prediction in Morocco**|Yassir Lairgi et.al.|[2503.21634v1](http://arxiv.org/abs/2503.21634v1)|[link](https://github.com/lairgiyassir/manazel)|
 |**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613v1](http://arxiv.org/abs/2503.21613v1)|null|
 |**2025-03-27**|**Fungicides vs mycoinsecticides in the management of corn leafhopper: physicochemical, in vitro and in vivo compatibilities, and degradation kinetics in maize plants**|Matheus Rakes et.al.|[2503.21606v1](http://arxiv.org/abs/2503.21606v1)|null|
 |**2025-03-27**|**Dataset and Analysis of Long-Term Skill Acquisition in Robot-Assisted Minimally Invasive Surgery**|Yarden Sharon et.al.|[2503.21591v1](http://arxiv.org/abs/2503.21591v1)|null|
