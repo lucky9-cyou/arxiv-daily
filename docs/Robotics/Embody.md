@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|[link](https://github.com/vchitect/vbench)|
-|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735v1](http://arxiv.org/abs/2503.21735v1)|null|
-|**2025-03-27**|**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**|Wenqi Zhang et.al.|[2503.21696v1](http://arxiv.org/abs/2503.21696v1)|[link](https://github.com/zwq2018/embodied_reasoner)|
-|**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683v1](http://arxiv.org/abs/2503.21683v1)|null|
-|**2025-03-27**|**Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI**|Danaja Rutar et.al.|[2503.21668v1](http://arxiv.org/abs/2503.21668v1)|null|
-|**2025-03-27**|**Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models**|Thomas Monks et.al.|[2503.21646v1](http://arxiv.org/abs/2503.21646v1)|null|
-|**2025-03-27**|**When Astronomy Meets AI: Manazel For Crescent Visibility Prediction in Morocco**|Yassir Lairgi et.al.|[2503.21634v1](http://arxiv.org/abs/2503.21634v1)|[link](https://github.com/lairgiyassir/manazel)|
-|**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613v1](http://arxiv.org/abs/2503.21613v1)|null|
-|**2025-03-27**|**Fungicides vs mycoinsecticides in the management of corn leafhopper: physicochemical, in vitro and in vivo compatibilities, and degradation kinetics in maize plants**|Matheus Rakes et.al.|[2503.21606v1](http://arxiv.org/abs/2503.21606v1)|null|
-|**2025-03-27**|**Dataset and Analysis of Long-Term Skill Acquisition in Robot-Assisted Minimally Invasive Surgery**|Yarden Sharon et.al.|[2503.21591v1](http://arxiv.org/abs/2503.21591v1)|null|
-|**2025-03-27**|**Statistical learning of structure-property relationships for transport in porous media, using hybrid AI modeling**|Somayeh Hosseinhashemi et.al.|[2503.21560v1](http://arxiv.org/abs/2503.21560v1)|null|
-|**2025-03-27**|**Exploring the Energy Landscape of RBMs: Reciprocal Space Insights into Bosons, Hierarchical Learning and Symmetry Breaking**|J. Quetzalcóatl Toledo-Marin et.al.|[2503.21536v1](http://arxiv.org/abs/2503.21536v1)|null|
-|**2025-03-27**|**CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation**|Changjian Zhou et.al.|[2503.21450v1](http://arxiv.org/abs/2503.21450v1)|null|
-|**2025-03-27**|**Exploring the flavor structure of leptons via diffusion models**|Satsuki Nishimura et.al.|[2503.21432v1](http://arxiv.org/abs/2503.21432v1)|null|
-|**2025-03-27**|**From Deep Learning to LLMs: A survey of AI in Quantitative Investment**|Bokai Cao et.al.|[2503.21422v1](http://arxiv.org/abs/2503.21422v1)|null|
-|**2025-03-27**|**Neuroplasticity in Artificial Intelligence -- An Overview and Inspirations on Drop In & Out Learning**|Yupei Li et.al.|[2503.21419v2](http://arxiv.org/abs/2503.21419v2)|null|
-|**2025-03-27**|**First observation of $Λ_{c}(2595)^{+} \to Λ^{+}_{c}π^0π^0$ and $Λ_{c}(2625)^{+}\to Λ^{+}_{c}π^0π^0$**|BESIII Collaboration et.al.|[2503.21413v1](http://arxiv.org/abs/2503.21413v1)|null|
-|**2025-03-27**|**Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**|Wanli Ni et.al.|[2503.21412v1](http://arxiv.org/abs/2503.21412v1)|null|
-|**2025-03-27**|**Composable Prompting Workspaces for Creative Writing: Exploration and Iteration Using Dynamic Widgets**|Rifat Mehreen Amin et.al.|[2503.21394v1](http://arxiv.org/abs/2503.21394v1)|null|
-|**2025-03-27**|**On the non-integrability of driven-dissipative one-dimensional hard-core bosons**|Martina Zündel et.al.|[2503.21381v1](http://arxiv.org/abs/2503.21381v1)|null|
-|**2025-03-27**|**CA+: Cognition Augmented Counselor Agent Framework for Long-term Dynamic Client Engagement**|Yuanrong Tang et.al.|[2503.21365v1](http://arxiv.org/abs/2503.21365v1)|null|
-|**2025-03-27**|**OminiAdapt: Learning Cross-Task Invariance for Robust and Environment-Aware Robotic Manipulation**|Yongxu Wang et.al.|[2503.21257v1](http://arxiv.org/abs/2503.21257v1)|null|
-|**2025-03-27**|**Bias-Aware Agent: Enhancing Fairness in AI-Driven Knowledge Retrieval**|Karanbir Singh et.al.|[2503.21237v1](http://arxiv.org/abs/2503.21237v1)|null|
-|**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232v1](http://arxiv.org/abs/2503.21232v1)|null|
-|**2025-03-27**|**FakeReasoning: Towards Generalizable Forgery Detection and Reasoning**|Yueying Gao et.al.|[2503.21210v1](http://arxiv.org/abs/2503.21210v1)|null|
-|**2025-03-27**|**Designing a User Interface for Generative Design in Augmented Reality: A Step Towards More Visualization and Feed-Forwarding**|Sora Kang et.al.|[2503.21191v1](http://arxiv.org/abs/2503.21191v1)|null|
-|**2025-03-27**|**Leveraging LLMs with Iterative Loop Structure for Enhanced Social Intelligence in Video Question Answering**|Erika Mori et.al.|[2503.21190v1](http://arxiv.org/abs/2503.21190v1)|null|
-|**2025-03-27**|**DemoQuanDT: A Carrier-Grade QKD Network**|P. Horoschenkoff et.al.|[2503.21186v1](http://arxiv.org/abs/2503.21186v1)|null|
-|**2025-03-27**|**Extending Silicon Lifetime: A Review of Design Techniques for Reliable Integrated Circuits**|Shaik Jani Babu et.al.|[2503.21165v1](http://arxiv.org/abs/2503.21165v1)|null|
-|**2025-03-27**|**Composition based machine learning to predict phases & strength of refractory high entropy alloys**|M. Sreenidhi Iyengar et.al.|[2503.21146v1](http://arxiv.org/abs/2503.21146v1)|null|
+|**2025-03-28**|**Challenges and Paths Towards AI for Software Engineering**|Alex Gu et.al.|[2503.22625v1](http://arxiv.org/abs/2503.22625v1)|null|
+|**2025-03-28**|**Advancing DevSecOps in SMEs: Challenges and Best Practices for Secure CI/CD Pipelines**|Jayaprakashreddy Cheenepalli et.al.|[2503.22612v1](http://arxiv.org/abs/2503.22612v1)|null|
+|**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610v1](http://arxiv.org/abs/2503.22610v1)|null|
+|**2025-03-28**|**Nanoparticle Deposition Techniques for Silica Nanoparticles: Synthesis, Electrophoretic Deposition, and Optimization- A review**|Srabani Karmakar et.al.|[2503.22593v1](http://arxiv.org/abs/2503.22593v1)|null|
+|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|null|
+|**2025-03-28**|**A Framework for Cryptographic Verifiability of End-to-End AI Pipelines**|Kar Balan et.al.|[2503.22573v1](http://arxiv.org/abs/2503.22573v1)|null|
+|**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569v1](http://arxiv.org/abs/2503.22569v1)|null|
+|**2025-03-28**|**Cross-Technology Generalization in Synthesized Speech Detection: Evaluating AST Models with Modern Voice Generators**|Andrew Ustinov et.al.|[2503.22503v1](http://arxiv.org/abs/2503.22503v1)|[link](https://github.com/admin-anteihk/papers)|
+|**2025-03-28**|**Lagrangian intermittency and vertical confinement in stably stratified turbulence**|Arun Kumar Varanasi et.al.|[2503.22445v1](http://arxiv.org/abs/2503.22445v1)|null|
+|**2025-03-28**|**Scaling Laws of Scientific Discovery with AI and Robot Scientists**|Pengsong Zhang et.al.|[2503.22444v1](http://arxiv.org/abs/2503.22444v1)|null|
+|**2025-03-28**|**Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors**|Zhiyu Yang et.al.|[2503.22388v1](http://arxiv.org/abs/2503.22388v1)|[link](https://github.com/kevincl16/dsdbench)|
+|**2025-03-28**|**SKDU at De-Factify 4.0: Natural Language Features for AI-Generated Text-Detection**|Shrikant Malviya et.al.|[2503.22338v1](http://arxiv.org/abs/2503.22338v1)|null|
+|**2025-03-28**|**Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models**|Ziping Dong et.al.|[2503.22330v1](http://arxiv.org/abs/2503.22330v1)|null|
+|**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283v1](http://arxiv.org/abs/2503.22283v1)|null|
+|**2025-03-28**|**Machine Learning Models for Soil Parameter Prediction Based on Satellite, Weather, Clay and Yield Data**|Calvin Kammerlander et.al.|[2503.22276v1](http://arxiv.org/abs/2503.22276v1)|[link](https://github.com/cvims/agrolens)|
+|**2025-03-28**|**A Perspective on the Ubiquity of Interaction Streams in Human Realm**|Damian Serwata et.al.|[2503.22264v1](http://arxiv.org/abs/2503.22264v1)|null|
+|**2025-03-28**|**Beyond the Script: Testing LLMs for Authentic Patient Communication Styles in Healthcare**|Anna Bodonhelyi et.al.|[2503.22250v1](http://arxiv.org/abs/2503.22250v1)|null|
+|**2025-03-28**|**Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items**|Jianghao Lin et.al.|[2503.22182v1](http://arxiv.org/abs/2503.22182v1)|null|
+|**2025-03-28**|**e-person Architecture and Framework for Human-AI Co-adventure Relationship**|Kanako Esaki et.al.|[2503.22181v1](http://arxiv.org/abs/2503.22181v1)|null|
+|**2025-03-28**|**A Multi-Site Study on AI-Driven Pathology Detection and Osteoarthritis Grading from Knee X-Ray**|Bargava Subramanian et.al.|[2503.22176v1](http://arxiv.org/abs/2503.22176v1)|null|
+|**2025-03-28**|**An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval**|Min Cao et.al.|[2503.22171v1](http://arxiv.org/abs/2503.22171v1)|null|
+|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164v1](http://arxiv.org/abs/2503.22164v1)|null|
+|**2025-03-28**|**When Autonomy Breaks: The Hidden Existential Risk of AI**|Joshua Krook et.al.|[2503.22151v1](http://arxiv.org/abs/2503.22151v1)|null|
+|**2025-03-28**|**Integrating Artificial Intelligence with Human Expertise: An In-depth Analysis of ChatGPT's Capabilities in Generating Metamorphic Relations**|Yifan Zhang et.al.|[2503.22141v1](http://arxiv.org/abs/2503.22141v1)|null|
+|**2025-03-28**|**Updated model-independent measurement of the strong-phase differences between $D^0$ and $\bar{D}^0 \to K^{0}_{S/L}π^+π^-$ decays**|BESIII Collaboration et.al.|[2503.22126v1](http://arxiv.org/abs/2503.22126v1)|null|
+|**2025-03-28**|**Effective Automation to Support the Human Infrastructure in AI Red Teaming**|Alice Qian Zhang et.al.|[2503.22116v1](http://arxiv.org/abs/2503.22116v1)|null|
+|**2025-03-28**|**Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories**|Yazhou Zhang et.al.|[2503.22115v1](http://arxiv.org/abs/2503.22115v1)|null|
+|**2025-03-28**|**Briteller: Shining a Light on AI Recommendations for Children**|Xiaofei Zhou et.al.|[2503.22113v1](http://arxiv.org/abs/2503.22113v1)|null|
+|**2025-03-28**|**CIMR-V: An End-to-End SRAM-based CIM Accelerator with RISC-V for AI Edge Device**|Yan-Cheng Guo and et.al.|[2503.22072v1](http://arxiv.org/abs/2503.22072v1)|null|
+|**2025-03-28**|**Multi-Task Semantic Communications via Large Models**|Wanli Ni et.al.|[2503.22064v1](http://arxiv.org/abs/2503.22064v1)|null|
