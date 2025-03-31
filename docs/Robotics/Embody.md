@@ -17,7 +17,7 @@
 |**2025-03-27**|**CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation**|Changjian Zhou et.al.|[2503.21450v1](http://arxiv.org/abs/2503.21450v1)|null|
 |**2025-03-27**|**Exploring the flavor structure of leptons via diffusion models**|Satsuki Nishimura et.al.|[2503.21432v1](http://arxiv.org/abs/2503.21432v1)|null|
 |**2025-03-27**|**From Deep Learning to LLMs: A survey of AI in Quantitative Investment**|Bokai Cao et.al.|[2503.21422v1](http://arxiv.org/abs/2503.21422v1)|null|
-|**2025-03-27**|**Neuroplasticity in Artificial Intelligence -- An Overview and Inspirations on Drop In \& Out Learning**|Yupei Li et.al.|[2503.21419v1](http://arxiv.org/abs/2503.21419v1)|null|
+|**2025-03-27**|**Neuroplasticity in Artificial Intelligence -- An Overview and Inspirations on Drop In & Out Learning**|Yupei Li et.al.|[2503.21419v2](http://arxiv.org/abs/2503.21419v2)|null|
 |**2025-03-27**|**First observation of $Λ_{c}(2595)^{+} \to Λ^{+}_{c}π^0π^0$ and $Λ_{c}(2625)^{+}\to Λ^{+}_{c}π^0π^0$**|BESIII Collaboration et.al.|[2503.21413v1](http://arxiv.org/abs/2503.21413v1)|null|
 |**2025-03-27**|**Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**|Wanli Ni et.al.|[2503.21412v1](http://arxiv.org/abs/2503.21412v1)|null|
 |**2025-03-27**|**Composable Prompting Workspaces for Creative Writing: Exploration and Iteration Using Dynamic Widgets**|Rifat Mehreen Amin et.al.|[2503.21394v1](http://arxiv.org/abs/2503.21394v1)|null|

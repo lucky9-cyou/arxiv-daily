@@ -19,7 +19,7 @@
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|null|
 |**2025-03-27**|**Statistics of the Random Matrix Spectral Form Factor**|Alex Altland et.al.|[2503.21386v1](http://arxiv.org/abs/2503.21386v1)|null|
 |**2025-03-27**|**Unsupervised Real-World Denoising: Sparsity is All You Need**|Hamadi Chihaoui et.al.|[2503.21377v1](http://arxiv.org/abs/2503.21377v1)|null|
-|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v1](http://arxiv.org/abs/2503.21364v1)|null|
+|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v2](http://arxiv.org/abs/2503.21364v2)|null|
 |**2025-03-27**|**Synchronization of coherence resonance oscillators subject to L{é}vy noise**|Ivan A. Korneev et.al.|[2503.21324v1](http://arxiv.org/abs/2503.21324v1)|null|
 |**2025-03-27**|**Frequency-Aware Gaussian Splatting Decomposition**|Yishai Lavi et.al.|[2503.21226v1](http://arxiv.org/abs/2503.21226v1)|null|
 |**2025-03-27**|**Nonequilibrium Gaussian Distribution for Coupled Linear Langevin Equations**|Hidetsugu Sakaguchi et.al.|[2503.21220v1](http://arxiv.org/abs/2503.21220v1)|null|
@@ -31,4 +31,4 @@
 |**2025-03-26**|**Quantum advantage for learning shallow neural networks with natural data distributions**|Laura Lewis et.al.|[2503.20879v1](http://arxiv.org/abs/2503.20879v1)|null|
 |**2025-03-26**|**Theory of Superconductivity in LaRu$_3$Si$_2$ and Predictions of New Kagome Flat Band Superconductors**|Junze Deng et.al.|[2503.20867v1](http://arxiv.org/abs/2503.20867v1)|null|
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779v1](http://arxiv.org/abs/2503.20779v1)|null|
-|**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776v1](http://arxiv.org/abs/2503.20776v1)|null|
+|**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776v2](http://arxiv.org/abs/2503.20776v2)|null|
