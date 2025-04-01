@@ -10,7 +10,7 @@
 |**2025-03-28**|**CLT for LES of correlated Non-Hermitian Random Matrices**|Indrajit Jana et.al.|[2503.22542v1](http://arxiv.org/abs/2503.22542v1)|null|
 |**2025-03-28**|**Asymptotically safe canonical quantum gravity: Gaussian dust matter**|Renata Ferrero et.al.|[2503.22474v1](http://arxiv.org/abs/2503.22474v1)|null|
 |**2025-03-28**|**An integrated method for clustering and association network inference**|Jeanne Tous et.al.|[2503.22467v1](http://arxiv.org/abs/2503.22467v1)|null|
-|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|null|
+|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|[link](https://github.com/michaelwanggo/endolrmgs)|
 |**2025-03-28**|**Chemical distance for smooth Gaussian fields in higher dimension**|David Vernotte et.al.|[2503.22434v1](http://arxiv.org/abs/2503.22434v1)|null|
 |**2025-03-28**|**AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation**|Chenyang Xu et.al.|[2503.22324v1](http://arxiv.org/abs/2503.22324v1)|null|
 |**2025-03-28**|**Husimi phase distribution in non-Gaussian operations**|Ramniwas Meena et.al.|[2503.22298v1](http://arxiv.org/abs/2503.22298v1)|null|

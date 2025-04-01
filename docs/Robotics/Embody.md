@@ -6,14 +6,14 @@
 |**2025-03-28**|**Advancing DevSecOps in SMEs: Challenges and Best Practices for Secure CI/CD Pipelines**|Jayaprakashreddy Cheenepalli et.al.|[2503.22612v1](http://arxiv.org/abs/2503.22612v1)|null|
 |**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610v1](http://arxiv.org/abs/2503.22610v1)|null|
 |**2025-03-28**|**Nanoparticle Deposition Techniques for Silica Nanoparticles: Synthesis, Electrophoretic Deposition, and Optimization- A review**|Srabani Karmakar et.al.|[2503.22593v1](http://arxiv.org/abs/2503.22593v1)|null|
-|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|null|
+|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|[link](https://github.com/adambreuer/ai-summarizevid)|
 |**2025-03-28**|**A Framework for Cryptographic Verifiability of End-to-End AI Pipelines**|Kar Balan et.al.|[2503.22573v1](http://arxiv.org/abs/2503.22573v1)|null|
 |**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569v1](http://arxiv.org/abs/2503.22569v1)|null|
 |**2025-03-28**|**Cross-Technology Generalization in Synthesized Speech Detection: Evaluating AST Models with Modern Voice Generators**|Andrew Ustinov et.al.|[2503.22503v1](http://arxiv.org/abs/2503.22503v1)|[link](https://github.com/admin-anteihk/papers)|
 |**2025-03-28**|**Lagrangian intermittency and vertical confinement in stably stratified turbulence**|Arun Kumar Varanasi et.al.|[2503.22445v1](http://arxiv.org/abs/2503.22445v1)|null|
 |**2025-03-28**|**Scaling Laws of Scientific Discovery with AI and Robot Scientists**|Pengsong Zhang et.al.|[2503.22444v1](http://arxiv.org/abs/2503.22444v1)|null|
 |**2025-03-28**|**Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors**|Zhiyu Yang et.al.|[2503.22388v1](http://arxiv.org/abs/2503.22388v1)|[link](https://github.com/kevincl16/dsdbench)|
-|**2025-03-28**|**SKDU at De-Factify 4.0: Natural Language Features for AI-Generated Text-Detection**|Shrikant Malviya et.al.|[2503.22338v1](http://arxiv.org/abs/2503.22338v1)|null|
+|**2025-03-28**|**SKDU at De-Factify 4.0: Natural Language Features for AI-Generated Text-Detection**|Shrikant Malviya et.al.|[2503.22338v1](http://arxiv.org/abs/2503.22338v1)|[link](https://github.com/skmalviya/ai-gen_text_defactify)|
 |**2025-03-28**|**Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models**|Ziping Dong et.al.|[2503.22330v1](http://arxiv.org/abs/2503.22330v1)|null|
 |**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283v1](http://arxiv.org/abs/2503.22283v1)|null|
 |**2025-03-28**|**Machine Learning Models for Soil Parameter Prediction Based on Satellite, Weather, Clay and Yield Data**|Calvin Kammerlander et.al.|[2503.22276v1](http://arxiv.org/abs/2503.22276v1)|[link](https://github.com/cvims/agrolens)|
