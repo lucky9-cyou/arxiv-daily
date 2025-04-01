@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676v1](http://arxiv.org/abs/2503.22676v1)|null|
-|**2025-03-28**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645v1](http://arxiv.org/abs/2503.22645v1)|null|
-|**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605v1](http://arxiv.org/abs/2503.22605v1)|null|
-|**2025-03-28**|**Generative Latent Neural PDE Solver using Flow Matching**|Zijie Li et.al.|[2503.22600v1](http://arxiv.org/abs/2503.22600v1)|null|
-|**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592v1](http://arxiv.org/abs/2503.22592v1)|null|
-|**2025-03-28**|**CLT for LES of correlated Non-Hermitian Random Matrices**|Indrajit Jana et.al.|[2503.22542v1](http://arxiv.org/abs/2503.22542v1)|null|
-|**2025-03-28**|**Asymptotically safe canonical quantum gravity: Gaussian dust matter**|Renata Ferrero et.al.|[2503.22474v1](http://arxiv.org/abs/2503.22474v1)|null|
-|**2025-03-28**|**An integrated method for clustering and association network inference**|Jeanne Tous et.al.|[2503.22467v1](http://arxiv.org/abs/2503.22467v1)|null|
-|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|[link](https://github.com/michaelwanggo/endolrmgs)|
-|**2025-03-28**|**Chemical distance for smooth Gaussian fields in higher dimension**|David Vernotte et.al.|[2503.22434v1](http://arxiv.org/abs/2503.22434v1)|null|
-|**2025-03-28**|**AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation**|Chenyang Xu et.al.|[2503.22324v1](http://arxiv.org/abs/2503.22324v1)|null|
-|**2025-03-28**|**Husimi phase distribution in non-Gaussian operations**|Ramniwas Meena et.al.|[2503.22298v1](http://arxiv.org/abs/2503.22298v1)|null|
-|**2025-03-28**|**Discern Misclassified flat-spectrum radio quasars from low-frequency peaked BL Lacertae objects**|S. Liang et.al.|[2503.22229v1](http://arxiv.org/abs/2503.22229v1)|null|
-|**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225v1](http://arxiv.org/abs/2503.22225v1)|null|
-|**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218v1](http://arxiv.org/abs/2503.22218v1)|null|
-|**2025-03-28**|**Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting**|Yiren Lu et.al.|[2503.22204v1](http://arxiv.org/abs/2503.22204v1)|null|
-|**2025-03-28**|**Disentangled 4D Gaussian Splatting: Towards Faster and More Efficient Dynamic Scene Rendering**|Hao Feng et.al.|[2503.22159v1](http://arxiv.org/abs/2503.22159v1)|null|
-|**2025-03-28**|**Time-resolved dynamic CBCT reconstruction using prior-model-free spatiotemporal Gaussian representation (PMF-STGR)**|Jiacheng Xie et.al.|[2503.22139v1](http://arxiv.org/abs/2503.22139v1)|null|
-|**2025-03-28**|**Asteroseismology of Long-Period Variables with OGLE-IV data: Using Global Seismic Parameters as Luminosity Indicators**|Qiang Xiong et.al.|[2503.22127v1](http://arxiv.org/abs/2503.22127v1)|null|
-|**2025-03-28**|**ReLU Networks as Random Functions: Their Distribution in Probability Space**|Shreyas Chaudhari et.al.|[2503.22082v1](http://arxiv.org/abs/2503.22082v1)|null|
-|**2025-03-27**|**Bayesian Inferential Motion Planning Using Heavy-Tailed Distributions**|Ali Vaziri et.al.|[2503.22030v1](http://arxiv.org/abs/2503.22030v1)|null|
-|**2025-03-27**|**Rolled Gaussian process models for curves on manifolds**|Simon Preston et.al.|[2503.21980v1](http://arxiv.org/abs/2503.21980v1)|null|
-|**2025-03-27**|**Pretrained Bayesian Non-parametric Knowledge Prior in Robotic Long-Horizon Reinforcement Learning**|Yuan Meng et.al.|[2503.21975v1](http://arxiv.org/abs/2503.21975v1)|[link](https://github.com/Ghiara/HELIOS)|
-|**2025-03-27**|**KernelFusion: Assumption-Free Blind Super-Resolution via Patch Diffusion**|Oliver Heinimann et.al.|[2503.21907v1](http://arxiv.org/abs/2503.21907v1)|null|
-|**2025-03-27**|**Accelerating LISA inference with Gaussian processes**|Jonas El Gammal et.al.|[2503.21871v1](http://arxiv.org/abs/2503.21871v1)|null|
-|**2025-03-27**|**X$^{2}$-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction**|Weihao Yu et.al.|[2503.21779v1](http://arxiv.org/abs/2503.21779v1)|null|
-|**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|null|
-|**2025-03-27**|**Extracting energy via bosonic Gaussian operations**|Frank Ernesto Quintela Rodriguez et.al.|[2503.21748v1](http://arxiv.org/abs/2503.21748v1)|null|
-|**2025-03-27**|**Local Primordial non-Gaussian Bias from Time Evolution**|James M. Sullivan et.al.|[2503.21736v1](http://arxiv.org/abs/2503.21736v1)|null|
-|**2025-03-27**|**Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**|Yoav Rotman et.al.|[2503.21702v1](http://arxiv.org/abs/2503.21702v1)|null|
+|**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382v1](http://arxiv.org/abs/2503.24382v1)|null|
+|**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374v1](http://arxiv.org/abs/2503.24374v1)|null|
+|**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366v1](http://arxiv.org/abs/2503.24366v1)|null|
+|**2025-03-31**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
+|**2025-03-31**|**Selective Inference in Graphical Models via Maximum Likelihood**|Sofia Guglielmini et.al.|[2503.24311v1](http://arxiv.org/abs/2503.24311v1)|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v1](http://arxiv.org/abs/2503.24270v1)|null|
+|**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v1](http://arxiv.org/abs/2503.24234v1)|null|
+|**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210v1](http://arxiv.org/abs/2503.24210v1)|null|
+|**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part II: posterior mean approximation**|Giuseppe Carere et.al.|[2503.24209v1](http://arxiv.org/abs/2503.24209v1)|null|
+|**2025-03-31**|**Numerical simulation of Generalized Hermite Processes**|Antoine Ayache et.al.|[2503.24136v1](http://arxiv.org/abs/2503.24136v1)|null|
+|**2025-03-31**|**Mechanical Squeezed Kerr Oscillator based on Tapered Ion Trap**|Bogomila S. Nikolova et.al.|[2503.24058v1](http://arxiv.org/abs/2503.24058v1)|null|
+|**2025-03-31**|**Wasserstein KL-divergence for Gaussian distributions**|Adwait Datar et.al.|[2503.24022v1](http://arxiv.org/abs/2503.24022v1)|null|
+|**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part I: posterior covariance approximation**|Giuseppe Carere et.al.|[2503.24020v1](http://arxiv.org/abs/2503.24020v1)|null|
+|**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009v1](http://arxiv.org/abs/2503.24009v1)|null|
+|**2025-03-31**|**Note on $q=2$ paraparticle SYK model**|Tingfei Li et.al.|[2503.23967v1](http://arxiv.org/abs/2503.23967v1)|null|
+|**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951v1](http://arxiv.org/abs/2503.23951v1)|null|
+|**2025-03-31**|**Dynamical Networking using Gaussian fields**|Nadine du Toit et.al.|[2503.23929v1](http://arxiv.org/abs/2503.23929v1)|null|
+|**2025-03-31**|**Feature learning from non-Gaussian inputs: the case of Independent Component Analysis in high dimensions**|Fabiola Ricci et.al.|[2503.23896v1](http://arxiv.org/abs/2503.23896v1)|null|
+|**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881v1](http://arxiv.org/abs/2503.23881v1)|null|
+|**2025-03-31**|**The Kossakowski Matrix and Strict Positivity of Markovian Quantum Dynamics**|Julián Agredo et.al.|[2503.23860v1](http://arxiv.org/abs/2503.23860v1)|null|
+|**2025-03-31**|**On the Steady-State Distributionally Robust Kalman Filter**|Minhyuk Jang et.al.|[2503.23742v1](http://arxiv.org/abs/2503.23742v1)|null|
+|**2025-03-31**|**Steering Large Agent Populations using Mean-Field Schrodinger Bridges with Gaussian Mixture Models**|George Rapakoulias et.al.|[2503.23705v1](http://arxiv.org/abs/2503.23705v1)|null|
+|**2025-03-31**|**Learning a Single Index Model from Anisotropic Data with vanilla Stochastic Gradient Descent**|Guillaume Braun et.al.|[2503.23642v1](http://arxiv.org/abs/2503.23642v1)|null|
+|**2025-03-30**|**Gaussian Blending Unit: An Edge GPU Plug-in for Real-Time Gaussian-Based Rendering in AR/VR**|Zhifan Ye et.al.|[2503.23625v1](http://arxiv.org/abs/2503.23625v1)|null|
+|**2025-03-30**|**Accelerating Surface Composition Characterization of Thin-Film Materials Libraries using Multi-Output Gaussian Process Regression**|F. Thelen et.al.|[2503.23471v1](http://arxiv.org/abs/2503.23471v1)|null|
+|**2025-03-30**|**Efficient simulation of non-trivial dissipative spin chains via stochastic unraveling**|Andrew Pocklington et.al.|[2503.23469v1](http://arxiv.org/abs/2503.23469v1)|null|
+|**2025-03-30**|**Accelerated Stein Variational Gradient Flow**|Viktor Stein et.al.|[2503.23462v1](http://arxiv.org/abs/2503.23462v1)|null|
+|**2025-03-30**|**Bayesian method for quantifying the non-Gaussian fluctuations in low-intermediate energy heavy ion collisions**|Xinyu Wang et.al.|[2503.23417v1](http://arxiv.org/abs/2503.23417v1)|null|
+|**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337v1](http://arxiv.org/abs/2503.23337v1)|null|
+|**2025-03-30**|**TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement**|Wenhao Luo et.al.|[2503.23332v1](http://arxiv.org/abs/2503.23332v1)|null|
