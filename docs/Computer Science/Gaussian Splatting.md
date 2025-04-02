@@ -7,7 +7,7 @@
 |**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366v1](http://arxiv.org/abs/2503.24366v1)|null|
 |**2025-03-31**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321v1](http://arxiv.org/abs/2503.24321v1)|null|
 |**2025-03-31**|**Selective Inference in Graphical Models via Maximum Likelihood**|Sofia Guglielmini et.al.|[2503.24311v1](http://arxiv.org/abs/2503.24311v1)|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v1](http://arxiv.org/abs/2503.24270v1)|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|null|
 |**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v1](http://arxiv.org/abs/2503.24234v1)|null|
 |**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210v1](http://arxiv.org/abs/2503.24210v1)|null|
 |**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part II: posterior mean approximation**|Giuseppe Carere et.al.|[2503.24209v1](http://arxiv.org/abs/2503.24209v1)|null|

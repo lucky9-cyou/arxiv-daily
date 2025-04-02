@@ -27,7 +27,7 @@
 |**2025-03-31**|**HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment**|Zhichao Liao et.al.|[2503.23907v1](http://arxiv.org/abs/2503.23907v1)|null|
 |**2025-03-31**|**ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos**|Junyao Shi et.al.|[2503.23877v1](http://arxiv.org/abs/2503.23877v1)|null|
 |**2025-03-31**|**A SAT-centered XAI method for Deep Learning based Video Understanding**|Hojer Key et.al.|[2503.23870v1](http://arxiv.org/abs/2503.23870v1)|null|
-|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862v1](http://arxiv.org/abs/2503.23862v1)|[link](https://github.com/pnu-amilab/cleric)|
+|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862v2](http://arxiv.org/abs/2503.23862v2)|[link](https://github.com/pnu-amilab/cleric)|
 |**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859v1](http://arxiv.org/abs/2503.23859v1)|null|
 |**2025-03-31**|**Conformal uncertainty quantification to evaluate predictive fairness of foundation AI model for skin lesion classes across patient demographics**|Swarnava Bhattacharyya et.al.|[2503.23819v1](http://arxiv.org/abs/2503.23819v1)|null|
 |**2025-03-31**|**MVDRAM: Enabling GeMV Execution in Unmodified DRAM for Low-Bit LLM Acceleration**|Tatsuya Kubo et.al.|[2503.23817v1](http://arxiv.org/abs/2503.23817v1)|null|
