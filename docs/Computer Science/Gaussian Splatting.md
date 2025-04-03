@@ -28,7 +28,7 @@
 |**2025-03-30**|**Gaussian Blending Unit: An Edge GPU Plug-in for Real-Time Gaussian-Based Rendering in AR/VR**|Zhifan Ye et.al.|[2503.23625v1](http://arxiv.org/abs/2503.23625v1)|null|
 |**2025-03-30**|**Accelerating Surface Composition Characterization of Thin-Film Materials Libraries using Multi-Output Gaussian Process Regression**|F. Thelen et.al.|[2503.23471v1](http://arxiv.org/abs/2503.23471v1)|null|
 |**2025-03-30**|**Efficient simulation of non-trivial dissipative spin chains via stochastic unraveling**|Andrew Pocklington et.al.|[2503.23469v1](http://arxiv.org/abs/2503.23469v1)|null|
-|**2025-03-30**|**Accelerated Stein Variational Gradient Flow**|Viktor Stein et.al.|[2503.23462v1](http://arxiv.org/abs/2503.23462v1)|null|
+|**2025-03-30**|**Accelerated Stein Variational Gradient Flow**|Viktor Stein et.al.|[2503.23462v1](http://arxiv.org/abs/2503.23462v1)|[link](https://github.com/ViktorAJStein/Accelerated_Stein_Variational_Gradient_Flows)|
 |**2025-03-30**|**Bayesian method for quantifying the non-Gaussian fluctuations in low-intermediate energy heavy ion collisions**|Xinyu Wang et.al.|[2503.23417v1](http://arxiv.org/abs/2503.23417v1)|null|
 |**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337v1](http://arxiv.org/abs/2503.23337v1)|null|
 |**2025-03-30**|**TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement**|Wenhao Luo et.al.|[2503.23332v1](http://arxiv.org/abs/2503.23332v1)|null|
