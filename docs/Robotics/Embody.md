@@ -15,7 +15,7 @@
 |**2025-04-02**|**Implicit Bias Injection Attacks against Text-to-Image Diffusion Models**|Huayang Huang et.al.|[2504.01819v1](http://arxiv.org/abs/2504.01819v1)|null|
 |**2025-04-02**|**Rethinking industrial artificial intelligence: a unified foundation framework**|Jay Lee et.al.|[2504.01797v1](http://arxiv.org/abs/2504.01797v1)|null|
 |**2025-04-02**|**Enhancing Interpretability in Generative AI Through Search-Based Data Influence Analysis**|Theodoros Aivalis et.al.|[2504.01771v1](http://arxiv.org/abs/2504.01771v1)|null|
-|**2025-04-02**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730v1](http://arxiv.org/abs/2504.01730v1)|null|
+|**2025-04-02**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730v2](http://arxiv.org/abs/2504.01730v2)|null|
 |**2025-04-02**|**Satellite Edge Artificial Intelligence with Large Models: Architectures and Technologies**|Yuanming Shi et.al.|[2504.01676v1](http://arxiv.org/abs/2504.01676v1)|null|
 |**2025-04-02**|**Proposition of Affordance-Driven Environment Recognition Framework Using Symbol Networks in Large Language Models**|Kazuma Arii et.al.|[2504.01644v1](http://arxiv.org/abs/2504.01644v1)|null|
 |**2025-04-02**|**Horizon Scans can be accelerated using novel information retrieval and artificial intelligence tools**|Lena Schmidt et.al.|[2504.01627v1](http://arxiv.org/abs/2504.01627v1)|null|
@@ -26,7 +26,7 @@
 |**2025-04-02**|**Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies**|Soumyya Kanti Datta et.al.|[2504.01470v1](http://arxiv.org/abs/2504.01470v1)|null|
 |**2025-04-02**|**HH-PIM: Dynamic Optimization of Power and Performance with Heterogeneous-Hybrid PIM for Edge AI Devices**|Sangmin Jeon et.al.|[2504.01468v1](http://arxiv.org/abs/2504.01468v1)|null|
 |**2025-04-02**|**Versatile silicon integrated photonic processor: a reconfigurable solution for netx-generation AI clusters**|Ying Zhu et.al.|[2504.01463v1](http://arxiv.org/abs/2504.01463v1)|null|
-|**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v1](http://arxiv.org/abs/2504.01458v1)|null|
+|**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458v2](http://arxiv.org/abs/2504.01458v2)|null|
 |**2025-04-02**|**PiCo: Jailbreaking Multimodal Large Language Models via $\textbf{Pi}$ctorial $\textbf{Co}$de Contextualization**|Aofan Liu et.al.|[2504.01444v1](http://arxiv.org/abs/2504.01444v1)|null|
 |**2025-04-02**|**FAIRE: Assessing Racial and Gender Bias in AI-Driven Resume Evaluations**|Athena Wen et.al.|[2504.01420v1](http://arxiv.org/abs/2504.01420v1)|null|
 |**2025-04-02**|**All Patches Matter, More Patches Better: Enhance AI-Generated Image Detection via Panoptic Patch Learning**|Zheng Yang et.al.|[2504.01396v1](http://arxiv.org/abs/2504.01396v1)|null|
