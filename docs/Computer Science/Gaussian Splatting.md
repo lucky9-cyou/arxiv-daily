@@ -19,7 +19,7 @@
 |**2025-04-02**|**Asymptotic analysis of the finite predictor for the fractional Gaussian noise**|P. Chigansky et.al.|[2504.01562v1](http://arxiv.org/abs/2504.01562v1)|null|
 |**2025-04-02**|**RealityAvatar: Towards Realistic Loose Clothing Modeling in Animatable 3D Gaussian Avatars**|Yahui Li et.al.|[2504.01559v1](http://arxiv.org/abs/2504.01559v1)|null|
 |**2025-04-02**|**Hyperbolic Diffusion Recommender Model**|Meng Yuan et.al.|[2504.01541v1](http://arxiv.org/abs/2504.01541v1)|null|
-|**2025-04-02**|**Predicting passenger injury distributions under uncertainty variables using Gaussian process modeling with GHBMC**|Changmin Baek et.al.|[2504.01530v1](http://arxiv.org/abs/2504.01530v1)|null|
+|**2025-04-02**|**Predicting passenger injury distributions under uncertainty variables using Gaussian process modeling with GHBMC**|Changmin Baek et.al.|[2504.01530v2](http://arxiv.org/abs/2504.01530v2)|null|
 |**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512v1](http://arxiv.org/abs/2504.01512v1)|null|
 |**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503v1](http://arxiv.org/abs/2504.01503v1)|null|
 |**2025-04-02**|**Characteristic polynomial of generalized Ewens random permutations**|Quentin François et.al.|[2504.01484v1](http://arxiv.org/abs/2504.01484v1)|null|
