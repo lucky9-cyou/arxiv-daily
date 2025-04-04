@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819v1](http://arxiv.org/abs/2504.02819v1)|null|
+|**2025-04-03**|**Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**|Shengjun Zhang et.al.|[2504.02764v1](http://arxiv.org/abs/2504.02764v1)|null|
+|**2025-04-03**|**ALMA uncovers optically thin and multi-component CO gas in the outflowing circumnuclear disk of NGC1068**|Yuze Zhang et.al.|[2504.02758v1](http://arxiv.org/abs/2504.02758v1)|null|
+|**2025-04-03**|**Anisotropy analysis of bamboo and tooth using 4-angle polarization micro-spectroscopy**|Meguya Ryu et.al.|[2504.02711v1](http://arxiv.org/abs/2504.02711v1)|null|
+|**2025-04-03**|**Joint Modeling of Spatial Dependencies Across Multiple Subjects in Multiplexed Tissue Imaging**|Joel Eliason et.al.|[2504.02693v1](http://arxiv.org/abs/2504.02693v1)|null|
+|**2025-04-03**|**A Dynamic, Ordinal Gaussian Process Item Response Theoretic Model**|Yehu Chen et.al.|[2504.02643v1](http://arxiv.org/abs/2504.02643v1)|null|
+|**2025-04-03**|**Variational Online Mirror Descent for Robust Learning in Schrödinger Bridge**|Dong-Sig Han et.al.|[2504.02618v1](http://arxiv.org/abs/2504.02618v1)|null|
+|**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579v1](http://arxiv.org/abs/2504.02579v1)|null|
+|**2025-04-03**|**A smooth multi-group Gaussian Mixture Model for cellwise robust covariance estimation**|Patricia Puchhammer et.al.|[2504.02547v1](http://arxiv.org/abs/2504.02547v1)|null|
+|**2025-04-03**|**On zero-divisor graph of the ring of Gaussian integers modulo $2^n$**|Aruna Venkatesan et.al.|[2504.02493v1](http://arxiv.org/abs/2504.02493v1)|null|
+|**2025-04-03**|**Berry-Esseen bound for the Moment Estimation of the fractional Ornstein-Uhlenbeck model under fixed step size discrete observations**|Zheng Tang et.al.|[2504.02482v1](http://arxiv.org/abs/2504.02482v1)|null|
+|**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477v1](http://arxiv.org/abs/2504.02477v1)|null|
+|**2025-04-03**|**Impact of Global Warming on Extreme Rainfall in Taiwan**|Cheng-Ching Lin et.al.|[2504.02470v1](http://arxiv.org/abs/2504.02470v1)|null|
+|**2025-04-03**|**Isospectral oscillators as a resource for quantum information processing**|Abdelatif Chabane et.al.|[2504.02444v1](http://arxiv.org/abs/2504.02444v1)|null|
+|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
+|**2025-04-03**|**F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407v1](http://arxiv.org/abs/2504.02407v1)|null|
+|**2025-04-03**|**Bayesian eco-evolutionary game dynamics**|Arunava Patra et.al.|[2504.02399v1](http://arxiv.org/abs/2504.02399v1)|null|
+|**2025-04-03**|**Beyond Asymptotics: Targeted exploration with finite-sample guarantees**|Janani Venkatasubramanian et.al.|[2504.02380v1](http://arxiv.org/abs/2504.02380v1)|null|
+|**2025-04-03**|**Rigorous results for timelike Liouville field theory**|Sourav Chatterjee et.al.|[2504.02348v1](http://arxiv.org/abs/2504.02348v1)|null|
+|**2025-04-03**|**Temporal Gaussian Copula For Clinical Multivariate Time Series Data Imputation**|Ye Su et.al.|[2504.02317v1](http://arxiv.org/abs/2504.02317v1)|null|
+|**2025-04-03**|**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**|Yuan Zhou et.al.|[2504.02316v1](http://arxiv.org/abs/2504.02316v1)|null|
+|**2025-04-03**|**Digital-twin imaging based on descattering Gaussian splatting**|Suguru Shimomura et.al.|[2504.02278v1](http://arxiv.org/abs/2504.02278v1)|null|
+|**2025-04-03**|**Generative Classifier for Domain Generalization**|Shaocong Long et.al.|[2504.02272v1](http://arxiv.org/abs/2504.02272v1)|null|
+|**2025-04-03**|**Testing independence and conditional independence in high dimensions via coordinatewise Gaussianization**|Jinyuan Chang et.al.|[2504.02233v1](http://arxiv.org/abs/2504.02233v1)|null|
+|**2025-04-02**|**UAVTwin: Neural Digital Twins for UAVs using Gaussian Splatting**|Jaehoon Choi et.al.|[2504.02158v1](http://arxiv.org/abs/2504.02158v1)|null|
+|**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086v1](http://arxiv.org/abs/2504.02086v1)|null|
+|**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045v1](http://arxiv.org/abs/2504.02045v1)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960v1](http://arxiv.org/abs/2504.01960v1)|null|
 |**2025-04-02**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957v2](http://arxiv.org/abs/2504.01957v2)|null|
 |**2025-04-02**|**Strengthening Multi-Robot Systems for SAR: Co-Designing Robotics and Communication Towards 6G**|Juan Bravo-Arrabal et.al.|[2504.01940v1](http://arxiv.org/abs/2504.01940v1)|null|
-|**2025-04-02**|**Joint estimation of position and momentum with arbitrarily high precision using non-Gaussian states**|Massimo Frigerio et.al.|[2504.01910v1](http://arxiv.org/abs/2504.01910v1)|null|
-|**2025-04-02**|**Composition Design of Shape Memory Ceramics based on Gaussian Processes**|Ashutosh Pandey et.al.|[2504.01896v1](http://arxiv.org/abs/2504.01896v1)|null|
-|**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844v1](http://arxiv.org/abs/2504.01844v1)|null|
-|**2025-04-02**|**Studying stellar populations in Omega Centauri with phylogenetics**|P. Jofré et.al.|[2504.01813v1](http://arxiv.org/abs/2504.01813v1)|null|
-|**2025-04-02**|**Updating the Ephemeris and Physical Properties of Five Long-period Transiting Exoplanets Using TESS and CHEOPS**|Suman Saha et.al.|[2504.01768v1](http://arxiv.org/abs/2504.01768v1)|null|
-|**2025-04-02**|**High Dimensional Bayesian Optimization using Lasso Variable Selection**|Vu Viet Hoang et.al.|[2504.01743v1](http://arxiv.org/abs/2504.01743v1)|null|
-|**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732v1](http://arxiv.org/abs/2504.01732v1)|null|
-|**2025-04-02**|**Performance and applications of optical pin beams in turbulent long-range free space optical communications**|Francesco Nardo et.al.|[2504.01704v1](http://arxiv.org/abs/2504.01704v1)|null|
-|**2025-04-02**|**Sparse Gaussian Neural Processes**|Tommy Rochussen et.al.|[2504.01650v1](http://arxiv.org/abs/2504.01650v1)|null|
-|**2025-04-02**|**FlowR: Flowing from Sparse to Dense 3D Reconstructions**|Tobias Fischer et.al.|[2504.01647v1](http://arxiv.org/abs/2504.01647v1)|null|
-|**2025-04-02**|**3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting**|Hao Wu et.al.|[2504.01619v1](http://arxiv.org/abs/2504.01619v1)|null|
-|**2025-04-02**|**Density estimation via mixture discrepancy and moments**|Zhengyang Lei et.al.|[2504.01570v1](http://arxiv.org/abs/2504.01570v1)|null|
-|**2025-04-02**|**Asymptotic analysis of the finite predictor for the fractional Gaussian noise**|P. Chigansky et.al.|[2504.01562v1](http://arxiv.org/abs/2504.01562v1)|null|
-|**2025-04-02**|**RealityAvatar: Towards Realistic Loose Clothing Modeling in Animatable 3D Gaussian Avatars**|Yahui Li et.al.|[2504.01559v1](http://arxiv.org/abs/2504.01559v1)|null|
-|**2025-04-02**|**Hyperbolic Diffusion Recommender Model**|Meng Yuan et.al.|[2504.01541v1](http://arxiv.org/abs/2504.01541v1)|null|
-|**2025-04-02**|**Predicting passenger injury distributions under uncertainty variables using Gaussian process modeling with GHBMC**|Changmin Baek et.al.|[2504.01530v2](http://arxiv.org/abs/2504.01530v2)|null|
-|**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512v1](http://arxiv.org/abs/2504.01512v1)|null|
-|**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503v1](http://arxiv.org/abs/2504.01503v1)|null|
-|**2025-04-02**|**Characteristic polynomial of generalized Ewens random permutations**|Quentin François et.al.|[2504.01484v1](http://arxiv.org/abs/2504.01484v1)|null|
-|**2025-04-02**|**Dynamic Initialization for LiDAR-inertial SLAM**|Jie Xu et.al.|[2504.01451v1](http://arxiv.org/abs/2504.01451v1)|null|
-|**2025-04-02**|**A simple schematic model for a cross section deficit in $^{12}$C+$^{12}$C fusion reactions**|K. Hagino et.al.|[2504.01371v1](http://arxiv.org/abs/2504.01371v1)|null|
-|**2025-04-02**|**A Bayesian approach for inverse potential problem with topological-Gaussian prior**|Zhiliang Deng et.al.|[2504.01360v1](http://arxiv.org/abs/2504.01360v1)|null|
-|**2025-04-02**|**3D Gaussian Inverse Rendering with Approximated Global Illumination**|Zirui Wu et.al.|[2504.01358v1](http://arxiv.org/abs/2504.01358v1)|null|
-|**2025-04-02**|**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**|Jiawei Wang et.al.|[2504.01308v1](http://arxiv.org/abs/2504.01308v1)|null|
-|**2025-04-01**|**Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2504.01246v1](http://arxiv.org/abs/2504.01246v1)|null|
-|**2025-04-01**|**Third Order Cumulants of products**|Octavio Arizmendi et.al.|[2504.01107v1](http://arxiv.org/abs/2504.01107v1)|null|
-|**2025-04-01**|**Dynamical Dark Energy Implies a Coupled Dark Sector: Insights from DESI DR2 via a Data-Driven Approach**|Changyu You et.al.|[2504.00985v1](http://arxiv.org/abs/2504.00985v1)|null|
