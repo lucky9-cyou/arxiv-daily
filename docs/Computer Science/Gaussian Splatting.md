@@ -29,6 +29,6 @@
 |**2025-04-06**|**Confidence-Aware Learning Optimal Terminal Guidance via Gaussian Process Regression**|Han Wang et.al.|[2504.04533v1](http://arxiv.org/abs/2504.04533v1)|null|
 |**2025-04-06**|**Environment-Assisted Generation of Non-Gaussian Wavepacket Quantum States**|Maryam Khanahmadi et.al.|[2504.04513v1](http://arxiv.org/abs/2504.04513v1)|null|
 |**2025-04-06**|**Post-Quantum Wireless-based Key Encapsulation Mechanism via CRYSTALS-Kyber for Resource-Constrained Devices**|M. A. González de la Torre et.al.|[2504.04511v1](http://arxiv.org/abs/2504.04511v1)|null|
-|**2025-04-06**|**Supernova Sample at Distances < 40 Mpc: II. Supernova Rate in the Local Universe**|Xiaoran Ma et.al.|[2504.04507v1](http://arxiv.org/abs/2504.04507v1)|null|
+|**2025-04-06**|**Supernovae at Distances < 40 Mpc: II. Supernova Rate in the Local Universe**|Xiaoran Ma et.al.|[2504.04507v2](http://arxiv.org/abs/2504.04507v2)|null|
 |**2025-04-06**|**PRISM: Probabilistic Representation for Integrated Shape Modeling and Generation**|Lei Cheng et.al.|[2504.04454v1](http://arxiv.org/abs/2504.04454v1)|null|
 |**2025-04-06**|**Thermoxels: a voxel-based method to generate simulation-ready 3D thermal models**|Etienne Chassaing et.al.|[2504.04448v1](http://arxiv.org/abs/2504.04448v1)|null|
