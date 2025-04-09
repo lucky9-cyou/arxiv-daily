@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306v1](http://arxiv.org/abs/2504.05306v1)|null|
-|**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295v1](http://arxiv.org/abs/2504.05295v1)|null|
-|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278v1](http://arxiv.org/abs/2504.05278v1)|null|
-|**2025-04-07**|**What We Do Not Know: GPT Use in Business and Management**|Tammy Mackenzie et.al.|[2504.05273v1](http://arxiv.org/abs/2504.05273v1)|null|
-|**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259v1](http://arxiv.org/abs/2504.05259v1)|null|
-|**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239v1](http://arxiv.org/abs/2504.05239v1)|null|
-|**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Julio Silva-Rodríguez et.al.|[2504.05227v1](http://arxiv.org/abs/2504.05227v1)|null|
-|**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219v1](http://arxiv.org/abs/2504.05219v1)|null|
-|**2025-04-07**|**A moving target in AI-assisted decision-making: Dataset shift, model updating, and the problem of update opacity**|Joshua Hatherley et.al.|[2504.05210v1](http://arxiv.org/abs/2504.05210v1)|null|
-|**2025-04-07**|**Blending Queries and Conversations: Understanding Tactics, Trust, Verification, and System Choice in Web Search and Chat Interactions**|Kerstin Mayerhofer et.al.|[2504.05156v1](http://arxiv.org/abs/2504.05156v1)|null|
-|**2025-04-07**|**AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for Early Warning System Investments**|Saeid Ario Vaghefi et.al.|[2504.05104v1](http://arxiv.org/abs/2504.05104v1)|null|
-|**2025-04-07**|**Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion**|Eran Beeri Bamani et.al.|[2504.05084v1](http://arxiv.org/abs/2504.05084v1)|null|
-|**2025-04-07**|**AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**|Victor Monzon Baeza et.al.|[2504.05071v1](http://arxiv.org/abs/2504.05071v1)|null|
-|**2025-04-07**|**Small-mass solutions in a two-dimensional logarithmic chemotaxis-Navier-Stokes system with indirect nutrient consumption**|Ai Huang et.al.|[2504.05054v1](http://arxiv.org/abs/2504.05054v1)|null|
-|**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046v1](http://arxiv.org/abs/2504.05046v1)|null|
-|**2025-04-07**|**Surveying Professional Writers on AI: Limitations, Expectations, and Fears**|Anastasiia Ivanova et.al.|[2504.05008v1](http://arxiv.org/abs/2504.05008v1)|null|
-|**2025-04-07**|**Measuring the right thing: justifying metrics in AI impact assessments**|Stefan Buijsman et.al.|[2504.05007v1](http://arxiv.org/abs/2504.05007v1)|null|
-|**2025-04-07**|**Following the Whispers of Values: Unraveling Neural Mechanisms Behind Value-Oriented Behaviors in LLMs**|Ling Hu et.al.|[2504.04994v1](http://arxiv.org/abs/2504.04994v1)|null|
-|**2025-04-07**|**Transforming Future Data Center Operations and Management via Physical AI**|Zhiwei Cao et.al.|[2504.04982v1](http://arxiv.org/abs/2504.04982v1)|null|
-|**2025-04-07**|**The Dream Within Huang Long Cave: AI-Driven Interactive Narrative for Family Storytelling and Emotional Reflection**|Jiayang Huang et.al.|[2504.04968v1](http://arxiv.org/abs/2504.04968v1)|null|
-|**2025-04-07**|**Using AI to Help in the Semantic Lexical Database to Evaluate Ideas**|Pedro Chávez Barrios et.al.|[2504.04967v1](http://arxiv.org/abs/2504.04967v1)|null|
-|**2025-04-07**|**How Is Generative AI Used for Persona Development?: A Systematic Review of 52 Research Articles**|Danial Amin et.al.|[2504.04927v1](http://arxiv.org/abs/2504.04927v1)|null|
-|**2025-04-07**|**Expectations vs Reality -- A Secondary Study on AI Adoption in Software Testing**|Katja Karhu et.al.|[2504.04921v1](http://arxiv.org/abs/2504.04921v1)|null|
-|**2025-04-07**|**Constitution or Collapse? Exploring Constitutional AI with Llama 3-8B**|Xue Zhang et.al.|[2504.04918v1](http://arxiv.org/abs/2504.04918v1)|null|
-|**2025-04-07**|**SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models**|Justus Westerhoff et.al.|[2504.04893v1](http://arxiv.org/abs/2504.04893v1)|null|
-|**2025-04-07**|**Futureproof Static Memory Planning**|Christos Lamprakos et.al.|[2504.04874v1](http://arxiv.org/abs/2504.04874v1)|null|
-|**2025-04-07**|**Imagining the Far East: Exploring Perceived Biases in AI-Generated Images of East Asian Women**|Xingyu Lan et.al.|[2504.04865v1](http://arxiv.org/abs/2504.04865v1)|null|
-|**2025-04-07**|**Explanation-Driven Interventions for Artificial Intelligence Model Customization: Empowering End-Users to Tailor Black-Box AI in Rhinocytology**|Andrea Esposito et.al.|[2504.04833v1](http://arxiv.org/abs/2504.04833v1)|null|
-|**2025-04-07**|**From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes**|Long Ma et.al.|[2504.04827v1](http://arxiv.org/abs/2504.04827v1)|null|
-|**2025-04-07**|**Beyond Answers: How LLMs Can Pursue Strategic Thinking in Education**|Eleonora Grassucci et.al.|[2504.04815v1](http://arxiv.org/abs/2504.04815v1)|null|
+|**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260v1](http://arxiv.org/abs/2504.06260v1)|null|
+|**2025-04-08**|**Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**|Dongyang Fan et.al.|[2504.06219v1](http://arxiv.org/abs/2504.06219v1)|null|
+|**2025-04-08**|**Accessible and Pedagogically-Grounded Explainability for Human-Robot Interaction: A Framework Based on UDL and Symbolic Interfaces**|Francisco J. Rodríguez Lera et.al.|[2504.06189v1](http://arxiv.org/abs/2504.06189v1)|null|
+|**2025-04-08**|**SkillFlow: Efficient Skill and Code Transfer Through Communication in Adapting AI Agents**|Pagkratios Tagkopoulos et.al.|[2504.06188v1](http://arxiv.org/abs/2504.06188v1)|null|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|null|
+|**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Fangchen Liu et.al.|[2504.06156v1](http://arxiv.org/abs/2504.06156v1)|null|
+|**2025-04-08**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138v1](http://arxiv.org/abs/2504.06138v1)|null|
+|**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135v1](http://arxiv.org/abs/2504.06135v1)|null|
+|**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126v1](http://arxiv.org/abs/2504.06126v1)|null|
+|**2025-04-08**|**Leanabell-Prover: Posttraining Scaling in Formal Reasoning**|Jingyuan Zhang et.al.|[2504.06122v1](http://arxiv.org/abs/2504.06122v1)|null|
+|**2025-04-08**|**Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures**|Kwame Porter Robinson et.al.|[2504.06114v1](http://arxiv.org/abs/2504.06114v1)|null|
+|**2025-04-08**|**Collaborative Prediction: Tractable Information Aggregation via Agreement**|Natalie Collina et.al.|[2504.06075v1](http://arxiv.org/abs/2504.06075v1)|null|
+|**2025-04-08**|**Explainable AI for building energy retrofitting under data scarcity**|Panagiota Rempi et.al.|[2504.06055v1](http://arxiv.org/abs/2504.06055v1)|null|
+|**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039v1](http://arxiv.org/abs/2504.06039v1)|null|
+|**2025-04-08**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017v1](http://arxiv.org/abs/2504.06017v1)|null|
+|**2025-04-08**|**The Hall of AI Fears and Hopes: Comparing the Views of AI Influencers and those of Members of the U.S. Public Through an Interactive Platform**|Gustavo Moreira et.al.|[2504.06016v1](http://arxiv.org/abs/2504.06016v1)|null|
+|**2025-04-08**|**AI analysis of medical images at scale as a health disparities probe: a feasibility demonstration using chest radiographs**|Heather M. Whitney et.al.|[2504.05990v1](http://arxiv.org/abs/2504.05990v1)|null|
+|**2025-04-08**|**InstructMPC: A Human-LLM-in-the-Loop Framework for Context-Aware Control**|Ruixiang Wu et.al.|[2504.05946v1](http://arxiv.org/abs/2504.05946v1)|null|
+|**2025-04-08**|**Actuarial Learning for Pension Fund Mortality Forecasting**|Eduardo Fraga L. de Melo et.al.|[2504.05881v1](http://arxiv.org/abs/2504.05881v1)|null|
+|**2025-04-08**|**CTI-HAL: A Human-Annotated Dataset for Cyber Threat Intelligence Analysis**|Sofia Della Penna et.al.|[2504.05866v1](http://arxiv.org/abs/2504.05866v1)|null|
+|**2025-04-08**|**Are Generative AI Agents Effective Personalized Financial Advisors?**|Takehiro Takayanagi et.al.|[2504.05862v1](http://arxiv.org/abs/2504.05862v1)|null|
+|**2025-04-08**|**Towards an AI-Driven Video-Based American Sign Language Dictionary: Exploring Design and Usage Experience with Learners**|Saad Hassan et.al.|[2504.05857v1](http://arxiv.org/abs/2504.05857v1)|null|
+|**2025-04-08**|**MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**|Pengfei Zhou et.al.|[2504.05782v1](http://arxiv.org/abs/2504.05782v1)|null|
+|**2025-04-08**|**Unraveling Human-AI Teaming: A Review and Outlook**|Bowen Lou et.al.|[2504.05755v1](http://arxiv.org/abs/2504.05755v1)|null|
+|**2025-04-08**|**AI-Driven Prognostics for State of Health Prediction in Li-ion Batteries: A Comprehensive Analysis with Validation**|Tianqi Ding et.al.|[2504.05728v1](http://arxiv.org/abs/2504.05728v1)|null|
+|**2025-04-08**|**Single-Agent vs. Multi-Agent LLM Strategies for Automated Student Reflection Assessment**|Gen Li et.al.|[2504.05716v1](http://arxiv.org/abs/2504.05716v1)|null|
+|**2025-04-08**|**Automated Archival Descriptions with Federated Intelligence of LLMs**|Jinghua Groppe et.al.|[2504.05711v1](http://arxiv.org/abs/2504.05711v1)|null|
+|**2025-04-08**|**Diabetic Retinopathy Detection Based on Convolutional Neural Networks with SMOTE and CLAHE Techniques Applied to Fundus Images**|Sidhiq Mardianta et.al.|[2504.05696v1](http://arxiv.org/abs/2504.05696v1)|null|
+|**2025-04-08**|**DBOT: Artificial Intelligence for Systematic Long-Term Investing**|Vasant Dhar et.al.|[2504.05639v1](http://arxiv.org/abs/2504.05639v1)|null|
+|**2025-04-08**|**A Multi-Modal AI System for Screening Mammography: Integrating 2D and 3D Imaging to Improve Breast Cancer Detection in a Prospective Clinical Study**|Jungkyu Park et.al.|[2504.05636v1](http://arxiv.org/abs/2504.05636v1)|null|

@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265v1](http://arxiv.org/abs/2504.06265v1)|null|
+|**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210v1](http://arxiv.org/abs/2504.06210v1)|null|
+|**2025-04-08**|**Up-to-constants estimates on four-arm events for simple conformal loop ensemble**|Yifan Gao et.al.|[2504.06202v1](http://arxiv.org/abs/2504.06202v1)|null|
+|**2025-04-08**|**Hall Effect Thruster Forecasting using a Topological Approach for Data Assimilation**|Max M. Chumley et.al.|[2504.06157v1](http://arxiv.org/abs/2504.06157v1)|null|
+|**2025-04-08**|**Doubly-charmed hexaquarks in the diquark picture**|Hong-Tao An et.al.|[2504.06107v1](http://arxiv.org/abs/2504.06107v1)|null|
+|**2025-04-08**|**On the interference of the scattered wave and the incident wave in light scattering problems with Gaussian beams**|Jonas Gienger et.al.|[2504.06081v1](http://arxiv.org/abs/2504.06081v1)|null|
+|**2025-04-08**|**econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians**|Can Zhang et.al.|[2504.06003v1](http://arxiv.org/abs/2504.06003v1)|null|
+|**2025-04-08**|**Can gravity mediate the transmission of quantum information?**|Andrea Mari et.al.|[2504.05998v1](http://arxiv.org/abs/2504.05998v1)|null|
+|**2025-04-08**|**Thawed Gaussian Ehrenfest dynamics at conical intersections: When can a single mean-field trajectory capture internal conversion?**|Alan Scheidegger et.al.|[2504.05922v1](http://arxiv.org/abs/2504.05922v1)|null|
+|**2025-04-08**|**Gravitational waves from primordial black hole dominance: The effect of inflaton decay rate**|Daniel del-Corral et.al.|[2504.05875v1](http://arxiv.org/abs/2504.05875v1)|null|
+|**2025-04-08**|**Functional matrix product state simulation of continuous variable quantum circuits**|Andreas Bock Michelsen et.al.|[2504.05860v1](http://arxiv.org/abs/2504.05860v1)|null|
+|**2025-04-08**|**Work probability distribution of weakly driven process in overdamped dynamics**|Pierre Nazé et.al.|[2504.05836v1](http://arxiv.org/abs/2504.05836v1)|null|
+|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740v1](http://arxiv.org/abs/2504.05740v1)|null|
+|**2025-04-08**|**Fast Prediction of Phase shifters Phase Error Distributions Using Gaussian Processes**|Zijian Zhang et.al.|[2504.05685v1](http://arxiv.org/abs/2504.05685v1)|null|
+|**2025-04-08**|**Reconstruction-Free Anomaly Detection with Diffusion Models via Direct Latent Likelihood Evaluation**|Shunsuke Sakai et.al.|[2504.05662v1](http://arxiv.org/abs/2504.05662v1)|null|
+|**2025-04-08**|**A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map**|Wooseok Kang et.al.|[2504.05616v1](http://arxiv.org/abs/2504.05616v1)|null|
+|**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544v1](http://arxiv.org/abs/2504.05544v1)|null|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517v1](http://arxiv.org/abs/2504.05517v1)|null|
+|**2025-04-07**|**A mass invariant in a compressible turbulent medium**|Pierre Dumond et.al.|[2504.05469v1](http://arxiv.org/abs/2504.05469v1)|null|
+|**2025-04-07**|**A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods**|Somjit Roy et.al.|[2504.05431v1](http://arxiv.org/abs/2504.05431v1)|null|
+|**2025-04-07**|**Survey on Algorithms for multi-index models**|Joan Bruna et.al.|[2504.05426v1](http://arxiv.org/abs/2504.05426v1)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304v1](http://arxiv.org/abs/2504.05304v1)|null|
 |**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300v1](http://arxiv.org/abs/2504.05300v1)|null|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296v1](http://arxiv.org/abs/2504.05296v1)|null|
 |**2025-04-07**|**Bayesian estimation of causal effects from observational categorical data**|Vera Kvisgaard et.al.|[2504.05198v1](http://arxiv.org/abs/2504.05198v1)|null|
+|**2025-04-07**|**Handling Weather Uncertainty in Air Traffic Prediction through an Inverse Approach**|G. Lancia et.al.|[2504.05366v1](http://arxiv.org/abs/2504.05366v1)|null|
 |**2025-04-07**|**DDPM Score Matching and Distribution Learning**|Sinho Chewi et.al.|[2504.05161v1](http://arxiv.org/abs/2504.05161v1)|null|
 |**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152v1](http://arxiv.org/abs/2504.05152v1)|null|
 |**2025-04-07**|**Stochastic storage models in theoretical physics problems**|V. V. Ryazanov et.al.|[2504.05110v1](http://arxiv.org/abs/2504.05110v1)|null|
 |**2025-04-07**|**Online Gaussian elimination for quantum LDPC decoding**|Sam J. Griffiths et.al.|[2504.05080v1](http://arxiv.org/abs/2504.05080v1)|null|
-|**2025-04-07**|**Multiobjective Optimization under Uncertainties using Conditional Pareto Fronts**|Victor Trappler et.al.|[2504.04944v1](http://arxiv.org/abs/2504.04944v1)|null|
-|**2025-04-07**|**Constrained Gaussian Process Motion Planning via Stein Variational Newton Inference**|Jiayun Li et.al.|[2504.04936v1](http://arxiv.org/abs/2504.04936v1)|null|
-|**2025-04-07**|**Dynamic hysteresis model of grain-oriented ferromagnetic material using neural operators**|Ziqing Guo et.al.|[2504.04863v1](http://arxiv.org/abs/2504.04863v1)|null|
-|**2025-04-07**|**Stochastic differential equations driven by fractional Brownian motion: dependence on the Hurst parameter**|Anna P. Kwossek et.al.|[2504.04860v1](http://arxiv.org/abs/2504.04860v1)|null|
-|**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857v1](http://arxiv.org/abs/2504.04857v1)|null|
-|**2025-04-07**|**Nonlinear Phase Gates as Airy Transforms of the Wigner Function**|Darren W. Moore et.al.|[2504.04851v1](http://arxiv.org/abs/2504.04851v1)|null|
-|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|null|
-|**2025-04-07**|**Topological Schrödinger Bridge Matching**|Maosheng Yang et.al.|[2504.04799v1](http://arxiv.org/abs/2504.04799v1)|null|
-|**2025-04-07**|**Gaussian Mean Testing under Truncation**|Clément L. Canonne et.al.|[2504.04682v1](http://arxiv.org/abs/2504.04682v1)|null|
-|**2025-04-07**|**DeclutterNeRF: Generative-Free 3D Scene Recovery for Occlusion Removal**|Wanzhou Liu et.al.|[2504.04679v1](http://arxiv.org/abs/2504.04679v1)|null|
-|**2025-04-06**|**Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**|Haonan Chen et.al.|[2504.04612v1](http://arxiv.org/abs/2504.04612v1)|null|
-|**2025-04-06**|**Targetless LiDAR-Camera Calibration with Anchored 3D Gaussians**|Haebeom Jung et.al.|[2504.04597v1](http://arxiv.org/abs/2504.04597v1)|null|
-|**2025-04-06**|**Analysis of inertial-range intermittency in forward and inverse cascade regions in isotropic turbulence**|H. Yao et.al.|[2504.04595v1](http://arxiv.org/abs/2504.04595v1)|null|
-|**2025-04-06**|**Parameter estimation of nonsingular black holes in conformal gravity using megamaser observational data from NGC 4258**|Diego A. Martínez-Valera et.al.|[2504.04588v1](http://arxiv.org/abs/2504.04588v1)|null|
-|**2025-04-06**|**Cramer-Rao Bounds for Laplacian Matrix Estimation**|Morad Halihal et.al.|[2504.04576v1](http://arxiv.org/abs/2504.04576v1)|null|
-|**2025-04-06**|**Dynamic Neural Field Modeling of Visual Contrast for Perceiving Incoherent Looming**|Ziyan Qin et.al.|[2504.04551v1](http://arxiv.org/abs/2504.04551v1)|null|
-|**2025-04-06**|**Confidence-Aware Learning Optimal Terminal Guidance via Gaussian Process Regression**|Han Wang et.al.|[2504.04533v1](http://arxiv.org/abs/2504.04533v1)|null|
-|**2025-04-06**|**Environment-Assisted Generation of Non-Gaussian Wavepacket Quantum States**|Maryam Khanahmadi et.al.|[2504.04513v1](http://arxiv.org/abs/2504.04513v1)|null|
-|**2025-04-06**|**Post-Quantum Wireless-based Key Encapsulation Mechanism via CRYSTALS-Kyber for Resource-Constrained Devices**|M. A. González de la Torre et.al.|[2504.04511v1](http://arxiv.org/abs/2504.04511v1)|null|
-|**2025-04-06**|**Supernovae at Distances < 40 Mpc: II. Supernova Rate in the Local Universe**|Xiaoran Ma et.al.|[2504.04507v2](http://arxiv.org/abs/2504.04507v2)|null|
-|**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497v1](http://arxiv.org/abs/2504.04497v1)|null|
-|**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan et.al.|[2504.04457v1](http://arxiv.org/abs/2504.04457v1)|null|

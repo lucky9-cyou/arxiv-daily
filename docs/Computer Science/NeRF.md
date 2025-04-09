@@ -2,6 +2,9 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806v1](http://arxiv.org/abs/2504.05806v1)|null|
+|**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803v1](http://arxiv.org/abs/2504.05803v1)|null|
+|**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751v1](http://arxiv.org/abs/2504.05751v1)|null|
 |**2025-04-07**|**DeclutterNeRF: Generative-Free 3D Scene Recovery for Occlusion Removal**|Wanzhou Liu et.al.|[2504.04679v1](http://arxiv.org/abs/2504.04679v1)|null|
 |**2025-04-06**|**Thermoxels: a voxel-based method to generate simulation-ready 3D thermal models**|Etienne Chassaing et.al.|[2504.04448v1](http://arxiv.org/abs/2504.04448v1)|null|
 |**2025-04-04**|**NeRFlex: Resource-aware Real-time High-quality Rendering of Complex Scenes on Mobile Devices**|Zhe Wang et.al.|[2504.03415v1](http://arxiv.org/abs/2504.03415v1)|null|
@@ -29,6 +32,3 @@
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654v1](http://arxiv.org/abs/2503.20654v1)|null|
 |**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728v1](http://arxiv.org/abs/2503.22728v1)|null|
 |**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168v1](http://arxiv.org/abs/2503.20168v1)|null|
-|**2025-03-25**|**Learning Scene-Level Signed Directional Distance Function with Ellipsoidal Priors and Neural Residuals**|Zhirui Dai et.al.|[2503.20066v1](http://arxiv.org/abs/2503.20066v1)|null|
-|**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673v1](http://arxiv.org/abs/2503.19673v1)|null|
-|**2025-03-25**|**CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis**|Youngkyoon Jang et.al.|[2503.20998v1](http://arxiv.org/abs/2503.20998v1)|null|
