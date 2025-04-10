@@ -2,6 +2,9 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|null|
+|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920v1](http://arxiv.org/abs/2504.06920v1)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806v1](http://arxiv.org/abs/2504.05806v1)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803v1](http://arxiv.org/abs/2504.05803v1)|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751v1](http://arxiv.org/abs/2504.05751v1)|null|
@@ -29,6 +32,3 @@
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442v2](http://arxiv.org/abs/2503.21442v2)|null|
 |**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v2](http://arxiv.org/abs/2503.21364v2)|[link](https://github.com/internlandmark/landmarksystem)|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|[link](https://github.com/nubot-nudt/ugna-vpr)|
-|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654v1](http://arxiv.org/abs/2503.20654v1)|null|
-|**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728v1](http://arxiv.org/abs/2503.22728v1)|null|
-|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168v1](http://arxiv.org/abs/2503.20168v1)|null|
