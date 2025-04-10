@@ -16,7 +16,7 @@
 |**2025-04-08**|**Collaborative Prediction: Tractable Information Aggregation via Agreement**|Natalie Collina et.al.|[2504.06075v1](http://arxiv.org/abs/2504.06075v1)|null|
 |**2025-04-08**|**Explainable AI for building energy retrofitting under data scarcity**|Panagiota Rempi et.al.|[2504.06055v1](http://arxiv.org/abs/2504.06055v1)|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039v1](http://arxiv.org/abs/2504.06039v1)|null|
-|**2025-04-08**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017v1](http://arxiv.org/abs/2504.06017v1)|null|
+|**2025-04-08**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017v2](http://arxiv.org/abs/2504.06017v2)|null|
 |**2025-04-08**|**The Hall of AI Fears and Hopes: Comparing the Views of AI Influencers and those of Members of the U.S. Public Through an Interactive Platform**|Gustavo Moreira et.al.|[2504.06016v1](http://arxiv.org/abs/2504.06016v1)|null|
 |**2025-04-08**|**AI analysis of medical images at scale as a health disparities probe: a feasibility demonstration using chest radiographs**|Heather M. Whitney et.al.|[2504.05990v1](http://arxiv.org/abs/2504.05990v1)|null|
 |**2025-04-08**|**InstructMPC: A Human-LLM-in-the-Loop Framework for Context-Aware Control**|Ruixiang Wu et.al.|[2504.05946v1](http://arxiv.org/abs/2504.05946v1)|null|
@@ -25,7 +25,7 @@
 |**2025-04-08**|**Are Generative AI Agents Effective Personalized Financial Advisors?**|Takehiro Takayanagi et.al.|[2504.05862v1](http://arxiv.org/abs/2504.05862v1)|null|
 |**2025-04-08**|**Towards an AI-Driven Video-Based American Sign Language Dictionary: Exploring Design and Usage Experience with Learners**|Saad Hassan et.al.|[2504.05857v1](http://arxiv.org/abs/2504.05857v1)|null|
 |**2025-04-08**|**MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**|Pengfei Zhou et.al.|[2504.05782v1](http://arxiv.org/abs/2504.05782v1)|null|
-|**2025-04-08**|**Unraveling Human-AI Teaming: A Review and Outlook**|Bowen Lou et.al.|[2504.05755v1](http://arxiv.org/abs/2504.05755v1)|null|
+|**2025-04-08**|**Unraveling Human-AI Teaming: A Review and Outlook**|Bowen Lou et.al.|[2504.05755v2](http://arxiv.org/abs/2504.05755v2)|null|
 |**2025-04-08**|**AI-Driven Prognostics for State of Health Prediction in Li-ion Batteries: A Comprehensive Analysis with Validation**|Tianqi Ding et.al.|[2504.05728v1](http://arxiv.org/abs/2504.05728v1)|null|
 |**2025-04-08**|**Single-Agent vs. Multi-Agent LLM Strategies for Automated Student Reflection Assessment**|Gen Li et.al.|[2504.05716v1](http://arxiv.org/abs/2504.05716v1)|null|
 |**2025-04-08**|**Automated Archival Descriptions with Federated Intelligence of LLMs**|Jinghua Groppe et.al.|[2504.05711v1](http://arxiv.org/abs/2504.05711v1)|null|
