@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095v1](http://arxiv.org/abs/2504.07095v1)|null|
-|**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091v1](http://arxiv.org/abs/2504.07091v1)|null|
-|**2025-04-09**|**Detecting AI-generated Artwork**|Meien Li et.al.|[2504.07078v1](http://arxiv.org/abs/2504.07078v1)|null|
-|**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022v1](http://arxiv.org/abs/2504.07022v1)|null|
-|**2025-04-09**|**FAME: Introducing Fuzzy Additive Models for Explainable AI**|Omer Bahadir Gokmen et.al.|[2504.07011v1](http://arxiv.org/abs/2504.07011v1)|null|
-|**2025-04-09**|**Artificial Intelligence for Pediatric Height Prediction Using Large-Scale Longitudinal Body Composition Data**|Dohyun Chun et.al.|[2504.06979v1](http://arxiv.org/abs/2504.06979v1)|null|
-|**2025-04-09**|**Beyond Tools: Generative AI as Epistemic Infrastructure in Education**|Bodong Chen et.al.|[2504.06928v1](http://arxiv.org/abs/2504.06928v1)|null|
-|**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Sergio Romero-Tapiador et.al.|[2504.06925v1](http://arxiv.org/abs/2504.06925v1)|null|
-|**2025-04-09**|**AI-Driven Consensus: Modeling Multi-Agent Networks with Long-Range Interactions through path-Laplacian Matrices**|Yusef Ahsini et.al.|[2504.06894v1](http://arxiv.org/abs/2504.06894v1)|null|
-|**2025-04-09**|**Persona Dynamics: Unveiling the Impact of Personality Traits on Agents in Text-Based Games**|Seungwon Lim et.al.|[2504.06868v1](http://arxiv.org/abs/2504.06868v1)|null|
-|**2025-04-09**|**How do Copilot Suggestions Impact Developers' Frustration and Productivity?**|Emanuela Guglielmi et.al.|[2504.06808v1](http://arxiv.org/abs/2504.06808v1)|null|
-|**2025-04-09**|**Beware of "Explanations" of AI**|David Martens et.al.|[2504.06791v1](http://arxiv.org/abs/2504.06791v1)|null|
-|**2025-04-09**|**AI, Help Me Think$\unicode{x2014}$but for Myself: Assisting People in Complex Decision-Making by Providing Different Kinds of Cognitive Support**|Leon Reicherts et.al.|[2504.06771v1](http://arxiv.org/abs/2504.06771v1)|null|
-|**2025-04-09**|**Learning global control of underactuated systems with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2504.06721v1](http://arxiv.org/abs/2504.06721v1)|null|
-|**2025-04-09**|**Learning-Inspired Fuzzy Logic Algorithms for Enhanced Control of Oscillatory Systems**|Vuong Anh Trung et.al.|[2504.06706v1](http://arxiv.org/abs/2504.06706v1)|null|
-|**2025-04-09**|**Beyond the Winding Path of Learning: Exploring Affective, Cognitive, and Action-Oriented Prompts for Communication Skills**|Naoko Hayashida et.al.|[2504.06646v1](http://arxiv.org/abs/2504.06646v1)|null|
-|**2025-04-09**|**The Method for Storing Patterns in Neural Networks-Memorization and Recall of QR code Patterns-**|Hiroshi Inazawa et.al.|[2504.06631v1](http://arxiv.org/abs/2504.06631v1)|null|
-|**2025-04-09**|**Diffusion Factor Models: Generating High-Dimensional Returns with Factor Structure**|Minshuo Chen et.al.|[2504.06566v1](http://arxiv.org/abs/2504.06566v1)|null|
-|**2025-04-09**|**A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication**|Xiao-Hang Jiang et.al.|[2504.06561v1](http://arxiv.org/abs/2504.06561v1)|null|
-|**2025-04-09**|**Understanding Users' Security and Privacy Concerns and Attitudes Towards Conversational AI Platforms**|Mutahar Ali et.al.|[2504.06552v1](http://arxiv.org/abs/2504.06552v1)|null|
-|**2025-04-09**|**Societal Impacts Research Requires Benchmarks for Creative Composition Tasks**|Judy Hanwen Shen et.al.|[2504.06549v1](http://arxiv.org/abs/2504.06549v1)|null|
-|**2025-04-09**|**Beyond Moore's Law: Harnessing the Redshift of Generative AI with Effective Hardware-Software Co-Design**|Amir Yazdanbakhsh et.al.|[2504.06531v1](http://arxiv.org/abs/2504.06531v1)|null|
-|**2025-04-09**|**The Power of the Pareto Front: Balancing Uncertain Rewards for Adaptive Experimentation in scanning probe microscopy**|Yu Liu et.al.|[2504.06525v1](http://arxiv.org/abs/2504.06525v1)|null|
-|**2025-04-09**|**Can dialogues with AI systems help humans better discern visual misinformation?**|Anku Rani et.al.|[2504.06517v1](http://arxiv.org/abs/2504.06517v1)|null|
-|**2025-04-08**|**Towards Holistic Prompt Craft**|Joseph Lindley et.al.|[2504.06496v1](http://arxiv.org/abs/2504.06496v1)|null|
-|**2025-04-08**|**Mind the Gap: Evaluating Vision Systems in Small Data Applications**|Samuel Stevens et.al.|[2504.06486v1](http://arxiv.org/abs/2504.06486v1)|null|
-|**2025-04-08**|**AI-Assisted Transport of Radioactive Ion Beams**|Sergio Lopez-Caceres et.al.|[2504.06469v1](http://arxiv.org/abs/2504.06469v1)|null|
-|**2025-04-08**|**Can you Finetune your Binoculars? Embedding Text Watermarks into the Weights of Large Language Models**|Fay Elhassan et.al.|[2504.06446v1](http://arxiv.org/abs/2504.06446v1)|null|
-|**2025-04-08**|**Language-Dependent Political Bias in AI: A Study of ChatGPT and Gemini**|Dogus Yuksel et.al.|[2504.06436v1](http://arxiv.org/abs/2504.06436v1)|null|
-|**2025-04-08**|**Human Trust in AI Search: A Large-Scale Experiment**|Haiwen Li et.al.|[2504.06435v1](http://arxiv.org/abs/2504.06435v1)|null|
+|**2025-04-10**|**HoloPart: Generative 3D Part Amodal Segmentation**|Yunhan Yang et.al.|[2504.07943v1](http://arxiv.org/abs/2504.07943v1)|null|
+|**2025-04-10**|**We Are All Creators: Generative AI, Collective Knowledge, and the Path Towards Human-AI Synergy**|Jordi Linares-Pellicer et.al.|[2504.07936v1](http://arxiv.org/abs/2504.07936v1)|null|
+|**2025-04-10**|**The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation**|Giovanni Mauro et.al.|[2504.07911v1](http://arxiv.org/abs/2504.07911v1)|null|
+|**2025-04-10**|**Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation**|Daniel Hove Paludan et.al.|[2504.07879v1](http://arxiv.org/abs/2504.07879v1)|null|
+|**2025-04-10**|**The KL3M Data Project: Copyright-Clean Training Resources for Large Language Models**|Michael J Bommarito II et.al.|[2504.07854v1](http://arxiv.org/abs/2504.07854v1)|null|
+|**2025-04-10**|**Independence Is Not an Issue in Neurosymbolic AI**|Håkan Karlsson Faronius et.al.|[2504.07851v1](http://arxiv.org/abs/2504.07851v1)|null|
+|**2025-04-10**|**Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines**|Cansu Koyuturk et.al.|[2504.07840v1](http://arxiv.org/abs/2504.07840v1)|null|
+|**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831v1](http://arxiv.org/abs/2504.07831v1)|null|
+|**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830v1](http://arxiv.org/abs/2504.07830v1)|null|
+|**2025-04-10**|**Search for the baryon and lepton number violating decay $J/ψ\to pe^-$ + c.c**|BESIII Collaboration et.al.|[2504.07817v1](http://arxiv.org/abs/2504.07817v1)|null|
+|**2025-04-10**|**Focal Cortical Dysplasia Type II Detection Using Cross Modality Transfer Learning and Grad-CAM in 3D-CNNs for MRI Analysis**|Lorenzo Lasagni et.al.|[2504.07775v1](http://arxiv.org/abs/2504.07775v1)|null|
+|**2025-04-10**|**Realigning Incentives to Build Better Software: a Holistic Approach to Vendor Accountability**|Gergely Biczók et.al.|[2504.07766v1](http://arxiv.org/abs/2504.07766v1)|null|
+|**2025-04-10**|**Data over dialogue: Why artificial intelligence is unlikely to humanise medicine**|Joshua Hatherley et.al.|[2504.07763v1](http://arxiv.org/abs/2504.07763v1)|null|
+|**2025-04-10**|**"i am a stochastic parrot, and so r u": Is AI-based framing of human behaviour and cognition a conceptual metaphor or conceptual engineering?**|Warmhold Jan Thomas Mollema et.al.|[2504.07756v1](http://arxiv.org/abs/2504.07756v1)|null|
+|**2025-04-10**|**LAPIS: A novel dataset for personalized image aesthetic assessment**|Anne-Sofie Maerten et.al.|[2504.07670v1](http://arxiv.org/abs/2504.07670v1)|null|
+|**2025-04-10**|**Synthesizing High-Quality Programming Tasks with LLM-based Expert and Student Agents**|Manh Hung Nguyen et.al.|[2504.07655v1](http://arxiv.org/abs/2504.07655v1)|null|
+|**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634v1](http://arxiv.org/abs/2504.07634v1)|null|
+|**2025-04-10**|**Deep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather**|Philine L. Bommer et.al.|[2504.07625v1](http://arxiv.org/abs/2504.07625v1)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615v1](http://arxiv.org/abs/2504.07615v1)|null|
+|**2025-04-10**|**Malware analysis assisted by AI with R2AI**|Axelle Apvrille et.al.|[2504.07574v1](http://arxiv.org/abs/2504.07574v1)|null|
+|**2025-04-10**|**Quadrilatero: A RISC-V programmable matrix coprocessor for low-power edge applications**|Danilo Cammarata et.al.|[2504.07565v1](http://arxiv.org/abs/2504.07565v1)|null|
+|**2025-04-10**|**PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**|Moritz Rempe et.al.|[2504.07560v1](http://arxiv.org/abs/2504.07560v1)|[link](https://github.com/TIO-IKIM/PhaseGen)|
+|**2025-04-10**|**Using LLMs for Analyzing AIS Data**|Gaspard Mertends et.al.|[2504.07557v1](http://arxiv.org/abs/2504.07557v1)|null|
+|**2025-04-10**|**AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing Rewards and Test-time Computation**|Tuhin Chakrabarty et.al.|[2504.07532v1](http://arxiv.org/abs/2504.07532v1)|null|
+|**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531v1](http://arxiv.org/abs/2504.07531v1)|null|
+|**2025-04-10**|**Automating the Path: An R&D Agenda for Human-Centered AI and Visualization**|Niklas Elmqvist et.al.|[2504.07529v1](http://arxiv.org/abs/2504.07529v1)|null|
+|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521v1](http://arxiv.org/abs/2504.07521v1)|null|
+|**2025-04-10**|**Enhancements for Developing a Comprehensive AI Fairness Assessment Standard**|Avinash Agarwal et.al.|[2504.07516v1](http://arxiv.org/abs/2504.07516v1)|null|
+|**2025-04-10**|**Program Skeletons for Automated Program Translation**|Bo Wang et.al.|[2504.07483v1](http://arxiv.org/abs/2504.07483v1)|null|
+|**2025-04-10**|**Enhanced Question-Answering for Skill-based learning using Knowledge-based AI and Generative AI**|Rahul K. Dass et.al.|[2504.07463v1](http://arxiv.org/abs/2504.07463v1)|null|
