@@ -20,9 +20,9 @@
 |**2025-04-09**|**Collision avoidance from monocular vision trained with novel view synthesis**|Valentin Tordjman--Levavasseur et.al.|[2504.06651v1](http://arxiv.org/abs/2504.06651v1)|null|
 |**2025-04-09**|**Entropy Production in Non-Gaussian Active Matter: A Unified Fluctuation Theorem and Deep Learning Framework**|Yuanfei Huang et.al.|[2504.06628v1](http://arxiv.org/abs/2504.06628v1)|null|
 |**2025-04-09**|**Localization of deformation in the central hub of hub-and-spoke kirigami**|Jason Barckicke et.al.|[2504.06626v1](http://arxiv.org/abs/2504.06626v1)|null|
-|**2025-04-09**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|X. Sun et.al.|[2504.06598v1](http://arxiv.org/abs/2504.06598v1)|null|
+|**2025-04-09**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|Xin Sun et.al.|[2504.06598v2](http://arxiv.org/abs/2504.06598v2)|null|
 |**2025-04-09**|**DUKAE: DUal-level Knowledge Accumulation and Ensemble for Pre-Trained Model-Based Continual Learning**|Songze Li et.al.|[2504.06521v1](http://arxiv.org/abs/2504.06521v1)|null|
-|**2025-04-08**|**A case study of the long-time behavior of the Gaussian local-field equation**|Kevin Hu et.al.|[2504.06449v1](http://arxiv.org/abs/2504.06449v1)|null|
+|**2025-04-08**|**A case study of the long-time behavior of the Gaussian local-field equation**|Kevin Hu et.al.|[2504.06449v2](http://arxiv.org/abs/2504.06449v2)|null|
 |**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265v2](http://arxiv.org/abs/2504.06265v2)|null|
 |**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210v1](http://arxiv.org/abs/2504.06210v1)|null|
