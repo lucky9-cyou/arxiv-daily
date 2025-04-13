@@ -22,7 +22,7 @@
 |**2025-04-10**|**State Estimation Using Particle Filtering in Adaptive Machine Learning Methods: Integrating Q-Learning and NEAT Algorithms with Noisy Radar Measurements**|Wonjin Song et.al.|[2504.07393v1](http://arxiv.org/abs/2504.07393v1)|null|
 |**2025-04-10**|**Min-Max Optimisation for Nonconvex-Nonconcave Functions Using a Random Zeroth-Order Extragradient Algorithm**|Amir Ali Farzin et.al.|[2504.07388v1](http://arxiv.org/abs/2504.07388v1)|null|
 |**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370v1](http://arxiv.org/abs/2504.07370v1)|null|
-|**2025-04-09**|**GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations**|Isaac Onyango et.al.|[2504.07319v1](http://arxiv.org/abs/2504.07319v1)|null|
+|**2025-04-09**|**GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations**|Isaac Onyango et.al.|[2504.07319v1](http://arxiv.org/abs/2504.07319v1)|[link](https://github.com/matersim/gpr_calculator)|
 |**2025-04-09**|**CEC-MMR: Cross-Entropy Clustering Approach to Multi-Modal Regression**|Krzysztof Byrski et.al.|[2504.07301v1](http://arxiv.org/abs/2504.07301v1)|null|
 |**2025-04-09**|**A geometric ensemble method for Bayesian inference**|Andrey A Popov et.al.|[2504.07084v1](http://arxiv.org/abs/2504.07084v1)|null|
 |**2025-04-09**|**Non-Gaussianity of Tensor Induced Density Perturbations**|Mariam Abdelaziz et.al.|[2504.07063v1](http://arxiv.org/abs/2504.07063v1)|null|
