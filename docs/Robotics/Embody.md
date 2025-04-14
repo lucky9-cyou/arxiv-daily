@@ -24,7 +24,7 @@
 |**2025-04-10**|**Malware analysis assisted by AI with R2AI**|Axelle Apvrille et.al.|[2504.07574v1](http://arxiv.org/abs/2504.07574v1)|null|
 |**2025-04-10**|**Quadrilatero: A RISC-V programmable matrix coprocessor for low-power edge applications**|Danilo Cammarata et.al.|[2504.07565v1](http://arxiv.org/abs/2504.07565v1)|null|
 |**2025-04-10**|**PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**|Moritz Rempe et.al.|[2504.07560v1](http://arxiv.org/abs/2504.07560v1)|[link](https://github.com/TIO-IKIM/PhaseGen)|
-|**2025-04-10**|**Using LLMs for Analyzing AIS Data**|Gaspard Mertends et.al.|[2504.07557v1](http://arxiv.org/abs/2504.07557v1)|null|
+|**2025-04-10**|**Using LLMs for Analyzing AIS Data**|Gaspard Merten et.al.|[2504.07557v2](http://arxiv.org/abs/2504.07557v2)|null|
 |**2025-04-10**|**AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing Rewards and Test-time Computation**|Tuhin Chakrabarty et.al.|[2504.07532v1](http://arxiv.org/abs/2504.07532v1)|null|
 |**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531v1](http://arxiv.org/abs/2504.07531v1)|null|
 |**2025-04-10**|**Automating the Path: An R&D Agenda for Human-Centered AI and Visualization**|Niklas Elmqvist et.al.|[2504.07529v1](http://arxiv.org/abs/2504.07529v1)|null|
