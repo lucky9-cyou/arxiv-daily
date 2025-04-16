@@ -9,7 +9,7 @@
 |**2025-04-14**|**Enhancing DESI DR1 Full-Shape analyses using HOD-informed priors**|Hanyu Zhang et.al.|[2504.10407v1](http://arxiv.org/abs/2504.10407v1)|null|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375v1](http://arxiv.org/abs/2504.10375v1)|null|
 |**2025-04-14**|**Simple physical systems as a reference for multivariate information dynamics**|Alberto Liardi et.al.|[2504.10372v1](http://arxiv.org/abs/2504.10372v1)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v1](http://arxiv.org/abs/2504.10331v1)|null|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316v1](http://arxiv.org/abs/2504.10316v1)|null|
 |**2025-04-14**|**Searching for quasi-periodicities in short transients: the curious case of GRB 230307A**|Daniela Huppenkothen et.al.|[2504.10153v1](http://arxiv.org/abs/2504.10153v1)|null|
 |**2025-04-14**|**Uncertainty Propagation in the Fast Fourier Transform**|Luca Schmid et.al.|[2504.10136v1](http://arxiv.org/abs/2504.10136v1)|null|
