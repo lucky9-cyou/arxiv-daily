@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-15**|**Isometric Surfaces in Isotropic 3-Space**|Christian Müller et.al.|[2504.11351v1](http://arxiv.org/abs/2504.11351v1)|null|
+|**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|null|
+|**2025-04-15**|**Mildly-Interacting Fermionic Unitaries are Efficiently Learnable**|Vishnu Iyer et.al.|[2504.11318v1](http://arxiv.org/abs/2504.11318v1)|null|
+|**2025-04-15**|**Minimax asymptotics**|Mika Meitz et.al.|[2504.11269v1](http://arxiv.org/abs/2504.11269v1)|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|null|
+|**2025-04-15**|**Is model selection possible for the $\ell_p$-loss? PCO estimation for regression models**|Claire Lacour et.al.|[2504.11217v1](http://arxiv.org/abs/2504.11217v1)|null|
+|**2025-04-15**|**Semi-asymptotic bounds for moderate deviations of suprema of Gaussian polynomials**|Michel Weber et.al.|[2504.11198v1](http://arxiv.org/abs/2504.11198v1)|null|
+|**2025-04-15**|**Standard bubbles (and other Möbius-flat partitions) on model spaces are stable**|Emanuel Milman et.al.|[2504.11185v1](http://arxiv.org/abs/2504.11185v1)|null|
+|**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119v1](http://arxiv.org/abs/2504.11119v1)|null|
+|**2025-04-15**|**Phase-space quantum distorted stability pattern for Aubry-André-Harper dynamics**|Alex E. Bernardini et.al.|[2504.11036v1](http://arxiv.org/abs/2504.11036v1)|null|
+|**2025-04-15**|**From Heteropolymer Stiffness Distributions to Effective Homopolymers: A Conformational Analysis of Intrinsically Disordered Proteins**|Yannick Witzky et.al.|[2504.11027v1](http://arxiv.org/abs/2504.11027v1)|null|
+|**2025-04-15**|**Optimal inference for the mean of random functions**|Omar Kassi et.al.|[2504.11025v1](http://arxiv.org/abs/2504.11025v1)|null|
+|**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024v1](http://arxiv.org/abs/2504.11024v1)|null|
+|**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003v1](http://arxiv.org/abs/2504.11003v1)|null|
+|**2025-04-15**|**A Pseudorandom Generator for Functions of Low-Degree Polynomial Threshold Functions**|Penghui Yao et.al.|[2504.10904v1](http://arxiv.org/abs/2504.10904v1)|null|
+|**2025-04-15**|**Fisher information approximation of random orthogonal matrices by Gaussian matrices**|Yutong Chen et.al.|[2504.10887v1](http://arxiv.org/abs/2504.10887v1)|null|
+|**2025-04-15**|**DAAF:Degradation-Aware Adaptive Fusion Framework for Robust Infrared and Visible Images Fusion**|Tianpei Zhang et.al.|[2504.10871v1](http://arxiv.org/abs/2504.10871v1)|null|
+|**2025-04-15**|**Algorithmic Advances Towards a Realizable Quantum Lattice Boltzmann Method**|Apurva Tiwari et.al.|[2504.10870v1](http://arxiv.org/abs/2504.10870v1)|null|
+|**2025-04-15**|**Gaussian Approximation for High-Dimensional $U$-statistics with Size-Dependent Kernels**|Shunsuke Imai et.al.|[2504.10866v1](http://arxiv.org/abs/2504.10866v1)|null|
+|**2025-04-15**|**GaSLight: Gaussian Splats for Spatially-Varying Lighting in HDR**|Christophe Bolduc et.al.|[2504.10809v1](http://arxiv.org/abs/2504.10809v1)|null|
+|**2025-04-15**|**Collaborative Bayesian Optimization via Wasserstein Barycenters**|Donglin Zhan et.al.|[2504.10770v1](http://arxiv.org/abs/2504.10770v1)|null|
+|**2025-04-14**|**Light rings, timelike circular orbits and curvature of traversable wormholes**|Boris Bermúdez-Cárdenas et.al.|[2504.10732v1](http://arxiv.org/abs/2504.10732v1)|null|
+|**2025-04-14**|**On the Contractivity of Stochastic Interpolation Flow**|Max Daniels et.al.|[2504.10653v1](http://arxiv.org/abs/2504.10653v1)|null|
+|**2025-04-14**|**Bayesian analysis of regression discontinuity designs with heterogeneous treatment effects**|Kevin Tao et.al.|[2504.10652v1](http://arxiv.org/abs/2504.10652v1)|null|
+|**2025-04-14**|**Secure Estimation of Battery Voltage Under Sensor Attacks: A Self-Learning Koopman Approach**|Sanchita Ghosh et.al.|[2504.10639v1](http://arxiv.org/abs/2504.10639v1)|null|
+|**2025-04-14**|**Exact simulation of realistic Gottesman-Kitaev-Preskill cluster states**|Milica Banic et.al.|[2504.10606v1](http://arxiv.org/abs/2504.10606v1)|null|
+|**2025-04-14**|**Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks**|Omar Montasser et.al.|[2504.10598v1](http://arxiv.org/abs/2504.10598v1)|null|
+|**2025-04-14**|**Mitigating Eddington and Malmquist Biases in Latent-Inclination Regression of the Tully-Fisher Relation**|Hai Fu et.al.|[2504.10589v1](http://arxiv.org/abs/2504.10589v1)|null|
+|**2025-04-14**|**Probing Primordial Power Spectrum and Non-Gaussianities With Fast Radio Bursts**|Zhiyao Lu et.al.|[2504.10570v1](http://arxiv.org/abs/2504.10570v1)|null|
 |**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486v1](http://arxiv.org/abs/2504.10486v1)|null|
-|**2025-04-14**|**The stellar decomposition of Gaussian quantum states**|Arsalan Motamedi et.al.|[2504.10455v1](http://arxiv.org/abs/2504.10455v1)|null|
-|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
-|**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|null|
-|**2025-04-14**|**Enhancing DESI DR1 Full-Shape analyses using HOD-informed priors**|Hanyu Zhang et.al.|[2504.10407v1](http://arxiv.org/abs/2504.10407v1)|null|
-|**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375v1](http://arxiv.org/abs/2504.10375v1)|null|
-|**2025-04-14**|**Simple physical systems as a reference for multivariate information dynamics**|Alberto Liardi et.al.|[2504.10372v1](http://arxiv.org/abs/2504.10372v1)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|null|
-|**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316v1](http://arxiv.org/abs/2504.10316v1)|null|
-|**2025-04-14**|**Searching for quasi-periodicities in short transients: the curious case of GRB 230307A**|Daniela Huppenkothen et.al.|[2504.10153v1](http://arxiv.org/abs/2504.10153v1)|null|
-|**2025-04-14**|**Uncertainty Propagation in the Fast Fourier Transform**|Luca Schmid et.al.|[2504.10136v1](http://arxiv.org/abs/2504.10136v1)|null|
-|**2025-04-14**|**Bayesian optimal experimental design with Wasserstein information criteria**|Tapio Helin et.al.|[2504.10092v1](http://arxiv.org/abs/2504.10092v1)|null|
-|**2025-04-14**|**Towards Scalable Bayesian Optimization via Gradient-Informed Bayesian Neural Networks**|Georgios Makrygiorgos et.al.|[2504.10076v1](http://arxiv.org/abs/2504.10076v1)|null|
-|**2025-04-14**|**Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models**|Hao Ren et.al.|[2504.10041v1](http://arxiv.org/abs/2504.10041v1)|null|
-|**2025-04-14**|**EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting**|Yufei Deng et.al.|[2504.10012v1](http://arxiv.org/abs/2504.10012v1)|null|
-|**2025-04-14**|**Improving Controller Generalization with Dimensionless Markov Decision Processes**|Valentin Charvet et.al.|[2504.10006v1](http://arxiv.org/abs/2504.10006v1)|null|
-|**2025-04-14**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001v2](http://arxiv.org/abs/2504.10001v2)|null|
-|**2025-04-14**|**A Theory of Universal Rate-Distortion-Classification Representations for Lossy Compression**|Nam Nguyen et.al.|[2504.09932v1](http://arxiv.org/abs/2504.09932v1)|null|
-|**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Haiyong Yu et.al.|[2504.09927v1](http://arxiv.org/abs/2504.09927v1)|null|
-|**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878v1](http://arxiv.org/abs/2504.09878v1)|null|
-|**2025-04-14**|**Particle Hamiltonian Monte Carlo**|Alaa Amri et.al.|[2504.09875v1](http://arxiv.org/abs/2504.09875v1)|null|
-|**2025-04-14**|**BLAST: Bayesian online change-point detection with structured image data**|Xiaojun Zheng et.al.|[2504.09783v1](http://arxiv.org/abs/2504.09783v1)|null|
-|**2025-04-14**|**RoboCup Rescue 2025 Team Description Paper UruBots**|Kevin Farias et.al.|[2504.09778v1](http://arxiv.org/abs/2504.09778v1)|null|
-|**2025-04-13**|**Learning-based decentralized control with collision avoidance for multi-agent systems**|Omayra Yago Nieto et.al.|[2504.09730v1](http://arxiv.org/abs/2504.09730v1)|null|
-|**2025-04-13**|**Simultaneous Input and State Estimation under Output Quantization: A Gaussian Mixture approach**|Rodrigo A. González et.al.|[2504.09711v1](http://arxiv.org/abs/2504.09711v1)|null|
-|**2025-04-13**|**LightHeadEd: Relightable & Editable Head Avatars from a Smartphone**|Pranav Manu et.al.|[2504.09671v1](http://arxiv.org/abs/2504.09671v1)|null|
-|**2025-04-13**|**RANSAC Revisited: An Improved Algorithm for Robust Subspace Recovery under Adversarial and Noisy Corruptions**|Guixian Chen et.al.|[2504.09648v1](http://arxiv.org/abs/2504.09648v1)|null|
-|**2025-04-13**|**Outage Probability Analysis for OTFS with Finite Blocklength**|Xin Zhang et.al.|[2504.09628v1](http://arxiv.org/abs/2504.09628v1)|null|
-|**2025-04-13**|**TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting**|Zhicong Wu et.al.|[2504.09588v1](http://arxiv.org/abs/2504.09588v1)|null|
-|**2025-04-13**|**EmbodiedOcc++: Boosting Embodied 3D Occupancy Prediction with Plane Regularization and Uncertainty Sampler**|Hao Wang et.al.|[2504.09540v1](http://arxiv.org/abs/2504.09540v1)|null|
