@@ -18,7 +18,7 @@
 |**2025-04-14**|**Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models**|Hao Ren et.al.|[2504.10041v1](http://arxiv.org/abs/2504.10041v1)|null|
 |**2025-04-14**|**EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting**|Yufei Deng et.al.|[2504.10012v1](http://arxiv.org/abs/2504.10012v1)|null|
 |**2025-04-14**|**Improving Controller Generalization with Dimensionless Markov Decision Processes**|Valentin Charvet et.al.|[2504.10006v1](http://arxiv.org/abs/2504.10006v1)|null|
-|**2025-04-14**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001v1](http://arxiv.org/abs/2504.10001v1)|null|
+|**2025-04-14**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001v2](http://arxiv.org/abs/2504.10001v2)|null|
 |**2025-04-14**|**A Theory of Universal Rate-Distortion-Classification Representations for Lossy Compression**|Nam Nguyen et.al.|[2504.09932v1](http://arxiv.org/abs/2504.09932v1)|null|
 |**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Haiyong Yu et.al.|[2504.09927v1](http://arxiv.org/abs/2504.09927v1)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878v1](http://arxiv.org/abs/2504.09878v1)|null|
