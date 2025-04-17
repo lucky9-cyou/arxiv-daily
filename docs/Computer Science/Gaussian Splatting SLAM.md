@@ -6,7 +6,7 @@
 |**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|null|
 |**2025-04-15**|**Mildly-Interacting Fermionic Unitaries are Efficiently Learnable**|Vishnu Iyer et.al.|[2504.11318v1](http://arxiv.org/abs/2504.11318v1)|null|
 |**2025-04-15**|**Minimax asymptotics**|Mika Meitz et.al.|[2504.11269v1](http://arxiv.org/abs/2504.11269v1)|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|null|
 |**2025-04-15**|**Is model selection possible for the $\ell_p$-loss? PCO estimation for regression models**|Claire Lacour et.al.|[2504.11217v1](http://arxiv.org/abs/2504.11217v1)|null|
 |**2025-04-15**|**Semi-asymptotic bounds for moderate deviations of suprema of Gaussian polynomials**|Michel Weber et.al.|[2504.11198v1](http://arxiv.org/abs/2504.11198v1)|null|
 |**2025-04-15**|**Standard bubbles (and other Möbius-flat partitions) on model spaces are stable**|Emanuel Milman et.al.|[2504.11185v1](http://arxiv.org/abs/2504.11185v1)|null|

@@ -15,10 +15,10 @@
 |**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jingkun Chen et.al.|[2504.11368v1](http://arxiv.org/abs/2504.11368v1)|null|
 |**2025-04-15**|**Smartphone-Based Undergraduate Physics Labs: A Comprehensive Review of Innovation, Accessibility, and Pedagogical Impact**|Yiping Zhao et.al.|[2504.11363v1](http://arxiv.org/abs/2504.11363v1)|null|
 |**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|null|
-|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v2](http://arxiv.org/abs/2504.11347v2)|null|
 |**2025-04-15**|**Code Reborn AI-Driven Legacy Systems Modernization from COBOL to Java**|Gopichand Bandarupalli et.al.|[2504.11335v1](http://arxiv.org/abs/2504.11335v1)|null|
 |**2025-04-15**|**The Cambridge Report on Database Research**|Anastasia Ailamaki et.al.|[2504.11259v1](http://arxiv.org/abs/2504.11259v1)|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|null|
 |**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200v1](http://arxiv.org/abs/2504.11200v1)|null|
 |**2025-04-15**|**Benchmarking Next-Generation Reasoning-Focused Large Language Models in Ophthalmology: A Head-to-Head Evaluation on 5,888 Items**|Minjie Zou et.al.|[2504.11186v1](http://arxiv.org/abs/2504.11186v1)|null|
 |**2025-04-15**|**C-SHAP for time series: An approach to high-level temporal explanations**|Annemarie Jutte et.al.|[2504.11159v1](http://arxiv.org/abs/2504.11159v1)|null|
