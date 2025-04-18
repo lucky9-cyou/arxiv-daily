@@ -28,7 +28,7 @@
 |**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754v1](http://arxiv.org/abs/2504.11754v1)|null|
 |**2025-04-16**|**Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures**|Prabhu Vellaisamy et.al.|[2504.11750v1](http://arxiv.org/abs/2504.11750v1)|null|
 |**2025-04-16**|**EgoExo-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos**|Jilan Xu et.al.|[2504.11732v1](http://arxiv.org/abs/2504.11732v1)|null|
-|**2025-04-16**|**Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports**|Donggeon David Oh et.al.|[2504.11717v1](http://arxiv.org/abs/2504.11717v1)|null|
+|**2025-04-16**|**Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports**|Donggeon David Oh et.al.|[2504.11717v2](http://arxiv.org/abs/2504.11717v2)|null|
 |**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703v1](http://arxiv.org/abs/2504.11703v1)|null|
 |**2025-04-16**|**A New Paradigm of User-Centric Wireless Communication Driven by Large Language Models**|Kuiyuan Ding et.al.|[2504.11696v1](http://arxiv.org/abs/2504.11696v1)|null|
 |**2025-04-16**|**Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics**|Yiran He et.al.|[2504.11686v1](http://arxiv.org/abs/2504.11686v1)|null|
