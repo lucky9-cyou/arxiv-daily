@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256v1](http://arxiv.org/abs/2504.12256v1)|null|
-|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249v1](http://arxiv.org/abs/2504.12249v1)|null|
-|**2025-04-16**|**Creating benchmarkable components to measure the quality ofAI-enhanced developer tools**|Elise Paradis et.al.|[2504.12211v1](http://arxiv.org/abs/2504.12211v1)|null|
-|**2025-04-16**|**Communication Optimization for Decentralized Learning atop Bandwidth-limited Edge Networks**|Tingyang Sun et.al.|[2504.12210v1](http://arxiv.org/abs/2504.12210v1)|null|
-|**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197v1](http://arxiv.org/abs/2504.12197v1)|null|
-|**2025-04-16**|**AI Behind Closed Doors: a Primer on The Governance of Internal Deployment**|Charlotte Stix et.al.|[2504.12170v1](http://arxiv.org/abs/2504.12170v1)|null|
-|**2025-04-16**|**ARCeR: an Agentic RAG for the Automated Definition of Cyber Ranges**|Matteo Lupinacci et.al.|[2504.12143v1](http://arxiv.org/abs/2504.12143v1)|null|
-|**2025-04-16**|**EmoACT: a Framework to Embed Emotions into Artificial Agents Based on Affect Control Theory**|Francesca Corrao et.al.|[2504.12125v1](http://arxiv.org/abs/2504.12125v1)|null|
-|**2025-04-16**|**Towards LLM Agents for Earth Observation**|Chia Hsiang Kao et.al.|[2504.12110v1](http://arxiv.org/abs/2504.12110v1)|null|
-|**2025-04-16**|**Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**|Jack Preuveneers et.al.|[2504.12090v1](http://arxiv.org/abs/2504.12090v1)|null|
-|**2025-04-16**|**Evolutionary Reinforcement Learning for Interpretable Decision-Making in Supply Chain Management**|Stefano Genetti et.al.|[2504.12023v1](http://arxiv.org/abs/2504.12023v1)|null|
-|**2025-04-16**|**Active Human Feedback Collection via Neural Contextual Dueling Bandits**|Arun Verma et.al.|[2504.12016v1](http://arxiv.org/abs/2504.12016v1)|null|
-|**2025-04-16**|**Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models**|Kris Pilcher et.al.|[2504.12012v1](http://arxiv.org/abs/2504.12012v1)|null|
-|**2025-04-16**|**The Evolution of Zero Trust Architecture (ZTA) from Concept to Implementation**|Md Nasiruzzaman et.al.|[2504.11984v1](http://arxiv.org/abs/2504.11984v1)|null|
-|**2025-04-16**|**Who Said Only Military Officers Can Deal with Uncertainty? On the Importance of Uncertainty in EdTech Data Visualisations**|Felicitas Macgilchrist et.al.|[2504.11974v1](http://arxiv.org/abs/2504.11974v1)|null|
-|**2025-04-16**|**Robust and Fine-Grained Detection of AI Generated Texts**|Ram Mohan Rao Kadiyala et.al.|[2504.11952v1](http://arxiv.org/abs/2504.11952v1)|null|
-|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922v1](http://arxiv.org/abs/2504.11922v1)|null|
-|**2025-04-16**|**Rethinking the Generation of High-Quality CoT Data from the Perspective of LLM-Adaptive Question Difficulty Grading**|Qianjin Yu et.al.|[2504.11919v1](http://arxiv.org/abs/2504.11919v1)|null|
-|**2025-04-16**|**A Bidirectional DeepParticle Method for Efficiently Solving Low-dimensional Transport Map Problems**|Tan Zhang et.al.|[2504.11851v1](http://arxiv.org/abs/2504.11851v1)|null|
-|**2025-04-16**|**Schemex: Interactive Structural Abstraction from Examples with Contrastive Refinement**|Sitong Wang et.al.|[2504.11795v1](http://arxiv.org/abs/2504.11795v1)|null|
-|**2025-04-16**|**Large Language Models for Drug Overdose Prediction from Longitudinal Medical Records**|Md Sultan Al Nahian et.al.|[2504.11792v1](http://arxiv.org/abs/2504.11792v1)|null|
-|**2025-04-16**|**Agile Retrospectives: What went well? What didn't go well? What should we do?**|Maria Spichkova et.al.|[2504.11780v1](http://arxiv.org/abs/2504.11780v1)|null|
-|**2025-04-16**|**Discrimination-free Insurance Pricing with Privatized Sensitive Attributes**|Tianhe Zhang et.al.|[2504.11775v1](http://arxiv.org/abs/2504.11775v1)|null|
-|**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754v1](http://arxiv.org/abs/2504.11754v1)|null|
-|**2025-04-16**|**Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures**|Prabhu Vellaisamy et.al.|[2504.11750v1](http://arxiv.org/abs/2504.11750v1)|null|
-|**2025-04-16**|**EgoExo-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos**|Jilan Xu et.al.|[2504.11732v1](http://arxiv.org/abs/2504.11732v1)|null|
-|**2025-04-16**|**Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports**|Donggeon David Oh et.al.|[2504.11717v2](http://arxiv.org/abs/2504.11717v2)|null|
-|**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703v1](http://arxiv.org/abs/2504.11703v1)|null|
-|**2025-04-16**|**A New Paradigm of User-Centric Wireless Communication Driven by Large Language Models**|Kuiyuan Ding et.al.|[2504.11696v1](http://arxiv.org/abs/2504.11696v1)|null|
-|**2025-04-16**|**Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics**|Yiran He et.al.|[2504.11686v1](http://arxiv.org/abs/2504.11686v1)|null|
+|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
+|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|null|
+|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|null|
+|**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101v1](http://arxiv.org/abs/2504.13101v1)|null|
+|**2025-04-17**|**EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**|Yang Yue et.al.|[2504.13065v1](http://arxiv.org/abs/2504.13065v1)|[link](https://github.com/LeapLabTHU/EchoWorld)|
+|**2025-04-17**|**How Large Language Models Are Changing MOOC Essay Answers: A Comparison of Pre- and Post-LLM Responses**|Leo Leppänen et.al.|[2504.13038v1](http://arxiv.org/abs/2504.13038v1)|null|
+|**2025-04-17**|**ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images**|Sangwook Kim et.al.|[2504.13023v1](http://arxiv.org/abs/2504.13023v1)|null|
+|**2025-04-17**|**Reconstruction and Performance Evaluation of FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2504.13008v1](http://arxiv.org/abs/2504.13008v1)|null|
+|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996v1](http://arxiv.org/abs/2504.12996v1)|null|
+|**2025-04-17**|**A Virtual Machine for Arbitrary Low-Precision GPGPU Computation in LLM Serving**|Yaoyao Ding et.al.|[2504.12984v1](http://arxiv.org/abs/2504.12984v1)|null|
+|**2025-04-17**|**Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots**|Xi Zheng et.al.|[2504.12943v1](http://arxiv.org/abs/2504.12943v1)|null|
+|**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931v1](http://arxiv.org/abs/2504.12931v1)|null|
+|**2025-04-17**|**In Which Areas of Technical AI Safety Could Geopolitical Rivals Cooperate?**|Ben Bucknall et.al.|[2504.12914v1](http://arxiv.org/abs/2504.12914v1)|null|
+|**2025-04-17**|**FashionDPO:Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization**|Mingzhe Yu et.al.|[2504.12900v1](http://arxiv.org/abs/2504.12900v1)|null|
+|**2025-04-17**|**Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication**|Vicent Briva-Iglesias et.al.|[2504.12891v1](http://arxiv.org/abs/2504.12891v1)|null|
+|**2025-04-17**|**Questions: A Taxonomy for Critical Reflection in Machine-Supported Decision-Making**|Simon W. S. Fischer et.al.|[2504.12830v1](http://arxiv.org/abs/2504.12830v1)|null|
+|**2025-04-17**|**TwoSquared: 4D Generation from 2D Image Pairs**|Lu Sang et.al.|[2504.12825v1](http://arxiv.org/abs/2504.12825v1)|null|
+|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|null|
+|**2025-04-17**|**Assesing LLMs in Art Contexts: Critique Generation and Theory of Mind Evaluation**|Takaya Arita et.al.|[2504.12805v1](http://arxiv.org/abs/2504.12805v1)|null|
+|**2025-04-17**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757v1](http://arxiv.org/abs/2504.12757v1)|null|
+|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735v1](http://arxiv.org/abs/2504.12735v1)|null|
+|**2025-04-17**|**TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology**|Walid Rehamnia et.al.|[2504.12718v1](http://arxiv.org/abs/2504.12718v1)|null|
+|**2025-04-17**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714v1](http://arxiv.org/abs/2504.12714v1)|null|
+|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|null|
+|**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Baining Zhao et.al.|[2504.12680v1](http://arxiv.org/abs/2504.12680v1)|null|
+|**2025-04-17**|**Post-processing improves accuracy of Artificial Intelligence weather forecasts**|Belinda Trotta et.al.|[2504.12672v1](http://arxiv.org/abs/2504.12672v1)|null|
+|**2025-04-17**|**Persona-judge: Personalized Alignment of Large Language Models via Token-level Self-judgment**|Xiaotian Zhang et.al.|[2504.12663v1](http://arxiv.org/abs/2504.12663v1)|null|
+|**2025-04-17**|**The Paradox of Professional Input: How Expert Collaboration with AI Systems Shapes Their Future Value**|Venkat Ram Reddy Ganuthula et.al.|[2504.12654v1](http://arxiv.org/abs/2504.12654v1)|null|
+|**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Rongtao Xu et.al.|[2504.12636v1](http://arxiv.org/abs/2504.12636v1)|null|
+|**2025-04-17**|**The Chronicles of Foundation AI for Forensics of Multi-Agent Provenance**|Ching-Chun Chang et.al.|[2504.12612v1](http://arxiv.org/abs/2504.12612v1)|null|
