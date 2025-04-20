@@ -5,7 +5,7 @@
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
 |**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v1](http://arxiv.org/abs/2504.13167v1)|null|
 |**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|null|
+|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|[link](https://github.com/atrovast/thgs)|
 |**2025-04-17**|**Bayesian model-data comparison incorporating theoretical uncertainties**|Sunil Jaiswal et.al.|[2504.13144v1](http://arxiv.org/abs/2504.13144v1)|null|
 |**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111v1](http://arxiv.org/abs/2504.13111v1)|null|
 |**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022v1](http://arxiv.org/abs/2504.13022v1)|null|
@@ -27,7 +27,7 @@
 |**2025-04-16**|**Robust and Scalable Variational Bayes**|Carlos Misael Madrid Padilla et.al.|[2504.12528v1](http://arxiv.org/abs/2504.12528v1)|null|
 |**2025-04-16**|**On Extremal Eigenvalues of Random Matrices with Gaussian Entries**|Simona Diaconu et.al.|[2504.12478v1](http://arxiv.org/abs/2504.12478v1)|null|
 |**2025-04-16**|**The effect of intrinsic alignments on weak lensing statistics in hydrodynamical simulations**|Max E. Lee et.al.|[2504.12460v1](http://arxiv.org/abs/2504.12460v1)|null|
-|**2025-04-16**|**gwharmone: first data-driven surrogate for eccentric harmonics in binary black hole merger waveforms**|Tousif Islam et.al.|[2504.12420v1](http://arxiv.org/abs/2504.12420v1)|null|
+|**2025-04-16**|**gwharmone: first data-driven surrogate for eccentric harmonics in binary black hole merger waveforms**|Tousif Islam et.al.|[2504.12420v1](http://arxiv.org/abs/2504.12420v1)|[link](https://github.com/tousifislam/gwModels)|
 |**2025-04-16**|**Ryu-Takayanagi Formula for Multi-Boundary Black Holes from 2D Large-\textbf{$c$} CFT Ensemble**|Ning Bao et.al.|[2504.12388v1](http://arxiv.org/abs/2504.12388v1)|null|
 |**2025-04-16**|**Factorization for Collider Dataspace Correlators**|Andrew J. Larkoski et.al.|[2504.12380v1](http://arxiv.org/abs/2504.12380v1)|null|
 |**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|null|

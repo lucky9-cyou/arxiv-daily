@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
-|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|null|
+|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|[link](https://github.com/letta-ai/sleep-time-compute)|
 |**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|null|
 |**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101v1](http://arxiv.org/abs/2504.13101v1)|null|
 |**2025-04-17**|**EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**|Yang Yue et.al.|[2504.13065v1](http://arxiv.org/abs/2504.13065v1)|[link](https://github.com/LeapLabTHU/EchoWorld)|
@@ -15,7 +15,7 @@
 |**2025-04-17**|**Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots**|Xi Zheng et.al.|[2504.12943v1](http://arxiv.org/abs/2504.12943v1)|null|
 |**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931v1](http://arxiv.org/abs/2504.12931v1)|null|
 |**2025-04-17**|**In Which Areas of Technical AI Safety Could Geopolitical Rivals Cooperate?**|Ben Bucknall et.al.|[2504.12914v1](http://arxiv.org/abs/2504.12914v1)|null|
-|**2025-04-17**|**FashionDPO:Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization**|Mingzhe Yu et.al.|[2504.12900v1](http://arxiv.org/abs/2504.12900v1)|null|
+|**2025-04-17**|**FashionDPO:Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization**|Mingzhe Yu et.al.|[2504.12900v1](http://arxiv.org/abs/2504.12900v1)|[link](https://github.com/yzcreator/fashiondpo)|
 |**2025-04-17**|**Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication**|Vicent Briva-Iglesias et.al.|[2504.12891v1](http://arxiv.org/abs/2504.12891v1)|null|
 |**2025-04-17**|**Questions: A Taxonomy for Critical Reflection in Machine-Supported Decision-Making**|Simon W. S. Fischer et.al.|[2504.12830v1](http://arxiv.org/abs/2504.12830v1)|null|
 |**2025-04-17**|**TwoSquared: 4D Generation from 2D Image Pairs**|Lu Sang et.al.|[2504.12825v1](http://arxiv.org/abs/2504.12825v1)|null|
