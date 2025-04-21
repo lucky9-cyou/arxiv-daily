@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
-|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171v1](http://arxiv.org/abs/2504.13171v1)|[link](https://github.com/letta-ai/sleep-time-compute)|
-|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|null|
-|**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101v1](http://arxiv.org/abs/2504.13101v1)|null|
-|**2025-04-17**|**EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**|Yang Yue et.al.|[2504.13065v1](http://arxiv.org/abs/2504.13065v1)|[link](https://github.com/LeapLabTHU/EchoWorld)|
-|**2025-04-17**|**How Large Language Models Are Changing MOOC Essay Answers: A Comparison of Pre- and Post-LLM Responses**|Leo Leppänen et.al.|[2504.13038v1](http://arxiv.org/abs/2504.13038v1)|null|
-|**2025-04-17**|**ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images**|Sangwook Kim et.al.|[2504.13023v1](http://arxiv.org/abs/2504.13023v1)|null|
-|**2025-04-17**|**Reconstruction and Performance Evaluation of FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2504.13008v1](http://arxiv.org/abs/2504.13008v1)|null|
-|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996v1](http://arxiv.org/abs/2504.12996v1)|null|
-|**2025-04-17**|**A Virtual Machine for Arbitrary Low-Precision GPGPU Computation in LLM Serving**|Yaoyao Ding et.al.|[2504.12984v1](http://arxiv.org/abs/2504.12984v1)|null|
-|**2025-04-17**|**Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots**|Xi Zheng et.al.|[2504.12943v2](http://arxiv.org/abs/2504.12943v2)|null|
-|**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931v1](http://arxiv.org/abs/2504.12931v1)|null|
-|**2025-04-17**|**In Which Areas of Technical AI Safety Could Geopolitical Rivals Cooperate?**|Ben Bucknall et.al.|[2504.12914v1](http://arxiv.org/abs/2504.12914v1)|null|
-|**2025-04-17**|**FashionDPO:Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization**|Mingzhe Yu et.al.|[2504.12900v1](http://arxiv.org/abs/2504.12900v1)|[link](https://github.com/yzcreator/fashiondpo)|
-|**2025-04-17**|**Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication**|Vicent Briva-Iglesias et.al.|[2504.12891v1](http://arxiv.org/abs/2504.12891v1)|null|
-|**2025-04-17**|**Questions: A Taxonomy for Critical Reflection in Machine-Supported Decision-Making**|Simon W. S. Fischer et.al.|[2504.12830v1](http://arxiv.org/abs/2504.12830v1)|null|
-|**2025-04-17**|**TwoSquared: 4D Generation from 2D Image Pairs**|Lu Sang et.al.|[2504.12825v1](http://arxiv.org/abs/2504.12825v1)|null|
-|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|null|
-|**2025-04-17**|**Assesing LLMs in Art Contexts: Critique Generation and Theory of Mind Evaluation**|Takaya Arita et.al.|[2504.12805v1](http://arxiv.org/abs/2504.12805v1)|null|
-|**2025-04-17**|**MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System**|Sonu Kumar et.al.|[2504.12757v1](http://arxiv.org/abs/2504.12757v1)|null|
-|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735v2](http://arxiv.org/abs/2504.12735v2)|null|
-|**2025-04-17**|**TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology**|Walid Rehamnia et.al.|[2504.12718v1](http://arxiv.org/abs/2504.12718v1)|null|
-|**2025-04-17**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714v1](http://arxiv.org/abs/2504.12714v1)|null|
-|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|null|
-|**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Baining Zhao et.al.|[2504.12680v1](http://arxiv.org/abs/2504.12680v1)|null|
-|**2025-04-17**|**Post-processing improves accuracy of Artificial Intelligence weather forecasts**|Belinda Trotta et.al.|[2504.12672v1](http://arxiv.org/abs/2504.12672v1)|null|
-|**2025-04-17**|**Persona-judge: Personalized Alignment of Large Language Models via Token-level Self-judgment**|Xiaotian Zhang et.al.|[2504.12663v1](http://arxiv.org/abs/2504.12663v1)|null|
-|**2025-04-17**|**The Paradox of Professional Input: How Expert Collaboration with AI Systems Shapes Their Future Value**|Venkat Ram Reddy Ganuthula et.al.|[2504.12654v1](http://arxiv.org/abs/2504.12654v1)|null|
-|**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Rongtao Xu et.al.|[2504.12636v1](http://arxiv.org/abs/2504.12636v1)|null|
-|**2025-04-17**|**The Chronicles of Foundation AI for Forensics of Multi-Agent Provenance**|Ching-Chun Chang et.al.|[2504.12612v1](http://arxiv.org/abs/2504.12612v1)|null|
+|**2025-04-18**|**Audit Cards: Contextualizing AI Evaluations**|Leon Staufer et.al.|[2504.13839v1](http://arxiv.org/abs/2504.13839v1)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v1](http://arxiv.org/abs/2504.13828v1)|null|
+|**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822v1](http://arxiv.org/abs/2504.13822v1)|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803v1](http://arxiv.org/abs/2504.13803v1)|null|
+|**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793v1](http://arxiv.org/abs/2504.13793v1)|null|
+|**2025-04-18**|**Four Bottomless Errors and the Collapse of Statistical Fairness**|James Brusseau et.al.|[2504.13790v1](http://arxiv.org/abs/2504.13790v1)|null|
+|**2025-04-18**|**Beyond Misinformation: A Conceptual Framework for Studying AI Hallucinations in (Science) Communication**|Anqi Shao et.al.|[2504.13777v1](http://arxiv.org/abs/2504.13777v1)|null|
+|**2025-04-18**|**Search for $J/ψ\rightarrow K^{0}_{S}K^{0}_{S}$ and $ψ(3686)\rightarrow K^{0}_{S}K^{0}_{S}$**|BESIII Collaboration et.al.|[2504.13771v1](http://arxiv.org/abs/2504.13771v1)|null|
+|**2025-04-18**|**Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**|Motunrayo Ibiyo et.al.|[2504.13769v1](http://arxiv.org/abs/2504.13769v1)|null|
+|**2025-04-18**|**Modeling L1 Influence on L2 Pronunciation: An MFCC-Based Framework for Explainable Machine Learning and Pedagogical Feedback**|Peyman Jahanbin et.al.|[2504.13765v1](http://arxiv.org/abs/2504.13765v1)|null|
+|**2025-04-18**|**A Survey for What Developers Require in AI-powered Tools that Aid in Component Selection in CBSD**|Mahdi Jaberzadeh Ansari et.al.|[2504.13751v1](http://arxiv.org/abs/2504.13751v1)|null|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726v1](http://arxiv.org/abs/2504.13726v1)|null|
+|**2025-04-18**|**Bubble wall dynamics from nonequilibrium quantum field theory**|Wen-Yuan Ai et.al.|[2504.13725v1](http://arxiv.org/abs/2504.13725v1)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707v1](http://arxiv.org/abs/2504.13707v1)|null|
+|**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700v1](http://arxiv.org/abs/2504.13700v1)|null|
+|**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684v1](http://arxiv.org/abs/2504.13684v1)|null|
+|**2025-04-18**|**Divergent LLM Adoption and Heterogeneous Convergence Paths in Research Writing**|Cong William Lin et.al.|[2504.13629v1](http://arxiv.org/abs/2504.13629v1)|null|
+|**2025-04-18**|**Visual Intention Grounding for Egocentric Assistants**|Pengzhan Sun et.al.|[2504.13621v1](http://arxiv.org/abs/2504.13621v1)|null|
+|**2025-04-18**|**Continual Pre-Training is (not) What You Need in Domain Adaption**|Pin-Er Chen et.al.|[2504.13603v1](http://arxiv.org/abs/2504.13603v1)|null|
+|**2025-04-18**|**RAG Without the Lag: Interactive Debugging for Retrieval-Augmented Generation Pipelines**|Quentin Romero Lauro et.al.|[2504.13587v1](http://arxiv.org/abs/2504.13587v1)|null|
+|**2025-04-18**|**PoEmotion: Can AI Utilize Chinese Calligraphy to Express Emotion from Poems?**|Tiancheng Liu et.al.|[2504.13567v1](http://arxiv.org/abs/2504.13567v1)|null|
+|**2025-04-18**|**Integrating LLMs for Grading and Appeal Resolution in Computer Science Education**|I. Aytutuldu et.al.|[2504.13557v1](http://arxiv.org/abs/2504.13557v1)|null|
+|**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554v1](http://arxiv.org/abs/2504.13554v1)|null|
+|**2025-04-18**|**Search for $1^{-+}$ charmonium-like hybrid via $e^{+}e^{-}\rightarrow γη^{(\prime)} η_{c}$ at center-of-mass energies between 4.258 and 4.681 GeV**|BESIII Collaboration et.al.|[2504.13539v1](http://arxiv.org/abs/2504.13539v1)|null|
+|**2025-04-18**|**Exploring Culturally Informed AI Assistants: A Comparative Study of ChatBlackGPT and ChatGPT**|Lisa Egede et.al.|[2504.13486v1](http://arxiv.org/abs/2504.13486v1)|null|
+|**2025-04-18**|**Creating 'Full-Stack' Hybrid Reasoning Systems that Prioritize and Enhance Human Intelligence**|Sean Koon et.al.|[2504.13477v1](http://arxiv.org/abs/2504.13477v1)|null|
+|**2025-04-18**|**Variational Autoencoder Framework for Hyperspectral Retrievals (Hyper-VAE) of Phytoplankton Absorption and Chlorophyll a in Coastal Waters for NASA's EMIT and PACE Missions**|Jiadong Lou et.al.|[2504.13476v1](http://arxiv.org/abs/2504.13476v1)|null|
+|**2025-04-18**|**Ascribe New Dimensions to Scientific Data Visualization with VR**|Daniela Ushizima et.al.|[2504.13448v1](http://arxiv.org/abs/2504.13448v1)|null|
+|**2025-04-18**|**Trust, but verify**|Michael J. Yuan et.al.|[2504.13443v1](http://arxiv.org/abs/2504.13443v1)|null|
+|**2025-04-18**|**POET: Supporting Prompting Creativity and Personalization with Automated Expansion of Text-to-Image Generation**|Evans Xu Han et.al.|[2504.13392v1](http://arxiv.org/abs/2504.13392v1)|null|

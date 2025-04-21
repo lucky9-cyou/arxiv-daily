@@ -2,8 +2,10 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v1](http://arxiv.org/abs/2504.13713v1)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|null|
+|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207v1](http://arxiv.org/abs/2504.13207v1)|null|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|[link](https://github.com/jixingwu/sol-slam)|
 |**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v2](http://arxiv.org/abs/2504.11634v2)|[link](https://github.com/wayne-dwa/doppler-slam)|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-06**|**Thermoxels: a voxel-based method to generate simulation-ready 3D thermal models**|Etienne Chassaing et.al.|[2504.04448v1](http://arxiv.org/abs/2504.04448v1)|null|
 |**2025-04-05**|**Nonlinear Observer Design for Landmark-Inertial Simultaneous Localization and Mapping**|Mouaad Boughellaba et.al.|[2504.04239v1](http://arxiv.org/abs/2504.04239v1)|null|
 |**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886v1](http://arxiv.org/abs/2504.03886v1)|null|
-|**2025-04-04**|**NeRFlex: Resource-aware Real-time High-quality Rendering of Complex Scenes on Mobile Devices**|Zhe Wang et.al.|[2504.03415v1](http://arxiv.org/abs/2504.03415v1)|null|
-|**2025-04-03**|**SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**|Prashant Kumar et.al.|[2504.03089v1](http://arxiv.org/abs/2504.03089v1)|null|
