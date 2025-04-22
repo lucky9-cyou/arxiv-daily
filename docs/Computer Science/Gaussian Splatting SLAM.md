@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-18**|**Synaptic Spine Head Morphodynamics from Graph Grammar Rules for Actin Dynamics**|Matthew Hur et.al.|[2504.13812v1](http://arxiv.org/abs/2504.13812v1)|null|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v1](http://arxiv.org/abs/2504.13713v1)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
-|**2025-04-18**|**Green Robotic Mixed Reality with Gaussian Splatting**|Chenxuan Liu et.al.|[2504.13697v1](http://arxiv.org/abs/2504.13697v1)|null|
-|**2025-04-18**|**Behaviors of Gauss curvatures and mean curvatures of Lightcone framed surfaces in the Lorentz-Minkowski 3-space**|Chang Xu et.al.|[2504.13628v1](http://arxiv.org/abs/2504.13628v1)|null|
-|**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612v1](http://arxiv.org/abs/2504.13612v1)|null|
-|**2025-04-18**|**Capacity-achieving sparse superposition codes with spatially coupled VAMP decoder**|Yuhao Liu et.al.|[2504.13601v1](http://arxiv.org/abs/2504.13601v1)|null|
-|**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540v1](http://arxiv.org/abs/2504.13540v1)|null|
-|**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520v1](http://arxiv.org/abs/2504.13520v1)|null|
-|**2025-04-18**|**Logical channels in approximate Gottesman-Kitaev-Preskill error correction**|Mahnaz Jafarzadeh et.al.|[2504.13383v1](http://arxiv.org/abs/2504.13383v1)|null|
-|**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339v1](http://arxiv.org/abs/2504.13339v1)|null|
-|**2025-04-17**|**On the minimax optimality of Flow Matching through the connection to kernel density estimation**|Lea Kunkel et.al.|[2504.13336v1](http://arxiv.org/abs/2504.13336v1)|null|
-|**2025-04-17**|**Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling**|Ludovico T. Giorgini et.al.|[2504.13333v1](http://arxiv.org/abs/2504.13333v1)|null|
-|**2025-04-17**|**Foundations of locally-balanced Markov processes**|Samuel Livingstone et.al.|[2504.13322v1](http://arxiv.org/abs/2504.13322v1)|null|
-|**2025-04-17**|**Gradient-Free Sequential Bayesian Experimental Design via Interacting Particle Systems**|Robert Gruhlke et.al.|[2504.13320v1](http://arxiv.org/abs/2504.13320v1)|null|
-|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|null|
-|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|[link](https://github.com/atrovast/thgs)|
-|**2025-04-17**|**Bayesian model-data comparison incorporating theoretical uncertainties**|Sunil Jaiswal et.al.|[2504.13144v1](http://arxiv.org/abs/2504.13144v1)|null|
-|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111v1](http://arxiv.org/abs/2504.13111v1)|null|
-|**2025-04-17**|**Bayesian Rao test for distributed target detection in interference and noise with limited training data**|Daipeng Xiao et.al.|[2504.13235v1](http://arxiv.org/abs/2504.13235v1)|null|
-|**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022v1](http://arxiv.org/abs/2504.13022v1)|null|
-|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|null|
-|**2025-04-17**|**The Quantum Primordial Black Holes, Dimensionless Small Parameter, Inflationary Cosmology and Non-Gaussianity**|Alexander Shalyt-Margolin et.al.|[2504.12968v1](http://arxiv.org/abs/2504.12968v1)|null|
-|**2025-04-17**|**Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**|Youyi Zhan et.al.|[2504.12909v1](http://arxiv.org/abs/2504.12909v1)|null|
-|**2025-04-17**|**Second-order Optimization of Gaussian Splats with Importance Sampling**|Hamza Pehlivan et.al.|[2504.12905v1](http://arxiv.org/abs/2504.12905v1)|null|
-|**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner et.al.|[2504.12811v1](http://arxiv.org/abs/2504.12811v1)|null|
-|**2025-04-17**|**Learning Time-Varying Quantum Lossy Channels**|Angela Rosy Morgillo et.al.|[2504.12810v1](http://arxiv.org/abs/2504.12810v1)|null|
-|**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800v1](http://arxiv.org/abs/2504.12800v1)|null|
-|**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799v1](http://arxiv.org/abs/2504.12799v1)|null|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
+|**2025-04-21**|**On Learning Parallel Pancakes with Mostly Uniform Weights**|Ilias Diakonikolas et.al.|[2504.15251v1](http://arxiv.org/abs/2504.15251v1)|null|
+|**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229v1](http://arxiv.org/abs/2504.15229v1)|null|
+|**2025-04-21**|**M$^2$AD: Multi-Sensor Multi-System Anomaly Detection through Global Scoring and Calibrated Thresholding**|Sarah Alnegheimish et.al.|[2504.15225v1](http://arxiv.org/abs/2504.15225v1)|[link](https://github.com/sarahmish/m2ad)|
+|**2025-04-21**|**Reconstructing the redshift evolution of Type Ia supernovae absolute magnitude**|Rodrigo von Marttens et.al.|[2504.15127v1](http://arxiv.org/abs/2504.15127v1)|null|
+|**2025-04-21**|**Squeezing Effect in the Gouy Phase of Matter Waves**|Thiago M. S. Oliveira et.al.|[2504.15123v1](http://arxiv.org/abs/2504.15123v1)|null|
+|**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122v1](http://arxiv.org/abs/2504.15122v1)|null|
+|**2025-04-21**|**The PHD/CPHD filter for Multiple Extended Target Tracking with Trajectory Set Theory and Explicit Shape Estimation**|Yuanhao Cheng et.al.|[2504.15040v1](http://arxiv.org/abs/2504.15040v1)|null|
+|**2025-04-21**|**Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models**|Zijin Yang et.al.|[2504.15026v1](http://arxiv.org/abs/2504.15026v1)|null|
+|**2025-04-21**|**Fickian Yet non-Gaussian Diffusion in Complex Molecular Fluids via a non-local diffusion framework**|H. Srinivasan et.al.|[2504.15020v1](http://arxiv.org/abs/2504.15020v1)|null|
+|**2025-04-21**|**3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations**|Yating Wang et.al.|[2504.14967v1](http://arxiv.org/abs/2504.14967v1)|null|
+|**2025-04-21**|**Kernel-learning parameter prediction and evaluation in algebraic multigrid method for several PDEs**|Juan Zhang et.al.|[2504.14930v1](http://arxiv.org/abs/2504.14930v1)|null|
+|**2025-04-21**|**Emulating multi-channel scattering based on the eigenvector continuation in the discrete basis formalism**|K. Hagino et.al.|[2504.14922v1](http://arxiv.org/abs/2504.14922v1)|null|
+|**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900v1](http://arxiv.org/abs/2504.14900v1)|null|
+|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897v1](http://arxiv.org/abs/2504.14897v1)|null|
+|**2025-04-21**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885v1](http://arxiv.org/abs/2504.14885v1)|null|
+|**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
+|**2025-04-21**|**Automated Duplicate Bug Report Detection in Large Open Bug Repositories**|Clare E. Laney et.al.|[2504.14797v1](http://arxiv.org/abs/2504.14797v1)|null|
+|**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795v1](http://arxiv.org/abs/2504.14795v1)|[link](https://github.com/pfnet-research/bayesian_spatialcorr)|
+|**2025-04-20**|**DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions**|Chin-Yun Yu et.al.|[2504.14735v1](http://arxiv.org/abs/2504.14735v1)|null|
+|**2025-04-20**|**Optimal Additive Noise Mechanisms for Differential Privacy**|Atefeh Gilani et.al.|[2504.14730v1](http://arxiv.org/abs/2504.14730v1)|null|
+|**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699v1](http://arxiv.org/abs/2504.14699v1)|null|
+|**2025-04-20**|**Analyzing the 21cm forest with Wavelet Scattering Transform: Insight into non-Gaussian features of the 21cm forest**|Hayato Shimabukuro et.al.|[2504.14656v1](http://arxiv.org/abs/2504.14656v1)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638v1](http://arxiv.org/abs/2504.14638v1)|null|
+|**2025-04-20**|**Generalized Derangetropy Functionals for Modeling Cyclical Information Flow**|Masoud Ataei et.al.|[2504.14605v1](http://arxiv.org/abs/2504.14605v1)|null|
+|**2025-04-20**|**RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots**|Zhang Zhang et.al.|[2504.14604v1](http://arxiv.org/abs/2504.14604v1)|null|
+|**2025-04-20**|**VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control**|Lifeng Lin et.al.|[2504.14548v1](http://arxiv.org/abs/2504.14548v1)|null|
+|**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516v1](http://arxiv.org/abs/2504.14516v1)|null|
+|**2025-04-20**|**Gaussian limit for Pfaffian point processes**|Kai Wang et.al.|[2504.14487v1](http://arxiv.org/abs/2504.14487v1)|null|
+|**2025-04-20**|**Conditional flow matching for generative modeling of near-wall turbulence with quantified uncertainty**|Meet Hemant Parikh et.al.|[2504.14485v1](http://arxiv.org/abs/2504.14485v1)|null|

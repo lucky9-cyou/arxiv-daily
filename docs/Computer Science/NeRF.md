@@ -2,7 +2,9 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v1](http://arxiv.org/abs/2504.13713v1)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
+|**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995v1](http://arxiv.org/abs/2504.13995v1)|null|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|null|
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207v1](http://arxiv.org/abs/2504.13207v1)|null|
@@ -11,7 +13,7 @@
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901v1](http://arxiv.org/abs/2504.08901v1)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|null|
-|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920v1](http://arxiv.org/abs/2504.06920v1)|null|
+|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Elías Masquil et.al.|[2504.06920v2](http://arxiv.org/abs/2504.06920v2)|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806v1](http://arxiv.org/abs/2504.05806v1)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803v1](http://arxiv.org/abs/2504.05803v1)|null|
@@ -30,5 +32,3 @@
 |**2025-04-01**|**Neural Pruning for 3D Scene Reconstruction: Efficient NeRF Acceleration**|Tianqi Ding et.al.|[2504.00950v2](http://arxiv.org/abs/2504.00950v2)|null|
 |**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859v2](http://arxiv.org/abs/2504.00859v2)|null|
 |**2025-03-31**|**NeRF-Based defect detection**|Tianqi et.al.|[2504.00270v1](http://arxiv.org/abs/2504.00270v1)|null|
-|**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219v1](http://arxiv.org/abs/2504.00219v1)|null|
-|**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374v1](http://arxiv.org/abs/2503.24374v1)|null|
