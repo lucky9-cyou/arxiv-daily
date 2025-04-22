@@ -9,7 +9,7 @@
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|[link](https://github.com/jixingwu/sol-slam)|
 |**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634v2](http://arxiv.org/abs/2504.11634v2)|[link](https://github.com/wayne-dwa/doppler-slam)|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|null|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v3](http://arxiv.org/abs/2504.10331v3)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878v1](http://arxiv.org/abs/2504.09878v1)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|
 |**2025-04-14**|**RoboCup Rescue 2025 Team Description Paper UruBots**|Kevin Farias et.al.|[2504.09778v1](http://arxiv.org/abs/2504.09778v1)|null|
