@@ -21,7 +21,7 @@
 |**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
 |**2025-04-21**|**Automated Duplicate Bug Report Detection in Large Open Bug Repositories**|Clare E. Laney et.al.|[2504.14797v1](http://arxiv.org/abs/2504.14797v1)|null|
 |**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795v1](http://arxiv.org/abs/2504.14795v1)|[link](https://github.com/pfnet-research/bayesian_spatialcorr)|
-|**2025-04-20**|**DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions**|Chin-Yun Yu et.al.|[2504.14735v1](http://arxiv.org/abs/2504.14735v1)|null|
+|**2025-04-20**|**DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions**|Chin-Yun Yu et.al.|[2504.14735v1](http://arxiv.org/abs/2504.14735v1)|[link](https://github.com/SonyResearch/diffvox)|
 |**2025-04-20**|**Optimal Additive Noise Mechanisms for Differential Privacy**|Atefeh Gilani et.al.|[2504.14730v1](http://arxiv.org/abs/2504.14730v1)|null|
 |**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699v1](http://arxiv.org/abs/2504.14699v1)|null|
 |**2025-04-20**|**Analyzing the 21cm forest with Wavelet Scattering Transform: Insight into non-Gaussian features of the 21cm forest**|Hayato Shimabukuro et.al.|[2504.14656v1](http://arxiv.org/abs/2504.14656v1)|null|
