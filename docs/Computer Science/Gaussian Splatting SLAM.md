@@ -17,7 +17,7 @@
 |**2025-04-21**|**Emulating multi-channel scattering based on the eigenvector continuation in the discrete basis formalism**|K. Hagino et.al.|[2504.14922v1](http://arxiv.org/abs/2504.14922v1)|null|
 |**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900v1](http://arxiv.org/abs/2504.14900v1)|null|
 |**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897v1](http://arxiv.org/abs/2504.14897v1)|null|
-|**2025-04-21**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885v1](http://arxiv.org/abs/2504.14885v1)|null|
+|**2025-04-21**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885v2](http://arxiv.org/abs/2504.14885v2)|null|
 |**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
 |**2025-04-21**|**Automated Duplicate Bug Report Detection in Large Open Bug Repositories**|Clare E. Laney et.al.|[2504.14797v1](http://arxiv.org/abs/2504.14797v1)|null|
 |**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795v1](http://arxiv.org/abs/2504.14795v1)|[link](https://github.com/pfnet-research/bayesian_spatialcorr)|

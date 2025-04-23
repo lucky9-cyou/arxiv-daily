@@ -7,7 +7,7 @@
 |**2025-04-21**|**A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing**|Nathan Steffen et.al.|[2504.15226v1](http://arxiv.org/abs/2504.15226v1)|null|
 |**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211v1](http://arxiv.org/abs/2504.15211v1)|null|
 |**2025-04-21**|**Breast density in MRI: an AI-based quantification and relationship to assessment in mammography**|Yaqian Chen et.al.|[2504.15192v1](http://arxiv.org/abs/2504.15192v1)|null|
-|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v1](http://arxiv.org/abs/2504.15189v1)|null|
+|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v2](http://arxiv.org/abs/2504.15189v2)|null|
 |**2025-04-21**|**Existing Industry Practice for the EU AI Act's General-Purpose AI Code of Practice Safety and Security Measures**|Lily Stelling et.al.|[2504.15181v1](http://arxiv.org/abs/2504.15181v1)|null|
 |**2025-04-21**|**Time-Series Analysis on Edge-AI Hardware for Healthcare Monitoring**|Jinhai Hu et.al.|[2504.15178v1](http://arxiv.org/abs/2504.15178v1)|null|
 |**2025-04-21**|**Investigating Youth's Technical and Ethical Understanding of Generative Language Models When Engaging in Construction and Deconstruction Activities**|Luis Morales-Navarro et.al.|[2504.15132v1](http://arxiv.org/abs/2504.15132v1)|null|
