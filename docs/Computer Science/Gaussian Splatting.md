@@ -2,6 +2,20 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-22**|**A Markov Chain Monte Carlo Method for Efficient Finite-Length LDPC Code Design**|Ata Tanrıkulu et.al.|[2504.16071v1](http://arxiv.org/abs/2504.16071v1)|null|
+|**2025-04-22**|**Full dynamics of two-membrane cavity optomechanics**|Wenlin Li et.al.|[2504.16006v1](http://arxiv.org/abs/2504.16006v1)|null|
+|**2025-04-22**|**Are there Spectral Features in the MIRI/LRS Transmission Spectrum of K2-18b?**|Jake Taylor et.al.|[2504.15916v1](http://arxiv.org/abs/2504.15916v1)|null|
+|**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888v1](http://arxiv.org/abs/2504.15888v1)|null|
+|**2025-04-22**|**Quantum Discrete Variable Representations**|Szymon Pliś et.al.|[2504.15841v1](http://arxiv.org/abs/2504.15841v1)|null|
+|**2025-04-22**|**Gaussian behaviors: representations and data-driven control**|András Sasfi et.al.|[2504.15838v1](http://arxiv.org/abs/2504.15838v1)|null|
+|**2025-04-22**|**Detecting genuine non-Gaussian entanglement**|Serge Deside et.al.|[2504.15831v1](http://arxiv.org/abs/2504.15831v1)|null|
+|**2025-04-22**|**Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering**|Alexis M. H. Teter et.al.|[2504.15753v1](http://arxiv.org/abs/2504.15753v1)|null|
+|**2025-04-22**|**Convergence to equilibrium distribution. Dirac fields coupled to a particle**|T. V. Dudnikova et.al.|[2504.15749v1](http://arxiv.org/abs/2504.15749v1)|null|
+|**2025-04-22**|**Riesz transform, function spaces and their applications on infinite dimensional compact groups**|Alexander Bendikov et.al.|[2504.15718v1](http://arxiv.org/abs/2504.15718v1)|null|
+|**2025-04-22**|**A characteristic optical variability time scale in jetted active galactic nuclei: a large gamma-ray emission sample**|Dingrong Xiong et.al.|[2504.15638v1](http://arxiv.org/abs/2504.15638v1)|null|
+|**2025-04-22**|**Realized Local Volatility Surface**|Yuming Ma et.al.|[2504.15626v1](http://arxiv.org/abs/2504.15626v1)|null|
+|**2025-04-22**|**Joint leave-group-out cross-validation in Bayesian spatial models**|Alex Cooper et.al.|[2504.15586v1](http://arxiv.org/abs/2504.15586v1)|null|
+|**2025-04-21**|**Efficiently learning fermionic unitaries with few non-Gaussian gates**|Sharoon Austin et.al.|[2504.15356v1](http://arxiv.org/abs/2504.15356v1)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
 |**2025-04-21**|**On Learning Parallel Pancakes with Mostly Uniform Weights**|Ilias Diakonikolas et.al.|[2504.15251v1](http://arxiv.org/abs/2504.15251v1)|null|
 |**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229v1](http://arxiv.org/abs/2504.15229v1)|null|
@@ -18,17 +32,3 @@
 |**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900v1](http://arxiv.org/abs/2504.14900v1)|null|
 |**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897v1](http://arxiv.org/abs/2504.14897v1)|null|
 |**2025-04-21**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885v2](http://arxiv.org/abs/2504.14885v2)|null|
-|**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848v1](http://arxiv.org/abs/2504.14848v1)|null|
-|**2025-04-21**|**Automated Duplicate Bug Report Detection in Large Open Bug Repositories**|Clare E. Laney et.al.|[2504.14797v1](http://arxiv.org/abs/2504.14797v1)|null|
-|**2025-04-21**|**Segmentation with Noisy Labels via Spatially Correlated Distributions**|Ryu Tadokoro et.al.|[2504.14795v1](http://arxiv.org/abs/2504.14795v1)|[link](https://github.com/pfnet-research/bayesian_spatialcorr)|
-|**2025-04-20**|**DiffVox: A Differentiable Model for Capturing and Analysing Professional Effects Distributions**|Chin-Yun Yu et.al.|[2504.14735v1](http://arxiv.org/abs/2504.14735v1)|[link](https://github.com/SonyResearch/diffvox)|
-|**2025-04-20**|**Optimal Additive Noise Mechanisms for Differential Privacy**|Atefeh Gilani et.al.|[2504.14730v1](http://arxiv.org/abs/2504.14730v1)|null|
-|**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699v1](http://arxiv.org/abs/2504.14699v1)|null|
-|**2025-04-20**|**Analyzing the 21cm forest with Wavelet Scattering Transform: Insight into non-Gaussian features of the 21cm forest**|Hayato Shimabukuro et.al.|[2504.14656v1](http://arxiv.org/abs/2504.14656v1)|null|
-|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638v1](http://arxiv.org/abs/2504.14638v1)|null|
-|**2025-04-20**|**Generalized Derangetropy Functionals for Modeling Cyclical Information Flow**|Masoud Ataei et.al.|[2504.14605v1](http://arxiv.org/abs/2504.14605v1)|null|
-|**2025-04-20**|**RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots**|Zhang Zhang et.al.|[2504.14604v1](http://arxiv.org/abs/2504.14604v1)|null|
-|**2025-04-20**|**VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control**|Lifeng Lin et.al.|[2504.14548v1](http://arxiv.org/abs/2504.14548v1)|null|
-|**2025-04-20**|**Gaussian limit for Pfaffian point processes**|Kai Wang et.al.|[2504.14487v1](http://arxiv.org/abs/2504.14487v1)|null|
-|**2025-04-20**|**Conditional flow matching for generative modeling of near-wall turbulence with quantified uncertainty**|Meet Hemant Parikh et.al.|[2504.14485v1](http://arxiv.org/abs/2504.14485v1)|null|
-|**2025-04-20**|**Metamon-GS: Enhancing Representability with Variance-Guided Densification and Light Encoding**|Junyan Su et.al.|[2504.14460v1](http://arxiv.org/abs/2504.14460v1)|null|
