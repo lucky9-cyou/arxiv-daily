@@ -30,5 +30,5 @@
 |**2025-04-21**|**Kernel-learning parameter prediction and evaluation in algebraic multigrid method for several PDEs**|Juan Zhang et.al.|[2504.14930v1](http://arxiv.org/abs/2504.14930v1)|null|
 |**2025-04-21**|**Emulating multi-channel scattering based on the eigenvector continuation in the discrete basis formalism**|K. Hagino et.al.|[2504.14922v1](http://arxiv.org/abs/2504.14922v1)|null|
 |**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900v1](http://arxiv.org/abs/2504.14900v1)|null|
-|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897v1](http://arxiv.org/abs/2504.14897v1)|null|
+|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897v2](http://arxiv.org/abs/2504.14897v2)|null|
 |**2025-04-21**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885v2](http://arxiv.org/abs/2504.14885v2)|null|

@@ -20,7 +20,7 @@
 |**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835v1](http://arxiv.org/abs/2504.15835v1)|null|
 |**2025-04-22**|**Generative AI for Research Data Processing: Lessons Learnt From Three Use Cases**|Modhurita Mitra et.al.|[2504.15829v1](http://arxiv.org/abs/2504.15829v1)|null|
 |**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801v1](http://arxiv.org/abs/2504.15801v1)|null|
-|**2025-04-22**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800v1](http://arxiv.org/abs/2504.15800v1)|null|
+|**2025-04-22**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800v2](http://arxiv.org/abs/2504.15800v2)|null|
 |**2025-04-22**|**Crisp complexity of fuzzy classifiers**|Raquel Fernandez-Peralta et.al.|[2504.15791v1](http://arxiv.org/abs/2504.15791v1)|null|
 |**2025-04-22**|**WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2504.15785v1](http://arxiv.org/abs/2504.15785v1)|null|
 |**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743v1](http://arxiv.org/abs/2504.15743v1)|null|
