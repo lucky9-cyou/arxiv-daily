@@ -10,7 +10,7 @@
 |**2025-04-22**|**Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support**|Dinithi Dissanayake et.al.|[2504.16021v1](http://arxiv.org/abs/2504.16021v1)|null|
 |**2025-04-22**|**Recent Advances and Future Directions in Extended Reality (XR): Exploring AI-Powered Spatial Intelligence**|Baichuan Zeng et.al.|[2504.15970v1](http://arxiv.org/abs/2504.15970v1)|null|
 |**2025-04-22**|**A UAV-Aided Digital Twin Framework for IoT Networks with High Accuracy and Synchronization**|Ghofran Khalaf et.al.|[2504.15967v1](http://arxiv.org/abs/2504.15967v1)|null|
-|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v1](http://arxiv.org/abs/2504.15965v1)|null|
+|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v2](http://arxiv.org/abs/2504.15965v2)|null|
 |**2025-04-22**|**Blimp-based Crime Scene Analysis**|Martin Cooney et.al.|[2504.15962v1](http://arxiv.org/abs/2504.15962v1)|null|
 |**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942v1](http://arxiv.org/abs/2504.15942v1)|null|
 |**2025-04-22**|**A Clinician-Friendly Platform for Ophthalmic Image Analysis Without Technical Barriers**|Meng Wang et.al.|[2504.15928v1](http://arxiv.org/abs/2504.15928v1)|null|
