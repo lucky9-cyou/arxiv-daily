@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-22**|**Two-step laser resonant ionization spectroscopy of chromium**|Romina Schulz et.al.|[2504.16067v1](http://arxiv.org/abs/2504.16067v1)|null|
-|**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056v1](http://arxiv.org/abs/2504.16056v1)|null|
-|**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Frank Li et.al.|[2504.16047v1](http://arxiv.org/abs/2504.16047v1)|null|
-|**2025-04-22**|**Trends in AI Supercomputers**|Konstantin F. Pilz et.al.|[2504.16026v1](http://arxiv.org/abs/2504.16026v1)|null|
-|**2025-04-22**|**EnsAI: An Emulator for Atmospheric Chemical Ensembles**|Michael Sitwell et.al.|[2504.16024v1](http://arxiv.org/abs/2504.16024v1)|null|
-|**2025-04-22**|**Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support**|Dinithi Dissanayake et.al.|[2504.16021v1](http://arxiv.org/abs/2504.16021v1)|null|
-|**2025-04-22**|**Recent Advances and Future Directions in Extended Reality (XR): Exploring AI-Powered Spatial Intelligence**|Baichuan Zeng et.al.|[2504.15970v1](http://arxiv.org/abs/2504.15970v1)|null|
-|**2025-04-22**|**A UAV-Aided Digital Twin Framework for IoT Networks with High Accuracy and Synchronization**|Ghofran Khalaf et.al.|[2504.15967v1](http://arxiv.org/abs/2504.15967v1)|null|
-|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v2](http://arxiv.org/abs/2504.15965v2)|null|
-|**2025-04-22**|**Blimp-based Crime Scene Analysis**|Martin Cooney et.al.|[2504.15962v1](http://arxiv.org/abs/2504.15962v1)|null|
-|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942v1](http://arxiv.org/abs/2504.15942v1)|null|
-|**2025-04-22**|**A Clinician-Friendly Platform for Ophthalmic Image Analysis Without Technical Barriers**|Meng Wang et.al.|[2504.15928v1](http://arxiv.org/abs/2504.15928v1)|null|
-|**2025-04-22**|**Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations**|Nikhil Khandalkar et.al.|[2504.15903v1](http://arxiv.org/abs/2504.15903v1)|null|
-|**2025-04-22**|**Supporting Data-Frame Dynamics in AI-assisted Decision Making**|Chengbo Zheng et.al.|[2504.15894v1](http://arxiv.org/abs/2504.15894v1)|null|
-|**2025-04-22**|**The 2nd MERCADO Workshop at IEEE VIS 2025: Multimodal Experiences for Remote Communication Around Data Online**|Wolfgang Büschel et.al.|[2504.15859v1](http://arxiv.org/abs/2504.15859v1)|null|
-|**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835v1](http://arxiv.org/abs/2504.15835v1)|null|
-|**2025-04-22**|**Generative AI for Research Data Processing: Lessons Learnt From Three Use Cases**|Modhurita Mitra et.al.|[2504.15829v1](http://arxiv.org/abs/2504.15829v1)|null|
-|**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801v1](http://arxiv.org/abs/2504.15801v1)|null|
-|**2025-04-22**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800v2](http://arxiv.org/abs/2504.15800v2)|null|
-|**2025-04-22**|**Crisp complexity of fuzzy classifiers**|Raquel Fernandez-Peralta et.al.|[2504.15791v1](http://arxiv.org/abs/2504.15791v1)|null|
-|**2025-04-22**|**WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2504.15785v1](http://arxiv.org/abs/2504.15785v1)|null|
-|**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743v1](http://arxiv.org/abs/2504.15743v1)|null|
-|**2025-04-22**|**Energy-Efficient SIM-assisted Communications: How Many Layers Do We Need?**|Enyu Shi et.al.|[2504.15737v1](http://arxiv.org/abs/2504.15737v1)|null|
-|**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699v1](http://arxiv.org/abs/2504.15699v1)|null|
-|**2025-04-22**|**Trustworthy Decentralized Autonomous Machines: A New Paradigm in Automation Economy**|Fernando Castillo et.al.|[2504.15676v1](http://arxiv.org/abs/2504.15676v1)|null|
-|**2025-04-22**|**Exploring Inevitable Waypoints for Unsolvability Explanation in Hybrid Planning Problems**|Mir Md Sajid Sarwar et.al.|[2504.15668v1](http://arxiv.org/abs/2504.15668v1)|null|
-|**2025-04-22**|**An XAI-based Analysis of Shortcut Learning in Neural Networks**|Phuong Quynh Le et.al.|[2504.15664v1](http://arxiv.org/abs/2504.15664v1)|null|
-|**2025-04-22**|**A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities**|Md Abdul Baset Sarker et.al.|[2504.15654v1](http://arxiv.org/abs/2504.15654v1)|null|
-|**2025-04-22**|**Promoting Real-Time Reflection in Synchronous Communication with Generative AI**|Yi Wen et.al.|[2504.15647v1](http://arxiv.org/abs/2504.15647v1)|null|
-|**2025-04-22**|**CiteFix: Enhancing RAG Accuracy Through Post-Processing Citation Correction**|Harsh Maheshwari et.al.|[2504.15629v1](http://arxiv.org/abs/2504.15629v1)|null|
+|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922v1](http://arxiv.org/abs/2504.16922v1)|null|
+|**2025-04-23**|**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**|Raghav Thind et.al.|[2504.16918v1](http://arxiv.org/abs/2504.16918v1)|null|
+|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913v1](http://arxiv.org/abs/2504.16913v1)|null|
+|**2025-04-23**|**Building A Secure Agentic AI Application Leveraging A2A Protocol**|Idan Habler et.al.|[2504.16902v1](http://arxiv.org/abs/2504.16902v1)|null|
+|**2025-04-23**|**AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset**|Ivan Moshkov et.al.|[2504.16891v1](http://arxiv.org/abs/2504.16891v1)|null|
+|**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883v1](http://arxiv.org/abs/2504.16883v1)|null|
+|**2025-04-23**|**Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation**|Lakshita Agarwal et.al.|[2504.16788v1](http://arxiv.org/abs/2504.16788v1)|null|
+|**2025-04-23**|**Evaluation Framework for AI Systems in "the Wild"**|Sarah Jabbour et.al.|[2504.16778v1](http://arxiv.org/abs/2504.16778v1)|null|
+|**2025-04-23**|**DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions**|Chaeyeon Lim et.al.|[2504.16770v1](http://arxiv.org/abs/2504.16770v1)|null|
+|**2025-04-23**|**Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16761v1](http://arxiv.org/abs/2504.16761v1)|null|
+|**2025-04-23**|**HEMA : A Hippocampus-Inspired Extended Memory Architecture for Long-Context AI Conversations**|Kwangseob Ahn et.al.|[2504.16754v1](http://arxiv.org/abs/2504.16754v1)|null|
+|**2025-04-23**|**Feature Mixing Approach for Detecting Intraoperative Adverse Events in Laparoscopic Roux-en-Y Gastric Bypass Surgery**|Rupak Bose et.al.|[2504.16749v1](http://arxiv.org/abs/2504.16749v1)|null|
+|**2025-04-23**|**Implementing AI Bill of Materials (AI BOM) with SPDX 3.0: A Comprehensive Guide to Creating AI and Dataset Bill of Materials**|Karen Bennet et.al.|[2504.16743v1](http://arxiv.org/abs/2504.16743v1)|null|
+|**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738v1](http://arxiv.org/abs/2504.16738v1)|null|
+|**2025-04-23**|**A Survey of AI Agent Protocols**|Yingxuan Yang et.al.|[2504.16736v1](http://arxiv.org/abs/2504.16736v1)|null|
+|**2025-04-23**|**LLMCode: Evaluating and Enhancing Researcher-AI Alignment in Qualitative Analysis**|Joel Oksanen et.al.|[2504.16671v1](http://arxiv.org/abs/2504.16671v1)|null|
+|**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Pei Lin et.al.|[2504.16649v1](http://arxiv.org/abs/2504.16649v1)|null|
+|**2025-04-23**|**Bridging Econometrics and AI: VaR Estimation via Reinforcement Learning and GARCH Models**|Fredy Pokou et.al.|[2504.16635v1](http://arxiv.org/abs/2504.16635v1)|null|
+|**2025-04-23**|**Cognitive Silicon: An Architectural Blueprint for Post-Industrial Computing Systems**|Christoforus Yoga Haryanto et.al.|[2504.16622v1](http://arxiv.org/abs/2504.16622v1)|null|
+|**2025-04-23**|**Algorithmic Mirror: Designing an Interactive Tool to Promote Self-Reflection for YouTube Recommendations**|Yui Kondo et.al.|[2504.16615v1](http://arxiv.org/abs/2504.16615v1)|null|
+|**2025-04-23**|**Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories**|Mareike Lisker et.al.|[2504.16604v1](http://arxiv.org/abs/2504.16604v1)|null|
+|**2025-04-23**|**PsyCounAssist: A Full-Cycle AI-Powered Psychological Counseling Assistant System**|Xianghe Liu et.al.|[2504.16573v1](http://arxiv.org/abs/2504.16573v1)|null|
+|**2025-04-23**|**Bridging Data Gaps and Building Knowledge Networks in Indian Football Analytics**|Sneha Nanavati et.al.|[2504.16572v1](http://arxiv.org/abs/2504.16572v1)|null|
+|**2025-04-23**|**Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution**|Junjie Chen et.al.|[2504.16563v1](http://arxiv.org/abs/2504.16563v1)|null|
+|**2025-04-23**|**A Vision for AI-Driven Adaptation of Dynamic AR Content to Users and Environments**|Julian Rasch et.al.|[2504.16562v1](http://arxiv.org/abs/2504.16562v1)|null|
+|**2025-04-23**|**DTVM: Revolutionizing Smart Contract Execution with Determinism and Compatibility**|Wei Zhou et.al.|[2504.16552v1](http://arxiv.org/abs/2504.16552v1)|null|
+|**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Joan Perez et.al.|[2504.16538v1](http://arxiv.org/abs/2504.16538v1)|null|
+|**2025-04-23**|**6G EdgeAI: Performance Evaluation and Analysis**|Chien-Sheng Yang et.al.|[2504.16529v1](http://arxiv.org/abs/2504.16529v1)|null|
+|**2025-04-23**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516v1](http://arxiv.org/abs/2504.16516v1)|null|
+|**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505v1](http://arxiv.org/abs/2504.16505v1)|null|

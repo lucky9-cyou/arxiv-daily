@@ -2,6 +2,23 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-23**|**A Bayesian Update Method for Exponential Family Projection Filters with Non-Conjugate Likelihoods**|Muhammad Fuady Emzir et.al.|[2504.16867v1](http://arxiv.org/abs/2504.16867v1)|null|
+|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
+|**2025-04-23**|**Mixing Data-Driven and Physics-Based Constitutive Models using Uncertainty-Driven Phase Fields**|J. Storm et.al.|[2504.16713v1](http://arxiv.org/abs/2504.16713v1)|null|
+|**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|null|
+|**2025-04-23**|**A Statistical Evaluation of Indoor LoRaWAN Environment-Aware Propagation for 6G: MLR, ANOVA, and Residual Distribution Analysis**|Nahshon Mokua et.al.|[2504.16688v1](http://arxiv.org/abs/2504.16688v1)|null|
+|**2025-04-23**|**Non-linearity Effect Analysis of Gaussian Pulse Propagation In Optical Fiber**|Yogesh Deo et.al.|[2504.16652v1](http://arxiv.org/abs/2504.16652v1)|null|
+|**2025-04-23**|**Pareto-optimality of pulses for robust population transfer in a ladder-type qutrit**|John J. McCord et.al.|[2504.16646v1](http://arxiv.org/abs/2504.16646v1)|null|
+|**2025-04-23**|**HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction**|Zhongtao Wang et.al.|[2504.16606v1](http://arxiv.org/abs/2504.16606v1)|null|
+|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
+|**2025-04-23**|**Decentralized Quantile Regression for Feature-Distributed Massive Datasets with Privacy Guarantees**|Peiwen Xiao et.al.|[2504.16535v1](http://arxiv.org/abs/2504.16535v1)|null|
+|**2025-04-23**|**Brownian motion and generalized Lifson-Jackson formula in quasi-periodic systems**|Sang Yang et.al.|[2504.16527v1](http://arxiv.org/abs/2504.16527v1)|null|
+|**2025-04-23**|**Covariate-dependent Graphical Model Estimation via Neural Networks with Statistical Guarantees**|Jiahe Lin et.al.|[2504.16356v1](http://arxiv.org/abs/2504.16356v1)|null|
+|**2025-04-23**|**Deep Neural Network Emulation of the Quantum-Classical Transition via Learned Wigner Function Dynamics**|Kamran Majid et.al.|[2504.16334v1](http://arxiv.org/abs/2504.16334v1)|null|
+|**2025-04-22**|**Detecting Correlation between Multiple Unlabeled Gaussian Networks**|Taha Ameen et.al.|[2504.16279v1](http://arxiv.org/abs/2504.16279v1)|null|
+|**2025-04-22**|**Fundamental Limits Of Quickest Change-point Detection With Continuous-Variable Quantum States**|Tiju Cherian John et.al.|[2504.16259v1](http://arxiv.org/abs/2504.16259v1)|null|
+|**2025-04-22**|**Numerical Derivatives, Projection Coefficients, and Truncation Errors in Analytic Hilbert Space With Gaussian Measure**|M. W. AlMasri et.al.|[2504.16246v1](http://arxiv.org/abs/2504.16246v1)|null|
+|**2025-04-22**|**Extremizers and Stability for Fractional $L^p$ Uncertainty Principles**|S. Hashemi Sababe et.al.|[2504.16245v1](http://arxiv.org/abs/2504.16245v1)|null|
 |**2025-04-22**|**A Markov Chain Monte Carlo Method for Efficient Finite-Length LDPC Code Design**|Ata Tanrıkulu et.al.|[2504.16071v1](http://arxiv.org/abs/2504.16071v1)|null|
 |**2025-04-22**|**Full dynamics of two-membrane cavity optomechanics**|Wenlin Li et.al.|[2504.16006v1](http://arxiv.org/abs/2504.16006v1)|null|
 |**2025-04-22**|**Are there Spectral Features in the MIRI/LRS Transmission Spectrum of K2-18b?**|Jake Taylor et.al.|[2504.15916v1](http://arxiv.org/abs/2504.15916v1)|null|
@@ -15,20 +32,3 @@
 |**2025-04-22**|**Riesz transform, function spaces and their applications on infinite dimensional compact groups**|Alexander Bendikov et.al.|[2504.15718v1](http://arxiv.org/abs/2504.15718v1)|null|
 |**2025-04-22**|**A characteristic optical variability time scale in jetted active galactic nuclei: a large gamma-ray emission sample**|Dingrong Xiong et.al.|[2504.15638v1](http://arxiv.org/abs/2504.15638v1)|null|
 |**2025-04-22**|**Realized Local Volatility Surface**|Yuming Ma et.al.|[2504.15626v1](http://arxiv.org/abs/2504.15626v1)|null|
-|**2025-04-22**|**Joint leave-group-out cross-validation in Bayesian spatial models**|Alex Cooper et.al.|[2504.15586v1](http://arxiv.org/abs/2504.15586v1)|null|
-|**2025-04-21**|**Efficiently learning fermionic unitaries with few non-Gaussian gates**|Sharoon Austin et.al.|[2504.15356v1](http://arxiv.org/abs/2504.15356v1)|null|
-|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
-|**2025-04-21**|**On Learning Parallel Pancakes with Mostly Uniform Weights**|Ilias Diakonikolas et.al.|[2504.15251v1](http://arxiv.org/abs/2504.15251v1)|null|
-|**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229v1](http://arxiv.org/abs/2504.15229v1)|null|
-|**2025-04-21**|**M$^2$AD: Multi-Sensor Multi-System Anomaly Detection through Global Scoring and Calibrated Thresholding**|Sarah Alnegheimish et.al.|[2504.15225v1](http://arxiv.org/abs/2504.15225v1)|[link](https://github.com/sarahmish/m2ad)|
-|**2025-04-21**|**Reconstructing the redshift evolution of Type Ia supernovae absolute magnitude**|Rodrigo von Marttens et.al.|[2504.15127v1](http://arxiv.org/abs/2504.15127v1)|null|
-|**2025-04-21**|**Squeezing Effect in the Gouy Phase of Matter Waves**|Thiago M. S. Oliveira et.al.|[2504.15123v1](http://arxiv.org/abs/2504.15123v1)|null|
-|**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122v1](http://arxiv.org/abs/2504.15122v1)|null|
-|**2025-04-21**|**The PHD/CPHD filter for Multiple Extended Target Tracking with Trajectory Set Theory and Explicit Shape Estimation**|Yuanhao Cheng et.al.|[2504.15040v1](http://arxiv.org/abs/2504.15040v1)|null|
-|**2025-04-21**|**Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models**|Zijin Yang et.al.|[2504.15026v1](http://arxiv.org/abs/2504.15026v1)|null|
-|**2025-04-21**|**Fickian Yet non-Gaussian Diffusion in Complex Molecular Fluids via a non-local diffusion framework**|H. Srinivasan et.al.|[2504.15020v1](http://arxiv.org/abs/2504.15020v1)|null|
-|**2025-04-21**|**3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations**|Yating Wang et.al.|[2504.14967v1](http://arxiv.org/abs/2504.14967v1)|null|
-|**2025-04-21**|**Kernel-learning parameter prediction and evaluation in algebraic multigrid method for several PDEs**|Juan Zhang et.al.|[2504.14930v1](http://arxiv.org/abs/2504.14930v1)|null|
-|**2025-04-21**|**Emulating multi-channel scattering based on the eigenvector continuation in the discrete basis formalism**|K. Hagino et.al.|[2504.14922v1](http://arxiv.org/abs/2504.14922v1)|null|
-|**2025-04-21**|**Distributed Time-Varying Gaussian Regression via Kalman Filtering**|Nicola Taddei et.al.|[2504.14900v1](http://arxiv.org/abs/2504.14900v1)|null|
-|**2025-04-21**|**Physics-Aware Compression of Plasma Distribution Functions with GPU-Accelerated Gaussian Mixture Models**|Andong Hu et.al.|[2504.14897v2](http://arxiv.org/abs/2504.14897v2)|null|
