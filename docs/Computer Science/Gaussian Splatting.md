@@ -6,9 +6,9 @@
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
 |**2025-04-23**|**Mixing Data-Driven and Physics-Based Constitutive Models using Uncertainty-Driven Phase Fields**|J. Storm et.al.|[2504.16713v1](http://arxiv.org/abs/2504.16713v1)|null|
 |**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|null|
-|**2025-04-23**|**A Statistical Evaluation of Indoor LoRaWAN Environment-Aware Propagation for 6G: MLR, ANOVA, and Residual Distribution Analysis**|Nahshon Mokua et.al.|[2504.16688v1](http://arxiv.org/abs/2504.16688v1)|null|
+|**2025-04-23**|**A Statistical Evaluation of Indoor LoRaWAN Environment-Aware Propagation for 6G: MLR, ANOVA, and Residual Distribution Analysis**|Nahshon Mokua Obiri et.al.|[2504.16688v2](http://arxiv.org/abs/2504.16688v2)|null|
 |**2025-04-23**|**Non-linearity Effect Analysis of Gaussian Pulse Propagation In Optical Fiber**|Yogesh Deo et.al.|[2504.16652v1](http://arxiv.org/abs/2504.16652v1)|null|
-|**2025-04-23**|**Pareto-optimality of pulses for robust population transfer in a ladder-type qutrit**|John J. McCord et.al.|[2504.16646v1](http://arxiv.org/abs/2504.16646v1)|null|
+|**2025-04-23**|**Pareto-optimality of pulses for robust population transfer in a ladder-type qutrit**|John J. McCord et.al.|[2504.16646v2](http://arxiv.org/abs/2504.16646v2)|null|
 |**2025-04-23**|**HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction**|Zhongtao Wang et.al.|[2504.16606v1](http://arxiv.org/abs/2504.16606v1)|null|
 |**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
 |**2025-04-23**|**Decentralized Quantile Regression for Feature-Distributed Massive Datasets with Privacy Guarantees**|Peiwen Xiao et.al.|[2504.16535v1](http://arxiv.org/abs/2504.16535v1)|null|
