@@ -20,7 +20,7 @@
 |**2025-04-24**|**Text-to-Image Alignment in Denoising-Based Models through Step Selection**|Paul Grimal et.al.|[2504.17525v1](http://arxiv.org/abs/2504.17525v1)|null|
 |**2025-04-24**|**Goal-Oriented Time-Series Forecasting: Foundation Framework Design**|Luca-Andrei Fechete et.al.|[2504.17493v1](http://arxiv.org/abs/2504.17493v1)|null|
 |**2025-04-24**|**Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks**|Yang Liu et.al.|[2504.17421v1](http://arxiv.org/abs/2504.17421v1)|null|
-|**2025-04-24**|**Redefining Superalignment: From Weak-to-Strong Alignment to Human-AI Co-Alignment to Sustainable Symbiotic Society**|Feifei Zhao et.al.|[2504.17404v1](http://arxiv.org/abs/2504.17404v1)|null|
+|**2025-04-24**|**Redefining Superalignment: From Weak-to-Strong Alignment to Human-AI Co-Alignment to Sustainable Symbiotic Society**|Yi Zeng et.al.|[2504.17404v2](http://arxiv.org/abs/2504.17404v2)|null|
 |**2025-04-24**|**Towards User-Centred Design of AI-Assisted Decision-Making in Law Enforcement**|Vesna Nowack et.al.|[2504.17393v1](http://arxiv.org/abs/2504.17393v1)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376v1](http://arxiv.org/abs/2504.17376v1)|null|
 |**2025-04-24**|**CKMDiff: A Generative Diffusion Model for CKM Construction via Inverse Problems with Learned Priors**|Shen Fu et.al.|[2504.17323v1](http://arxiv.org/abs/2504.17323v1)|null|
