@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536v1](http://arxiv.org/abs/2504.18536v1)|null|
-|**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530v1](http://arxiv.org/abs/2504.18530v1)|null|
-|**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454v1](http://arxiv.org/abs/2504.18454v1)|null|
-|**2025-04-25**|**Enhancing Strawberry Yield Forecasting with Backcasted IoT Sensor Data and Machine Learning**|Tewodros Alemu Ayall et.al.|[2504.18451v1](http://arxiv.org/abs/2504.18451v1)|null|
-|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423v1](http://arxiv.org/abs/2504.18423v1)|null|
-|**2025-04-25**|**Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning**|Lars Ullrich et.al.|[2504.18421v1](http://arxiv.org/abs/2504.18421v1)|null|
-|**2025-04-25**|**Can Code Outlove Blood? A LLM-based VR Experience to Prompt Reflection on Parental Verbal Abuse**|Jiaying Fu et.al.|[2504.18410v1](http://arxiv.org/abs/2504.18410v1)|null|
-|**2025-04-25**|**Paradigm shift on Coding Productivity Using GenAI**|Liang Yu et.al.|[2504.18404v1](http://arxiv.org/abs/2504.18404v1)|null|
-|**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371v1](http://arxiv.org/abs/2504.18371v1)|null|
-|**2025-04-25**|**Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics**|Maodong Li et.al.|[2504.18367v1](http://arxiv.org/abs/2504.18367v1)|null|
-|**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353v1](http://arxiv.org/abs/2504.18353v1)|null|
-|**2025-04-25**|**NRevisit: A Cognitive Behavioral Metric for Code Understandability Assessment**|Gao Hao et.al.|[2504.18345v1](http://arxiv.org/abs/2504.18345v1)|null|
-|**2025-04-25**|**Large Language Models to Accelerate Organic Chemistry Synthesis**|Yu Zhang et.al.|[2504.18340v1](http://arxiv.org/abs/2504.18340v1)|null|
-|**2025-04-25**|**AI Safety Assurance for Automated Vehicles: A Survey on Research, Standardization, Regulation**|Lars Ullrich et.al.|[2504.18328v1](http://arxiv.org/abs/2504.18328v1)|null|
-|**2025-04-25**|**Artificial Intelligence health advice accuracy varies across languages and contexts**|Prashant Garg et.al.|[2504.18310v1](http://arxiv.org/abs/2504.18310v1)|null|
-|**2025-04-25**|**On a lower-dimensional Killing vector origin of irreducible Killing tensors**|Finnian Gray et.al.|[2504.18287v1](http://arxiv.org/abs/2504.18287v1)|null|
-|**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278v1](http://arxiv.org/abs/2504.18278v1)|null|
-|**2025-04-25**|**Switch-Based Multi-Part Neural Network**|Surajit Majumder et.al.|[2504.18241v1](http://arxiv.org/abs/2504.18241v1)|null|
-|**2025-04-25**|**"Two Means to an End Goal": Connecting Explainability and Contestability in the Regulation of Public Sector AI**|Timothée Schmude et.al.|[2504.18236v1](http://arxiv.org/abs/2504.18236v1)|null|
-|**2025-04-25**|**Even Small Reasoners Should Quote Their Sources: Introducing the Pleias-RAG Model Family**|Pierre-Carl Langlais et.al.|[2504.18225v1](http://arxiv.org/abs/2504.18225v1)|null|
-|**2025-04-25**|**Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding**|Kun Li et.al.|[2504.18204v1](http://arxiv.org/abs/2504.18204v1)|null|
-|**2025-04-25**|**ClassComet: Exploring and Designing AI-generated Danmaku in Educational Videos to Enhance Online Learning**|Zipeng Ji et.al.|[2504.18189v1](http://arxiv.org/abs/2504.18189v1)|null|
-|**2025-04-25**|**Generative AI for Physical-Layer Authentication**|Rui Meng et.al.|[2504.18175v1](http://arxiv.org/abs/2504.18175v1)|null|
-|**2025-04-25**|**ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding**|Yi-Xing Peng et.al.|[2504.18152v1](http://arxiv.org/abs/2504.18152v1)|null|
-|**2025-04-25**|**Passive All-Optical Nonlinear Neuron Activation via PPLN Nanophotonic Waveguides**|Wujie Fu et.al.|[2504.18145v1](http://arxiv.org/abs/2504.18145v1)|null|
-|**2025-04-25**|**Tree Boosting Methods for Balanced andImbalanced Classification and their Robustness Over Time in Risk Assessment**|Gissel Velarde et.al.|[2504.18133v1](http://arxiv.org/abs/2504.18133v1)|null|
-|**2025-04-25**|**Hype and Adoption of Generative Artificial Intelligence Applications**|Vinh Truong et.al.|[2504.18081v1](http://arxiv.org/abs/2504.18081v1)|null|
-|**2025-04-25**|**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**|Jianyu Liu et.al.|[2504.18053v1](http://arxiv.org/abs/2504.18053v1)|null|
-|**2025-04-25**|**AI Ethics and Social Norms: Exploring ChatGPT's Capabilities From What to How**|Omid Veisi et.al.|[2504.18044v1](http://arxiv.org/abs/2504.18044v1)|null|
-|**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041v1](http://arxiv.org/abs/2504.18041v1)|null|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|null|
+|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v1](http://arxiv.org/abs/2504.20035v1)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020v1](http://arxiv.org/abs/2504.20020v1)|null|
+|**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016v1](http://arxiv.org/abs/2504.20016v1)|null|
+|**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010v1](http://arxiv.org/abs/2504.20010v1)|null|
+|**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|null|
+|**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997v1](http://arxiv.org/abs/2504.19997v1)|null|
+|**2025-04-28**|**Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions**|Salem Lahlou et.al.|[2504.19990v1](http://arxiv.org/abs/2504.19990v1)|null|
+|**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970v1](http://arxiv.org/abs/2504.19970v1)|null|
+|**2025-04-28**|**Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents**|Vineeth Sai Narajala et.al.|[2504.19956v1](http://arxiv.org/abs/2504.19956v1)|null|
+|**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951v1](http://arxiv.org/abs/2504.19951v1)|null|
+|**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935v1](http://arxiv.org/abs/2504.19935v1)|null|
+|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918v1](http://arxiv.org/abs/2504.19918v1)|null|
+|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912v1](http://arxiv.org/abs/2504.19912v1)|null|
+|**2025-04-28**|**Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network**|Han Chen et.al.|[2504.19888v1](http://arxiv.org/abs/2504.19888v1)|null|
+|**2025-04-28**|**Warming demands extensive tropical but minimal temperate management in plant-pollinator networks**|Adrija Datta et.al.|[2504.19879v1](http://arxiv.org/abs/2504.19879v1)|null|
+|**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v1](http://arxiv.org/abs/2504.19855v1)|null|
+|**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854v1](http://arxiv.org/abs/2504.19854v1)|null|
+|**2025-04-28**|**Human-Centered AI and Autonomy in Robotics: Insights from a Bibliometric Study**|Simona Casini et.al.|[2504.19848v1](http://arxiv.org/abs/2504.19848v1)|null|
+|**2025-04-28**|**Mjölnir: A Deep Learning Parametrization Framework for Global Lightning Flash Density**|Minjong Cheon et.al.|[2504.19822v1](http://arxiv.org/abs/2504.19822v1)|null|
+|**2025-04-28**|**PhenoAssistant: A Conversational Multi-Agent AI System for Automated Plant Phenotyping**|Feng Chen et.al.|[2504.19818v1](http://arxiv.org/abs/2504.19818v1)|null|
+|**2025-04-28**|**BiXiao: An AI-Based Atmospheric Environment Forecasting Model Using Discontinuous Grids**|Shengxuan Ji et.al.|[2504.19764v1](http://arxiv.org/abs/2504.19764v1)|null|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720v1](http://arxiv.org/abs/2504.19720v1)|null|
+|**2025-04-28**|**Interactive Discovery and Exploration of Visual Bias in Generative Text-to-Image Models**|Johannes Eschner et.al.|[2504.19703v1](http://arxiv.org/abs/2504.19703v1)|null|
+|**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678v1](http://arxiv.org/abs/2504.19678v1)|null|
+|**2025-04-28**|**$\texttt{SAGE}$: A Generic Framework for LLM Safety Evaluation**|Madhur Jindal et.al.|[2504.19674v1](http://arxiv.org/abs/2504.19674v1)|[link](https://github.com/Madhur-1/SageLLMSafetyEval)|
+|**2025-04-28**|**Generative AI in Education: Student Skills and Lecturer Roles**|Stefanie Krause et.al.|[2504.19673v1](http://arxiv.org/abs/2504.19673v1)|null|
+|**2025-04-28**|**Decentralization of Generative AI via Mixture of Experts for Wireless Networks: A Comprehensive Survey**|Yunting Xu et.al.|[2504.19660v1](http://arxiv.org/abs/2504.19660v1)|null|
+|**2025-04-28**|**VCM: Vision Concept Modeling Based on Implicit Contrastive Learning with Vision-Language Instruction Fine-Tuning**|Run Luo et.al.|[2504.19627v1](http://arxiv.org/abs/2504.19627v1)|null|
