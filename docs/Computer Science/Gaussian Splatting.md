@@ -31,4 +31,4 @@
 |**2025-04-27**|**Different behaviors of diffusing diffusivity dynamics based on three different definitions of fractional Brownian motion**|Wei Wang et.al.|[2504.19190v1](http://arxiv.org/abs/2504.19190v1)|null|
 |**2025-04-27**|**Probing Dark Matter Substructures with Free-Form Modelling: A Case Study of the `Jackpot' Strong Lens**|Xiaoyue Cao et.al.|[2504.19177v1](http://arxiv.org/abs/2504.19177v1)|null|
 |**2025-04-27**|**CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation**|Xueqi Ma et.al.|[2504.19174v1](http://arxiv.org/abs/2504.19174v1)|null|
-|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for PhotorealisticTalking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v1](http://arxiv.org/abs/2504.19165v1)|null|
+|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|

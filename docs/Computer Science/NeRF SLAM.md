@@ -8,7 +8,7 @@
 |**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
 |**2025-04-27**|**NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM**|Tianyi Zhang et.al.|[2504.19195v1](http://arxiv.org/abs/2504.19195v1)|null|
-|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for PhotorealisticTalking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v1](http://arxiv.org/abs/2504.19165v1)|null|
+|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|
 |**2025-04-27**|**MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction**|Yulun Tian et.al.|[2504.19104v1](http://arxiv.org/abs/2504.19104v1)|null|
 |**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|
 |**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|null|
