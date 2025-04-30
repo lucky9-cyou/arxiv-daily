@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|null|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v1](http://arxiv.org/abs/2504.20035v1)|null|
+|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v2](http://arxiv.org/abs/2504.20035v2)|null|
 |**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020v1](http://arxiv.org/abs/2504.20020v1)|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016v1](http://arxiv.org/abs/2504.20016v1)|null|
 |**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010v1](http://arxiv.org/abs/2504.20010v1)|null|
@@ -19,7 +19,7 @@
 |**2025-04-28**|**Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network**|Han Chen et.al.|[2504.19888v1](http://arxiv.org/abs/2504.19888v1)|null|
 |**2025-04-28**|**Warming demands extensive tropical but minimal temperate management in plant-pollinator networks**|Adrija Datta et.al.|[2504.19879v1](http://arxiv.org/abs/2504.19879v1)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|null|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v1](http://arxiv.org/abs/2504.19855v1)|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v2](http://arxiv.org/abs/2504.19855v2)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854v1](http://arxiv.org/abs/2504.19854v1)|null|
 |**2025-04-28**|**Human-Centered AI and Autonomy in Robotics: Insights from a Bibliometric Study**|Simona Casini et.al.|[2504.19848v1](http://arxiv.org/abs/2504.19848v1)|null|
 |**2025-04-28**|**Mjölnir: A Deep Learning Parametrization Framework for Global Lightning Flash Density**|Minjong Cheon et.al.|[2504.19822v1](http://arxiv.org/abs/2504.19822v1)|null|
