@@ -8,7 +8,7 @@
 |**2025-04-29**|**High-temperature partition functions and classical simulability of long-range quantum systems**|Jorge Sánchez-Segovia et.al.|[2504.20901v1](http://arxiv.org/abs/2504.20901v1)|null|
 |**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829v1](http://arxiv.org/abs/2504.20829v1)|null|
 |**2025-04-29**|**DP-SMOTE: Integrating Differential Privacy and Oversampling Technique to Preserve Privacy in Smart Homes**|Amr Tarek Elsayed et.al.|[2504.20827v1](http://arxiv.org/abs/2504.20827v1)|null|
-|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730v1](http://arxiv.org/abs/2504.20730v1)|null|
+|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730v2](http://arxiv.org/abs/2504.20730v2)|null|
 |**2025-04-29**|**Timing analysis of the black-hole candidate Swift J1727.8-1613: detection of a dip-like feature in the high-energy cross spectrum**|Pei Jin et.al.|[2504.20717v1](http://arxiv.org/abs/2504.20717v1)|null|
 |**2025-04-29**|**Quantum-Assisted Tomographic Image Refinement with Limited Qubits for High-Resolution Imaging**|Hyunju Lee et.al.|[2504.20654v1](http://arxiv.org/abs/2504.20654v1)|null|
 |**2025-04-29**|**Learning and Generalization with Mixture Data**|Harsh Vardhan et.al.|[2504.20651v1](http://arxiv.org/abs/2504.20651v1)|null|
