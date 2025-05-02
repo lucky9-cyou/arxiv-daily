@@ -2,6 +2,20 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-01**|**On the Importance of Gaussianizing Representations**|Daniel Eftekhari et.al.|[2505.00685v1](http://arxiv.org/abs/2505.00685v1)|null|
+|**2025-05-01**|**Joint inference for gravitational wave signals and glitches using a data-informed glitch model**|Ann-Kristin Malz et.al.|[2505.00657v1](http://arxiv.org/abs/2505.00657v1)|null|
+|**2025-05-01**|**Turning dispersion into signal: density-split analyses of pairwise velocities**|Aritra Kumar Gon et.al.|[2505.00608v1](http://arxiv.org/abs/2505.00608v1)|null|
+|**2025-05-01**|**Transition States Energies from Machine Learning: An Application to Reverse Water-Gas Shift on Single-Atom Alloys**|Raffaele Cheula et.al.|[2505.00574v1](http://arxiv.org/abs/2505.00574v1)|null|
+|**2025-05-01**|**Spatial vertical regression for spatial panel data: Evaluating the effect of the Florentine tramway's first line on commercial vitality**|Giulio Grossi et.al.|[2505.00450v1](http://arxiv.org/abs/2505.00450v1)|null|
+|**2025-05-01**|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|Xia Yuan et.al.|[2505.00421v1](http://arxiv.org/abs/2505.00421v1)|null|
+|**2025-05-01**|**GAN-based Generator of Adversarial Attack on Intelligent End-to-End Autoencoder-based Communication System**|Jianyuan Chen et.al.|[2505.00395v1](http://arxiv.org/abs/2505.00395v1)|null|
+|**2025-05-01**|**On a time-resolved interpretation of the Husimi function**|Ralph Sabbagh et.al.|[2505.00245v1](http://arxiv.org/abs/2505.00245v1)|null|
+|**2025-05-01**|**Experimental Investigation of Twist Conservation in Nonlinear Optical Three-Wave Mixing**|Gustavo H. dos Santos et.al.|[2505.00238v1](http://arxiv.org/abs/2505.00238v1)|null|
+|**2025-04-30**|**Algebraic Constraints for Linear Acyclic Causal Models**|Cole Gigliotti et.al.|[2505.00215v1](http://arxiv.org/abs/2505.00215v1)|null|
+|**2025-04-30**|**Characterizing gaussian mixture of motion modes for skid-steer state estimation**|Ameya Salvi et.al.|[2505.00200v1](http://arxiv.org/abs/2505.00200v1)|null|
+|**2025-04-30**|**A probabilistic approach to system-environment coupling**|Mohammad Rahbar et.al.|[2505.00192v1](http://arxiv.org/abs/2505.00192v1)|null|
+|**2025-04-30**|**GPRat: Gaussian Process Regression with Asynchronous Tasks**|Maksim Helmann et.al.|[2505.00136v1](http://arxiv.org/abs/2505.00136v1)|null|
+|**2025-04-30**|**Kernel-Based Ensemble Gaussian Mixture Probability Hypothesis Density Filter**|Dalton Durant et.al.|[2505.00131v1](http://arxiv.org/abs/2505.00131v1)|null|
 |**2025-04-30**|**Frozen Gaussian Grid-point Correction For Semi-classical Schrödinger Equation**|Lihui Chai et.al.|[2504.21785v1](http://arxiv.org/abs/2504.21785v1)|null|
 |**2025-04-30**|**Tailored Hotspots from Airy-Based Surface Plasmon Polaritons**|Rosario Martínez-Herrero et.al.|[2504.21753v1](http://arxiv.org/abs/2504.21753v1)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|null|
@@ -18,17 +32,3 @@
 |**2025-04-30**|**Physics-informed Gaussian Processes for Model Predictive Control of Nonlinear Systems**|Adrian Lepp et.al.|[2504.21377v1](http://arxiv.org/abs/2504.21377v1)|null|
 |**2025-04-30**|**Waveform Design Based on Mutual Information Upper Bound For Joint Detection and Estimation**|Ruofeng Yu et.al.|[2504.21322v1](http://arxiv.org/abs/2504.21322v1)|null|
 |**2025-04-30**|**High-Fidelity Single-Pixel Imaging at Ultra-Low Sampling Ratios via Physically Enhanced Laguerre Gaussian Encoding**|JunYi Xiong et.al.|[2504.21290v1](http://arxiv.org/abs/2504.21290v1)|null|
-|**2025-04-30**|**Power Flow Approximations for Multiphase Distribution Networks using Gaussian Processes**|Daniel Glover et.al.|[2504.21260v1](http://arxiv.org/abs/2504.21260v1)|null|
-|**2025-04-30**|**Subject Information Extraction for Novelty Detection with Domain Shifts**|Yangyang Qu et.al.|[2504.21247v1](http://arxiv.org/abs/2504.21247v1)|null|
-|**2025-04-29**|**SMOGAN: Synthetic Minority Oversampling with GAN Refinement for Imbalanced Regression**|Shayan Alahyari et.al.|[2504.21152v1](http://arxiv.org/abs/2504.21152v1)|null|
-|**2025-04-29**|**Analytic Model for Covariance Matrices of the 2-, 3-, and 4-Point Correlation Functions in the Gaussian Random Field Approximation**|Jessica Chellino et.al.|[2504.21133v1](http://arxiv.org/abs/2504.21133v1)|null|
-|**2025-04-29**|**Graphical models with marginals in the exponential family**|Luis E. Nieto-Barajas et.al.|[2504.21122v1](http://arxiv.org/abs/2504.21122v1)|null|
-|**2025-04-29**|**Constraints on primordial non-Gaussianity from Quaia**|Giulio Fabbian et.al.|[2504.20992v1](http://arxiv.org/abs/2504.20992v1)|null|
-|**2025-04-29**|**A Complete Characterization of Passive Unitary Normalizable (PUN) Gaussian States**|Tiju Cherian John et.al.|[2504.20979v1](http://arxiv.org/abs/2504.20979v1)|null|
-|**2025-04-29**|**Energy-Based Coarse-Graining in Molecular Dynamics: A Flow-Based Framework Without Data**|Maximilian Stupp et.al.|[2504.20940v1](http://arxiv.org/abs/2504.20940v1)|null|
-|**2025-04-29**|**High-temperature partition functions and classical simulability of long-range quantum systems**|Jorge Sánchez-Segovia et.al.|[2504.20901v1](http://arxiv.org/abs/2504.20901v1)|null|
-|**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829v1](http://arxiv.org/abs/2504.20829v1)|null|
-|**2025-04-29**|**DP-SMOTE: Integrating Differential Privacy and Oversampling Technique to Preserve Privacy in Smart Homes**|Amr Tarek Elsayed et.al.|[2504.20827v1](http://arxiv.org/abs/2504.20827v1)|null|
-|**2025-04-29**|**Polyhedral Aspects of Maxoids**|Tobias Boege et.al.|[2504.21068v1](http://arxiv.org/abs/2504.21068v1)|null|
-|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067v1](http://arxiv.org/abs/2504.21067v1)|null|
-|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730v2](http://arxiv.org/abs/2504.20730v2)|null|
