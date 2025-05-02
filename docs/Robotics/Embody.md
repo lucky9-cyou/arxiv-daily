@@ -16,7 +16,7 @@
 |**2025-04-30**|**Iterative Trajectory Exploration for Multimodal Agents**|Pengxiang Li et.al.|[2504.21561v1](http://arxiv.org/abs/2504.21561v1)|null|
 |**2025-04-30**|**Search for the lepton number violation decay $ω\to π^+ π^+ e^-e^- +c.c.$**|BESIII Collaboration et.al.|[2504.21539v1](http://arxiv.org/abs/2504.21539v1)|null|
 |**2025-04-30**|**Visual Analytics Challenges and Trends in the Age of AI: The BigVis Community Perspective**|Nikos Bikakis et.al.|[2504.21500v1](http://arxiv.org/abs/2504.21500v1)|null|
-|**2025-04-30**|**TRIED: Truly Innovative and Effective Detection Benchmark, developed by WITNESS**|Shirin Anlen et.al.|[2504.21489v1](http://arxiv.org/abs/2504.21489v1)|null|
+|**2025-04-30**|**TRIED: Truly Innovative and Effective AI Detection Benchmark, developed by WITNESS**|Shirin Anlen et.al.|[2504.21489v2](http://arxiv.org/abs/2504.21489v2)|null|
 |**2025-04-30**|**xEEGNet: Towards Explainable AI in EEG Dementia Classification**|Andrea Zanola et.al.|[2504.21457v1](http://arxiv.org/abs/2504.21457v1)|null|
 |**2025-04-30**|**Emerging Advances in Learned Video Compression: Models, Systems and Beyond**|Chuanmin Jia et.al.|[2504.21445v1](http://arxiv.org/abs/2504.21445v1)|null|
 |**2025-04-30**|**NGENT: Next-Generation AI Agents Must Integrate Multi-Domain Abilities to Achieve Artificial General Intelligence**|Zhicong Li et.al.|[2504.21433v1](http://arxiv.org/abs/2504.21433v1)|null|
