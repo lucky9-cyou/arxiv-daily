@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420v1](http://arxiv.org/abs/2505.01420v1)|null|
-|**2025-05-02**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386v1](http://arxiv.org/abs/2505.01386v1)|null|
-|**2025-05-02**|**Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii**|Kola Ayonrinde et.al.|[2505.01372v1](http://arxiv.org/abs/2505.01372v1)|null|
-|**2025-05-02**|**Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System**|Lo Pang-Yun Ting et.al.|[2505.01305v1](http://arxiv.org/abs/2505.01305v1)|null|
-|**2025-05-02**|**mwBTFreddy: A Dataset for Flash Flood Damage Assessment in Urban Malawi**|Evelyn Chapuma et.al.|[2505.01242v1](http://arxiv.org/abs/2505.01242v1)|null|
-|**2025-05-02**|**EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models**|Mahdi Dhaini et.al.|[2505.01238v1](http://arxiv.org/abs/2505.01238v1)|null|
-|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v2](http://arxiv.org/abs/2505.01209v2)|null|
-|**2025-05-02**|**AGRO: An Autonomous AI Rover for Precision Agriculture**|Simar Ghumman et.al.|[2505.01200v1](http://arxiv.org/abs/2505.01200v1)|null|
-|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199v1](http://arxiv.org/abs/2505.01199v1)|null|
-|**2025-05-02**|**Exploring the Impact of Explainable AI and Cognitive Capabilities on Users' Decisions**|Federico Maria Cau et.al.|[2505.01192v1](http://arxiv.org/abs/2505.01192v1)|null|
-|**2025-05-02**|**Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms**|Mehrdad Asadi et.al.|[2505.01181v1](http://arxiv.org/abs/2505.01181v1)|null|
-|**2025-05-02**|**Machine Learning for Physical Simulation Challenge Results and Retrospective Analysis: Power Grid Use Case**|Milad Leyli-Abadi et.al.|[2505.01156v1](http://arxiv.org/abs/2505.01156v1)|null|
-|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150v1](http://arxiv.org/abs/2505.01150v1)|null|
-|**2025-05-02**|**Evaluating the Impact of Data Cleaning on the Quality of Generated Pull Request Descriptions**|Kutay Tire et.al.|[2505.01120v1](http://arxiv.org/abs/2505.01120v1)|null|
-|**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115v1](http://arxiv.org/abs/2505.01115v1)|null|
-|**2025-05-02**|**Investigating Middle School Students Question-Asking and Answer-Evaluation Skills When Using ChatGPT for Science Investigation**|Rania Abdelghani et.al.|[2505.01106v1](http://arxiv.org/abs/2505.01106v1)|null|
-|**2025-05-02**|**Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**|Daniele Molino et.al.|[2505.01091v1](http://arxiv.org/abs/2505.01091v1)|null|
-|**2025-05-02**|**Artificial Intelligence in Government: Why People Feel They Lose Control**|Alexander Wuttke et.al.|[2505.01085v1](http://arxiv.org/abs/2505.01085v1)|null|
-|**2025-05-02**|**MADIL: An MDL-based Framework for Efficient Program Synthesis in the ARC Benchmark**|Sébastien Ferré et.al.|[2505.01081v1](http://arxiv.org/abs/2505.01081v1)|null|
-|**2025-05-02**|**Zero-Shot Document-Level Biomedical Relation Extraction via Scenario-based Prompt Design in Two-Stage with LLM**|Lei Zhao et.al.|[2505.01077v1](http://arxiv.org/abs/2505.01077v1)|null|
-|**2025-05-02**|**WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks**|Jingwen Tong et.al.|[2505.01074v1](http://arxiv.org/abs/2505.01074v1)|null|
-|**2025-05-02**|**A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories**|Ziqi Ding et.al.|[2505.01067v1](http://arxiv.org/abs/2505.01067v1)|null|
-|**2025-05-02**|**Do We Need a Detailed Rubric for Automated Essay Scoring using Large Language Models?**|Lui Yoshida et.al.|[2505.01035v1](http://arxiv.org/abs/2505.01035v1)|null|
-|**2025-05-02**|**Where's the liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content**|Haoyue Bai et.al.|[2505.01008v1](http://arxiv.org/abs/2505.01008v1)|null|
-|**2025-05-02**|**Generating Animated Layouts as Structured Text Representations**|Yeonsang Shin et.al.|[2505.00975v1](http://arxiv.org/abs/2505.00975v1)|null|
-|**2025-05-02**|**The AI Fairness Myth: A Position Paper on Context-Aware Bias**|Kessia Nepomuceno et.al.|[2505.00965v1](http://arxiv.org/abs/2505.00965v1)|null|
-|**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935v1](http://arxiv.org/abs/2505.00935v1)|null|
-|**2025-05-01**|**LLM Ethics Benchmark: A Three-Dimensional Assessment System for Evaluating Moral Reasoning in Large Language Models**|Junfeng Jiao et.al.|[2505.00853v1](http://arxiv.org/abs/2505.00853v1)|null|
-|**2025-05-01**|**Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users**|Jeffrey Basoah et.al.|[2505.00821v1](http://arxiv.org/abs/2505.00821v1)|null|
-|**2025-05-01**|**HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models**|Zhaoxing Li et.al.|[2505.00820v1](http://arxiv.org/abs/2505.00820v1)|null|
+|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|null|
+|**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828v1](http://arxiv.org/abs/2505.02828v1)|null|
+|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811v1](http://arxiv.org/abs/2505.02811v1)|null|
+|**2025-05-05**|**Scoring the European Citizen in the AI Era**|Nathan Genicot et.al.|[2505.02791v1](http://arxiv.org/abs/2505.02791v1)|null|
+|**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784v1](http://arxiv.org/abs/2505.02784v1)|null|
+|**2025-05-05**|**Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow**|Jai Prakash Veerla et.al.|[2505.02780v1](http://arxiv.org/abs/2505.02780v1)|null|
+|**2025-05-05**|**Teaching the social media generation: rethinking learning without sacrificing quality**|Sepinoud Azimi et.al.|[2505.02770v1](http://arxiv.org/abs/2505.02770v1)|null|
+|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766v1](http://arxiv.org/abs/2505.02766v1)|null|
+|**2025-05-05**|**How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework**|Tin Nguyen et.al.|[2505.02749v1](http://arxiv.org/abs/2505.02749v1)|null|
+|**2025-05-05**|**The use of Artificial Intelligence for Intervention and Assessment in Individuals with ASD**|Aggeliki Sideraki et.al.|[2505.02747v1](http://arxiv.org/abs/2505.02747v1)|null|
+|**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Jun Wang et.al.|[2505.02744v1](http://arxiv.org/abs/2505.02744v1)|null|
+|**2025-05-05**|**A Unifying Framework to Enable Artificial Intelligence in High Performance Computing Workflows**|Jens Domke et.al.|[2505.02738v1](http://arxiv.org/abs/2505.02738v1)|null|
+|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|null|
+|**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707v1](http://arxiv.org/abs/2505.02707v1)|null|
+|**2025-05-05**|**AI Standardized Patient Improves Human Conversations in Advanced Cancer Care**|Kurtis Haut et.al.|[2505.02694v1](http://arxiv.org/abs/2505.02694v1)|null|
+|**2025-05-05**|**Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models**|Xiaobao Wu et.al.|[2505.02686v1](http://arxiv.org/abs/2505.02686v1)|null|
+|**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666v1](http://arxiv.org/abs/2505.02666v1)|null|
+|**2025-05-05**|**Eye Movements as Indicators of Deception: A Machine Learning Approach**|Valentin Foucher et.al.|[2505.02649v1](http://arxiv.org/abs/2505.02649v1)|null|
+|**2025-05-05**|**Lane-Wise Highway Anomaly Detection**|Mei Qiu et.al.|[2505.02613v1](http://arxiv.org/abs/2505.02613v1)|null|
+|**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
+|**2025-05-05**|**Agentic Neurodivergence as a Contingent Solution to the AI Alignment Problem**|Alberto Hernández-Espinosa et.al.|[2505.02581v1](http://arxiv.org/abs/2505.02581v1)|null|
+|**2025-05-05**|**The Turing Test Is More Relevant Than Ever**|Avraham Rahimov et.al.|[2505.02558v1](http://arxiv.org/abs/2505.02558v1)|null|
+|**2025-05-05**|**Bielik v3 Small: Technical Report**|Krzysztof Ociepa et.al.|[2505.02550v1](http://arxiv.org/abs/2505.02550v1)|null|
+|**2025-05-05**|**"Salt is the Soul of Hakka Baked Chicken": Reimagining Traditional Chinese Culinary ICH for Modern Contexts Without Losing Tradition**|Sijia Liu et.al.|[2505.02542v1](http://arxiv.org/abs/2505.02542v1)|null|
+|**2025-05-05**|**Deaf in AI: AI language technologies and the erosion of linguistic rights**|Maartje De Meulder et.al.|[2505.02519v1](http://arxiv.org/abs/2505.02519v1)|null|
+|**2025-05-05**|**Machine-Learning-Powered Neural Interfaces for Smart Prosthetics and Diagnostics**|MohammadAli Shaeri et.al.|[2505.02516v1](http://arxiv.org/abs/2505.02516v1)|null|
+|**2025-05-05**|**Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study**|Xinyi Hou et.al.|[2505.02502v1](http://arxiv.org/abs/2505.02502v1)|null|
+|**2025-05-05**|**Automating Automotive Software Development: A Synergy of Generative AI and Formal Methods**|Fengjunjie Pan et.al.|[2505.02500v1](http://arxiv.org/abs/2505.02500v1)|null|
+|**2025-05-05**|**Beyond the model: Key differentiators in large language models and multi-agent services**|Muskaan Goyal et.al.|[2505.02489v1](http://arxiv.org/abs/2505.02489v1)|null|
+|**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471v1](http://arxiv.org/abs/2505.02471v1)|null|
