@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-05 21:11:16 Asia/Shanghai
+ Automated deployment @ 2025-05-06 08:14:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Osmail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|null|
+|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Ismail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|null|
 |**2025-05-02**|**Provable Efficiency of Guidance in Diffusion Models for General Data Distribution**|Gen Li et.al.|[2505.01382v1](http://arxiv.org/abs/2505.01382v1)|null|
 |**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|null|
@@ -76,7 +76,7 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Osmail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|null|
+|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Ismail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|null|
 |**2025-05-02**|**Provable Efficiency of Guidance in Diffusion Models for General Data Distribution**|Gen Li et.al.|[2505.01382v1](http://arxiv.org/abs/2505.01382v1)|null|
 |**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|null|
