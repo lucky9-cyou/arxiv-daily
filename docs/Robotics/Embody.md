@@ -30,5 +30,5 @@
 |**2025-05-06**|**Domain Adversarial Training for Mitigating Gender Bias in Speech-based Mental Health Detection**|June-Woo Kim et.al.|[2505.03359v1](http://arxiv.org/abs/2505.03359v1)|null|
 |**2025-05-06**|**Physics-Informed Neural Networks in Electromagnetic and Nanophotonic Design**|Omar A. M. Abdelraouf et.al.|[2505.03354v1](http://arxiv.org/abs/2505.03354v1)|null|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338v1](http://arxiv.org/abs/2505.03338v1)|null|
-|**2025-05-06**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335v1](http://arxiv.org/abs/2505.03335v1)|null|
+|**2025-05-06**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335v1](http://arxiv.org/abs/2505.03335v1)|[link](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)|
 |**2025-05-06**|**AI-Driven Scholarly Peer Review via Persistent Workflow Prompting, Meta-Prompting, and Meta-Reasoning**|Evgeny Markhasin et.al.|[2505.03332v1](http://arxiv.org/abs/2505.03332v1)|null|
