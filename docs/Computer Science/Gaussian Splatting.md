@@ -12,7 +12,7 @@
 |**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|null|
 |**2025-05-05**|**Nonconvex landscapes in phase retrieval and semidefinite low-rank matrix sensing with overparametrization**|Andrew D. McRae et.al.|[2505.02636v1](http://arxiv.org/abs/2505.02636v1)|null|
 |**2025-05-05**|**A comprehensive framework for statistical testing of brain dynamics**|Nick Yao Larsen et.al.|[2505.02541v1](http://arxiv.org/abs/2505.02541v1)|null|
-|**2025-05-05**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508v1](http://arxiv.org/abs/2505.02508v1)|null|
+|**2025-05-05**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508v2](http://arxiv.org/abs/2505.02508v2)|null|
 |**2025-05-05**|**Machine-learning interatomic potentials from a users perspective: A comparison of accuracy, speed and data efficiency**|Niklas Leimeroth et.al.|[2505.02503v1](http://arxiv.org/abs/2505.02503v1)|null|
 |**2025-05-05**|**Addressing the too-big-to-fail problem and the void phenomenon through a modified initial power spectrum**|Hamed Kameli et.al.|[2505.02475v1](http://arxiv.org/abs/2505.02475v1)|null|
 |**2025-05-05**|**Efficient Classical Algorithms for Simulating Gaussian Boson Sampling on Graphs**|Yexin Zhang et.al.|[2505.02445v1](http://arxiv.org/abs/2505.02445v1)|null|
