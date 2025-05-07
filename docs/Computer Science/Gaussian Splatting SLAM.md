@@ -9,7 +9,7 @@
 |**2025-05-05**|**Debiased inference in error-in-variable problems with non-Gaussian measurement error**|Nicholas W. Woolsey et.al.|[2505.02754v1](http://arxiv.org/abs/2505.02754v1)|null|
 |**2025-05-05**|**A random walk model for the evolution of the halo spin vector**|Jun Hou et.al.|[2505.02669v1](http://arxiv.org/abs/2505.02669v1)|null|
 |**2025-05-05**|**Role of Noise on Defect Formation and Correlations in a Long-Range Ising Model Under Adiabatic Driving**|Santanu Dhara et.al.|[2505.02661v1](http://arxiv.org/abs/2505.02661v1)|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v2](http://arxiv.org/abs/2505.02648v2)|null|
 |**2025-05-05**|**Nonconvex landscapes in phase retrieval and semidefinite low-rank matrix sensing with overparametrization**|Andrew D. McRae et.al.|[2505.02636v1](http://arxiv.org/abs/2505.02636v1)|null|
 |**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
 |**2025-05-05**|**A comprehensive framework for statistical testing of brain dynamics**|Nick Yao Larsen et.al.|[2505.02541v1](http://arxiv.org/abs/2505.02541v1)|null|
