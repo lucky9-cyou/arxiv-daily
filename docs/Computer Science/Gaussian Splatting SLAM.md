@@ -2,6 +2,27 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-07**|**Is the end of Insight in Sight ?**|Jean-Michel Tucny et.al.|[2505.04627v1](http://arxiv.org/abs/2505.04627v1)|null|
+|**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613v1](http://arxiv.org/abs/2505.04613v1)|null|
+|**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|[link](https://github.com/aralab-unr/esm_icp)|
+|**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486v1](http://arxiv.org/abs/2505.04486v1)|null|
+|**2025-05-07**|**Spectroscopic investigations of a filament reconnecting with coronal loops during a two-ribbon solar flare**|Reetika Joshi et.al.|[2505.04479v1](http://arxiv.org/abs/2505.04479v1)|null|
+|**2025-05-07**|**Hamiltonian Normalizing Flows as kinetic PDE solvers: application to the 1D Vlasov-Poisson Equations**|Vincent Souveton et.al.|[2505.04471v1](http://arxiv.org/abs/2505.04471v1)|null|
+|**2025-05-07**|**PAC-Bayesian risk bounds for fully connected deep neural network with Gaussian priors**|The Tien Mai et.al.|[2505.04341v1](http://arxiv.org/abs/2505.04341v1)|null|
+|**2025-05-07**|**In search of an interaction in the dark sector through Gaussian Process and ANN approaches**|Mazaharul Abedin et.al.|[2505.04336v1](http://arxiv.org/abs/2505.04336v1)|null|
+|**2025-05-07**|**Generic Two-Mode Gaussian States as Quantum Sensors**|Pritam Chattopadhyay et.al.|[2505.04321v1](http://arxiv.org/abs/2505.04321v1)|null|
+|**2025-05-07**|**Beyond entropic regularization: Debiased Gaussian estimators for discrete optimal transport and general linear programs**|Shuyu Liu et.al.|[2505.04312v1](http://arxiv.org/abs/2505.04312v1)|null|
+|**2025-05-07**|**Modelling the effects of biological intervention in a dynamical gene network**|Nicolas Champagnat et.al.|[2505.04266v1](http://arxiv.org/abs/2505.04266v1)|null|
+|**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262v1](http://arxiv.org/abs/2505.04262v1)|null|
+|**2025-05-07**|**An Enhanced YOLOv8 Model for Real-Time and Accurate Pothole Detection and Measurement**|Mustafa Yurdakul et.al.|[2505.04207v1](http://arxiv.org/abs/2505.04207v1)|null|
+|**2025-05-07**|**On submodularity of the expected information gain**|Steven Maio et.al.|[2505.04145v1](http://arxiv.org/abs/2505.04145v1)|null|
+|**2025-05-07**|**RFNNS: Robust Fixed Neural Network Steganography with Popular Deep Generative Models**|Yu Cheng et.al.|[2505.04116v1](http://arxiv.org/abs/2505.04116v1)|null|
+|**2025-05-07**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108v1](http://arxiv.org/abs/2505.04108v1)|null|
+|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095v1](http://arxiv.org/abs/2505.04095v1)|null|
+|**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
+|**2025-05-06**|**A computationally efficient framework for realistic epidemic modelling through Gaussian Markov random fields**|Angelos Alexopoulos et.al.|[2505.03938v1](http://arxiv.org/abs/2505.03938v1)|null|
+|**2025-05-06**|**SAND: One-Shot Feature Selection with Additive Noise Distortion**|Pedram Pad et.al.|[2505.03923v1](http://arxiv.org/abs/2505.03923v1)|null|
+|**2025-05-06**|**Non-Gaussian Noise Magnetometry Using Local Spin Qubits**|Jonathan B. Curtis et.al.|[2505.03877v1](http://arxiv.org/abs/2505.03877v1)|null|
 |**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737v1](http://arxiv.org/abs/2505.03737v1)|null|
 |**2025-05-06**|**Young Planets around Young Accreting Stars: I. Migration and Inner Stalling Orbits**|Arturo Cevallos Soto et.al.|[2505.03701v1](http://arxiv.org/abs/2505.03701v1)|null|
 |**2025-05-06**|**Average entanglement entropy of a small subsystem in a constrained pure Gaussian state ensemble**|Erik Aurell et.al.|[2505.03696v1](http://arxiv.org/abs/2505.03696v1)|null|
@@ -11,24 +32,3 @@
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
 |**2025-05-06**|**Full space-time abrupt autofocusing spherical Airy wavepacket**|Qian Cao et.al.|[2505.03564v1](http://arxiv.org/abs/2505.03564v1)|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448v1](http://arxiv.org/abs/2505.03448v1)|null|
-|**2025-05-06**|**Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients**|Stefano Bruno et.al.|[2505.03432v1](http://arxiv.org/abs/2505.03432v1)|null|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|[link](https://github.com/lyp-deeplearning/liftfeat)|
-|**2025-05-06**|**GUAVA: Generalizable Upper Body 3D Gaussian Avatar**|Dongbin Zhang et.al.|[2505.03351v1](http://arxiv.org/abs/2505.03351v1)|null|
-|**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310v1](http://arxiv.org/abs/2505.03310v1)|null|
-|**2025-05-06**|**A piston to counteract diffusion: The influence of an inward-shifting boundary on the heat equation in half-space**|Samuel Tréton et.al.|[2505.03304v1](http://arxiv.org/abs/2505.03304v1)|null|
-|**2025-05-06**|**The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning**|Jan Ole von Hartz et.al.|[2505.03296v1](http://arxiv.org/abs/2505.03296v1)|null|
-|**2025-05-06**|**A Stochastic Gradient Descent Method with Global Convergence for Minimizing Nearly Convex Functions**|Chenglong Bao et.al.|[2505.03222v1](http://arxiv.org/abs/2505.03222v1)|null|
-|**2025-05-06**|**Quantum correlations in entangled two-particle non-unitary quantum walks**|Gene M. M. Itable et.al.|[2505.03219v1](http://arxiv.org/abs/2505.03219v1)|null|
-|**2025-05-06**|**Particle decay as asymptotic narrow parametric resonance**|Shao-Ping Li et.al.|[2505.03160v1](http://arxiv.org/abs/2505.03160v1)|null|
-|**2025-05-06**|**Enhanced Simultaneous Quantum-Classical Communications Under Composable Security**|Nicholas Zaunders et.al.|[2505.03145v1](http://arxiv.org/abs/2505.03145v1)|null|
-|**2025-05-06**|**USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding**|Ruiming Guo et.al.|[2505.03098v1](http://arxiv.org/abs/2505.03098v1)|null|
-|**2025-05-05**|**Modeling Spatial Extremes using Non-Gaussian Spatial Autoregressive Models via Convolutional Neural Networks**|Sweta Rai et.al.|[2505.03034v1](http://arxiv.org/abs/2505.03034v1)|null|
-|**2025-05-05**|**New affine invariant ensemble samplers and their dimensional scaling**|Yifan Chen et.al.|[2505.02987v1](http://arxiv.org/abs/2505.02987v1)|null|
-|**2025-05-05**|**More Optimal Fractional-Order Stochastic Gradient Descent for Non-Convex Optimization Problems**|Mohammad Partohaghighi et.al.|[2505.02985v1](http://arxiv.org/abs/2505.02985v1)|null|
-|**2025-05-05**|**Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky Preconditioners**|Tianyu Liang et.al.|[2505.02977v1](http://arxiv.org/abs/2505.02977v1)|null|
-|**2025-05-05**|**Urban Forms Across Continents: A Data-Driven Comparison of Lausanne and Philadelphia**|Arthur Carmès et.al.|[2505.02938v1](http://arxiv.org/abs/2505.02938v1)|null|
-|**2025-05-05**|**Resilience and implications of adiabatic CMB cooling**|Ruchika et.al.|[2505.02909v1](http://arxiv.org/abs/2505.02909v1)|null|
-|**2025-05-05**|**Weighted FFT estimators for 1D and 3D correlations of the Lyman-$α$ forest**|Martine Lokken et.al.|[2505.02904v1](http://arxiv.org/abs/2505.02904v1)|null|
-|**2025-05-05**|**What is a Gaussian channel, and when is it physically implementable using a multiport interferometer?**|Repana Devendra et.al.|[2505.02834v1](http://arxiv.org/abs/2505.02834v1)|null|
-|**2025-05-05**|**Characterization of Gaussian Tensor Ensembles**|Remi Bonnin et.al.|[2505.02814v1](http://arxiv.org/abs/2505.02814v1)|null|
-|**2025-05-05**|**Stabilizing dark matter with quantum scale symmetry**|Abhishek Chikkaballi et.al.|[2505.02803v1](http://arxiv.org/abs/2505.02803v1)|null|
