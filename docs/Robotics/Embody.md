@@ -11,7 +11,7 @@
 |**2025-05-06**|**Meta-reasoning Using Attention Maps and Its Applications in Cloud Robotics**|Adrian Lendinez et.al.|[2505.03587v1](http://arxiv.org/abs/2505.03587v1)|null|
 |**2025-05-06**|**BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation**|Lucas Anastasiou et.al.|[2505.03584v1](http://arxiv.org/abs/2505.03584v1)|null|
 |**2025-05-06**|**LlamaFirewall: An open source guardrail system for building secure AI agents**|Sahana Chennabasappa et.al.|[2505.03574v1](http://arxiv.org/abs/2505.03574v1)|null|
-|**2025-05-06**|**OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents**|Mariya Davydova et.al.|[2505.03570v1](http://arxiv.org/abs/2505.03570v1)|null|
+|**2025-05-06**|**OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents**|Mariya Davydova et.al.|[2505.03570v1](http://arxiv.org/abs/2505.03570v1)|[link](https://github.com/agentsea/osuniverse)|
 |**2025-05-06**|**Rapid AI-based generation of coverage paths for dispensing applications**|Simon Baeuerle et.al.|[2505.03560v1](http://arxiv.org/abs/2505.03560v1)|null|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556v1](http://arxiv.org/abs/2505.03556v1)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553v1](http://arxiv.org/abs/2505.03553v1)|null|
@@ -22,9 +22,9 @@
 |**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439v1](http://arxiv.org/abs/2505.03439v1)|null|
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
 |**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434v1](http://arxiv.org/abs/2505.03434v1)|null|
-|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427v1](http://arxiv.org/abs/2505.03427v1)|null|
+|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427v1](http://arxiv.org/abs/2505.03427v1)|[link](https://github.com/nyuad-cai/medarabiq)|
 |**2025-05-06**|**Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications**|Ziyu Li et.al.|[2505.03426v1](http://arxiv.org/abs/2505.03426v1)|null|
-|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424v1](http://arxiv.org/abs/2505.03424v1)|null|
+|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424v1](http://arxiv.org/abs/2505.03424v1)|[link](https://github.com/ispras/gnn-aid)|
 |**2025-05-06**|**AI-Based Feedback in Counselling Competence Training of Prospective Teachers**|Tobias Hallmen et.al.|[2505.03423v1](http://arxiv.org/abs/2505.03423v1)|null|
 |**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380v1](http://arxiv.org/abs/2505.03380v1)|null|
 |**2025-05-06**|**Domain Adversarial Training for Mitigating Gender Bias in Speech-based Mental Health Detection**|June-Woo Kim et.al.|[2505.03359v1](http://arxiv.org/abs/2505.03359v1)|null|
