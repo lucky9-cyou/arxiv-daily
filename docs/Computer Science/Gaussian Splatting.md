@@ -17,7 +17,7 @@
 |**2025-05-07**|**An Enhanced YOLOv8 Model for Real-Time and Accurate Pothole Detection and Measurement**|Mustafa Yurdakul et.al.|[2505.04207v1](http://arxiv.org/abs/2505.04207v1)|null|
 |**2025-05-07**|**On submodularity of the expected information gain**|Steven Maio et.al.|[2505.04145v1](http://arxiv.org/abs/2505.04145v1)|null|
 |**2025-05-07**|**RFNNS: Robust Fixed Neural Network Steganography with Popular Deep Generative Models**|Yu Cheng et.al.|[2505.04116v1](http://arxiv.org/abs/2505.04116v1)|null|
-|**2025-05-07**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108v1](http://arxiv.org/abs/2505.04108v1)|null|
+|**2025-05-07**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108v2](http://arxiv.org/abs/2505.04108v2)|null|
 |**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
 |**2025-05-06**|**A computationally efficient framework for realistic epidemic modelling through Gaussian Markov random fields**|Angelos Alexopoulos et.al.|[2505.03938v1](http://arxiv.org/abs/2505.03938v1)|null|
 |**2025-05-06**|**SAND: One-Shot Feature Selection with Additive Noise Distortion**|Pedram Pad et.al.|[2505.03923v1](http://arxiv.org/abs/2505.03923v1)|null|

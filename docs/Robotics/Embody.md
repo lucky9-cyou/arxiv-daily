@@ -16,7 +16,7 @@
 |**2025-05-07**|**Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving**|Qi Liu et.al.|[2505.04528v1](http://arxiv.org/abs/2505.04528v1)|null|
 |**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524v1](http://arxiv.org/abs/2505.04524v1)|null|
 |**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521v1](http://arxiv.org/abs/2505.04521v1)|null|
-|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497v1](http://arxiv.org/abs/2505.04497v1)|null|
+|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497v2](http://arxiv.org/abs/2505.04497v2)|null|
 |**2025-05-07**|**Model-Based AI planning and Execution Systems for Robotics**|Or Wertheim et.al.|[2505.04493v1](http://arxiv.org/abs/2505.04493v1)|null|
 |**2025-05-07**|**Image Steganography For Securing Intellicise Wireless Networks: "Invisible Encryption" Against Eavesdroppers**|Bizhu Wang et.al.|[2505.04467v1](http://arxiv.org/abs/2505.04467v1)|null|
 |**2025-05-07**|**SwinLSTM Autoencoder for Temporal-Spatial-Frequency Domain CSI Compression in Massive MIMO Systems**|Aakash Saini et.al.|[2505.04432v1](http://arxiv.org/abs/2505.04432v1)|null|
