@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|[link](https://github.com/hzxie/awesome-3d-scene-generation)|
-|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|null|
-|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453v1](http://arxiv.org/abs/2505.05453v1)|null|
-|**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445v1](http://arxiv.org/abs/2505.05445v1)|null|
-|**2025-05-08**|**Empowering Scientific Workflows with Federated Agents**|J. Gregory Pauloski et.al.|[2505.05428v1](http://arxiv.org/abs/2505.05428v1)|null|
-|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413v1](http://arxiv.org/abs/2505.05413v1)|null|
-|**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410v1](http://arxiv.org/abs/2505.05410v1)|null|
-|**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366v1](http://arxiv.org/abs/2505.05366v1)|null|
-|**2025-05-08**|**Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design**|Elena Musi et.al.|[2505.05298v1](http://arxiv.org/abs/2505.05298v1)|null|
-|**2025-05-08**|**Does CLIP perceive art the same way we do?**|Andrea Asperti et.al.|[2505.05229v1](http://arxiv.org/abs/2505.05229v1)|null|
-|**2025-05-08**|**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**|Joel Z. Leibo et.al.|[2505.05197v1](http://arxiv.org/abs/2505.05197v1)|null|
-|**2025-05-08**|**MARK: Memory Augmented Refinement of Knowledge**|Anish Ganguli et.al.|[2505.05177v1](http://arxiv.org/abs/2505.05177v1)|null|
-|**2025-05-08**|**Dukawalla: Voice Interfaces for Small Businesses in Africa**|Elizabeth Ankrah et.al.|[2505.05170v1](http://arxiv.org/abs/2505.05170v1)|null|
-|**2025-05-08**|**Is there a half-life for the success rates of AI agents?**|Toby Ord et.al.|[2505.05115v1](http://arxiv.org/abs/2505.05115v1)|null|
-|**2025-05-08**|**Multi-agent Embodied AI: Advances and Future Directions**|Zhaohan Feng et.al.|[2505.05108v1](http://arxiv.org/abs/2505.05108v1)|null|
-|**2025-05-08**|**A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network**|Haoxiang Luo et.al.|[2505.05103v1](http://arxiv.org/abs/2505.05103v1)|null|
-|**2025-05-08**|**Beyond Low-rank Decomposition: A Shortcut Approach for Efficient On-Device Learning**|Le-Trung Nguyen et.al.|[2505.05086v1](http://arxiv.org/abs/2505.05086v1)|null|
-|**2025-05-08**|**WaterDrum: Watermarking for Data-centric Unlearning Metric**|Xinyang Lu et.al.|[2505.05064v1](http://arxiv.org/abs/2505.05064v1)|[link](https://github.com/lululu008/waterdrum)|
-|**2025-05-08**|**Neural Pathways to Program Success: Hopfield Networks for PERT Analysis**|Azgar Ali Noor Ahamed et.al.|[2505.05047v1](http://arxiv.org/abs/2505.05047v1)|null|
-|**2025-05-08**|**AI and Vision based Autonomous Navigation of Nano-Drones in Partially-Known Environments**|Mattia Sartori et.al.|[2505.04972v1](http://arxiv.org/abs/2505.04972v1)|null|
-|**2025-05-08**|**Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer Rewards**|Jaeho Kim et.al.|[2505.04966v1](http://arxiv.org/abs/2505.04966v1)|null|
-|**2025-05-08**|**CAG-VLM: Fine-Tuning of a Large-Scale Model to Recognize Angiographic Images for Next-Generation Diagnostic Systems**|Yuto Nakamura et.al.|[2505.04964v1](http://arxiv.org/abs/2505.04964v1)|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|null|
-|**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962v1](http://arxiv.org/abs/2505.04962v1)|null|
-|**2025-05-08**|**Position: Epistemic Artificial Intelligence is Essential for Machine Learning Models to Know When They Do Not Know**|Shireen Kudukkil Manchingal et.al.|[2505.04950v1](http://arxiv.org/abs/2505.04950v1)|null|
-|**2025-05-08**|**Belief Filtering for Epistemic Control in Linguistic State Space**|Sebastian Dumbrava et.al.|[2505.04927v1](http://arxiv.org/abs/2505.04927v1)|null|
-|**2025-05-08**|**An Open-Source Dual-Loss Embedding Model for Semantic Retrieval in Higher Education**|Ramteja Sajja et.al.|[2505.04916v1](http://arxiv.org/abs/2505.04916v1)|null|
-|**2025-05-08**|**Enigme: Generative Text Puzzles for Evaluating Reasoning in Language Models**|John Hawkins et.al.|[2505.04914v1](http://arxiv.org/abs/2505.04914v1)|null|
-|**2025-05-08**|**Theatrical Language Processing: Exploring AI-Augmented Improvisational Acting and Scriptwriting with LLMs**|Sora Kang et.al.|[2505.04890v1](http://arxiv.org/abs/2505.04890v1)|null|
-|**2025-05-08**|**Cross-Branch Orthogonality for Improved Generalization in Face Deepfake Detection**|Tharindu Fernando et.al.|[2505.04888v1](http://arxiv.org/abs/2505.04888v1)|null|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218v1](http://arxiv.org/abs/2505.06218v1)|null|
+|**2025-05-09**|**ProME: An Integrated Computational Platform for Material Properties at Extremes and Its Application in Multicomponent Alloy Design**|Xingyu Gao et.al.|[2505.06194v1](http://arxiv.org/abs/2505.06194v1)|null|
+|**2025-05-09**|**Wasserstein Distances Made Explainable: Insights into Dataset Shifts and Transport Phenomena**|Philip Naumann et.al.|[2505.06123v1](http://arxiv.org/abs/2505.06123v1)|null|
+|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111v1](http://arxiv.org/abs/2505.06111v1)|[link](https://github.com/opendrivelab/univla)|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|null|
+|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085v1](http://arxiv.org/abs/2505.06085v1)|null|
+|**2025-05-09**|**AI-assisted Automatic Jump Detection and Height Estimation in Volleyball Using a Waist-worn IMU**|Weiyi Xu et.al.|[2505.05907v1](http://arxiv.org/abs/2505.05907v1)|null|
+|**2025-05-09**|**Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI**|Benjamin Raphael Ernhofer et.al.|[2505.05895v1](http://arxiv.org/abs/2505.05895v1)|null|
+|**2025-05-09**|**Measurement of the phase between strong and electromagnetic amplitudes in the decay $J/ψ\toφη$**|BESIII Collaboration et.al.|[2505.05888v1](http://arxiv.org/abs/2505.05888v1)|null|
+|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885v1](http://arxiv.org/abs/2505.05885v1)|null|
+|**2025-05-09**|**Combining Abstract Argumentation and Machine Learning for Efficiently Analyzing Low-Level Process Event Streams**|Bettina Fazzinga et.al.|[2505.05880v1](http://arxiv.org/abs/2505.05880v1)|null|
+|**2025-05-09**|**Symbol-based entity marker highlighting for enhanced text mining in materials science with generative AI**|Junhyeong Lee et.al.|[2505.05864v1](http://arxiv.org/abs/2505.05864v1)|null|
+|**2025-05-09**|**AgentXploit: End-to-End Redteaming of Black-Box AI Agents**|Zhun Wang et.al.|[2505.05849v1](http://arxiv.org/abs/2505.05849v1)|null|
+|**2025-05-09**|**Automated Knot Detection and Pairing for Wood Analysis in the Timber Industry**|Guohao Lin et.al.|[2505.05845v1](http://arxiv.org/abs/2505.05845v1)|null|
+|**2025-05-09**|**Tell Me Who Your Students Are: GPT Can Generate Valid Multiple-Choice Questions When Students' (Mis)Understanding Is Hinted**|Machi Shimmei et.al.|[2505.05815v1](http://arxiv.org/abs/2505.05815v1)|null|
+|**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802v1](http://arxiv.org/abs/2505.05802v1)|null|
+|**2025-05-09**|**Improving Generalizability of Kolmogorov-Arnold Networks via Error-Correcting Output Codes**|Youngjoon Lee et.al.|[2505.05798v1](http://arxiv.org/abs/2505.05798v1)|null|
+|**2025-05-09**|**Human-in-the-Loop AI for HVAC Management Enhancing Comfort and Energy Efficiency**|Xinyu Liang et.al.|[2505.05796v1](http://arxiv.org/abs/2505.05796v1)|null|
+|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
+|**2025-05-09**|**PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection**|Domenico Cotroneo et.al.|[2505.05777v1](http://arxiv.org/abs/2505.05777v1)|null|
+|**2025-05-09**|**Predicting Diabetic Macular Edema Treatment Responses Using OCT: Dataset and Methods of APTOS Competition**|Weiyi Zhang et.al.|[2505.05768v1](http://arxiv.org/abs/2505.05768v1)|null|
+|**2025-05-09**|**Multi-Agent Systems for Robotic Autonomy with LLMs**|Junhong Chen et.al.|[2505.05762v1](http://arxiv.org/abs/2505.05762v1)|null|
+|**2025-05-09**|**Towards Embodiment Scaling Laws in Robot Locomotion**|Bo Ai et.al.|[2505.05753v1](http://arxiv.org/abs/2505.05753v1)|null|
+|**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741v1](http://arxiv.org/abs/2505.05741v1)|null|
+|**2025-05-09**|**LLM-Text Watermarking based on Lagrange Interpolation**|Jarosław Janas et.al.|[2505.05712v1](http://arxiv.org/abs/2505.05712v1)|null|
+|**2025-05-09**|**Crowding Out The Noise: Algorithmic Collective Action Under Differential Privacy**|Rushabh Solanki et.al.|[2505.05707v1](http://arxiv.org/abs/2505.05707v1)|null|
+|**2025-05-08**|**CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory**|Weichen Zhang et.al.|[2505.05622v1](http://arxiv.org/abs/2505.05622v1)|[link](https://github.com/vinceouti/citynavagent)|
+|**2025-05-08**|**HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics**|Lennart Luettgau et.al.|[2505.05602v1](http://arxiv.org/abs/2505.05602v1)|null|
+|**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577v1](http://arxiv.org/abs/2505.05577v1)|[link](https://github.com/apliko-xyz/pytdc)|
+|**2025-05-08**|**Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573v1](http://arxiv.org/abs/2505.05573v1)|[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)|
