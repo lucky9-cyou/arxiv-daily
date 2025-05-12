@@ -25,7 +25,7 @@
 |**2025-05-08**|**Dequantified Diffusion Schrödinger Bridge for Density Ratio Estimation**|Wei Chen et.al.|[2505.05034v1](http://arxiv.org/abs/2505.05034v1)|null|
 |**2025-05-08**|**Diffusion-enabled Secure Semantic Communication Against Eavesdropping**|Boxiang He et.al.|[2505.05018v1](http://arxiv.org/abs/2505.05018v1)|null|
 |**2025-05-08**|**MoRe-3DGSMR: Motion-resolved reconstruction framework for free-breathing pulmonary MRI based on 3D Gaussian representation**|Tengya Peng et.al.|[2505.04959v1](http://arxiv.org/abs/2505.04959v1)|null|
-|**2025-05-08**|**The Poisson tensor completion non-parametric differential entropy estimator**|Daniel M. Dunlavy et.al.|[2505.04957v1](http://arxiv.org/abs/2505.04957v1)|null|
+|**2025-05-08**|**The Poisson tensor completion non-parametric differential entropy estimator**|Daniel M. Dunlavy et.al.|[2505.04957v2](http://arxiv.org/abs/2505.04957v2)|null|
 |**2025-05-08**|**Study of Wormholes in Symmetric Teleparallel Theories of Gravity**|Moreshwar Tayde et.al.|[2505.04952v1](http://arxiv.org/abs/2505.04952v1)|null|
 |**2025-05-08**|**Lyapunov exponents for products of truncated orthogonal matrices**|Dong Qichao et.al.|[2505.04928v1](http://arxiv.org/abs/2505.04928v1)|null|
 |**2025-05-08**|**Enhanced resolution chirped-pulse interferometry**|Madeleine Bérubé et.al.|[2505.04901v1](http://arxiv.org/abs/2505.04901v1)|null|
