@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218v1](http://arxiv.org/abs/2505.06218v1)|null|
-|**2025-05-09**|**ProME: An Integrated Computational Platform for Material Properties at Extremes and Its Application in Multicomponent Alloy Design**|Xingyu Gao et.al.|[2505.06194v1](http://arxiv.org/abs/2505.06194v1)|null|
-|**2025-05-09**|**Wasserstein Distances Made Explainable: Insights into Dataset Shifts and Transport Phenomena**|Philip Naumann et.al.|[2505.06123v1](http://arxiv.org/abs/2505.06123v1)|null|
-|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111v1](http://arxiv.org/abs/2505.06111v1)|[link](https://github.com/opendrivelab/univla)|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|null|
-|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085v1](http://arxiv.org/abs/2505.06085v1)|null|
-|**2025-05-09**|**AI-assisted Automatic Jump Detection and Height Estimation in Volleyball Using a Waist-worn IMU**|Weiyi Xu et.al.|[2505.05907v1](http://arxiv.org/abs/2505.05907v1)|null|
-|**2025-05-09**|**Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI**|Benjamin Raphael Ernhofer et.al.|[2505.05895v1](http://arxiv.org/abs/2505.05895v1)|null|
-|**2025-05-09**|**Measurement of the phase between strong and electromagnetic amplitudes in the decay $J/ψ\toφη$**|BESIII Collaboration et.al.|[2505.05888v1](http://arxiv.org/abs/2505.05888v1)|null|
-|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885v1](http://arxiv.org/abs/2505.05885v1)|null|
-|**2025-05-09**|**Combining Abstract Argumentation and Machine Learning for Efficiently Analyzing Low-Level Process Event Streams**|Bettina Fazzinga et.al.|[2505.05880v1](http://arxiv.org/abs/2505.05880v1)|null|
-|**2025-05-09**|**Symbol-based entity marker highlighting for enhanced text mining in materials science with generative AI**|Junhyeong Lee et.al.|[2505.05864v1](http://arxiv.org/abs/2505.05864v1)|null|
-|**2025-05-09**|**AgentXploit: End-to-End Redteaming of Black-Box AI Agents**|Zhun Wang et.al.|[2505.05849v1](http://arxiv.org/abs/2505.05849v1)|null|
-|**2025-05-09**|**Automated Knot Detection and Pairing for Wood Analysis in the Timber Industry**|Guohao Lin et.al.|[2505.05845v1](http://arxiv.org/abs/2505.05845v1)|null|
-|**2025-05-09**|**Tell Me Who Your Students Are: GPT Can Generate Valid Multiple-Choice Questions When Students' (Mis)Understanding Is Hinted**|Machi Shimmei et.al.|[2505.05815v1](http://arxiv.org/abs/2505.05815v1)|null|
-|**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802v1](http://arxiv.org/abs/2505.05802v1)|null|
-|**2025-05-09**|**Improving Generalizability of Kolmogorov-Arnold Networks via Error-Correcting Output Codes**|Youngjoon Lee et.al.|[2505.05798v1](http://arxiv.org/abs/2505.05798v1)|null|
-|**2025-05-09**|**Human-in-the-Loop AI for HVAC Management Enhancing Comfort and Energy Efficiency**|Xinyu Liang et.al.|[2505.05796v1](http://arxiv.org/abs/2505.05796v1)|null|
-|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
-|**2025-05-09**|**PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection**|Domenico Cotroneo et.al.|[2505.05777v1](http://arxiv.org/abs/2505.05777v1)|null|
-|**2025-05-09**|**Predicting Diabetic Macular Edema Treatment Responses Using OCT: Dataset and Methods of APTOS Competition**|Weiyi Zhang et.al.|[2505.05768v1](http://arxiv.org/abs/2505.05768v1)|null|
-|**2025-05-09**|**Multi-Agent Systems for Robotic Autonomy with LLMs**|Junhong Chen et.al.|[2505.05762v1](http://arxiv.org/abs/2505.05762v1)|null|
-|**2025-05-09**|**Towards Embodiment Scaling Laws in Robot Locomotion**|Bo Ai et.al.|[2505.05753v1](http://arxiv.org/abs/2505.05753v1)|null|
-|**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741v1](http://arxiv.org/abs/2505.05741v1)|null|
-|**2025-05-09**|**LLM-Text Watermarking based on Lagrange Interpolation**|Jarosław Janas et.al.|[2505.05712v1](http://arxiv.org/abs/2505.05712v1)|null|
-|**2025-05-09**|**Crowding Out The Noise: Algorithmic Collective Action Under Differential Privacy**|Rushabh Solanki et.al.|[2505.05707v1](http://arxiv.org/abs/2505.05707v1)|null|
-|**2025-05-08**|**CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory**|Weichen Zhang et.al.|[2505.05622v1](http://arxiv.org/abs/2505.05622v1)|[link](https://github.com/vinceouti/citynavagent)|
-|**2025-05-08**|**HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics**|Lennart Luettgau et.al.|[2505.05602v1](http://arxiv.org/abs/2505.05602v1)|null|
-|**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577v1](http://arxiv.org/abs/2505.05577v1)|[link](https://github.com/apliko-xyz/pytdc)|
-|**2025-05-08**|**Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573v1](http://arxiv.org/abs/2505.05573v1)|[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)|
+|**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813v1](http://arxiv.org/abs/2505.07813v1)|null|
+|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783v1](http://arxiv.org/abs/2505.07783v1)|null|
+|**2025-05-12**|**Must Read: A Systematic Survey of Computational Persuasion**|Nimet Beyza Bozdag et.al.|[2505.07775v1](http://arxiv.org/abs/2505.07775v1)|null|
+|**2025-05-12**|**The Value of Disagreement in AI Design, Evaluation, and Alignment**|Sina Fazelpour et.al.|[2505.07772v1](http://arxiv.org/abs/2505.07772v1)|null|
+|**2025-05-12**|**"I Apologize For Not Understanding Your Policy": Exploring the Specification and Evaluation of User-Managed Access Control Policies by AI Virtual Assistants**|Jennifer Mondragon et.al.|[2505.07759v1](http://arxiv.org/abs/2505.07759v1)|null|
+|**2025-05-12**|**VTutor for High-Impact Tutoring at Scale: Managing Engagement and Real-Time Multi-Screen Monitoring with P2P Connections**|Eason Chen et.al.|[2505.07736v1](http://arxiv.org/abs/2505.07736v1)|null|
+|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734v1](http://arxiv.org/abs/2505.07734v1)|null|
+|**2025-05-12**|**PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**|Daniel Ogenrwot et.al.|[2505.07700v1](http://arxiv.org/abs/2505.07700v1)|null|
+|**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664v1](http://arxiv.org/abs/2505.07664v1)|null|
+|**2025-05-12**|**A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms**|Dieu-Donne Fangnon et.al.|[2505.07660v1](http://arxiv.org/abs/2505.07660v1)|null|
+|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637v1](http://arxiv.org/abs/2505.07637v1)|null|
+|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634v1](http://arxiv.org/abs/2505.07634v1)|null|
+|**2025-05-12**|**Characterizing the Investigative Methods of Fictional Detectives with Large Language Models**|Edirlei Soares de Lima et.al.|[2505.07601v1](http://arxiv.org/abs/2505.07601v1)|null|
+|**2025-05-12**|**Dynamic Object Geographic Coordinate Recognition: An Attitude-Free and Reference-Free Framework via Intrinsic Linear Algebraic Structures**|Junfan Yi et.al.|[2505.07597v1](http://arxiv.org/abs/2505.07597v1)|null|
+|**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583v1](http://arxiv.org/abs/2505.07583v1)|null|
+|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581v1](http://arxiv.org/abs/2505.07581v1)|null|
+|**2025-05-12**|**Security through the Eyes of AI: How Visualization is Shaping Malware Detection**|Asmitha K. A. et.al.|[2505.07574v1](http://arxiv.org/abs/2505.07574v1)|null|
+|**2025-05-12**|**Robust Kidney Abnormality Segmentation: A Validation Study of an AI-Based Framework**|Sarah de Boer et.al.|[2505.07573v1](http://arxiv.org/abs/2505.07573v1)|null|
+|**2025-05-12**|**Towards Requirements Engineering for RAG Systems**|Tor Sporsem et.al.|[2505.07553v1](http://arxiv.org/abs/2505.07553v1)|null|
+|**2025-05-12**|**The Human-Data-Model Interaction Canvas for Visual Analytics**|Jürgen Bernard et.al.|[2505.07534v1](http://arxiv.org/abs/2505.07534v1)|null|
+|**2025-05-12**|**IKrNet: A Neural Network for Detecting Specific Drug-Induced Patterns in Electrocardiograms Amidst Physiological Variability**|Ahmad Fall et.al.|[2505.07533v1](http://arxiv.org/abs/2505.07533v1)|null|
+|**2025-05-12**|**RAI: Flexible Agent Framework for Embodied AI**|Kajetan Rachwał et.al.|[2505.07532v1](http://arxiv.org/abs/2505.07532v1)|null|
+|**2025-05-12**|**QuantX: A Framework for Hardware-Aware Quantization of Generative AI Workloads**|Khurram Mazher et.al.|[2505.07531v1](http://arxiv.org/abs/2505.07531v1)|null|
+|**2025-05-12**|**Average-Reward Maximum Entropy Reinforcement Learning for Global Policy in Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2505.07516v1](http://arxiv.org/abs/2505.07516v1)|null|
+|**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500v1](http://arxiv.org/abs/2505.07500v1)|null|
+|**2025-05-12**|**Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis**|Heraldo Borges et.al.|[2505.07487v1](http://arxiv.org/abs/2505.07487v1)|null|
+|**2025-05-12**|**Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protection Against Misinformation**|Huiyun Tang et.al.|[2505.07486v1](http://arxiv.org/abs/2505.07486v1)|null|
+|**2025-05-12**|**You Only Look One Step: Accelerating Backpropagation in Diffusion Sampling with Gradient Shortcuts**|Hongkun Dou et.al.|[2505.07477v1](http://arxiv.org/abs/2505.07477v1)|[link](https://github.com/deng-ai-lab/sdo)|
+|**2025-05-12**|**Promising Topics for U.S.-China Dialogues on AI Risks and Governance**|Saad Siddiqui et.al.|[2505.07468v1](http://arxiv.org/abs/2505.07468v1)|null|
+|**2025-05-12**|**A Survey on Collaborative Mechanisms Between Large and Small Language Models**|Yi Chen et.al.|[2505.07460v1](http://arxiv.org/abs/2505.07460v1)|null|

@@ -2,6 +2,12 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v1](http://arxiv.org/abs/2505.07396v1)|null|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198v1](http://arxiv.org/abs/2505.07198v1)|null|
+|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894v1](http://arxiv.org/abs/2505.06894v1)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638v1](http://arxiv.org/abs/2505.06638v1)|null|
+|**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504v1](http://arxiv.org/abs/2505.06504v1)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|[link](https://github.com/hzxie/awesome-3d-scene-generation)|
 |**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095v1](http://arxiv.org/abs/2505.04095v1)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
@@ -26,9 +32,3 @@
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819v1](http://arxiv.org/abs/2504.19819v1)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
-|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
-|**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
-|**2025-04-27**|**NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM**|Tianyi Zhang et.al.|[2504.19195v1](http://arxiv.org/abs/2504.19195v1)|null|
-|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|
-|**2025-04-27**|**MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction**|Yulun Tian et.al.|[2504.19104v1](http://arxiv.org/abs/2504.19104v1)|null|
-|**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|

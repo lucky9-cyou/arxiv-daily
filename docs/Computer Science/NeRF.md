@@ -2,6 +2,11 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v1](http://arxiv.org/abs/2505.07396v1)|null|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
+|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894v1](http://arxiv.org/abs/2505.06894v1)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638v1](http://arxiv.org/abs/2505.06638v1)|null|
+|**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504v1](http://arxiv.org/abs/2505.06504v1)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|[link](https://github.com/hzxie/awesome-3d-scene-generation)|
 |**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079v1](http://arxiv.org/abs/2505.02079v1)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005v1](http://arxiv.org/abs/2505.02005v1)|[link](https://github.com/MiZhenxing/Switch-NeRF)|
@@ -27,8 +32,3 @@
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995v1](http://arxiv.org/abs/2504.13995v1)|null|
 |**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|[link](https://github.com/VU-RASL/GSAC)|
-|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|null|
-|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207v1](http://arxiv.org/abs/2504.13207v1)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v3](http://arxiv.org/abs/2504.10331v3)|null|
-|**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878v1](http://arxiv.org/abs/2504.09878v1)|null|
-|**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|

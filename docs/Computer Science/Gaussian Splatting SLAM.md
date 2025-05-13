@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**Robust Method for Confidence Interval Estimation in Outlier-Prone Datasets: Application to Molecular and Biophysical Data**|Victor V. Golovko et.al.|[2505.06139v1](http://arxiv.org/abs/2505.06139v1)|null|
-|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|null|
-|**2025-05-09**|**Top of the spectrum of discrete Anderson Hamiltonians with correlated Gaussian potentials**|Giuseppe Cannizzaro et.al.|[2505.06051v1](http://arxiv.org/abs/2505.06051v1)|null|
-|**2025-05-09**|**Surface Nematic Uniformity**|Andrea Pedrini et.al.|[2505.06037v1](http://arxiv.org/abs/2505.06037v1)|null|
-|**2025-05-09**|**Mass spectrum of heavy tetraquarks in variational approach**|A. V. Eskin et.al.|[2505.05993v1](http://arxiv.org/abs/2505.05993v1)|null|
-|**2025-05-09**|**Mixtures of multivariate linear asymmetric Laplace regressions with multiple asymmetric Laplace covariates**|Arnoldus F. Otto et.al.|[2505.05979v1](http://arxiv.org/abs/2505.05979v1)|null|
-|**2025-05-09**|**Limit Theorems for step reinforced random walks with regularly varying memory**|Aritra Majumdar et.al.|[2505.05921v1](http://arxiv.org/abs/2505.05921v1)|null|
-|**2025-05-09**|**Vacuum pair production under spatially asymmetric time-oscillating electric fields**|Mamat Ali Bake et.al.|[2505.05906v1](http://arxiv.org/abs/2505.05906v1)|null|
-|**2025-05-09**|**Core-Ionized States and X-ray Photoelectron Spectra of Solids From Periodic Algebraic Diagrammatic Construction Theory**|Abdelrahman M. Ahmed et.al.|[2505.05805v1](http://arxiv.org/abs/2505.05805v1)|null|
-|**2025-05-08**|**Subdiffusion of sticky dendrimers in an associative polymer network**|Silpa Mariya et.al.|[2505.05682v1](http://arxiv.org/abs/2505.05682v1)|null|
-|**2025-05-08**|**TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling**|Gengyan Li et.al.|[2505.05672v1](http://arxiv.org/abs/2505.05672v1)|null|
-|**2025-05-08**|**Comparative Evaluation of VaR Models: Historical Simulation, GARCH-Based Monte Carlo, and Filtered Historical Simulation**|Xin Tian et.al.|[2505.05646v1](http://arxiv.org/abs/2505.05646v1)|null|
-|**2025-05-08**|**UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**|Mark C. Eid et.al.|[2505.05643v1](http://arxiv.org/abs/2505.05643v1)|null|
-|**2025-05-08**|**QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization**|Yueh-Cheng Liu et.al.|[2505.05591v1](http://arxiv.org/abs/2505.05591v1)|null|
-|**2025-05-08**|**Steepest Descent Density Control for Compact 3D Gaussian Splatting**|Peihao Wang et.al.|[2505.05587v1](http://arxiv.org/abs/2505.05587v1)|null|
-|**2025-05-08**|**Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum**|Ben T. McDonough et.al.|[2505.05575v1](http://arxiv.org/abs/2505.05575v1)|null|
-|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475v1](http://arxiv.org/abs/2505.05475v1)|[link](https://github.com/yc4ny/SVAD)|
-|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|[link](https://github.com/hzxie/awesome-3d-scene-generation)|
-|**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452v1](http://arxiv.org/abs/2505.05452v1)|null|
-|**2025-05-08**|**Pattern-recognition techniques to search for gravitational waves from inspiraling, dark-dressed primordial black holes**|Charchit Kumar Sethi et.al.|[2505.05546v1](http://arxiv.org/abs/2505.05546v1)|null|
-|**2025-05-08**|**A new time-dependent quantum theory based on Tsallis' distribution**|Won Sang Chung et.al.|[2505.05419v1](http://arxiv.org/abs/2505.05419v1)|null|
-|**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356v1](http://arxiv.org/abs/2505.05356v1)|null|
-|**2025-05-08**|**Laguerre-Gaussian pulses for spin-polarized ion beam acceleration**|Lars Reichwein et.al.|[2505.05337v1](http://arxiv.org/abs/2505.05337v1)|null|
-|**2025-05-08**|**Regularity estimates of fractional heat semigroups related with uniformly elliptic operators**|Honglei Shi et.al.|[2505.05333v1](http://arxiv.org/abs/2505.05333v1)|[link](https://github.com/Shi-honglei/elliptic-operators-2025)|
-|**2025-05-08**|**Information-theoretic characterization of turbulence intermittency**|Shreyashri Sarkar et.al.|[2505.05304v1](http://arxiv.org/abs/2505.05304v1)|null|
-|**2025-05-08**|**Bayesian Clustering Factor Models**|Hwasoo Shin et.al.|[2505.05280v1](http://arxiv.org/abs/2505.05280v1)|null|
-|**2025-05-08**|**Gaussian process representation of dispersion measure noise in pulsar wideband datasets**|Abhimanyu Susobhanan et.al.|[2505.05274v1](http://arxiv.org/abs/2505.05274v1)|null|
-|**2025-05-08**|**Distributed quantum sensing with measurement-after-interaction strategies**|Jiajie Guo et.al.|[2505.05270v1](http://arxiv.org/abs/2505.05270v1)|null|
-|**2025-05-08**|**Ablation of black-Si by (Gauss-)Bessel femtosecond laser beams**|Nan Zheng et.al.|[2505.05263v1](http://arxiv.org/abs/2505.05263v1)|null|
-|**2025-05-08**|**Integrability and Chaos via fractal analysis of Spectral Form Factors: Gaussian approximations and exact results**|Lorenzo Campos Venuti et.al.|[2505.05199v1](http://arxiv.org/abs/2505.05199v1)|null|
+|**2025-05-12**|**Solving Nonlinear PDEs with Sparse Radial Basis Function Networks**|Zihan Shao et.al.|[2505.07765v1](http://arxiv.org/abs/2505.07765v1)|null|
+|**2025-05-12**|**Singular Control in Inventory Management with Smooth Ambiguity**|Arnon Archankul et.al.|[2505.07761v1](http://arxiv.org/abs/2505.07761v1)|null|
+|**2025-05-12**|**Mapping of Microstructure Transitions during Rapid Alloy Solidification Using Bayesian-Guided Phase-Field Simulations**|José Mancias et.al.|[2505.07752v1](http://arxiv.org/abs/2505.07752v1)|null|
+|**2025-05-12**|**Mode Mismatch Mitigation in Gaussian-Modulated CV-QKD**|Svitlana Matsenko et.al.|[2505.07726v1](http://arxiv.org/abs/2505.07726v1)|null|
+|**2025-05-12**|**Transfer Learning Across Fixed-Income Product Classes**|Nicolas Camenzind et.al.|[2505.07676v1](http://arxiv.org/abs/2505.07676v1)|null|
+|**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607v1](http://arxiv.org/abs/2505.07607v1)|null|
+|**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594v1](http://arxiv.org/abs/2505.07594v1)|null|
+|**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539v1](http://arxiv.org/abs/2505.07539v1)|null|
+|**2025-05-12**|**The Exploratory Multi-Asset Mean-Variance Portfolio Selection using Reinforcement Learning**|Yu Li et.al.|[2505.07537v1](http://arxiv.org/abs/2505.07537v1)|null|
+|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503v1](http://arxiv.org/abs/2505.07503v1)|null|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v1](http://arxiv.org/abs/2505.07396v1)|null|
+|**2025-05-12**|**Beyond Boson Sampling: Higher Spin Sampling as a Practical Path to Quantum Supremacy**|Chon-Fai Kam et.al.|[2505.07312v1](http://arxiv.org/abs/2505.07312v1)|null|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198v1](http://arxiv.org/abs/2505.07198v1)|null|
+|**2025-05-11**|**Learning from Samples: Inverse Problems over measures via Sharpened Fenchel-Young Losses**|Francisco Andrade et.al.|[2505.07124v1](http://arxiv.org/abs/2505.07124v1)|null|
+|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071v1](http://arxiv.org/abs/2505.07071v1)|[link](https://github.com/liu-zihang/samsr)|
+|**2025-05-11**|**Design and Experimental Test of Datatic Approximate Optimal Filter in Nonlinear Dynamic Systems**|Weixian He et.al.|[2505.07043v1](http://arxiv.org/abs/2505.07043v1)|null|
+|**2025-05-11**|**Decentralized Stealth Attacks on Cyber-Physical Systems**|Xiuzhen Ye et.al.|[2505.07029v1](http://arxiv.org/abs/2505.07029v1)|null|
+|**2025-05-11**|**High-Frequency Prior-Driven Adaptive Masking for Accelerating Image Super-Resolution**|Wei Shang et.al.|[2505.06975v1](http://arxiv.org/abs/2505.06975v1)|[link](https://github.com/shangwei5/amsr)|
+|**2025-05-11**|**Patterns of X-ray and $γ$-ray Flares: from Blazar to Maganetar and Sun**|Haiyun Zhang et.al.|[2505.06962v1](http://arxiv.org/abs/2505.06962v1)|null|
+|**2025-05-11**|**Improving Random Forests by Smoothing**|Ziyi Liu et.al.|[2505.06852v1](http://arxiv.org/abs/2505.06852v1)|null|
+|**2025-05-11**|**Streaming Sliced Optimal Transport**|Khai Nguyen et.al.|[2505.06835v1](http://arxiv.org/abs/2505.06835v1)|null|
+|**2025-05-11**|**Fine-Grained Bias Exploration and Mitigation for Group-Robust Classification**|Miaoyun Zhao et.al.|[2505.06831v1](http://arxiv.org/abs/2505.06831v1)|null|
+|**2025-05-10**|**Hillclimb-Causal Inference: A Data-Driven Approach to Identify Causal Pathways Among Parental Behaviors, Genetic Risk, and Externalizing Behaviors in Children**|Mengman Wei et.al.|[2505.06784v1](http://arxiv.org/abs/2505.06784v1)|null|
+|**2025-05-10**|**Control Barrier Functions With Real-Time Gaussian Process Modeling**|Ricardo Gutierrez et.al.|[2505.06765v1](http://arxiv.org/abs/2505.06765v1)|null|
+|**2025-05-10**|**Axiomatic quantum electrodynamics: from causality to convexity of effective action**|Anatoly E. Shabad et.al.|[2505.06715v1](http://arxiv.org/abs/2505.06715v1)|null|
+|**2025-05-10**|**Heisenberg limit in phase measurements: the threshold detection approach**|D. I. Salykina et.al.|[2505.06714v1](http://arxiv.org/abs/2505.06714v1)|null|
+|**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671v1](http://arxiv.org/abs/2505.06671v1)|null|
+|**2025-05-10**|**Dyn-D$^2$P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**|Zehan Zhu et.al.|[2505.06651v1](http://arxiv.org/abs/2505.06651v1)|null|
+|**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628v1](http://arxiv.org/abs/2505.06628v1)|null|
+|**2025-05-10**|**Optimal Transport for Machine Learners**|Gabriel Peyré et.al.|[2505.06589v1](http://arxiv.org/abs/2505.06589v1)|null|
