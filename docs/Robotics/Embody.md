@@ -12,12 +12,12 @@
 |**2025-05-12**|**PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**|Daniel Ogenrwot et.al.|[2505.07700v1](http://arxiv.org/abs/2505.07700v1)|null|
 |**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664v1](http://arxiv.org/abs/2505.07664v1)|null|
 |**2025-05-12**|**A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms**|Dieu-Donne Fangnon et.al.|[2505.07660v1](http://arxiv.org/abs/2505.07660v1)|null|
-|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637v1](http://arxiv.org/abs/2505.07637v1)|null|
+|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637v1](http://arxiv.org/abs/2505.07637v1)|[link](https://github.com/krishgoel/chronocept-baseline-models)|
 |**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634v1](http://arxiv.org/abs/2505.07634v1)|null|
 |**2025-05-12**|**Characterizing the Investigative Methods of Fictional Detectives with Large Language Models**|Edirlei Soares de Lima et.al.|[2505.07601v1](http://arxiv.org/abs/2505.07601v1)|null|
 |**2025-05-12**|**Dynamic Object Geographic Coordinate Recognition: An Attitude-Free and Reference-Free Framework via Intrinsic Linear Algebraic Structures**|Junfan Yi et.al.|[2505.07597v1](http://arxiv.org/abs/2505.07597v1)|null|
 |**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583v1](http://arxiv.org/abs/2505.07583v1)|null|
-|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581v1](http://arxiv.org/abs/2505.07581v1)|null|
+|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581v1](http://arxiv.org/abs/2505.07581v1)|[link](https://github.com/RUC-GSAI/YuLan-OneSim)|
 |**2025-05-12**|**Security through the Eyes of AI: How Visualization is Shaping Malware Detection**|Asmitha K. A. et.al.|[2505.07574v1](http://arxiv.org/abs/2505.07574v1)|null|
 |**2025-05-12**|**Robust Kidney Abnormality Segmentation: A Validation Study of an AI-Based Framework**|Sarah de Boer et.al.|[2505.07573v1](http://arxiv.org/abs/2505.07573v1)|null|
 |**2025-05-12**|**Towards Requirements Engineering for RAG Systems**|Tor Sporsem et.al.|[2505.07553v1](http://arxiv.org/abs/2505.07553v1)|null|
@@ -27,7 +27,7 @@
 |**2025-05-12**|**QuantX: A Framework for Hardware-Aware Quantization of Generative AI Workloads**|Khurram Mazher et.al.|[2505.07531v1](http://arxiv.org/abs/2505.07531v1)|null|
 |**2025-05-12**|**Average-Reward Maximum Entropy Reinforcement Learning for Global Policy in Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2505.07516v1](http://arxiv.org/abs/2505.07516v1)|null|
 |**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500v1](http://arxiv.org/abs/2505.07500v1)|null|
-|**2025-05-12**|**Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis**|Heraldo Borges et.al.|[2505.07487v1](http://arxiv.org/abs/2505.07487v1)|null|
+|**2025-05-12**|**Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis**|Heraldo Borges et.al.|[2505.07487v1](http://arxiv.org/abs/2505.07487v1)|[link](https://github.com/heraldoborges/tuxkconfig)|
 |**2025-05-12**|**Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protection Against Misinformation**|Huiyun Tang et.al.|[2505.07486v1](http://arxiv.org/abs/2505.07486v1)|null|
 |**2025-05-12**|**You Only Look One Step: Accelerating Backpropagation in Diffusion Sampling with Gradient Shortcuts**|Hongkun Dou et.al.|[2505.07477v1](http://arxiv.org/abs/2505.07477v1)|[link](https://github.com/deng-ai-lab/sdo)|
 |**2025-05-12**|**Promising Topics for U.S.-China Dialogues on AI Risks and Governance**|Saad Siddiqui et.al.|[2505.07468v1](http://arxiv.org/abs/2505.07468v1)|null|

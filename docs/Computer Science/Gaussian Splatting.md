@@ -11,7 +11,7 @@
 |**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594v1](http://arxiv.org/abs/2505.07594v1)|null|
 |**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539v1](http://arxiv.org/abs/2505.07539v1)|null|
 |**2025-05-12**|**The Exploratory Multi-Asset Mean-Variance Portfolio Selection using Reinforcement Learning**|Yu Li et.al.|[2505.07537v1](http://arxiv.org/abs/2505.07537v1)|null|
-|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503v1](http://arxiv.org/abs/2505.07503v1)|null|
+|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503v1](http://arxiv.org/abs/2505.07503v1)|[link](https://github.com/quangdzuytran/COMIC)|
 |**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v1](http://arxiv.org/abs/2505.07396v1)|null|
 |**2025-05-12**|**Beyond Boson Sampling: Higher Spin Sampling as a Practical Path to Quantum Supremacy**|Chon-Fai Kam et.al.|[2505.07312v1](http://arxiv.org/abs/2505.07312v1)|null|
 |**2025-05-11**|**Learning from Samples: Inverse Problems over measures via Sharpened Fenchel-Young Losses**|Francisco Andrade et.al.|[2505.07124v1](http://arxiv.org/abs/2505.07124v1)|null|
