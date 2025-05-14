@@ -1,83 +1,85 @@
 # arxiv-daily
- Automated deployment @ 2025-05-14 09:06:24 Asia/Shanghai
+ Automated deployment @ 2025-05-14 20:05:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
-## Robotics
-
-### Embody
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813v1](http://arxiv.org/abs/2505.07813v1)|null|
-|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783v1](http://arxiv.org/abs/2505.07783v1)|null|
-|**2025-05-12**|**Must Read: A Systematic Survey of Computational Persuasion**|Nimet Beyza Bozdag et.al.|[2505.07775v1](http://arxiv.org/abs/2505.07775v1)|null|
-|**2025-05-12**|**The Value of Disagreement in AI Design, Evaluation, and Alignment**|Sina Fazelpour et.al.|[2505.07772v1](http://arxiv.org/abs/2505.07772v1)|null|
-|**2025-05-12**|**"I Apologize For Not Understanding Your Policy": Exploring the Specification and Evaluation of User-Managed Access Control Policies by AI Virtual Assistants**|Jennifer Mondragon et.al.|[2505.07759v1](http://arxiv.org/abs/2505.07759v1)|null|
-|**2025-05-12**|**VTutor for High-Impact Tutoring at Scale: Managing Engagement and Real-Time Multi-Screen Monitoring with P2P Connections**|Eason Chen et.al.|[2505.07736v2](http://arxiv.org/abs/2505.07736v2)|null|
-|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734v1](http://arxiv.org/abs/2505.07734v1)|null|
-|**2025-05-12**|**PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**|Daniel Ogenrwot et.al.|[2505.07700v1](http://arxiv.org/abs/2505.07700v1)|null|
-|**2025-05-12**|**A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development**|Werner Geyer et.al.|[2505.07664v1](http://arxiv.org/abs/2505.07664v1)|null|
-|**2025-05-12**|**A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms**|Dieu-Donne Fangnon et.al.|[2505.07660v1](http://arxiv.org/abs/2505.07660v1)|null|
-|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637v1](http://arxiv.org/abs/2505.07637v1)|[link](https://github.com/krishgoel/chronocept-baseline-models)|
-|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634v1](http://arxiv.org/abs/2505.07634v1)|null|
-|**2025-05-12**|**Characterizing the Investigative Methods of Fictional Detectives with Large Language Models**|Edirlei Soares de Lima et.al.|[2505.07601v1](http://arxiv.org/abs/2505.07601v1)|null|
-|**2025-05-12**|**Dynamic Object Geographic Coordinate Recognition: An Attitude-Free and Reference-Free Framework via Intrinsic Linear Algebraic Structures**|Junfan Yi et.al.|[2505.07597v1](http://arxiv.org/abs/2505.07597v1)|null|
-|**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583v1](http://arxiv.org/abs/2505.07583v1)|null|
-|**2025-05-12**|**YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models**|Lei Wang et.al.|[2505.07581v1](http://arxiv.org/abs/2505.07581v1)|[link](https://github.com/RUC-GSAI/YuLan-OneSim)|
-|**2025-05-12**|**Security through the Eyes of AI: How Visualization is Shaping Malware Detection**|Asmitha K. A. et.al.|[2505.07574v1](http://arxiv.org/abs/2505.07574v1)|null|
-|**2025-05-12**|**Robust Kidney Abnormality Segmentation: A Validation Study of an AI-Based Framework**|Sarah de Boer et.al.|[2505.07573v1](http://arxiv.org/abs/2505.07573v1)|null|
-|**2025-05-12**|**Towards Requirements Engineering for RAG Systems**|Tor Sporsem et.al.|[2505.07553v1](http://arxiv.org/abs/2505.07553v1)|null|
-|**2025-05-12**|**The Human-Data-Model Interaction Canvas for Visual Analytics**|Jürgen Bernard et.al.|[2505.07534v1](http://arxiv.org/abs/2505.07534v1)|null|
-|**2025-05-12**|**IKrNet: A Neural Network for Detecting Specific Drug-Induced Patterns in Electrocardiograms Amidst Physiological Variability**|Ahmad Fall et.al.|[2505.07533v1](http://arxiv.org/abs/2505.07533v1)|null|
-|**2025-05-12**|**RAI: Flexible Agent Framework for Embodied AI**|Kajetan Rachwał et.al.|[2505.07532v1](http://arxiv.org/abs/2505.07532v1)|null|
-|**2025-05-12**|**QuantX: A Framework for Hardware-Aware Quantization of Generative AI Workloads**|Khurram Mazher et.al.|[2505.07531v1](http://arxiv.org/abs/2505.07531v1)|null|
-|**2025-05-12**|**Average-Reward Maximum Entropy Reinforcement Learning for Global Policy in Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2505.07516v1](http://arxiv.org/abs/2505.07516v1)|null|
-|**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500v1](http://arxiv.org/abs/2505.07500v1)|null|
-|**2025-05-12**|**Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis**|Heraldo Borges et.al.|[2505.07487v1](http://arxiv.org/abs/2505.07487v1)|[link](https://github.com/heraldoborges/tuxkconfig)|
-|**2025-05-12**|**Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protection Against Misinformation**|Huiyun Tang et.al.|[2505.07486v1](http://arxiv.org/abs/2505.07486v1)|null|
-|**2025-05-12**|**You Only Look One Step: Accelerating Backpropagation in Diffusion Sampling with Gradient Shortcuts**|Hongkun Dou et.al.|[2505.07477v1](http://arxiv.org/abs/2505.07477v1)|[link](https://github.com/deng-ai-lab/sdo)|
-|**2025-05-12**|**Promising Topics for U.S.-China Dialogues on AI Risks and Governance**|Saad Siddiqui et.al.|[2505.07468v1](http://arxiv.org/abs/2505.07468v1)|null|
-|**2025-05-12**|**A Survey on Collaborative Mechanisms Between Large and Small Language Models**|Yi Chen et.al.|[2505.07460v1](http://arxiv.org/abs/2505.07460v1)|null|
-
-### SLAM
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198v1](http://arxiv.org/abs/2505.07198v1)|null|
-|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095v1](http://arxiv.org/abs/2505.04095v1)|[link](https://github.com/stevvwen/aerial_gnss)|
-|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
-|**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448v1](http://arxiv.org/abs/2505.03448v1)|null|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|[link](https://github.com/lyp-deeplearning/liftfeat)|
-|**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
-|**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272v1](http://arxiv.org/abs/2505.02272v1)|null|
-|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956v1](http://arxiv.org/abs/2505.01956v1)|null|
-|**2025-05-03**|**GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**|Yongxin Su et.al.|[2505.01934v1](http://arxiv.org/abs/2505.01934v1)|null|
-|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|null|
-|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
-|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
-|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
-|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
-|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
-|**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
-|**2025-04-27**|**NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM**|Tianyi Zhang et.al.|[2504.19195v1](http://arxiv.org/abs/2504.19195v1)|null|
-|**2025-04-27**|**MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction**|Yulun Tian et.al.|[2504.19104v1](http://arxiv.org/abs/2504.19104v1)|null|
-|**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|
-|**2025-04-25**|**Range-based 6-DoF Monte Carlo SLAM with Gradient-guided Particle Filter on GPU**|Takumi Nakao et.al.|[2504.18056v1](http://arxiv.org/abs/2504.18056v1)|null|
-|**2025-04-24**|**Autonomous Navigation Of Quadrupeds Using Coverage Path Planning**|Alexander James Becoy et.al.|[2504.17880v1](http://arxiv.org/abs/2504.17880v1)|null|
-|**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693v1](http://arxiv.org/abs/2504.17693v1)|null|
-|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|null|
-|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280v1](http://arxiv.org/abs/2504.17280v1)|null|
-|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
-|**2025-04-22**|**SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos**|Yuxin Yao et.al.|[2504.17810v1](http://arxiv.org/abs/2504.17810v1)|null|
-|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|null|
-|**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516v1](http://arxiv.org/abs/2504.14516v1)|null|
-|**2025-04-20**|**SG-Reg: Generalizable and Efficient Scene Graph Registration**|Chuhao Liu et.al.|[2504.14440v1](http://arxiv.org/abs/2504.14440v1)|[link](https://github.com/hkust-aerial-robotics/sg-reg)|
-|**2025-04-19**|**Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering**|Jonathan Embley-Riches et.al.|[2504.14135v1](http://arxiv.org/abs/2504.14135v1)|null|
-
 ## Computer Science
+
+### Gaussian Splatting SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|null|
+|**2025-05-13**|**Continuous Temporal Learning of Probability Distributions via Neural ODEs with Applications in Continuous Glucose Monitoring Data**|Antonio Álvarez-López et.al.|[2505.08698v1](http://arxiv.org/abs/2505.08698v1)|null|
+|**2025-05-13**|**Performance of rotation-symmetric bosonic codes in the presence of random telegraph noise**|Adithi Udupa et.al.|[2505.08670v1](http://arxiv.org/abs/2505.08670v1)|null|
+|**2025-05-13**|**An Efficient Multi-scale Leverage Effect Estimator under Dependent Microstructure Noise**|Ziyang Xiong et.al.|[2505.08654v1](http://arxiv.org/abs/2505.08654v1)|null|
+|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644v1](http://arxiv.org/abs/2505.08644v1)|null|
+|**2025-05-13**|**Robust Indoor Localization via Conformal Methods and Variational Bayesian Adaptive Filtering**|Zhiyi Zhou et.al.|[2505.08639v1](http://arxiv.org/abs/2505.08639v1)|null|
+|**2025-05-13**|**Clustering of Incomplete Data via a Bipartite Graph Structure**|Amirhossein Javaheri et.al.|[2505.08594v1](http://arxiv.org/abs/2505.08594v1)|null|
+|**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524v1](http://arxiv.org/abs/2505.08524v1)|null|
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|null|
+|**2025-05-13**|**The Quadrature Gaussian Sum Filter and Smoother for Wiener Systems**|Angel L. Cedeño et.al.|[2505.08469v1](http://arxiv.org/abs/2505.08469v1)|null|
+|**2025-05-13**|**Robust μ-distortion constraints on primordial supermassive black holes from cubic (gNL) non-Gaussian perturbations**|Xavier Pritchard et.al.|[2505.08442v1](http://arxiv.org/abs/2505.08442v1)|null|
+|**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438v1](http://arxiv.org/abs/2505.08438v1)|null|
+|**2025-05-13**|**Improved delta-kick cooling with multiple non-ideal kicks**|Harshil Neeraj et.al.|[2505.08413v1](http://arxiv.org/abs/2505.08413v1)|null|
+|**2025-05-13**|**ConDiSim: Conditional Diffusion Models for Simulation Based Inference**|Mayank Nautiyal et.al.|[2505.08403v1](http://arxiv.org/abs/2505.08403v1)|null|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|null|
+|**2025-05-13**|**Distributionally Robust LQG with Kullback-Leibler Ambiguity Sets**|Marta Fochesato et.al.|[2505.08370v1](http://arxiv.org/abs/2505.08370v1)|null|
+|**2025-05-13**|**Closed-Form Information Capacity of Canonical Signaling Models**|Michał Komorowski et.al.|[2505.08365v1](http://arxiv.org/abs/2505.08365v1)|null|
+|**2025-05-13**|**Uncertainty-aware Frequency-domain Acoustic Full Waveform Inversion Using Gaussian Random Fields and Ensemble Kalman Inversion**|Yunduo Li et.al.|[2505.08335v1](http://arxiv.org/abs/2505.08335v1)|null|
+|**2025-05-13**|**Coding Theorem for Generalized Reed-Solomon Codes**|Xiangping Zheng et.al.|[2505.08326v1](http://arxiv.org/abs/2505.08326v1)|null|
+|**2025-05-13**|**Identifying Memorization of Diffusion Models through p-Laplace Analysis**|Jonathan Brokman et.al.|[2505.08246v1](http://arxiv.org/abs/2505.08246v1)|null|
+|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230v1](http://arxiv.org/abs/2505.08230v1)|null|
+|**2025-05-13**|**Deep Probabilistic Modeling of User Behavior for Anomaly Detection via Mixture Density Networks**|Lu Dai et.al.|[2505.08220v1](http://arxiv.org/abs/2505.08220v1)|null|
+|**2025-05-13**|**ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction**|He Huang et.al.|[2505.08196v1](http://arxiv.org/abs/2505.08196v1)|[link](https://github.com/h-huang774/adc-gs)|
+|**2025-05-13**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in ultrastrongly light-matter coupled system**|Yu-qiang Liu et.al.|[2505.08188v1](http://arxiv.org/abs/2505.08188v1)|null|
+|**2025-05-13**|**Beyond Basic A/B testing: Improving Statistical Efficiency for Business Growth**|Changshuai Wei et.al.|[2505.08128v1](http://arxiv.org/abs/2505.08128v1)|null|
+|**2025-05-12**|**Sharp Gaussian approximations for Decentralized Federated Learning**|Soham Bonnerjee et.al.|[2505.08125v1](http://arxiv.org/abs/2505.08125v1)|null|
+|**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124v1](http://arxiv.org/abs/2505.08124v1)|null|
+|**2025-05-12**|**Multi-modal wound classification using wound image and location by Xception and Gaussian Mixture Recurrent Neural Network (GMRNN)**|Ramin Mousa et.al.|[2505.08086v1](http://arxiv.org/abs/2505.08086v1)|null|
+|**2025-05-12**|**LDP for the covariance process in fully connected neural networks**|Luisa Andreis et.al.|[2505.08062v1](http://arxiv.org/abs/2505.08062v1)|null|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
+
+### Gaussian Splatting
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|null|
+|**2025-05-13**|**Continuous Temporal Learning of Probability Distributions via Neural ODEs with Applications in Continuous Glucose Monitoring Data**|Antonio Álvarez-López et.al.|[2505.08698v1](http://arxiv.org/abs/2505.08698v1)|null|
+|**2025-05-13**|**Performance of rotation-symmetric bosonic codes in the presence of random telegraph noise**|Adithi Udupa et.al.|[2505.08670v1](http://arxiv.org/abs/2505.08670v1)|null|
+|**2025-05-13**|**An Efficient Multi-scale Leverage Effect Estimator under Dependent Microstructure Noise**|Ziyang Xiong et.al.|[2505.08654v1](http://arxiv.org/abs/2505.08654v1)|null|
+|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644v1](http://arxiv.org/abs/2505.08644v1)|null|
+|**2025-05-13**|**Robust Indoor Localization via Conformal Methods and Variational Bayesian Adaptive Filtering**|Zhiyi Zhou et.al.|[2505.08639v1](http://arxiv.org/abs/2505.08639v1)|null|
+|**2025-05-13**|**Clustering of Incomplete Data via a Bipartite Graph Structure**|Amirhossein Javaheri et.al.|[2505.08594v1](http://arxiv.org/abs/2505.08594v1)|null|
+|**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524v1](http://arxiv.org/abs/2505.08524v1)|null|
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|null|
+|**2025-05-13**|**The Quadrature Gaussian Sum Filter and Smoother for Wiener Systems**|Angel L. Cedeño et.al.|[2505.08469v1](http://arxiv.org/abs/2505.08469v1)|null|
+|**2025-05-13**|**Robust μ-distortion constraints on primordial supermassive black holes from cubic (gNL) non-Gaussian perturbations**|Xavier Pritchard et.al.|[2505.08442v1](http://arxiv.org/abs/2505.08442v1)|null|
+|**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438v1](http://arxiv.org/abs/2505.08438v1)|null|
+|**2025-05-13**|**Improved delta-kick cooling with multiple non-ideal kicks**|Harshil Neeraj et.al.|[2505.08413v1](http://arxiv.org/abs/2505.08413v1)|null|
+|**2025-05-13**|**ConDiSim: Conditional Diffusion Models for Simulation Based Inference**|Mayank Nautiyal et.al.|[2505.08403v1](http://arxiv.org/abs/2505.08403v1)|null|
+|**2025-05-13**|**Distributionally Robust LQG with Kullback-Leibler Ambiguity Sets**|Marta Fochesato et.al.|[2505.08370v1](http://arxiv.org/abs/2505.08370v1)|null|
+|**2025-05-13**|**Closed-Form Information Capacity of Canonical Signaling Models**|Michał Komorowski et.al.|[2505.08365v1](http://arxiv.org/abs/2505.08365v1)|null|
+|**2025-05-13**|**Uncertainty-aware Frequency-domain Acoustic Full Waveform Inversion Using Gaussian Random Fields and Ensemble Kalman Inversion**|Yunduo Li et.al.|[2505.08335v1](http://arxiv.org/abs/2505.08335v1)|null|
+|**2025-05-13**|**Coding Theorem for Generalized Reed-Solomon Codes**|Xiangping Zheng et.al.|[2505.08326v1](http://arxiv.org/abs/2505.08326v1)|null|
+|**2025-05-13**|**Identifying Memorization of Diffusion Models through p-Laplace Analysis**|Jonathan Brokman et.al.|[2505.08246v1](http://arxiv.org/abs/2505.08246v1)|null|
+|**2025-05-13**|**Deep Probabilistic Modeling of User Behavior for Anomaly Detection via Mixture Density Networks**|Lu Dai et.al.|[2505.08220v1](http://arxiv.org/abs/2505.08220v1)|null|
+|**2025-05-13**|**ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction**|He Huang et.al.|[2505.08196v1](http://arxiv.org/abs/2505.08196v1)|[link](https://github.com/h-huang774/adc-gs)|
+|**2025-05-13**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in ultrastrongly light-matter coupled system**|Yu-qiang Liu et.al.|[2505.08188v1](http://arxiv.org/abs/2505.08188v1)|null|
+|**2025-05-13**|**Beyond Basic A/B testing: Improving Statistical Efficiency for Business Growth**|Changshuai Wei et.al.|[2505.08128v1](http://arxiv.org/abs/2505.08128v1)|null|
+|**2025-05-12**|**Sharp Gaussian approximations for Decentralized Federated Learning**|Soham Bonnerjee et.al.|[2505.08125v1](http://arxiv.org/abs/2505.08125v1)|null|
+|**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124v1](http://arxiv.org/abs/2505.08124v1)|null|
+|**2025-05-12**|**Multi-modal wound classification using wound image and location by Xception and Gaussian Mixture Recurrent Neural Network (GMRNN)**|Ramin Mousa et.al.|[2505.08086v1](http://arxiv.org/abs/2505.08086v1)|null|
+|**2025-05-12**|**LDP for the covariance process in fully connected neural networks**|Luisa Andreis et.al.|[2505.08062v1](http://arxiv.org/abs/2505.08062v1)|null|
+|**2025-05-12**|**Map-level baryonification: unified treatment of weak lensing two-point and higher-order statistics**|Alan Junzhe Zhou et.al.|[2505.07949v1](http://arxiv.org/abs/2505.07949v1)|null|
+|**2025-05-12**|**Solving Nonlinear PDEs with Sparse Radial Basis Function Networks**|Zihan Shao et.al.|[2505.07765v1](http://arxiv.org/abs/2505.07765v1)|null|
+|**2025-05-12**|**Singular Control in Inventory Management with Smooth Ambiguity**|Arnon Archankul et.al.|[2505.07761v1](http://arxiv.org/abs/2505.07761v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|null|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|null|
+|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230v1](http://arxiv.org/abs/2505.08230v1)|null|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
 |**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198v1](http://arxiv.org/abs/2505.07198v1)|null|
@@ -104,14 +106,11 @@
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067v1](http://arxiv.org/abs/2504.21067v1)|[link](https://github.com/JohannaXie/GauSS-MI)|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
 |**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v2](http://arxiv.org/abs/2504.20379v2)|null|
-|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378v1](http://arxiv.org/abs/2504.20378v1)|null|
-|**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819v1](http://arxiv.org/abs/2504.19819v1)|null|
-|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
-|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|null|
 |**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894v1](http://arxiv.org/abs/2505.06894v1)|null|
@@ -141,72 +140,73 @@
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995v1](http://arxiv.org/abs/2504.13995v1)|null|
 |**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
-|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|[link](https://github.com/VU-RASL/GSAC)|
 
-### Gaussian Splatting
+## Robotics
+
+### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-12**|**Solving Nonlinear PDEs with Sparse Radial Basis Function Networks**|Zihan Shao et.al.|[2505.07765v1](http://arxiv.org/abs/2505.07765v1)|null|
-|**2025-05-12**|**Singular Control in Inventory Management with Smooth Ambiguity**|Arnon Archankul et.al.|[2505.07761v1](http://arxiv.org/abs/2505.07761v1)|null|
-|**2025-05-12**|**Mapping of Microstructure Transitions during Rapid Alloy Solidification Using Bayesian-Guided Phase-Field Simulations**|José Mancias et.al.|[2505.07752v1](http://arxiv.org/abs/2505.07752v1)|null|
-|**2025-05-12**|**Mode Mismatch Mitigation in Gaussian-Modulated CV-QKD**|Svitlana Matsenko et.al.|[2505.07726v1](http://arxiv.org/abs/2505.07726v1)|null|
-|**2025-05-12**|**Transfer Learning Across Fixed-Income Product Classes**|Nicolas Camenzind et.al.|[2505.07676v1](http://arxiv.org/abs/2505.07676v1)|null|
-|**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607v1](http://arxiv.org/abs/2505.07607v1)|null|
-|**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594v1](http://arxiv.org/abs/2505.07594v1)|null|
-|**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539v1](http://arxiv.org/abs/2505.07539v1)|null|
-|**2025-05-12**|**The Exploratory Multi-Asset Mean-Variance Portfolio Selection using Reinforcement Learning**|Yu Li et.al.|[2505.07537v1](http://arxiv.org/abs/2505.07537v1)|null|
-|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503v1](http://arxiv.org/abs/2505.07503v1)|[link](https://github.com/quangdzuytran/COMIC)|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|null|
-|**2025-05-12**|**Beyond Boson Sampling: Higher Spin Sampling as a Practical Path to Quantum Supremacy**|Chon-Fai Kam et.al.|[2505.07312v1](http://arxiv.org/abs/2505.07312v1)|null|
-|**2025-05-11**|**Learning from Samples: Inverse Problems over measures via Sharpened Fenchel-Young Losses**|Francisco Andrade et.al.|[2505.07124v1](http://arxiv.org/abs/2505.07124v1)|null|
-|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071v1](http://arxiv.org/abs/2505.07071v1)|[link](https://github.com/liu-zihang/samsr)|
-|**2025-05-11**|**Design and Experimental Test of Datatic Approximate Optimal Filter in Nonlinear Dynamic Systems**|Weixian He et.al.|[2505.07043v1](http://arxiv.org/abs/2505.07043v1)|null|
-|**2025-05-11**|**Decentralized Stealth Attacks on Cyber-Physical Systems**|Xiuzhen Ye et.al.|[2505.07029v1](http://arxiv.org/abs/2505.07029v1)|null|
-|**2025-05-11**|**High-Frequency Prior-Driven Adaptive Masking for Accelerating Image Super-Resolution**|Wei Shang et.al.|[2505.06975v1](http://arxiv.org/abs/2505.06975v1)|[link](https://github.com/shangwei5/amsr)|
-|**2025-05-11**|**Patterns of X-ray and $γ$-ray Flares: from Blazar to Maganetar and Sun**|Haiyun Zhang et.al.|[2505.06962v1](http://arxiv.org/abs/2505.06962v1)|null|
-|**2025-05-11**|**Improving Random Forests by Smoothing**|Ziyi Liu et.al.|[2505.06852v1](http://arxiv.org/abs/2505.06852v1)|null|
-|**2025-05-11**|**Streaming Sliced Optimal Transport**|Khai Nguyen et.al.|[2505.06835v1](http://arxiv.org/abs/2505.06835v1)|null|
-|**2025-05-11**|**Fine-Grained Bias Exploration and Mitigation for Group-Robust Classification**|Miaoyun Zhao et.al.|[2505.06831v1](http://arxiv.org/abs/2505.06831v1)|null|
-|**2025-05-10**|**Hillclimb-Causal Inference: A Data-Driven Approach to Identify Causal Pathways Among Parental Behaviors, Genetic Risk, and Externalizing Behaviors in Children**|Mengman Wei et.al.|[2505.06784v1](http://arxiv.org/abs/2505.06784v1)|null|
-|**2025-05-10**|**Control Barrier Functions With Real-Time Gaussian Process Modeling**|Ricardo Gutierrez et.al.|[2505.06765v1](http://arxiv.org/abs/2505.06765v1)|null|
-|**2025-05-10**|**Axiomatic quantum electrodynamics: from causality to convexity of effective action**|Anatoly E. Shabad et.al.|[2505.06715v1](http://arxiv.org/abs/2505.06715v1)|null|
-|**2025-05-10**|**Heisenberg limit in phase measurements: the threshold detection approach**|D. I. Salykina et.al.|[2505.06714v1](http://arxiv.org/abs/2505.06714v1)|null|
-|**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671v1](http://arxiv.org/abs/2505.06671v1)|null|
-|**2025-05-10**|**Dyn-D$^2$P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**|Zehan Zhu et.al.|[2505.06651v1](http://arxiv.org/abs/2505.06651v1)|null|
-|**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628v1](http://arxiv.org/abs/2505.06628v1)|null|
-|**2025-05-10**|**Optimal Transport for Machine Learners**|Gabriel Peyré et.al.|[2505.06589v1](http://arxiv.org/abs/2505.06589v1)|null|
-|**2025-05-10**|**Gaussian Wave Splatting for Computer-Generated Holography**|Suyeon Choi et.al.|[2505.06582v1](http://arxiv.org/abs/2505.06582v1)|null|
+|**2025-05-13**|**UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations**|Hanjung Kim et.al.|[2505.08787v1](http://arxiv.org/abs/2505.08787v1)|null|
+|**2025-05-13**|**ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus**|Etienne Guichard et.al.|[2505.08778v1](http://arxiv.org/abs/2505.08778v1)|null|
+|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v1](http://arxiv.org/abs/2505.08765v1)|null|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|null|
+|**2025-05-13**|**VizCV: AI-assisted visualization of researchers' publications tracks**|Vladimír Lazárik et.al.|[2505.08691v1](http://arxiv.org/abs/2505.08691v1)|null|
+|**2025-05-13**|**How Students Use AI Feedback Matters: Experimental Evidence on Physics Achievement and Autonomy**|Xusheng Dai et.al.|[2505.08672v1](http://arxiv.org/abs/2505.08672v1)|null|
+|**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648v1](http://arxiv.org/abs/2505.08648v1)|null|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|null|
+|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617v1](http://arxiv.org/abs/2505.08617v1)|null|
+|**2025-05-13**|**Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models**|Hussien Al-Asi et.al.|[2505.08590v1](http://arxiv.org/abs/2505.08590v1)|null|
+|**2025-05-13**|**Small but Significant: On the Promise of Small Language Models for Accessible AIED**|Yumou Wei et.al.|[2505.08588v1](http://arxiv.org/abs/2505.08588v1)|null|
+|**2025-05-13**|**Extract the Best, Discard the Rest: CSI Feedback with Offline Large AI Models**|Jialin Zhuang et.al.|[2505.08566v1](http://arxiv.org/abs/2505.08566v1)|null|
+|**2025-05-13**|**DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art**|Haroon Wahab et.al.|[2505.08552v1](http://arxiv.org/abs/2505.08552v1)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548v1](http://arxiv.org/abs/2505.08548v1)|null|
+|**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517v1](http://arxiv.org/abs/2505.08517v1)|null|
+|**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508v1](http://arxiv.org/abs/2505.08508v1)|null|
+|**2025-05-13**|**BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners Across Digital Skill Levels**|Quentin Romero Lauro et.al.|[2505.08493v1](http://arxiv.org/abs/2505.08493v1)|null|
+|**2025-05-13**|**Strategy-Augmented Planning for Large Language Models via Opponent Exploitation**|Shuai Xu et.al.|[2505.08459v1](http://arxiv.org/abs/2505.08459v1)|null|
+|**2025-05-13**|**Agent-as-a-Service based on Agent Network**|Yuhan Zhu et.al.|[2505.08446v1](http://arxiv.org/abs/2505.08446v1)|null|
+|**2025-05-13**|**Explaining Autonomous Vehicles with Intention-aware Policy Graphs**|Sara Montese et.al.|[2505.08404v1](http://arxiv.org/abs/2505.08404v1)|null|
+|**2025-05-13**|**A Comparison Between Human and Generative AI Decision-Making Attributes in Complex Health Services**|Nandini Doreswamy et.al.|[2505.08360v1](http://arxiv.org/abs/2505.08360v1)|null|
+|**2025-05-13**|**Benchmarking AI scientists in omics data-driven biological research**|Erpai Luo et.al.|[2505.08341v1](http://arxiv.org/abs/2505.08341v1)|[link](https://github.com/eperluo/baisbench)|
+|**2025-05-13**|**AI-Driven Digital Twins: Optimizing 5G/6G Network Slicing with NTNs**|Afan Ali et.al.|[2505.08328v1](http://arxiv.org/abs/2505.08328v1)|null|
+|**2025-05-13**|**An incremental algorithm for non-convex AI-enhanced medical image processing**|Elena Morotti et.al.|[2505.08324v1](http://arxiv.org/abs/2505.08324v1)|null|
+|**2025-05-13**|**Reciprocity as the Foundational Substrate of Society: How Reciprocal Dynamics Scale into Social Systems**|Egil Diau et.al.|[2505.08319v1](http://arxiv.org/abs/2505.08319v1)|null|
+|**2025-05-13**|**AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale**|Yunjie Ji et.al.|[2505.08311v1](http://arxiv.org/abs/2505.08311v1)|null|
+|**2025-05-13**|**Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing**|Oishee Bintey Hoque et.al.|[2505.08302v1](http://arxiv.org/abs/2505.08302v1)|null|
+|**2025-05-13**|**A Practical Introduction to Deep Reinforcement Learning**|Yinghan Sun et.al.|[2505.08295v1](http://arxiv.org/abs/2505.08295v1)|null|
+|**2025-05-13**|**FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units**|Jian Wang et.al.|[2505.08294v1](http://arxiv.org/abs/2505.08294v1)|null|
+|**2025-05-13**|**Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted**|Shuaiwei Yuan et.al.|[2505.08255v1](http://arxiv.org/abs/2505.08255v1)|null|
 
-### Gaussian Splatting SLAM
+### SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-12**|**Solving Nonlinear PDEs with Sparse Radial Basis Function Networks**|Zihan Shao et.al.|[2505.07765v1](http://arxiv.org/abs/2505.07765v1)|null|
-|**2025-05-12**|**Singular Control in Inventory Management with Smooth Ambiguity**|Arnon Archankul et.al.|[2505.07761v1](http://arxiv.org/abs/2505.07761v1)|null|
-|**2025-05-12**|**Mapping of Microstructure Transitions during Rapid Alloy Solidification Using Bayesian-Guided Phase-Field Simulations**|José Mancias et.al.|[2505.07752v1](http://arxiv.org/abs/2505.07752v1)|null|
-|**2025-05-12**|**Mode Mismatch Mitigation in Gaussian-Modulated CV-QKD**|Svitlana Matsenko et.al.|[2505.07726v1](http://arxiv.org/abs/2505.07726v1)|null|
-|**2025-05-12**|**Transfer Learning Across Fixed-Income Product Classes**|Nicolas Camenzind et.al.|[2505.07676v1](http://arxiv.org/abs/2505.07676v1)|null|
-|**2025-05-12**|**Multi-Objective Reinforcement Learning for Energy-Efficient Industrial Control**|Georg Schäfer et.al.|[2505.07607v1](http://arxiv.org/abs/2505.07607v1)|null|
-|**2025-05-12**|**Finite-Sample-Based Reachability for Safe Control with Gaussian Process Dynamics**|Manish Prajapat et.al.|[2505.07594v1](http://arxiv.org/abs/2505.07594v1)|null|
-|**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539v1](http://arxiv.org/abs/2505.07539v1)|null|
-|**2025-05-12**|**The Exploratory Multi-Asset Mean-Variance Portfolio Selection using Reinforcement Learning**|Yu Li et.al.|[2505.07537v1](http://arxiv.org/abs/2505.07537v1)|null|
-|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503v1](http://arxiv.org/abs/2505.07503v1)|[link](https://github.com/quangdzuytran/COMIC)|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|null|
-|**2025-05-12**|**Beyond Boson Sampling: Higher Spin Sampling as a Practical Path to Quantum Supremacy**|Chon-Fai Kam et.al.|[2505.07312v1](http://arxiv.org/abs/2505.07312v1)|null|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|null|
+|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230v1](http://arxiv.org/abs/2505.08230v1)|null|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198v1](http://arxiv.org/abs/2505.07198v1)|null|
-|**2025-05-11**|**Learning from Samples: Inverse Problems over measures via Sharpened Fenchel-Young Losses**|Francisco Andrade et.al.|[2505.07124v1](http://arxiv.org/abs/2505.07124v1)|null|
-|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071v1](http://arxiv.org/abs/2505.07071v1)|[link](https://github.com/liu-zihang/samsr)|
-|**2025-05-11**|**Design and Experimental Test of Datatic Approximate Optimal Filter in Nonlinear Dynamic Systems**|Weixian He et.al.|[2505.07043v1](http://arxiv.org/abs/2505.07043v1)|null|
-|**2025-05-11**|**Decentralized Stealth Attacks on Cyber-Physical Systems**|Xiuzhen Ye et.al.|[2505.07029v1](http://arxiv.org/abs/2505.07029v1)|null|
-|**2025-05-11**|**High-Frequency Prior-Driven Adaptive Masking for Accelerating Image Super-Resolution**|Wei Shang et.al.|[2505.06975v1](http://arxiv.org/abs/2505.06975v1)|[link](https://github.com/shangwei5/amsr)|
-|**2025-05-11**|**Patterns of X-ray and $γ$-ray Flares: from Blazar to Maganetar and Sun**|Haiyun Zhang et.al.|[2505.06962v1](http://arxiv.org/abs/2505.06962v1)|null|
-|**2025-05-11**|**Improving Random Forests by Smoothing**|Ziyi Liu et.al.|[2505.06852v1](http://arxiv.org/abs/2505.06852v1)|null|
-|**2025-05-11**|**Streaming Sliced Optimal Transport**|Khai Nguyen et.al.|[2505.06835v1](http://arxiv.org/abs/2505.06835v1)|null|
-|**2025-05-11**|**Fine-Grained Bias Exploration and Mitigation for Group-Robust Classification**|Miaoyun Zhao et.al.|[2505.06831v1](http://arxiv.org/abs/2505.06831v1)|null|
-|**2025-05-10**|**Hillclimb-Causal Inference: A Data-Driven Approach to Identify Causal Pathways Among Parental Behaviors, Genetic Risk, and Externalizing Behaviors in Children**|Mengman Wei et.al.|[2505.06784v1](http://arxiv.org/abs/2505.06784v1)|null|
-|**2025-05-10**|**Control Barrier Functions With Real-Time Gaussian Process Modeling**|Ricardo Gutierrez et.al.|[2505.06765v1](http://arxiv.org/abs/2505.06765v1)|null|
-|**2025-05-10**|**Axiomatic quantum electrodynamics: from causality to convexity of effective action**|Anatoly E. Shabad et.al.|[2505.06715v1](http://arxiv.org/abs/2505.06715v1)|null|
-|**2025-05-10**|**Heisenberg limit in phase measurements: the threshold detection approach**|D. I. Salykina et.al.|[2505.06714v1](http://arxiv.org/abs/2505.06714v1)|null|
-|**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671v1](http://arxiv.org/abs/2505.06671v1)|null|
-|**2025-05-10**|**Dyn-D$^2$P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**|Zehan Zhu et.al.|[2505.06651v1](http://arxiv.org/abs/2505.06651v1)|null|
-|**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628v1](http://arxiv.org/abs/2505.06628v1)|null|
-|**2025-05-10**|**Optimal Transport for Machine Learners**|Gabriel Peyré et.al.|[2505.06589v1](http://arxiv.org/abs/2505.06589v1)|null|
+|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095v1](http://arxiv.org/abs/2505.04095v1)|[link](https://github.com/stevvwen/aerial_gnss)|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
+|**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448v1](http://arxiv.org/abs/2505.03448v1)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|[link](https://github.com/lyp-deeplearning/liftfeat)|
+|**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
+|**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272v1](http://arxiv.org/abs/2505.02272v1)|null|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956v1](http://arxiv.org/abs/2505.01956v1)|null|
+|**2025-05-03**|**GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**|Yongxin Su et.al.|[2505.01934v1](http://arxiv.org/abs/2505.01934v1)|null|
+|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|null|
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
+|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
+|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
+|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
+|**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
+|**2025-04-27**|**NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM**|Tianyi Zhang et.al.|[2504.19195v1](http://arxiv.org/abs/2504.19195v1)|null|
+|**2025-04-27**|**MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction**|Yulun Tian et.al.|[2504.19104v1](http://arxiv.org/abs/2504.19104v1)|null|
+|**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|
+|**2025-04-25**|**Range-based 6-DoF Monte Carlo SLAM with Gradient-guided Particle Filter on GPU**|Takumi Nakao et.al.|[2504.18056v1](http://arxiv.org/abs/2504.18056v1)|null|
+|**2025-04-24**|**Autonomous Navigation Of Quadrupeds Using Coverage Path Planning**|Alexander James Becoy et.al.|[2504.17880v1](http://arxiv.org/abs/2504.17880v1)|null|
+|**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693v1](http://arxiv.org/abs/2504.17693v1)|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280v1](http://arxiv.org/abs/2504.17280v1)|null|
+|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
+|**2025-04-22**|**SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos**|Yuxin Yao et.al.|[2504.17810v1](http://arxiv.org/abs/2504.17810v1)|null|
+|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|null|
