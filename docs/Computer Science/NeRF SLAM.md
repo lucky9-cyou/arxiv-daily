@@ -2,12 +2,16 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413v1](http://arxiv.org/abs/2505.09413v1)|[link](https://github.com/murcherful/gaupcrender)|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406v1](http://arxiv.org/abs/2505.09406v1)|null|
+|**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024v1](http://arxiv.org/abs/2505.09024v1)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|null|
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230v1](http://arxiv.org/abs/2505.08230v1)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
 |**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
+|**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811v1](http://arxiv.org/abs/2505.08811v1)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198v1](http://arxiv.org/abs/2505.07198v1)|null|
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894v1](http://arxiv.org/abs/2505.06894v1)|null|
 |**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638v1](http://arxiv.org/abs/2505.06638v1)|null|
@@ -28,7 +32,3 @@
 |**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378v1](http://arxiv.org/abs/2505.00378v1)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|null|
-|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737v1](http://arxiv.org/abs/2505.00737v1)|null|
-|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067v1](http://arxiv.org/abs/2504.21067v1)|[link](https://github.com/JohannaXie/GauSS-MI)|
-|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v2](http://arxiv.org/abs/2504.20379v2)|null|

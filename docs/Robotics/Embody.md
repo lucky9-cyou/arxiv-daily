@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations**|Hanjung Kim et.al.|[2505.08787v1](http://arxiv.org/abs/2505.08787v1)|null|
-|**2025-05-13**|**ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus**|Etienne Guichard et.al.|[2505.08778v1](http://arxiv.org/abs/2505.08778v1)|null|
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v2](http://arxiv.org/abs/2505.08765v2)|null|
-|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|null|
-|**2025-05-13**|**VizCV: AI-assisted visualization of researchers' publications tracks**|Vladimír Lazárik et.al.|[2505.08691v1](http://arxiv.org/abs/2505.08691v1)|null|
-|**2025-05-13**|**How Students Use AI Feedback Matters: Experimental Evidence on Physics Achievement and Autonomy**|Xusheng Dai et.al.|[2505.08672v1](http://arxiv.org/abs/2505.08672v1)|null|
-|**2025-05-13**|**Enhancing Software Development with Context-Aware Conversational Agents: A User Study on Developer Interactions with Chatbots**|Glaucia Melo et.al.|[2505.08648v1](http://arxiv.org/abs/2505.08648v1)|null|
-|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|null|
-|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617v1](http://arxiv.org/abs/2505.08617v1)|null|
-|**2025-05-13**|**Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models**|Hussien Al-Asi et.al.|[2505.08590v1](http://arxiv.org/abs/2505.08590v1)|null|
-|**2025-05-13**|**Small but Significant: On the Promise of Small Language Models for Accessible AIED**|Yumou Wei et.al.|[2505.08588v1](http://arxiv.org/abs/2505.08588v1)|null|
-|**2025-05-13**|**Extract the Best, Discard the Rest: CSI Feedback with Offline Large AI Models**|Jialin Zhuang et.al.|[2505.08566v1](http://arxiv.org/abs/2505.08566v1)|null|
-|**2025-05-13**|**DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art**|Haroon Wahab et.al.|[2505.08552v1](http://arxiv.org/abs/2505.08552v1)|null|
-|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548v1](http://arxiv.org/abs/2505.08548v1)|null|
-|**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517v1](http://arxiv.org/abs/2505.08517v1)|null|
-|**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508v1](http://arxiv.org/abs/2505.08508v1)|null|
-|**2025-05-13**|**BizChat: Scaffolding AI-Powered Business Planning for Small Business Owners Across Digital Skill Levels**|Quentin Romero Lauro et.al.|[2505.08493v1](http://arxiv.org/abs/2505.08493v1)|null|
-|**2025-05-13**|**Strategy-Augmented Planning for Large Language Models via Opponent Exploitation**|Shuai Xu et.al.|[2505.08459v1](http://arxiv.org/abs/2505.08459v1)|null|
-|**2025-05-13**|**Agent-as-a-Service based on Agent Network**|Yuhan Zhu et.al.|[2505.08446v1](http://arxiv.org/abs/2505.08446v1)|null|
-|**2025-05-13**|**Explaining Autonomous Vehicles with Intention-aware Policy Graphs**|Sara Montese et.al.|[2505.08404v1](http://arxiv.org/abs/2505.08404v1)|null|
-|**2025-05-13**|**A Comparison Between Human and Generative AI Decision-Making Attributes in Complex Health Services**|Nandini Doreswamy et.al.|[2505.08360v1](http://arxiv.org/abs/2505.08360v1)|null|
-|**2025-05-13**|**Benchmarking AI scientists in omics data-driven biological research**|Erpai Luo et.al.|[2505.08341v1](http://arxiv.org/abs/2505.08341v1)|[link](https://github.com/eperluo/baisbench)|
-|**2025-05-13**|**AI-Driven Digital Twins: Optimizing 5G/6G Network Slicing with NTNs**|Afan Ali et.al.|[2505.08328v1](http://arxiv.org/abs/2505.08328v1)|null|
-|**2025-05-13**|**An incremental algorithm for non-convex AI-enhanced medical image processing**|Elena Morotti et.al.|[2505.08324v1](http://arxiv.org/abs/2505.08324v1)|null|
-|**2025-05-13**|**Reciprocity as the Foundational Substrate of Society: How Reciprocal Dynamics Scale into Social Systems**|Egil Diau et.al.|[2505.08319v1](http://arxiv.org/abs/2505.08319v1)|null|
-|**2025-05-13**|**AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale**|Yunjie Ji et.al.|[2505.08311v1](http://arxiv.org/abs/2505.08311v1)|null|
-|**2025-05-13**|**Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing**|Oishee Bintey Hoque et.al.|[2505.08302v1](http://arxiv.org/abs/2505.08302v1)|null|
-|**2025-05-13**|**A Practical Introduction to Deep Reinforcement Learning**|Yinghan Sun et.al.|[2505.08295v1](http://arxiv.org/abs/2505.08295v1)|null|
-|**2025-05-13**|**FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units**|Jian Wang et.al.|[2505.08294v1](http://arxiv.org/abs/2505.08294v1)|null|
-|**2025-05-13**|**Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted**|Shuaiwei Yuan et.al.|[2505.08255v1](http://arxiv.org/abs/2505.08255v1)|null|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610v1](http://arxiv.org/abs/2505.09610v1)|null|
+|**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598v1](http://arxiv.org/abs/2505.09598v1)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595v1](http://arxiv.org/abs/2505.09595v1)|null|
+|**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576v1](http://arxiv.org/abs/2505.09576v1)|null|
+|**2025-05-14**|**Artificial intelligence-enabled precision medicine for inflammatory skin diseases**|Alice Tang et.al.|[2505.09527v1](http://arxiv.org/abs/2505.09527v1)|null|
+|**2025-05-14**|**Card Sorting Simulator: Augmenting Design of Logical Information Architectures with Large Language Models**|Eduard Kuric et.al.|[2505.09478v1](http://arxiv.org/abs/2505.09478v1)|null|
+|**2025-05-14**|**CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios**|Raghav Garg et.al.|[2505.09436v1](http://arxiv.org/abs/2505.09436v1)|null|
+|**2025-05-14**|**Decentralized Nonlinear Model Predictive Control-Based Flock Navigation with Real-Time Obstacle Avoidance in Unknown Obstructed Environments**|Nuthasith Gerdpratoom et.al.|[2505.09434v1](http://arxiv.org/abs/2505.09434v1)|null|
+|**2025-05-14**|**Counterfactual Strategies for Markov Decision Processes**|Paul Kobialka et.al.|[2505.09412v1](http://arxiv.org/abs/2505.09412v1)|null|
+|**2025-05-14**|**Evolving the Productivity Equation: Should Digital Labor Be Considered a New Factor of Production?**|Alex Farach et.al.|[2505.09408v1](http://arxiv.org/abs/2505.09408v1)|null|
+|**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396v1](http://arxiv.org/abs/2505.09396v1)|null|
+|**2025-05-14**|**Examining Deployment and Refinement of the VIOLA-AI Intracranial Hemorrhage Model Using an Interactive NeoMedSys Platform**|Qinghui Liu et.al.|[2505.09380v1](http://arxiv.org/abs/2505.09380v1)|null|
+|**2025-05-14**|**MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment**|Siyuan Yan et.al.|[2505.09372v1](http://arxiv.org/abs/2505.09372v1)|[link](https://github.com/siyuanyan1/make)|
+|**2025-05-14**|**Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures**|Chenggang Zhao et.al.|[2505.09343v1](http://arxiv.org/abs/2505.09343v1)|null|
+|**2025-05-14**|**Access Controls Will Solve the Dual-Use Dilemma**|Evžen Wybitul et.al.|[2505.09341v1](http://arxiv.org/abs/2505.09341v1)|null|
+|**2025-05-14**|**RAG-Enabled Intent Reasoning for Application-Network Interaction**|Salwa Mostafa et.al.|[2505.09339v1](http://arxiv.org/abs/2505.09339v1)|null|
+|**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334v1](http://arxiv.org/abs/2505.09334v1)|null|
+|**2025-05-14**|**Statistical Modeling and Uncertainty Estimation of LLM Inference Systems**|Kaustabha Ray et.al.|[2505.09319v1](http://arxiv.org/abs/2505.09319v1)|null|
+|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[2505.09305v1](http://arxiv.org/abs/2505.09305v1)|null|
+|**2025-05-14**|**Reproducibility Study of "Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents"**|Pedro M. P. Curvo et.al.|[2505.09289v1](http://arxiv.org/abs/2505.09289v1)|null|
+|**2025-05-14**|**Recent Advances in Medical Imaging Segmentation: A Survey**|Fares Bougourzi et.al.|[2505.09274v1](http://arxiv.org/abs/2505.09274v1)|null|
+|**2025-05-14**|**Interplay Between AI and Space-Air-Ground Integrated Network: The Road Ahead**|Chenyu Wu et.al.|[2505.09259v1](http://arxiv.org/abs/2505.09259v1)|null|
+|**2025-05-14**|**The Larger the Merrier? Efficient Large AI Model Inference in Wireless Edge Networks**|Zhonghao Lyu et.al.|[2505.09214v1](http://arxiv.org/abs/2505.09214v1)|null|
+|**2025-05-14**|**Educational impacts of generative artificial intelligence on learning and performance of engineering students in China**|Lei Fan et.al.|[2505.09208v1](http://arxiv.org/abs/2505.09208v1)|null|
+|**2025-05-14**|**AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection**|Yichen Shi et.al.|[2505.09155v1](http://arxiv.org/abs/2505.09155v1)|null|
+|**2025-05-14**|**PreCare: Designing AI Assistants for Advance Care Planning (ACP) to Enhance Personal Value Exploration, Patient Knowledge, and Decisional Confidence**|Yu Lun Hsu et.al.|[2505.09115v1](http://arxiv.org/abs/2505.09115v1)|null|
+|**2025-05-14**|**Display Content, Display Methods and Evaluation Methods of the HCI in Explainable Recommender Systems: A Survey**|Weiqing Li et.al.|[2505.09065v1](http://arxiv.org/abs/2505.09065v1)|null|
+|**2025-05-14**|**EcoSphere: A Decision-Support Tool for Automated Carbon Emission and Cost Optimization in Sustainable Urban Development**|Siavash Ghorbany et.al.|[2505.09054v1](http://arxiv.org/abs/2505.09054v1)|null|
+|**2025-05-14**|**RT-cache: Efficient Robot Trajectory Retrieval System**|Owen Kwon et.al.|[2505.09040v1](http://arxiv.org/abs/2505.09040v1)|null|
+|**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024v1](http://arxiv.org/abs/2505.09024v1)|null|

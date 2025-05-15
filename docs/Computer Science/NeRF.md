@@ -2,9 +2,12 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413v1](http://arxiv.org/abs/2505.09413v1)|[link](https://github.com/murcherful/gaupcrender)|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406v1](http://arxiv.org/abs/2505.09406v1)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|null|
 |**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
+|**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811v1](http://arxiv.org/abs/2505.08811v1)|null|
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894v1](http://arxiv.org/abs/2505.06894v1)|null|
 |**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638v1](http://arxiv.org/abs/2505.06638v1)|null|
 |**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504v1](http://arxiv.org/abs/2505.06504v1)|null|
@@ -29,6 +32,3 @@
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815v1](http://arxiv.org/abs/2504.17815v1)|[link](https://github.com/Aswhalefall/VISTA)|
 |**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389v1](http://arxiv.org/abs/2504.16389v1)|[link](https://github.com/mr-firework/saenerf)|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776v1](http://arxiv.org/abs/2504.15776v1)|null|
-|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
-|**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995v1](http://arxiv.org/abs/2504.13995v1)|null|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|[link](https://github.com/samuel-cerezo/SLAM-Render)|
