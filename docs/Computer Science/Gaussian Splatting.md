@@ -18,7 +18,7 @@
 |**2025-05-15**|**Results related to the Gaussian product inequality conjecture for mixed-sign exponents in arbitrary dimension**|Guolie Lan et.al.|[2505.09976v1](http://arxiv.org/abs/2505.09976v1)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915v1](http://arxiv.org/abs/2505.09915v1)|null|
 |**2025-05-15**|**Probing the Dynamics of Gaussian Dark Energy Equation of State Using DESI BAO**|Saddam Hussain et.al.|[2505.09913v1](http://arxiv.org/abs/2505.09913v1)|null|
-|**2025-05-14**|**Slow Transition to Low-Dimensional Chaos in Heavy-Tailed Recurrent Neural Networks**|Yi Xie et.al.|[2505.09816v1](http://arxiv.org/abs/2505.09816v1)|null|
+|**2025-05-14**|**Slow Transition to Low-Dimensional Chaos in Heavy-Tailed Recurrent Neural Networks**|Yi Xie et.al.|[2505.09816v1](http://arxiv.org/abs/2505.09816v1)|[link](https://github.com/alleninstitute/heavyrnn_public)|
 |**2025-05-14**|**Interim Report on Human-Guided Adaptive Hyperparameter Optimization with Multi-Fidelity Sprints**|Michael Kamfonas et.al.|[2505.09792v1](http://arxiv.org/abs/2505.09792v1)|null|
 |**2025-05-14**|**Pure Component Property Estimation Framework Using Explainable Machine Learning Methods**|Jianfeng Jiao et.al.|[2505.09783v1](http://arxiv.org/abs/2505.09783v1)|null|
 |**2025-05-14**|**Learning Multi-Attribute Differential Graphs with Non-Convex Penalties**|Jitendra K Tugnait et.al.|[2505.09748v1](http://arxiv.org/abs/2505.09748v1)|null|
