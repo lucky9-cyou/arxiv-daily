@@ -4,11 +4,11 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-15**|**Spectra of contractions of the Gaussian Orthogonal Tensor Ensemble**|Soumendu Sundar Mukherjee et.al.|[2505.10555v1](http://arxiv.org/abs/2505.10555v1)|null|
 |**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473v1](http://arxiv.org/abs/2505.10473v1)|null|
-|**2025-05-15**|**Analog Self-Interference Cancellation in Full-Duplex Radios: A Fundamental Limit Perspective**|Limin Liao et.al.|[2505.10419v1](http://arxiv.org/abs/2505.10419v1)|null|
+|**2025-05-15**|**Analog Self-Interference Cancellation in Full-Duplex Radios: A Fundamental Limit Perspective**|Limin Liao et.al.|[2505.10419v2](http://arxiv.org/abs/2505.10419v2)|null|
 |**2025-05-15**|**Backflow in vector Gaussian beams**|Tomasz Radożycki et.al.|[2505.10401v1](http://arxiv.org/abs/2505.10401v1)|null|
 |**2025-05-15**|**An Introduction to Discrete Variational Autoencoders**|Alan Jeffares et.al.|[2505.10344v1](http://arxiv.org/abs/2505.10344v1)|[link](https://github.com/alanjeffares/discretevae)|
 |**2025-05-15**|**Emergence of Structure in Ensembles of Random Neural Networks**|Luca Muscarnera et.al.|[2505.10331v1](http://arxiv.org/abs/2505.10331v1)|null|
-|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311v1](http://arxiv.org/abs/2505.10311v1)|null|
+|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311v2](http://arxiv.org/abs/2505.10311v2)|null|
 |**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310v1](http://arxiv.org/abs/2505.10310v1)|null|
 |**2025-05-15**|**Estimating the number of household TV profiles based in customer behaviour using Gaussian mixture model averaging**|Gabriel R. Palma et.al.|[2505.10279v1](http://arxiv.org/abs/2505.10279v1)|null|
 |**2025-05-15**|**Quantum feedback cooling of a trapped nanoparticle by using a low-pass filter**|Shuma Sugiura et.al.|[2505.10157v1](http://arxiv.org/abs/2505.10157v1)|null|
