@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483v1](http://arxiv.org/abs/2505.11483v1)|null|
-|**2025-05-16**|**MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and Initiative in Co-creation**|Alayt Issak et.al.|[2505.11481v1](http://arxiv.org/abs/2505.11481v1)|null|
-|**2025-05-16**|**The Dilemma Between Euphoria and Freedom in Recommendation Algorithms**|James Brusseau et.al.|[2505.11465v1](http://arxiv.org/abs/2505.11465v1)|null|
-|**2025-05-16**|**How AI Generates Creativity from Inauthenticity**|James Brusseau et.al.|[2505.11463v1](http://arxiv.org/abs/2505.11463v1)|null|
-|**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454v1](http://arxiv.org/abs/2505.11454v1)|null|
-|**2025-05-16**|**Extracting Explainable Dates From Medical Images By Reverse-Engineering UNIX Timestamps**|Lee Harris et.al.|[2505.11451v1](http://arxiv.org/abs/2505.11451v1)|null|
-|**2025-05-16**|**Face Consistency Benchmark for GenAI Video**|Michal Podstawski et.al.|[2505.11425v1](http://arxiv.org/abs/2505.11425v1)|null|
-|**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418v1](http://arxiv.org/abs/2505.11418v1)|null|
-|**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417v1](http://arxiv.org/abs/2505.11417v1)|null|
-|**2025-05-16**|**Large Language Model Use Impact Locus of Control**|Jenny Xiyu Fu et.al.|[2505.11406v1](http://arxiv.org/abs/2505.11406v1)|null|
-|**2025-05-16**|**Can AI automatically analyze public opinion? A LLM agents-based agentic pipeline for timely public opinion analysis**|Jing Liu et.al.|[2505.11401v1](http://arxiv.org/abs/2505.11401v1)|null|
-|**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383v1](http://arxiv.org/abs/2505.11383v1)|null|
-|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366v1](http://arxiv.org/abs/2505.11366v1)|null|
-|**2025-05-16**|**XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision**|Nuo Chen et.al.|[2505.11336v1](http://arxiv.org/abs/2505.11336v1)|null|
-|**2025-05-16**|**Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics**|Ardian Selmonaj et.al.|[2505.11311v1](http://arxiv.org/abs/2505.11311v1)|null|
-|**2025-05-16**|**Semantic Caching of Contextual Summaries for Efficient Question-Answering with Language Models**|Camille Couturier et.al.|[2505.11271v1](http://arxiv.org/abs/2505.11271v1)|null|
-|**2025-05-16**|**TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes**|Chao Zhang et.al.|[2505.11270v1](http://arxiv.org/abs/2505.11270v1)|null|
-|**2025-05-16**|**A Step towards Interpretable Multimodal AI Models with MultiFIX**|Mafalda Malafaia et.al.|[2505.11262v1](http://arxiv.org/abs/2505.11262v1)|null|
-|**2025-05-16**|**A Set-Sequence Model for Time Series**|Elliot L. Epstein et.al.|[2505.11243v1](http://arxiv.org/abs/2505.11243v1)|null|
-|**2025-05-16**|**Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization**|Yanhao Jia et.al.|[2505.11217v1](http://arxiv.org/abs/2505.11217v1)|null|
-|**2025-05-16**|**Minimizing False-Positive Attributions in Explanations of Non-Linear Models**|Anders Gjølbye et.al.|[2505.11210v1](http://arxiv.org/abs/2505.11210v1)|null|
-|**2025-05-16**|**DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling**|Yuang Ai et.al.|[2505.11196v1](http://arxiv.org/abs/2505.11196v1)|null|
-|**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191v1](http://arxiv.org/abs/2505.11191v1)|null|
-|**2025-05-16**|**Can Global XAI Methods Reveal Injected Bias in LLMs? SHAP vs Rule Extraction vs RuleSHAP**|Francesco Sovrano et.al.|[2505.11189v1](http://arxiv.org/abs/2505.11189v1)|null|
-|**2025-05-16**|**VitaGraph: Building a Knowledge Graph for Biologically Relevant Learning Tasks**|Francesco Madeddu et.al.|[2505.11185v1](http://arxiv.org/abs/2505.11185v1)|null|
-|**2025-05-16**|**From Intent Discovery to Recognition with Topic Modeling and Synthetic Data**|Aaron Rodrigues et.al.|[2505.11176v1](http://arxiv.org/abs/2505.11176v1)|null|
-|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v1](http://arxiv.org/abs/2505.11175v1)|null|
-|**2025-05-16**|**Foundation Time-Series AI Model for Realized Volatility Forecasting**|Anubha Goel et.al.|[2505.11163v1](http://arxiv.org/abs/2505.11163v1)|null|
-|**2025-05-16**|**Review-Instruct: A Review-Driven Multi-Turn Conversations Generation Method for Large Language Models**|Jiangxu Wu et.al.|[2505.11010v1](http://arxiv.org/abs/2505.11010v1)|null|
-|**2025-05-16**|**Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning**|Jingcheng Niu et.al.|[2505.11004v1](http://arxiv.org/abs/2505.11004v1)|null|
+|**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400v1](http://arxiv.org/abs/2505.13400v1)|null|
+|**2025-05-19**|**How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors**|Mak Ahmad et.al.|[2505.13381v1](http://arxiv.org/abs/2505.13381v1)|null|
+|**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355v1](http://arxiv.org/abs/2505.13355v1)|null|
+|**2025-05-19**|**A large-scale analysis of public-facing, community-built chatbots on Character.AI**|Owen Lee et.al.|[2505.13354v1](http://arxiv.org/abs/2505.13354v1)|null|
+|**2025-05-19**|**Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation**|Qiongqiong Wang et.al.|[2505.13338v1](http://arxiv.org/abs/2505.13338v1)|null|
+|**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329v1](http://arxiv.org/abs/2505.13329v1)|null|
+|**2025-05-19**|**Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges**|Hongru Wang et.al.|[2505.13328v1](http://arxiv.org/abs/2505.13328v1)|null|
+|**2025-05-19**|**From What Ifs to Insights: Counterfactuals in Causal Inference vs. Explainable AI**|Galit Shmueli et.al.|[2505.13324v1](http://arxiv.org/abs/2505.13324v1)|null|
+|**2025-05-19**|**KHRONOS: a Kernel-Based Neural Architecture for Rapid, Resource-Efficient Scientific Computation**|Reza T. Batley et.al.|[2505.13315v1](http://arxiv.org/abs/2505.13315v1)|null|
+|**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302v1](http://arxiv.org/abs/2505.13302v1)|[link](https://github.com/3lis/misinfo_vlm)|
+|**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292v1](http://arxiv.org/abs/2505.13292v1)|null|
+|**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291v1](http://arxiv.org/abs/2505.13291v1)|[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)|
+|**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273v1](http://arxiv.org/abs/2505.13273v1)|null|
+|**2025-05-19**|**From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery**|Tianshi Zheng et.al.|[2505.13259v1](http://arxiv.org/abs/2505.13259v1)|[link](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery)|
+|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246v1](http://arxiv.org/abs/2505.13246v1)|null|
+|**2025-05-19**|**Partial Wave Analysis of $e^{+}e^{-} \rightarrow π^{+}π^{-}J/ψ$ and Cross Section Measurement of $e^{+}e^{-} \rightarrow π^{\pm}Z_{c}(3900)^{\mp}$ from 4.1271 to 4.3583 GeV**|BESIII Collaboration et.al.|[2505.13222v1](http://arxiv.org/abs/2505.13222v1)|null|
+|**2025-05-19**|**Human Response to Decision Support in Face Matching: The Influence of Task Difficulty and Machine Accuracy**|Marina Estévez-Almenzar et.al.|[2505.13218v1](http://arxiv.org/abs/2505.13218v1)|null|
+|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211v1](http://arxiv.org/abs/2505.13211v1)|[link](https://github.com/sandai-org/magiattention)|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195v1](http://arxiv.org/abs/2505.13195v1)|null|
+|**2025-05-19**|**When a Reinforcement Learning Agent Encounters Unknown Unknowns**|Juntian Zhu et.al.|[2505.13188v1](http://arxiv.org/abs/2505.13188v1)|null|
+|**2025-05-19**|**MXDOTP: A RISC-V ISA Extension for Enabling Microscaling (MX) Floating-Point Dot Products**|Gamze İslamoğlu et.al.|[2505.13159v1](http://arxiv.org/abs/2505.13159v1)|null|
+|**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156v1](http://arxiv.org/abs/2505.13156v1)|null|
+|**2025-05-19**|**Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals**|Marouane Il Idrissi et.al.|[2505.13118v1](http://arxiv.org/abs/2505.13118v1)|null|
+|**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076v1](http://arxiv.org/abs/2505.13076v1)|null|
+|**2025-05-19**|**SNAPE-PM: Building and Utilizing Dynamic Partner Models for Adaptive Explanation Generation**|Amelie S. Robrecht et.al.|[2505.13053v1](http://arxiv.org/abs/2505.13053v1)|null|
+|**2025-05-19**|**CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents**|Rebecca Westhäußer et.al.|[2505.13044v1](http://arxiv.org/abs/2505.13044v1)|null|
+|**2025-05-19**|**Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain**|Yuyang Li et.al.|[2505.13006v1](http://arxiv.org/abs/2505.13006v1)|null|
+|**2025-05-19**|**A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation**|Vinkle Srivastav et.al.|[2505.12998v1](http://arxiv.org/abs/2505.12998v1)|[link](https://github.com/camma-public/tfuscapes)|
+|**2025-05-19**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981v1](http://arxiv.org/abs/2505.12981v1)|null|
+|**2025-05-19**|**6G-Enabled Smart Railways**|Bo Ai et.al.|[2505.12946v1](http://arxiv.org/abs/2505.12946v1)|null|

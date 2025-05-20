@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-16**|**Desirability of outcome ranking (DOOR) analysis for multivariate survival outcomes with application to ACTT-1 trial**|Shiyu Shu et.al.|[2505.11496v1](http://arxiv.org/abs/2505.11496v1)|null|
-|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467v1](http://arxiv.org/abs/2505.11467v1)|null|
-|**2025-05-16**|**Fractal Graph Contrastive Learning**|Nero Z. Li et.al.|[2505.11356v1](http://arxiv.org/abs/2505.11356v1)|null|
-|**2025-05-16**|**STRIDE: Sparse Techniques for Regression in Deep Gaussian Processes**|Simon Urbainczyk et.al.|[2505.11355v1](http://arxiv.org/abs/2505.11355v1)|null|
-|**2025-05-16**|**Convergence Rates of Constrained Expected Improvement**|Haowei Wang et.al.|[2505.11323v1](http://arxiv.org/abs/2505.11323v1)|null|
-|**2025-05-16**|**Improving Inference-Time Optimisation for Vocal Effects Style Transfer with a Gaussian Prior**|Chin-Yun Yu et.al.|[2505.11315v1](http://arxiv.org/abs/2505.11315v1)|null|
-|**2025-05-16**|**Quantum Correlations in Three-Beam Symmetric Gaussian States Accessed via Photon-Number-Resolving Detection and Quantum Universal Invariants**|Jan Peřina Jr. et.al.|[2505.11303v1](http://arxiv.org/abs/2505.11303v1)|null|
-|**2025-05-16**|**Bidirectional Information Flow (BIF) -- A Sample Efficient Hierarchical Gaussian Process for Bayesian Optimization**|Juan D. Guerra et.al.|[2505.11294v1](http://arxiv.org/abs/2505.11294v1)|null|
-|**2025-05-16**|**Adaptive Linear Embedding for Nonstationary High-Dimensional Optimization**|Yuejiang Wen et.al.|[2505.11281v1](http://arxiv.org/abs/2505.11281v1)|null|
-|**2025-05-16**|**Formal Uncertainty Propagation for Stochastic Dynamical Systems with Additive Noise**|Steven Adams et.al.|[2505.11219v1](http://arxiv.org/abs/2505.11219v1)|null|
-|**2025-05-16**|**Gaussian Weight Sampling for Scalable, Efficient and Stable Pseudo-Quantization Training**|Myeonghwan Ahn et.al.|[2505.11170v1](http://arxiv.org/abs/2505.11170v1)|null|
-|**2025-05-16**|**Inexact Column Generation for Bayesian Network Structure Learning via Difference-of-Submodular Optimization**|Yiran Yang et.al.|[2505.11089v1](http://arxiv.org/abs/2505.11089v1)|null|
-|**2025-05-16**|**A Fast Kernel-based Conditional Independence test with Application to Causal Discovery**|Oliver Schacht et.al.|[2505.11085v1](http://arxiv.org/abs/2505.11085v1)|null|
-|**2025-05-16**|**Beyond KL-divergence: Risk Aware Control Through Cross Entropy and Adversarial Entropy Regularization**|Menno van Zutphen et.al.|[2505.11068v1](http://arxiv.org/abs/2505.11068v1)|null|
-|**2025-05-16**|**Graviton-photon conversion in stochastic magnetic fields**|Wataru Chiba et.al.|[2505.10926v1](http://arxiv.org/abs/2505.10926v1)|null|
-|**2025-05-16**|**Enforced Interface Constraints for Domain Decomposition Method of Discrete Physics-Informed Neural Networks**|Jichao Yin et.al.|[2505.10925v1](http://arxiv.org/abs/2505.10925v1)|null|
-|**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923v1](http://arxiv.org/abs/2505.10923v1)|null|
-|**2025-05-16**|**Precise calculation of the EFT likelihood with primordial non-Gaussianities**|Ji-Yuan Ke et.al.|[2505.10915v1](http://arxiv.org/abs/2505.10915v1)|null|
-|**2025-05-16**|**Near field transmission using Hermite-Gaussian modes**|Chenxi Zhu et.al.|[2505.10914v1](http://arxiv.org/abs/2505.10914v1)|null|
-|**2025-05-16**|**Estimating Velocity Vector Fields using Transport Gaussian Processes**|Youssef Fahmy et.al.|[2505.10898v1](http://arxiv.org/abs/2505.10898v1)|null|
-|**2025-05-16**|**Prior-Guided Diffusion Planning for Offline Reinforcement Learning**|Donghyeon Ki et.al.|[2505.10881v1](http://arxiv.org/abs/2505.10881v1)|null|
-|**2025-05-16**|**Approximation and Generalization Abilities of Score-based Neural Network Generative Models for Sub-Gaussian Distributions**|Guoji Fu et.al.|[2505.10880v1](http://arxiv.org/abs/2505.10880v1)|null|
-|**2025-05-16**|**Graph and Simplicial Complex Prediction Gaussian Process via the Hodgelet Representations**|Mathieu Alain et.al.|[2505.10877v1](http://arxiv.org/abs/2505.10877v1)|null|
-|**2025-05-16**|**Robust 2D lidar-based SLAM in arboreal environments without IMU/GNSS**|Paola Nazate-Burgos et.al.|[2505.10847v1](http://arxiv.org/abs/2505.10847v1)|null|
-|**2025-05-16**|**Distribution Regression with Censored Selection**|Ivan Fernandez-Val et.al.|[2505.10814v1](http://arxiv.org/abs/2505.10814v1)|null|
-|**2025-05-16**|**Cell Library Characterization for Composite Current Source Models Based on Gaussian Process Regression and Active Learning**|Tao Bai et.al.|[2505.10799v1](http://arxiv.org/abs/2505.10799v1)|null|
-|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787v1](http://arxiv.org/abs/2505.10787v1)|null|
-|**2025-05-15**|**Microscopic description of the liquid-gas coexistence curve for Morse fluids in the immediate vicinity of the critical point**|I. V. Pylyuk et.al.|[2505.10725v1](http://arxiv.org/abs/2505.10725v1)|null|
-|**2025-05-15**|**Asymptotically-Optimal Gaussian Bandits with Side Observations**|Alexia Atsidakou et.al.|[2505.10698v1](http://arxiv.org/abs/2505.10698v1)|null|
-|**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696v1](http://arxiv.org/abs/2505.10696v1)|null|
+|**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443v1](http://arxiv.org/abs/2505.13443v1)|null|
+|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|[link](https://github.com/dwawayu/pensieve)|
+|**2025-05-19**|**State- versus Reaction-Based Information Processing in Biochemical Networks**|Anne-Lena Moor et.al.|[2505.13373v1](http://arxiv.org/abs/2505.13373v1)|null|
+|**2025-05-19**|**Scalable Importance Sampling in High Dimensions with Low-Rank Mixture Proposals**|Liam A. Kruse et.al.|[2505.13335v1](http://arxiv.org/abs/2505.13335v1)|null|
+|**2025-05-19**|**GMM-Based Comprehensive Feature Extraction and Relative Distance Preservation For Few-Shot Cross-Modal Retrieval**|Chengsong Sun et.al.|[2505.13306v1](http://arxiv.org/abs/2505.13306v1)|null|
+|**2025-05-19**|**Smoothed SGD for quantiles: Bahadur representation and Gaussian approximation**|Likai Chen et.al.|[2505.13299v1](http://arxiv.org/abs/2505.13299v1)|null|
+|**2025-05-19**|**Type Ia supernova growth-rate measurement with LSST simulations: intrinsic scatter systematics**|Bastien Carreres et.al.|[2505.13290v1](http://arxiv.org/abs/2505.13290v1)|null|
+|**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280v1](http://arxiv.org/abs/2505.13280v1)|[link](https://github.com/distrinet/flowpure)|
+|**2025-05-19**|**Heyde characterization theorem for some classes of locally compact Abelian groups**|Gennadiy Feldman et.al.|[2505.13221v1](http://arxiv.org/abs/2505.13221v1)|null|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215v1](http://arxiv.org/abs/2505.13215v1)|null|
+|**2025-05-19**|**A Malliavin-Gamma calculus approach to Score Based Diffusion Generative models for random fields**|Giacomo Greco et.al.|[2505.13189v1](http://arxiv.org/abs/2505.13189v1)|null|
+|**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140v1](http://arxiv.org/abs/2505.13140v1)|null|
+|**2025-05-19**|**Attention-based clustering**|Rodrigo Maulen-Soto et.al.|[2505.13112v1](http://arxiv.org/abs/2505.13112v1)|null|
+|**2025-05-19**|**Why Knowledge Distillation Works in Generative Models: A Minimal Working Explanation**|Sungmin Cha et.al.|[2505.13111v1](http://arxiv.org/abs/2505.13111v1)|null|
+|**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052v1](http://arxiv.org/abs/2505.13052v1)|null|
+|**2025-05-19**|**A Generalized Label Shift Perspective for Cross-Domain Gaze Estimation**|Hao-Ran Yang et.al.|[2505.13043v1](http://arxiv.org/abs/2505.13043v1)|null|
+|**2025-05-19**|**Renormalization group analysis of a continuous model with self-organized criticality: Effects of randomly moving environment**|N. V. Antonov et.al.|[2505.13040v1](http://arxiv.org/abs/2505.13040v1)|null|
+|**2025-05-19**|**Characterizing asymmetric and bimodal long-term financial return distributions through quantum walks**|Stijn De Backer et.al.|[2505.13019v1](http://arxiv.org/abs/2505.13019v1)|null|
+|**2025-05-19**|**Spatiotemporal plasma hologram**|Zhaohui Wu et.al.|[2505.12993v1](http://arxiv.org/abs/2505.12993v1)|null|
+|**2025-05-19**|**Study of the hottest droplet of fluid through correlations and fluctuations of collective variables**|Rupam Samanta et.al.|[2505.12961v1](http://arxiv.org/abs/2505.12961v1)|null|
+|**2025-05-19**|**On the superintegrability of the Gaussian $β$ ensemble and its $(q,t)$ generalisation**|Sung-Soo Byun et.al.|[2505.12927v1](http://arxiv.org/abs/2505.12927v1)|null|
+|**2025-05-19**|**Effects of the Auto-Correlation of Delays on the Age of Information: A Gaussian Process Framework**|Atsushi Inoie et.al.|[2505.12885v1](http://arxiv.org/abs/2505.12885v1)|null|
+|**2025-05-19**|**Spline Dimensional Decomposition with Interpolation-based Optimal Knot Selection for Stochastic Dynamic Analysis**|Yeonsu Kim et.al.|[2505.12879v1](http://arxiv.org/abs/2505.12879v1)|null|
+|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875v1](http://arxiv.org/abs/2505.12875v1)|null|
+|**2025-05-19**|**GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents**|Zheng Wu et.al.|[2505.12842v1](http://arxiv.org/abs/2505.12842v1)|[link](https://github.com/wuzheng02/gem-oodforguiagents)|
+|**2025-05-19**|**The Gaussian Latent Machine: Efficient Prior and Posterior Sampling for Inverse Problems**|Muhamed Kuric et.al.|[2505.12836v1](http://arxiv.org/abs/2505.12836v1)|null|
+|**2025-05-19**|**Algebro-combinatorial generalizations of the Victoir method for constructing weighted designs**|Hiroshi Nozaki et.al.|[2505.12829v1](http://arxiv.org/abs/2505.12829v1)|null|
+|**2025-05-19**|**Adaptive Inference through Bayesian and Inverse Bayesian Inference with Symmetry-Bias in Nonstationary Environments**|Shuji Shinohara et.al.|[2505.12796v1](http://arxiv.org/abs/2505.12796v1)|null|
+|**2025-05-19**|**Multi-Reference and Adaptive Nonlinear Transform Source-Channel Coding for Wireless Image Semantic Transmission**|Cheng Yuan et.al.|[2505.12740v1](http://arxiv.org/abs/2505.12740v1)|null|
+|**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693v1](http://arxiv.org/abs/2505.12693v1)|null|
