@@ -30,5 +30,5 @@
 |**2025-05-19**|**CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents**|Rebecca Westhäußer et.al.|[2505.13044v1](http://arxiv.org/abs/2505.13044v1)|null|
 |**2025-05-19**|**Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain**|Yuyang Li et.al.|[2505.13006v1](http://arxiv.org/abs/2505.13006v1)|null|
 |**2025-05-19**|**A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation**|Vinkle Srivastav et.al.|[2505.12998v1](http://arxiv.org/abs/2505.12998v1)|[link](https://github.com/camma-public/tfuscapes)|
-|**2025-05-19**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981v1](http://arxiv.org/abs/2505.12981v1)|null|
+|**2025-05-19**|**From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents**|Liangxuan Wu et.al.|[2505.12981v2](http://arxiv.org/abs/2505.12981v2)|null|
 |**2025-05-19**|**6G-Enabled Smart Railways**|Bo Ai et.al.|[2505.12946v1](http://arxiv.org/abs/2505.12946v1)|null|

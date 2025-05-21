@@ -29,6 +29,6 @@
 |**2025-05-19**|**GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents**|Zheng Wu et.al.|[2505.12842v1](http://arxiv.org/abs/2505.12842v1)|[link](https://github.com/wuzheng02/gem-oodforguiagents)|
 |**2025-05-19**|**The Gaussian Latent Machine: Efficient Prior and Posterior Sampling for Inverse Problems**|Muhamed Kuric et.al.|[2505.12836v1](http://arxiv.org/abs/2505.12836v1)|null|
 |**2025-05-19**|**Algebro-combinatorial generalizations of the Victoir method for constructing weighted designs**|Hiroshi Nozaki et.al.|[2505.12829v1](http://arxiv.org/abs/2505.12829v1)|null|
-|**2025-05-19**|**Adaptive Inference through Bayesian and Inverse Bayesian Inference with Symmetry-Bias in Nonstationary Environments**|Shuji Shinohara et.al.|[2505.12796v1](http://arxiv.org/abs/2505.12796v1)|null|
+|**2025-05-19**|**Adaptive Inference through Bayesian and Inverse Bayesian Inference with Symmetry-Bias in Nonstationary Environments**|Shuji Shinohara et.al.|[2505.12796v2](http://arxiv.org/abs/2505.12796v2)|null|
 |**2025-05-19**|**Multi-Reference and Adaptive Nonlinear Transform Source-Channel Coding for Wireless Image Semantic Transmission**|Cheng Yuan et.al.|[2505.12740v1](http://arxiv.org/abs/2505.12740v1)|null|
 |**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693v1](http://arxiv.org/abs/2505.12693v1)|null|
