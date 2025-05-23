@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811v1](http://arxiv.org/abs/2505.15811v1)|null|
-|**2025-05-21**|**The Agentic Economy**|David M. Rothschild et.al.|[2505.15799v1](http://arxiv.org/abs/2505.15799v1)|null|
-|**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798v1](http://arxiv.org/abs/2505.15798v1)|null|
-|**2025-05-21**|**Exploring the Innovation Opportunities for Pre-trained Models**|Minjung Park et.al.|[2505.15790v1](http://arxiv.org/abs/2505.15790v1)|null|
-|**2025-05-21**|**Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**|Zhen Zhang et.al.|[2505.15778v1](http://arxiv.org/abs/2505.15778v1)|[link](https://github.com/eric-ai-lab/soft-thinking)|
-|**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755v1](http://arxiv.org/abs/2505.15755v1)|null|
-|**2025-05-21**|**"Alexa, can you forget me?" Machine Unlearning Benchmark in Spoken Language Understanding**|Alkis Koudounas et.al.|[2505.15700v1](http://arxiv.org/abs/2505.15700v1)|null|
-|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685v1](http://arxiv.org/abs/2505.15685v1)|null|
-|**2025-05-21**|**Benchmarking Energy and Latency in TinyML: A Novel Method for Resource-Constrained AI**|Pietro Bartoli et.al.|[2505.15622v1](http://arxiv.org/abs/2505.15622v1)|null|
-|**2025-05-21**|**Observation of $χ_{cJ}\to 3K_S^0K^\pmπ^\mp$**|BESIII Collaboration et.al.|[2505.15620v1](http://arxiv.org/abs/2505.15620v1)|null|
-|**2025-05-21**|**Exploring LLM-Generated Feedback for Economics Essays: How Teaching Assistants Evaluate and Envision Its Use**|Xinyi Lu et.al.|[2505.15596v1](http://arxiv.org/abs/2505.15596v1)|[link](https://github.com/um-lifelong-learning-lab/aied2025-exploring-llm-generated-feedback-for-economics-essay)|
-|**2025-05-21**|**Bridging the Gap: Physical PCI Device Integration Into SystemC-TLM Virtual Platforms**|Nils Bosbach et.al.|[2505.15590v1](http://arxiv.org/abs/2505.15590v1)|null|
-|**2025-05-21**|**Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**|Changyuan Zhao et.al.|[2505.15571v1](http://arxiv.org/abs/2505.15571v1)|null|
-|**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528v1](http://arxiv.org/abs/2505.15528v1)|null|
-|**2025-05-21**|**Exploiting Age of Information in Network Digital Twins for AI-driven Real-Time Link Blockage Detection**|Michele Zhu et.al.|[2505.15519v1](http://arxiv.org/abs/2505.15519v1)|null|
-|**2025-05-21**|**Explainable embeddings with Distance Explainer**|Christiaan Meijer et.al.|[2505.15516v1](http://arxiv.org/abs/2505.15516v1)|null|
-|**2025-05-21**|**NOMAD Projection**|Brandon Duderstadt et.al.|[2505.15511v1](http://arxiv.org/abs/2505.15511v1)|null|
-|**2025-05-21**|**AI-empowered Real-Time Line-of-Sight Identification via Network Digital Twins**|Michele Zhu et.al.|[2505.15478v1](http://arxiv.org/abs/2505.15478v1)|null|
-|**2025-05-21**|**A Participatory Strategy for AI Ethics in Education and Rehabilitation grounded in the Capability Approach**|Valeria Cesaroni et.al.|[2505.15466v1](http://arxiv.org/abs/2505.15466v1)|null|
-|**2025-05-21**|**AI-based Decision Support System for Heritage Aircraft Corrosion Prevention**|Michal Kuchař et.al.|[2505.15462v1](http://arxiv.org/abs/2505.15462v1)|null|
-|**2025-05-21**|**Set-LLM: A Permutation-Invariant LLM**|Beni Egressy et.al.|[2505.15433v1](http://arxiv.org/abs/2505.15433v1)|null|
-|**2025-05-21**|**Trends and Challenges in Authorship Analysis: A Review of ML, DL, and LLM Approaches**|Nudrat Habib et.al.|[2505.15422v1](http://arxiv.org/abs/2505.15422v1)|null|
-|**2025-05-21**|**ClickSight: Interpreting Student Clickstreams to Reveal Insights on Learning Strategies via LLMs**|Bahar Radmehr et.al.|[2505.15410v1](http://arxiv.org/abs/2505.15410v1)|null|
-|**2025-05-21**|**AI vs. Human Judgment of Content Moderation: LLM-as-a-Judge and Ethics-Based Response Refusals**|Stefan Pasch et.al.|[2505.15365v1](http://arxiv.org/abs/2505.15365v1)|null|
-|**2025-05-21**|**More on the Concept of Anti-integrability for Hénon Maps**|Zin Arai et.al.|[2505.15346v1](http://arxiv.org/abs/2505.15346v1)|null|
-|**2025-05-21**|**Alpay Algebra: A Universal Structural Foundation**|Faruk Alpay et.al.|[2505.15344v1](http://arxiv.org/abs/2505.15344v1)|null|
-|**2025-05-21**|**Let's Take Esoteric Programming Languages Seriously**|Jeremy Singer et.al.|[2505.15327v1](http://arxiv.org/abs/2505.15327v1)|null|
-|**2025-05-21**|**Improving LLM First-Token Predictions in Multiple-Choice Question Answering via Prefilling Attack**|Silvia Cappelletti et.al.|[2505.15323v1](http://arxiv.org/abs/2505.15323v1)|null|
-|**2025-05-21**|**AGENT-X: Adaptive Guideline-based Expert Network for Threshold-free AI-generated teXt detection**|Jiatao Li et.al.|[2505.15261v1](http://arxiv.org/abs/2505.15261v1)|null|
-|**2025-05-21**|**Classifying and Tracking International Aid Contribution Towards SDGs**|Sungwon Park et.al.|[2505.15223v1](http://arxiv.org/abs/2505.15223v1)|null|
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|null|
+|**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|null|
+|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|null|
+|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982v1](http://arxiv.org/abs/2505.16982v1)|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|null|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975v1](http://arxiv.org/abs/2505.16975v1)|null|
+|**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964v1](http://arxiv.org/abs/2505.16964v1)|null|
+|**2025-05-22**|**Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models**|Alessandro Favero et.al.|[2505.16959v1](http://arxiv.org/abs/2505.16959v1)|null|
+|**2025-05-22**|**Cracking Aegis: An Adversarial LLM-based Game for Raising Awareness of Vulnerabilities in Privacy Protection**|Jiaying Fu et.al.|[2505.16954v1](http://arxiv.org/abs/2505.16954v1)|null|
+|**2025-05-22**|**From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development**|Santiago Berrezueta-Guzman et.al.|[2505.16951v1](http://arxiv.org/abs/2505.16951v1)|null|
+|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938v1](http://arxiv.org/abs/2505.16938v1)|null|
+|**2025-05-22**|**In-Context Watermarks for Large Language Models**|Yepeng Liu et.al.|[2505.16934v1](http://arxiv.org/abs/2505.16934v1)|null|
+|**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928v1](http://arxiv.org/abs/2505.16928v1)|null|
+|**2025-05-22**|**Identifying, Evaluating, and Mitigating Risks of AI Thought Partnerships**|Kerem Oktar et.al.|[2505.16899v1](http://arxiv.org/abs/2505.16899v1)|null|
+|**2025-05-22**|**CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework**|Viet Pham et.al.|[2505.16888v1](http://arxiv.org/abs/2505.16888v1)|null|
+|**2025-05-22**|**MPO: Multilingual Safety Alignment via Reward Gap Optimization**|Weixiang Zhao et.al.|[2505.16869v1](http://arxiv.org/abs/2505.16869v1)|null|
+|**2025-05-22**|**Including the magnitude variability of a signal into the ordinal pattern analysis**|Melvyn Tyloo et.al.|[2505.16866v1](http://arxiv.org/abs/2505.16866v1)|null|
+|**2025-05-22**|**LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols**|Ziming liu et.al.|[2505.16821v1](http://arxiv.org/abs/2505.16821v1)|null|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815v1](http://arxiv.org/abs/2505.16815v1)|null|
+|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|null|
+|**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792v1](http://arxiv.org/abs/2505.16792v1)|null|
+|**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|null|
+|**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763v1](http://arxiv.org/abs/2505.16763v1)|null|
+|**2025-05-22**|**Rotation angles of a rotating disc -- A toy model exhibiting the geometric phase --**|Takuya Matsumoto et.al.|[2505.16749v1](http://arxiv.org/abs/2505.16749v1)|null|
+|**2025-05-22**|**SEDD-PCC: A Single Encoder-Dual Decoder Framework For End-To-End Learned Point Cloud Compression**|Kai Hsiang Hsieh et.al.|[2505.16709v1](http://arxiv.org/abs/2505.16709v1)|null|
+|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663v1](http://arxiv.org/abs/2505.16663v1)|[link](https://github.com/oceanhao/CoNav)|
+|**2025-05-22**|**Point, Detect, Count: Multi-Task Medical Image Understanding with Instruction-Tuned Vision-Language Models**|Sushant Gautam et.al.|[2505.16647v1](http://arxiv.org/abs/2505.16647v1)|null|
+|**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640v1](http://arxiv.org/abs/2505.16640v1)|null|
+|**2025-05-22**|**SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding**|Sushant Gautam et.al.|[2505.16630v1](http://arxiv.org/abs/2505.16630v1)|null|

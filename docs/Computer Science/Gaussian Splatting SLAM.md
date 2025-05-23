@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**Hilbert space methods for approximating multi-output latent variable Gaussian processes**|Soham Mukherjee et.al.|[2505.16919v1](http://arxiv.org/abs/2505.16919v1)|null|
+|**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862v1](http://arxiv.org/abs/2505.16862v1)|null|
+|**2025-05-22**|**The isotropy, anisotropies and non-Gaussianity of the scalar-induced gravitational-wave background: diagrammatic approach for primordial non-Gaussianity up to any order**|Jun-Peng Li et.al.|[2505.16820v1](http://arxiv.org/abs/2505.16820v1)|null|
+|**2025-05-22**|**SEED: Speaker Embedding Enhancement Diffusion Model**|KiHyun Nam et.al.|[2505.16798v1](http://arxiv.org/abs/2505.16798v1)|null|
+|**2025-05-22**|**Multi-Output Gaussian Processes for Graph-Structured Data**|Ayano Nakai-Kasai et.al.|[2505.16755v1](http://arxiv.org/abs/2505.16755v1)|null|
+|**2025-05-22**|**An open harmonic chain: Exact vs global and local reduced dynamics**|Melika Babakan et.al.|[2505.16669v1](http://arxiv.org/abs/2505.16669v1)|null|
+|**2025-05-22**|**Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free**|Stephen Y. Zhang et.al.|[2505.16644v1](http://arxiv.org/abs/2505.16644v1)|null|
+|**2025-05-22**|**Major issues in theory of Bose-Einstein condensation**|V. I. Yukalov et.al.|[2505.16600v1](http://arxiv.org/abs/2505.16600v1)|null|
+|**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535v1](http://arxiv.org/abs/2505.16535v1)|null|
+|**2025-05-22**|**Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction**|Jiacong Chen et.al.|[2505.16533v1](http://arxiv.org/abs/2505.16533v1)|null|
+|**2025-05-22**|**Neighbour-Driven Gaussian Process Variational Autoencoders for Scalable Structured Latent Modelling**|Xinxing Shi et.al.|[2505.16481v1](http://arxiv.org/abs/2505.16481v1)|null|
+|**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456v1](http://arxiv.org/abs/2505.16456v1)|null|
+|**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447v1](http://arxiv.org/abs/2505.16447v1)|null|
+|**2025-05-22**|**Statistical properties of non-linear observables of fractal Gaussian fields with a focus on spatial-averaging observables and on composite operators**|Cecile Monthus et.al.|[2505.16356v1](http://arxiv.org/abs/2505.16356v1)|null|
+|**2025-05-22**|**Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping**|Simone Bombari et.al.|[2505.16329v1](http://arxiv.org/abs/2505.16329v1)|null|
+|**2025-05-22**|**Semiparametric Bernstein-von Mises theorems for reversible diffusions**|Matteo Giordano et.al.|[2505.16275v1](http://arxiv.org/abs/2505.16275v1)|null|
+|**2025-05-22**|**Graph-Smoothed Bayesian Black-Box Shift Estimator and Its Information Geometry**|Masanari Kimura et.al.|[2505.16251v1](http://arxiv.org/abs/2505.16251v1)|null|
+|**2025-05-22**|**Understanding the Lyα Emission Observed by the Solar Disk Imager Aboard the Advanced Space-based Solar Observatory**|Yiliang Li et.al.|[2505.16218v1](http://arxiv.org/abs/2505.16218v1)|null|
+|**2025-05-22**|**Directional Convergence, Benign Overfitting of Gradient Descent in leaky ReLU two-layer Neural Networks**|Ichiro Hashimoto et.al.|[2505.16204v1](http://arxiv.org/abs/2505.16204v1)|null|
+|**2025-05-22**|**Exact Expansion Formalism for Transport Properties of Heterogeneous Materials Characterized by Arbitrary Continuous Random Fields**|Liyu Zhong et.al.|[2505.16173v1](http://arxiv.org/abs/2505.16173v1)|null|
+|**2025-05-22**|**CMA-ES with Radial Basis Function Surrogate for Black-Box Optimization**|Farshid Farhadi Khouzani et.al.|[2505.16127v1](http://arxiv.org/abs/2505.16127v1)|null|
+|**2025-05-22**|**Improved linear and Kerr nonlinear phase estimation via photon addition operations**|Zekun Zhao et.al.|[2505.16123v1](http://arxiv.org/abs/2505.16123v1)|null|
+|**2025-05-21**|**Central limit theorem for the determinantal point process with the confluent hypergeometric kernel**|Sergei M. Gorbunov et.al.|[2505.16069v1](http://arxiv.org/abs/2505.16069v1)|null|
+|**2025-05-21**|**PO-Flow: Flow-based Generative Models for Sampling Potential Outcomes and Counterfactuals**|Dongze Wu et.al.|[2505.16051v1](http://arxiv.org/abs/2505.16051v1)|null|
+|**2025-05-21**|**Gaussian Processes in Power Systems: Techniques, Applications, and Future Works**|Bendong Tan et.al.|[2505.15950v1](http://arxiv.org/abs/2505.15950v1)|null|
+|**2025-05-21**|**Improving the Predictability of the Madden-Julian Oscillation at Subseasonal Scales with Gaussian Process Models**|Haoyuan Chen et.al.|[2505.15934v1](http://arxiv.org/abs/2505.15934v1)|null|
 |**2025-05-21**|**Current constraints on the minimally extended varying speed of light model through the cosmic distance duality relation**|Jaiane Santos et.al.|[2505.15768v1](http://arxiv.org/abs/2505.15768v1)|null|
 |**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737v1](http://arxiv.org/abs/2505.15737v1)|null|
-|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683v1](http://arxiv.org/abs/2505.15683v1)|null|
+|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683v1](http://arxiv.org/abs/2505.15683v1)|[link](https://github.com/TAP-LLM/SplitFedLLM)|
 |**2025-05-21**|**Analysis and Simulation of Generalized Langevin Equations with Non-Gaussian Orthogonal Forces**|Henrik Kiefer et.al.|[2505.15665v1](http://arxiv.org/abs/2505.15665v1)|null|
-|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|null|
-|**2025-05-21**|**Modular Jump Gaussian Processes**|Anna R. Flowers et.al.|[2505.15557v1](http://arxiv.org/abs/2505.15557v1)|null|
-|**2025-05-21**|**Robust Activity Detection for Massive Random Access**|Xinjue Wang et.al.|[2505.15555v1](http://arxiv.org/abs/2505.15555v1)|null|
-|**2025-05-21**|**Enhanced Robustness of Atom Interferometer Using Super-Gaussian Pulses**|Yujuan Liu et.al.|[2505.15552v2](http://arxiv.org/abs/2505.15552v2)|null|
-|**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528v1](http://arxiv.org/abs/2505.15528v1)|null|
-|**2025-05-21**|**Laminar boundary layer separation over a fully porous bump**|Grace Bridge et.al.|[2505.15494v1](http://arxiv.org/abs/2505.15494v1)|null|
-|**2025-05-21**|**Damping oscillatory Integrals of convex analytic functions**|Sanghyuk Lee et.al.|[2505.15492v1](http://arxiv.org/abs/2505.15492v1)|null|
-|**2025-05-21**|**Exploring short-term stellar activity in M dwarfs: A volume-limited perspective**|G. Galletta et.al.|[2505.15451v1](http://arxiv.org/abs/2505.15451v1)|null|
-|**2025-05-21**|**EVA: Expressive Virtual Avatars from Multi-view Videos**|Hendrik Junkawitsch et.al.|[2505.15385v1](http://arxiv.org/abs/2505.15385v1)|null|
-|**2025-05-21**|**Subgap pumping of antiferromagnetic Mott insulators: photoexcitation mechanisms and applications**|Radu Andrei et.al.|[2505.15343v1](http://arxiv.org/abs/2505.15343v1)|null|
-|**2025-05-21**|**Thermal emission effect on Chandrasekhar's $H(μ)$-function for isotropic scattering in semi-infinite atmosphere problem**|Soumya Sengupta et.al.|[2505.15319v1](http://arxiv.org/abs/2505.15319v1)|null|
-|**2025-05-21**|**R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**|Xu yan et.al.|[2505.15294v1](http://arxiv.org/abs/2505.15294v1)|null|
-|**2025-05-21**|**LLM-Explorer: A Plug-in Reinforcement Learning Policy Exploration Enhancement Driven by Large Language Models**|Qianyue Hao et.al.|[2505.15293v1](http://arxiv.org/abs/2505.15293v1)|null|
-|**2025-05-21**|**GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation**|Yuchen Li et.al.|[2505.15287v1](http://arxiv.org/abs/2505.15287v1)|null|
-|**2025-05-21**|**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations**|Kun Fang et.al.|[2505.15284v1](http://arxiv.org/abs/2505.15284v1)|null|
-|**2025-05-21**|**WISP: Image Segmentation-Based Whitespace Diagnosis for Optimal Rectilinear Floorplanning**|Xiaotian Zhao et.al.|[2505.15271v1](http://arxiv.org/abs/2505.15271v1)|null|
-|**2025-05-21**|**X-GRM: Large Gaussian Reconstruction Model for Sparse-view X-rays to Computed Tomography**|Yifan Liu et.al.|[2505.15235v1](http://arxiv.org/abs/2505.15235v1)|[link](https://github.com/cuhk-aim-group/x-grm)|
-|**2025-05-21**|**GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting**|Wenjie Liu et.al.|[2505.15208v1](http://arxiv.org/abs/2505.15208v1)|null|
-|**2025-05-21**|**Self-Boost via Optimal Retraining: An Analysis via Approximate Message Passing**|Adel Javanmard et.al.|[2505.15195v1](http://arxiv.org/abs/2505.15195v1)|null|
-|**2025-05-21**|**MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models**|Yifan Liu et.al.|[2505.15185v1](http://arxiv.org/abs/2505.15185v1)|[link](https://github.com/cuhk-aim-group/monosplat)|
-|**2025-05-21**|**Imprints of Large-Scale Structures in the Anisotropies of the Cosmological Gravitational Wave Background**|Rafael Bravo et.al.|[2505.15084v1](http://arxiv.org/abs/2505.15084v1)|null|
-|**2025-05-21**|**Restricted Spectral Gap Decomposition for Simulated Tempering Targeting Mixture Distributions**|Jhanvi Garg et.al.|[2505.15059v1](http://arxiv.org/abs/2505.15059v1)|null|
-|**2025-05-20**|**PINCH: Pipeline-Informed Noise Characterization of Gravitational Wave Candidates**|Zach Yarbrough et.al.|[2505.14949v1](http://arxiv.org/abs/2505.14949v1)|null|
-|**2025-05-20**|**Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning**|Amine Elhafsi et.al.|[2505.14938v1](http://arxiv.org/abs/2505.14938v1)|null|
-|**2025-05-20**|**Colors Matter: AI-Driven Exploration of Human Feature Colors**|Rama Alyoubi et.al.|[2505.14931v1](http://arxiv.org/abs/2505.14931v1)|[link](https://github.com/AiTaif7/Color-Matters-AI-Driven-Exploration-of-Human-Feature-Coloration)|
-|**2025-05-20**|**An Overview of the MUSES Calculation Engine and How It Can Be Used to Describe Neutron Stars**|Mateus Pelicer et.al.|[2505.14921v1](http://arxiv.org/abs/2505.14921v1)|null|
