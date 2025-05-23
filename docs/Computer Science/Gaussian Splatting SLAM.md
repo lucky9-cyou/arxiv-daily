@@ -9,7 +9,7 @@
 |**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|null|
 |**2025-05-21**|**Modular Jump Gaussian Processes**|Anna R. Flowers et.al.|[2505.15557v1](http://arxiv.org/abs/2505.15557v1)|null|
 |**2025-05-21**|**Robust Activity Detection for Massive Random Access**|Xinjue Wang et.al.|[2505.15555v1](http://arxiv.org/abs/2505.15555v1)|null|
-|**2025-05-21**|**Enhanced Robustness of Atom Interferometer Using Super-Gaussian Pulses**|Yujuan Liu et.al.|[2505.15552v1](http://arxiv.org/abs/2505.15552v1)|null|
+|**2025-05-21**|**Enhanced Robustness of Atom Interferometer Using Super-Gaussian Pulses**|Yujuan Liu et.al.|[2505.15552v2](http://arxiv.org/abs/2505.15552v2)|null|
 |**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528v1](http://arxiv.org/abs/2505.15528v1)|null|
 |**2025-05-21**|**Laminar boundary layer separation over a fully porous bump**|Grace Bridge et.al.|[2505.15494v1](http://arxiv.org/abs/2505.15494v1)|null|
 |**2025-05-21**|**Damping oscillatory Integrals of convex analytic functions**|Sanghyuk Lee et.al.|[2505.15492v1](http://arxiv.org/abs/2505.15492v1)|null|
