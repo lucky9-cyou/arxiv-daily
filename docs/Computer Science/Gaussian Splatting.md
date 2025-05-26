@@ -25,7 +25,7 @@
 |**2025-05-22**|**Improved linear and Kerr nonlinear phase estimation via photon addition operations**|Zekun Zhao et.al.|[2505.16123v1](http://arxiv.org/abs/2505.16123v1)|null|
 |**2025-05-21**|**Central limit theorem for the determinantal point process with the confluent hypergeometric kernel**|Sergei M. Gorbunov et.al.|[2505.16069v1](http://arxiv.org/abs/2505.16069v1)|null|
 |**2025-05-21**|**PO-Flow: Flow-based Generative Models for Sampling Potential Outcomes and Counterfactuals**|Dongze Wu et.al.|[2505.16051v1](http://arxiv.org/abs/2505.16051v1)|null|
-|**2025-05-21**|**Gaussian Processes in Power Systems: Techniques, Applications, and Future Works**|Bendong Tan et.al.|[2505.15950v1](http://arxiv.org/abs/2505.15950v1)|null|
+|**2025-05-21**|**Gaussian Processes in Power Systems: Techniques, Applications, and Future Works**|Bendong Tan et.al.|[2505.15950v2](http://arxiv.org/abs/2505.15950v2)|null|
 |**2025-05-21**|**Improving the Predictability of the Madden-Julian Oscillation at Subseasonal Scales with Gaussian Process Models**|Haoyuan Chen et.al.|[2505.15934v1](http://arxiv.org/abs/2505.15934v1)|null|
 |**2025-05-21**|**Current constraints on the minimally extended varying speed of light model through the cosmic distance duality relation**|Jaiane Santos et.al.|[2505.15768v1](http://arxiv.org/abs/2505.15768v1)|null|
 |**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737v1](http://arxiv.org/abs/2505.15737v1)|null|
