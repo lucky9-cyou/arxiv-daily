@@ -22,7 +22,7 @@
 |**2025-05-22**|**Including the magnitude variability of a signal into the ordinal pattern analysis**|Melvyn Tyloo et.al.|[2505.16866v1](http://arxiv.org/abs/2505.16866v1)|null|
 |**2025-05-22**|**LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols**|Ziming liu et.al.|[2505.16821v1](http://arxiv.org/abs/2505.16821v1)|null|
 |**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815v1](http://arxiv.org/abs/2505.16815v1)|[link](https://github.com/lcysyzxdxc/embodiediqa)|
-|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|null|
+|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v2](http://arxiv.org/abs/2505.16809v2)|null|
 |**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792v1](http://arxiv.org/abs/2505.16792v1)|[link](https://github.com/nus-hpc-ai-lab/haste)|
 |**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|null|
 |**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763v1](http://arxiv.org/abs/2505.16763v1)|null|
