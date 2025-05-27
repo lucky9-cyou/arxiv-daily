@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|null|
-|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|null|
-|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128v1](http://arxiv.org/abs/2505.18128v1)|null|
-|**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078v1](http://arxiv.org/abs/2505.18078v1)|null|
-|**2025-05-23**|**Towards Uncertainty Aware Task Delegation and Human-AI Collaborative Decision-Making**|Min Hun Lee et.al.|[2505.18066v1](http://arxiv.org/abs/2505.18066v1)|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
-|**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059v1](http://arxiv.org/abs/2505.18059v1)|null|
-|**2025-05-23**|**CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention**|Naseem Khan et.al.|[2505.18035v1](http://arxiv.org/abs/2505.18035v1)|null|
-|**2025-05-23**|**LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System**|Rashmi Gupta et.al.|[2505.18019v1](http://arxiv.org/abs/2505.18019v1)|null|
-|**2025-05-23**|**AI Literacy for Legal AI Systems: A practical approach**|Gizem Gultekin-Varkonyi et.al.|[2505.18006v1](http://arxiv.org/abs/2505.18006v1)|null|
-|**2025-05-23**|**Measurement of branching fractions of $Λ_{c}^{+}$ decays to $Σ^{+} η$ and $Σ^{+} η'$**|BESIII Collaboration et.al.|[2505.18004v1](http://arxiv.org/abs/2505.18004v1)|null|
-|**2025-05-23**|**An Example Safety Case for Safeguards Against Misuse**|Joshua Clymer et.al.|[2505.18003v1](http://arxiv.org/abs/2505.18003v1)|null|
-|**2025-05-23**|**Re-evaluation of Logical Specification in Behavioural Verification**|Radoslaw Klimek et.al.|[2505.17979v1](http://arxiv.org/abs/2505.17979v1)|null|
-|**2025-05-23**|**Explainable Anatomy-Guided AI for Prostate MRI: Foundation Models and In Silico Clinical Trials for Virtual Biopsy-based Risk Assessment**|Danial Khan et.al.|[2505.17971v1](http://arxiv.org/abs/2505.17971v1)|null|
-|**2025-05-23**|**Are Large Language Models Reliable AI Scientists? Assessing Reverse-Engineering of Black-Box Systems**|Jiayi Geng et.al.|[2505.17968v1](http://arxiv.org/abs/2505.17968v1)|null|
-|**2025-05-23**|**Counting Cycles with Deepseek**|Jiashun Jin et.al.|[2505.17964v1](http://arxiv.org/abs/2505.17964v1)|null|
-|**2025-05-23**|**Towards Industrial Convergence : Understanding the evolution of scientific norms and practices in the field of AI**|Antoine Houssard et.al.|[2505.17945v1](http://arxiv.org/abs/2505.17945v1)|null|
-|**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937v1](http://arxiv.org/abs/2505.17937v1)|null|
-|**2025-05-23**|**ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback**|Litao Guo et.al.|[2505.17908v1](http://arxiv.org/abs/2505.17908v1)|null|
-|**2025-05-23**|**Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods**|Shaina Raza et.al.|[2505.17870v1](http://arxiv.org/abs/2505.17870v1)|null|
-|**2025-05-23**|**Superplatforms Have to Attack AI Agents**|Jianghao Lin et.al.|[2505.17861v1](http://arxiv.org/abs/2505.17861v1)|null|
-|**2025-05-23**|**Explaining Sources of Uncertainty in Automated Fact-Checking**|Jingyi Sun et.al.|[2505.17855v1](http://arxiv.org/abs/2505.17855v1)|null|
-|**2025-05-23**|**TEDI: Trustworthy and Ethical Dataset Indicators to Analyze and Compare Dataset Documentation**|Wiebke Hutiri et.al.|[2505.17841v1](http://arxiv.org/abs/2505.17841v1)|null|
-|**2025-05-23**|**Evaluation Faking: Unveiling Observer Effects in Safety Evaluation of Frontier AI Systems**|Yihe Fan et.al.|[2505.17815v1](http://arxiv.org/abs/2505.17815v1)|null|
-|**2025-05-23**|**The Real Barrier to LLM Agent Usability is Agentic ROI**|Weiwen Liu et.al.|[2505.17767v1](http://arxiv.org/abs/2505.17767v1)|null|
-|**2025-05-23**|**Resolving Conflicting Evidence in Automated Fact-Checking: A Study on Retrieval-Augmented LLMs**|Ziyu Ge et.al.|[2505.17762v1](http://arxiv.org/abs/2505.17762v1)|null|
-|**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716v1](http://arxiv.org/abs/2505.17716v1)|null|
-|**2025-05-23**|**PPO-BR: Dual-Signal Entropy-Reward Adaptation for Trust Region Policy Optimization**|Ben Rahman et.al.|[2505.17714v1](http://arxiv.org/abs/2505.17714v1)|null|
-|**2025-05-23**|**Seek-CAD: A Self-refined Generative Modeling for 3D Parametric CAD Using Local Inference via DeepSeek**|Xueyang Li et.al.|[2505.17702v1](http://arxiv.org/abs/2505.17702v1)|null|
-|**2025-05-23**|**Enhancing AI System Resiliency: Formulation and Guarantee for LSTM Resilience Based on Control Theory**|Sota Yoshihara et.al.|[2505.17696v1](http://arxiv.org/abs/2505.17696v1)|null|
+|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246v1](http://arxiv.org/abs/2505.20246v1)|null|
+|**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236v1](http://arxiv.org/abs/2505.20236v1)|null|
+|**2025-05-26**|**FT-Boosted SV: Towards Noise Robust Speaker Verification for English Speaking Classroom Environments**|Saba Tabatabaee et.al.|[2505.20222v1](http://arxiv.org/abs/2505.20222v1)|null|
+|**2025-05-26**|**Evaluating Large Language Models for Code Review**|Umut Cihan et.al.|[2505.20206v1](http://arxiv.org/abs/2505.20206v1)|null|
+|**2025-05-26**|**The Problem of Algorithmic Collisions: Mitigating Unforeseen Risks in a Connected World**|Maurice Chiodo et.al.|[2505.20181v1](http://arxiv.org/abs/2505.20181v1)|null|
+|**2025-05-26**|**Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity**|Timur Sağlam et.al.|[2505.20158v1](http://arxiv.org/abs/2505.20158v1)|null|
+|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148v1](http://arxiv.org/abs/2505.20148v1)|null|
+|**2025-05-26**|**Model Stitching by Functional Latent Alignment**|Ioannis Athanasiadis et.al.|[2505.20142v1](http://arxiv.org/abs/2505.20142v1)|null|
+|**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136v1](http://arxiv.org/abs/2505.20136v1)|null|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129v1](http://arxiv.org/abs/2505.20129v1)|null|
+|**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127v1](http://arxiv.org/abs/2505.20127v1)|null|
+|**2025-05-26**|**Agents Require Metacognitive and Strategic Reasoning to Succeed in the Coming Labor Markets**|Simpson Zhang et.al.|[2505.20120v1](http://arxiv.org/abs/2505.20120v1)|null|
+|**2025-05-26**|**MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning**|Thang Nguyen et.al.|[2505.20096v1](http://arxiv.org/abs/2505.20096v1)|null|
+|**2025-05-26**|**Explanation User Interfaces: A Systematic Literature Review**|Eleonora Cappuccio et.al.|[2505.20085v1](http://arxiv.org/abs/2505.20085v1)|null|
+|**2025-05-26**|**Understanding and Supporting Co-viewing Comedy in VR with Embodied Expressive Avatars**|Ryo Ohara et.al.|[2505.20082v1](http://arxiv.org/abs/2505.20082v1)|null|
+|**2025-05-26**|**Curriculum-RLAIF: Curriculum Alignment with Reinforcement Learning from AI Feedback**|Mengdi Li et.al.|[2505.20075v1](http://arxiv.org/abs/2505.20075v1)|null|
+|**2025-05-26**|**On the Same Page: Dimensions of Perceived Shared Understanding in Human-AI Interaction**|Qingyu Liang et.al.|[2505.20068v1](http://arxiv.org/abs/2505.20068v1)|null|
+|**2025-05-26**|**Automated data curation for self-supervised learning in underwater acoustic analysis**|Hilde I Hummel et.al.|[2505.20066v1](http://arxiv.org/abs/2505.20066v1)|null|
+|**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059v1](http://arxiv.org/abs/2505.20059v1)|null|
+|**2025-05-26**|**EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition**|Christoph Schuhmann et.al.|[2505.20033v1](http://arxiv.org/abs/2505.20033v1)|null|
+|**2025-05-26**|**WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**|Minda Hu et.al.|[2505.20013v1](http://arxiv.org/abs/2505.20013v1)|null|
+|**2025-05-26**|**The Many Challenges of Human-Like Agents in Virtual Game Environments**|Maciej Świechowski et.al.|[2505.20011v1](http://arxiv.org/abs/2505.20011v1)|null|
+|**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995v1](http://arxiv.org/abs/2505.19995v1)|null|
+|**2025-05-26**|**DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset**|Alkis Koudounas et.al.|[2505.19978v1](http://arxiv.org/abs/2505.19978v1)|null|
+|**2025-05-26**|**DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response**|Bilel Cherif et.al.|[2505.19973v1](http://arxiv.org/abs/2505.19973v1)|null|
+|**2025-05-26**|**MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research**|Hui Chen et.al.|[2505.19955v1](http://arxiv.org/abs/2505.19955v1)|null|
+|**2025-05-26**|**Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making**|Yejin Son et.al.|[2505.19933v1](http://arxiv.org/abs/2505.19933v1)|null|
+|**2025-05-26**|**Evaluating AI cyber capabilities with crowdsourced elicitation**|Artem Petrov et.al.|[2505.19915v1](http://arxiv.org/abs/2505.19915v1)|null|
+|**2025-05-26**|**First measurement of $Σ^{+}n\rightarrowΛp$ and $Σ^{+}n\rightarrowΣ^{0}p$ cross-sections via $Σ^+$-nucleus scattering at an electron-positron collider**|BESIII Collaboration et.al.|[2505.19907v1](http://arxiv.org/abs/2505.19907v1)|null|
+|**2025-05-26**|**EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM**|Shuang Ao et.al.|[2505.19905v1](http://arxiv.org/abs/2505.19905v1)|null|
