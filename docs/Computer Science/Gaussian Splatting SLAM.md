@@ -23,7 +23,7 @@
 |**2025-05-22**|**Optimal Transport with Heterogeneously Missing Data**|Linus Bleistein et.al.|[2505.17291v1](http://arxiv.org/abs/2505.17291v1)|null|
 |**2025-05-22**|**A Joint Analysis of Strong Lensing and Type Ia Supernovae to Determine the Hubble Constant**|L. R. Colaço et.al.|[2505.17262v1](http://arxiv.org/abs/2505.17262v1)|null|
 |**2025-05-22**|**Reconstructing Cosmic History with Machine Learning: A Study Using CART, MLPR, and SVR**|Agripino Sousa-Neto et.al.|[2505.17205v1](http://arxiv.org/abs/2505.17205v1)|null|
-|**2025-05-22**|**Hilbert space methods for approximating multi-output latent variable Gaussian processes**|Soham Mukherjee et.al.|[2505.16919v1](http://arxiv.org/abs/2505.16919v1)|null|
+|**2025-05-22**|**Hilbert space methods for approximating multi-output latent variable Gaussian processes**|Soham Mukherjee et.al.|[2505.16919v1](http://arxiv.org/abs/2505.16919v1)|[link](https://github.com/soham6298/latent-variable-hsgps)|
 |**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862v1](http://arxiv.org/abs/2505.16862v1)|null|
 |**2025-05-22**|**The isotropy, anisotropies and non-Gaussianity of the scalar-induced gravitational-wave background: diagrammatic approach for primordial non-Gaussianity up to any order**|Jun-Peng Li et.al.|[2505.16820v1](http://arxiv.org/abs/2505.16820v1)|null|
 |**2025-05-22**|**SEED: Speaker Embedding Enhancement Diffusion Model**|KiHyun Nam et.al.|[2505.16798v1](http://arxiv.org/abs/2505.16798v1)|[link](https://github.com/kaistmm/seed-pytorch)|
