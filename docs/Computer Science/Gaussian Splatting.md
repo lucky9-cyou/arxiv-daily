@@ -2,11 +2,12 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference**|Pranav Mani et.al.|[2505.20178v1](http://arxiv.org/abs/2505.20178v1)|null|
 |**2025-05-26**|**Gaussian Process Methods for Covariate-Based Intensity Estimation**|Patric Dolmeta et.al.|[2505.20157v1](http://arxiv.org/abs/2505.20157v1)|null|
 |**2025-05-26**|**The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer**|Ricardo Carrizo Vergara et.al.|[2505.20151v1](http://arxiv.org/abs/2505.20151v1)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126v1](http://arxiv.org/abs/2505.20126v1)|null|
 |**2025-05-26**|**A fast sound power prediction tool for genset noise using machine learning**|Saurabh Pargal et.al.|[2505.20079v1](http://arxiv.org/abs/2505.20079v1)|null|
-|**2025-05-26**|**Linear Bandits with Non-i.i.d. Noise**|Baptiste Abélès et.al.|[2505.20017v1](http://arxiv.org/abs/2505.20017v1)|null|
+|**2025-05-26**|**Linear Bandits with Non-i.i.d. Noise**|Baptiste Abélès et.al.|[2505.20017v2](http://arxiv.org/abs/2505.20017v2)|null|
 |**2025-05-26**|**Critical dynamical fluctuations in reaction-diffusion processes**|Benoit Dagallier et.al.|[2505.20008v1](http://arxiv.org/abs/2505.20008v1)|null|
 |**2025-05-26**|**Existence of the solution to the graphical lasso**|Jack Storror Carter et.al.|[2505.20005v1](http://arxiv.org/abs/2505.20005v1)|null|
 |**2025-05-26**|**Efficient Gaussian Mixture Filters based on Transition Density Approximation**|Ondŕej Straka et.al.|[2505.20002v1](http://arxiv.org/abs/2505.20002v1)|null|
@@ -31,4 +32,3 @@
 |**2025-05-26**|**Residual Diffusivity for Expanding Bernoulli Maps**|William Cooperman et.al.|[2505.19378v1](http://arxiv.org/abs/2505.19378v1)|null|
 |**2025-05-25**|**Deployable 3D mesoscale structures through wafer fabrication, geometric frustration and bistable auxeticity**|Yue Wang et.al.|[2505.19329v1](http://arxiv.org/abs/2505.19329v1)|null|
 |**2025-05-25**|**PIGPVAE: Physics-Informed Gaussian Process Variational Autoencoders**|Michail Spitieris et.al.|[2505.19320v1](http://arxiv.org/abs/2505.19320v1)|null|
-|**2025-05-25**|**svc: An R package for Spatially Varying Coefficient Models**|Justice Akuoko-Frimpong et.al.|[2505.19287v1](http://arxiv.org/abs/2505.19287v1)|null|
