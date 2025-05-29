@@ -18,7 +18,7 @@
 |**2025-05-27**|**Prostate Cancer Screening with Artificial Intelligence-Enhanced Micro-Ultrasound: A Comparative Study with Traditional Methods**|Muhammad Imran et.al.|[2505.21355v1](http://arxiv.org/abs/2505.21355v1)|null|
 |**2025-05-27**|**Out of the Past: An AI-Enabled Pipeline for Traffic Simulation from Noisy, Multimodal Detector Data and Stakeholder Feedback**|Rex Chen et.al.|[2505.21349v1](http://arxiv.org/abs/2505.21349v1)|null|
 |**2025-05-27**|**The Multilingual Divide and Its Impact on Global AI Safety**|Aidan Peppin et.al.|[2505.21344v1](http://arxiv.org/abs/2505.21344v1)|null|
-|**2025-05-27**|**PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims**|Valentin Knappich et.al.|[2505.21342v1](http://arxiv.org/abs/2505.21342v1)|null|
+|**2025-05-27**|**PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims**|Valentin Knappich et.al.|[2505.21342v2](http://arxiv.org/abs/2505.21342v2)|null|
 |**2025-05-27**|**Assured Autonomy with Neuro-Symbolic Perception**|R. Spencer Hallyburton et.al.|[2505.21322v1](http://arxiv.org/abs/2505.21322v1)|null|
 |**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318v1](http://arxiv.org/abs/2505.21318v1)|null|
 |**2025-05-27**|**Generalised Time-Series Analysis of Fault Mechanics Using Explainable AI**|Thomas King et.al.|[2505.21312v1](http://arxiv.org/abs/2505.21312v1)|null|
