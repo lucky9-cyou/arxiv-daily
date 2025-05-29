@@ -22,7 +22,7 @@
 |**2025-05-27**|**Robust and Computation-Aware Gaussian Processes**|Marshal Arijona Sinaga et.al.|[2505.21133v1](http://arxiv.org/abs/2505.21133v1)|null|
 |**2025-05-27**|**Decoding Breast Cancer in X-ray Mammograms: A Multi-Parameter Approach Using Fractals, Multifractals, and Structural Disorder Analysis**|Santanu Maity et.al.|[2505.21080v1](http://arxiv.org/abs/2505.21080v1)|null|
 |**2025-05-27**|**Nullifiers of non-Gaussian cluster states through homodyne measurement**|Vojtěch Kala et.al.|[2505.21066v1](http://arxiv.org/abs/2505.21066v1)|null|
-|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041v1](http://arxiv.org/abs/2505.21041v1)|null|
+|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041v2](http://arxiv.org/abs/2505.21041v2)|null|
 |**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984v1](http://arxiv.org/abs/2505.20984v1)|null|
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
 |**2025-05-27**|**Controlling Excitation Localization in Waveguide QED Systems**|C. -Y. Lee et.al.|[2505.20878v1](http://arxiv.org/abs/2505.20878v1)|null|
