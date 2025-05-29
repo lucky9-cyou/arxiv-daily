@@ -29,6 +29,6 @@
 |**2025-05-27**|**Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling**|Hesam Araghi et.al.|[2505.21187v1](http://arxiv.org/abs/2505.21187v1)|null|
 |**2025-05-27**|**PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing**|Yu Yan et.al.|[2505.21184v1](http://arxiv.org/abs/2505.21184v1)|null|
 |**2025-05-27**|**GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation**|Hailin Zhong et.al.|[2505.21154v1](http://arxiv.org/abs/2505.21154v1)|null|
-|**2025-05-27**|**RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images**|Xurui Li et.al.|[2505.21152v1](http://arxiv.org/abs/2505.21152v1)|null|
+|**2025-05-27**|**RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images**|Xurui Li et.al.|[2505.21152v1](http://arxiv.org/abs/2505.21152v1)|[link](https://github.com/xrli-u/robis)|
 |**2025-05-27**|**Creativity in LLM-based Multi-Agent Systems: A Survey**|Yi-Cheng Lin et.al.|[2505.21116v1](http://arxiv.org/abs/2505.21116v1)|null|
 |**2025-05-27**|**Simulating Ethics: Using LLM Debate Panels to Model Deliberation on Medical Dilemmas**|Hazem Zohny et.al.|[2505.21112v1](http://arxiv.org/abs/2505.21112v1)|null|
