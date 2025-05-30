@@ -20,7 +20,7 @@
 |**2025-05-28**|**Hot Rocks Survey III: A deep eclipse for LHS 1140c and a new Gaussian process method to account for correlated noise in individual pixels**|Mark Fortune et.al.|[2505.22186v1](http://arxiv.org/abs/2505.22186v1)|null|
 |**2025-05-28**|**Post-processing of wind gusts from COSMO-REA6 with a spatial Bayesian hierarchical extreme value model**|Philipp Ertz et.al.|[2505.22182v1](http://arxiv.org/abs/2505.22182v1)|null|
 |**2025-05-28**|**Apax: A Flexible and Performant Framework For The Development of Machine-Learned Interatomic Potentials**|Moritz René Schäfer et.al.|[2505.22168v1](http://arxiv.org/abs/2505.22168v1)|null|
-|**2025-05-28**|**BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL**|Yu-Heng Hung et.al.|[2505.21974v1](http://arxiv.org/abs/2505.21974v1)|null|
+|**2025-05-28**|**BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL**|Yu-Heng Hung et.al.|[2505.21974v2](http://arxiv.org/abs/2505.21974v2)|null|
 |**2025-05-28**|**Structured Divide-and-Conquer for the Definite Generalized Eigenvalue Problem**|James Demmel et.al.|[2505.21917v1](http://arxiv.org/abs/2505.21917v1)|null|
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890v1](http://arxiv.org/abs/2505.21890v1)|null|
 |**2025-05-28**|**MAMBO-NET: Multi-Causal Aware Modeling Backdoor-Intervention Optimization for Medical Image Segmentation Network**|Ruiguo Yu et.al.|[2505.21874v1](http://arxiv.org/abs/2505.21874v1)|null|
