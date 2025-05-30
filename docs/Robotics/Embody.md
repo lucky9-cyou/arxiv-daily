@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657v1](http://arxiv.org/abs/2505.22657v1)|null|
-|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647v1](http://arxiv.org/abs/2505.22647v1)|null|
-|**2025-05-28**|**Navigating the AI-Energy Nexus with Geopolitical Insight**|Nidhi Kalra et.al.|[2505.22639v1](http://arxiv.org/abs/2505.22639v1)|null|
-|**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634v1](http://arxiv.org/abs/2505.22634v1)|null|
-|**2025-05-28**|**Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions**|Yijun Shen et.al.|[2505.22627v1](http://arxiv.org/abs/2505.22627v1)|null|
-|**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605v1](http://arxiv.org/abs/2505.22605v1)|null|
-|**2025-05-28**|**Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective**|Ruixuan Zhang et.al.|[2505.22604v1](http://arxiv.org/abs/2505.22604v1)|null|
-|**2025-05-28**|**One Rank at a Time: Cascading Error Dynamics in Sequential Learning**|Mahtab Alizadeh Vandchali et.al.|[2505.22602v1](http://arxiv.org/abs/2505.22602v1)|null|
-|**2025-05-28**|**GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git**|Tobias Lindenbauer et.al.|[2505.22583v1](http://arxiv.org/abs/2505.22583v1)|null|
-|**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566v1](http://arxiv.org/abs/2505.22566v1)|null|
-|**2025-05-28**|**Do Large Language Models Think Like the Brain? Sentence-Level Evidence from fMRI and Hierarchical Embeddings**|Yu Lei et.al.|[2505.22563v1](http://arxiv.org/abs/2505.22563v1)|null|
-|**2025-05-28**|**Deep Learning-Based BMD Estimation from Radiographs with Conformal Uncertainty Quantification**|Long Hui et.al.|[2505.22551v1](http://arxiv.org/abs/2505.22551v1)|null|
-|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[2505.22541v1](http://arxiv.org/abs/2505.22541v1)|null|
-|**2025-05-28**|**Training RL Agents for Multi-Objective Network Defense Tasks**|Andres Molina-Markham et.al.|[2505.22531v1](http://arxiv.org/abs/2505.22531v1)|null|
-|**2025-05-28**|**AI instructional agent improves student's perceived learner control and learning outcome: empirical evidence from a randomized controlled trial**|Fei Qin et.al.|[2505.22526v1](http://arxiv.org/abs/2505.22526v1)|null|
-|**2025-05-28**|**Thinking with Generated Images**|Ethan Chern et.al.|[2505.22525v1](http://arxiv.org/abs/2505.22525v1)|null|
-|**2025-05-28**|**From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation**|Yuanfei Wang et.al.|[2505.22503v1](http://arxiv.org/abs/2505.22503v1)|null|
-|**2025-05-28**|**Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics**|Siyeop Yoon et.al.|[2505.22489v1](http://arxiv.org/abs/2505.22489v1)|null|
-|**2025-05-28**|**Human-Centered Human-AI Collaboration (HCHAC)**|Qi Gao et.al.|[2505.22477v1](http://arxiv.org/abs/2505.22477v1)|null|
-|**2025-05-28**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467v2](http://arxiv.org/abs/2505.22467v2)|null|
-|**2025-05-28**|**AI Mathematician: Towards Fully Automated Frontier Mathematical Research**|Yuanhang Liu et.al.|[2505.22451v1](http://arxiv.org/abs/2505.22451v1)|null|
-|**2025-05-28**|**Position: All Current Generative Fidelity and Diversity Metrics are Flawed**|Ossi Räisä et.al.|[2505.22450v1](http://arxiv.org/abs/2505.22450v1)|null|
-|**2025-05-28**|**Frequency Resource Management in 6G User-Centric CFmMIMO: A Hybrid Reinforcement Learning and Metaheuristic Approach**|Selina Cheggour et.al.|[2505.22443v1](http://arxiv.org/abs/2505.22443v1)|null|
-|**2025-05-28**|**Data-Driven Antenna Miniaturization: A Knowledge-Based System Integrating Quantum PSO and Predictive Machine Learning Models**|Khan Masood Parvez et.al.|[2505.22440v1](http://arxiv.org/abs/2505.22440v1)|null|
-|**2025-05-28**|**AI Trust Reshaping Administrative Burdens: Understanding Trust-Burden Dynamics in LLM-Assisted Benefits Systems**|Jeongwon Jo et.al.|[2505.22418v1](http://arxiv.org/abs/2505.22418v1)|null|
-|**2025-05-28**|**Empowering Intelligent Low-altitude Economy with Large AI Model Deployment**|Zhonghao Lyu et.al.|[2505.22343v1](http://arxiv.org/abs/2505.22343v1)|null|
-|**2025-05-28**|**NLP for Social Good: A Survey of Challenges, Opportunities, and Responsible Deployment**|Antonia Karamolegkou et.al.|[2505.22327v1](http://arxiv.org/abs/2505.22327v1)|null|
-|**2025-05-28**|**From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications**|Feibo Jiang et.al.|[2505.22311v1](http://arxiv.org/abs/2505.22311v1)|null|
-|**2025-05-28**|**Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer**|Zehua Chen et.al.|[2505.22306v1](http://arxiv.org/abs/2505.22306v1)|null|
-|**2025-05-28**|**Neural Restoration of Greening Defects in Historical Autochrome Photographs Based on Purely Synthetic Data**|Saptarshi Neil Sinha et.al.|[2505.22291v1](http://arxiv.org/abs/2505.22291v1)|null|
+|**2025-05-29**|**Distortion of AI Alignment: Does Preference Optimization Optimize for Preferences?**|Paul Gölz et.al.|[2505.23749v1](http://arxiv.org/abs/2505.23749v1)|null|
+|**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746v1](http://arxiv.org/abs/2505.23746v1)|null|
+|**2025-05-29**|**Exposing the Impact of GenAI for Cybercrime: An Investigation into the Dark Side**|Truong et.al.|[2505.23733v1](http://arxiv.org/abs/2505.23733v1)|null|
+|**2025-05-29**|**From Connectivity to Autonomy: The Dawn of Self-Evolving Communication Systems**|Zeinab Nezami et.al.|[2505.23710v1](http://arxiv.org/abs/2505.23710v1)|null|
+|**2025-05-29**|**VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**|Tingyu Song et.al.|[2505.23693v1](http://arxiv.org/abs/2505.23693v1)|null|
+|**2025-05-29**|**ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork**|Caroline Wang et.al.|[2505.23686v1](http://arxiv.org/abs/2505.23686v1)|null|
+|**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672v1](http://arxiv.org/abs/2505.23672v1)|null|
+|**2025-05-29**|**Keyed Chaotic Tensor Transformations for Secure And Attributable Neural Inference**|Peter David Fagan et.al.|[2505.23655v1](http://arxiv.org/abs/2505.23655v1)|null|
+|**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643v1](http://arxiv.org/abs/2505.23643v1)|null|
+|**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634v1](http://arxiv.org/abs/2505.23634v1)|null|
+|**2025-05-29**|**Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education**|Boning Zhao et.al.|[2505.23631v1](http://arxiv.org/abs/2505.23631v1)|null|
+|**2025-05-29**|**BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model**|Adibvafa Fallahpour et.al.|[2505.23579v1](http://arxiv.org/abs/2505.23579v1)|null|
+|**2025-05-29**|**CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring**|Benjamin Arnav et.al.|[2505.23575v1](http://arxiv.org/abs/2505.23575v1)|null|
+|**2025-05-29**|**Evaluating AI capabilities in detecting conspiracy theories on YouTube**|Leonardo La Rocca et.al.|[2505.23570v1](http://arxiv.org/abs/2505.23570v1)|null|
+|**2025-05-29**|**SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**|Kunlun Zhu et.al.|[2505.23559v1](http://arxiv.org/abs/2505.23559v1)|null|
+|**2025-05-29**|**A Unified Framework for Mapping and Synthesis of Approximate R-Blocks CGRAs**|Georgios Alexandris et.al.|[2505.23553v1](http://arxiv.org/abs/2505.23553v1)|null|
+|**2025-05-29**|**OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data**|Fengxiang Wang et.al.|[2505.23522v1](http://arxiv.org/abs/2505.23522v1)|null|
+|**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518v1](http://arxiv.org/abs/2505.23518v1)|null|
+|**2025-05-29**|**Can Large Language Models Challenge CNNS in Medical Image Analysis?**|Shibbir Ahmed et.al.|[2505.23503v1](http://arxiv.org/abs/2505.23503v1)|null|
+|**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450v1](http://arxiv.org/abs/2505.23450v1)|null|
+|**2025-05-29**|**Emergent Risk Awareness in Rational Agents under Resource Constraints**|Daniel Jarne Ornia et.al.|[2505.23436v1](http://arxiv.org/abs/2505.23436v1)|null|
+|**2025-05-29**|**A Mathematical Framework for AI-Human Integration in Work**|Elisa Celis et.al.|[2505.23432v1](http://arxiv.org/abs/2505.23432v1)|null|
+|**2025-05-29**|**From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents**|Tobias Lindenbauer et.al.|[2505.23422v1](http://arxiv.org/abs/2505.23422v1)|null|
+|**2025-05-29**|**OTPTO: Joint Product Selection and Inventory Optimization in Fresh E-commerce Front-End Warehouses**|Zheming Zhang et.al.|[2505.23421v1](http://arxiv.org/abs/2505.23421v1)|null|
+|**2025-05-29**|**Toward Effective AI Governance: A Review of Principles**|Danilo Ribeiro et.al.|[2505.23417v1](http://arxiv.org/abs/2505.23417v1)|null|
+|**2025-05-29**|**A Practical Guide for Supporting Formative Assessment and Feedback Using Generative AI**|Sapolnach Prompiengchai et.al.|[2505.23405v1](http://arxiv.org/abs/2505.23405v1)|null|
+|**2025-05-29**|**Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models**|Mingyu Yu et.al.|[2505.23404v1](http://arxiv.org/abs/2505.23404v1)|null|
+|**2025-05-29**|**A Unified Framework for Human AI Collaboration in Security Operations Centers with Trusted Autonomy**|Ahmad Mohsin et.al.|[2505.23397v1](http://arxiv.org/abs/2505.23397v1)|null|
+|**2025-05-29**|**Automated Modeling Method for Pathloss Model Discovery**|Ahmad Anaqreh et.al.|[2505.23383v1](http://arxiv.org/abs/2505.23383v1)|null|
+|**2025-05-29**|**Vision-Integrated High-Quality Neural Speech Coding**|Yao Guo et.al.|[2505.23379v1](http://arxiv.org/abs/2505.23379v1)|null|
