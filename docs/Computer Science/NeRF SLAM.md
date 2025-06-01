@@ -2,7 +2,7 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481v1](http://arxiv.org/abs/2505.23481v1)|null|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481v1](http://arxiv.org/abs/2505.23481v1)|[link](https://github.com/anonymous-researcher-01/physicsnerf)|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158v1](http://arxiv.org/abs/2505.23158v1)|null|
 |**2025-05-28**|**Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**|Xiaoyang Zhan et.al.|[2505.22880v1](http://arxiv.org/abs/2505.22880v1)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
