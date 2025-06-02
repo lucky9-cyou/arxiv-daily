@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**Perturbative Likelihoods for Large-Scale Structure of the Universe**|Rodrigo Voivodic et.al.|[2505.23750v1](http://arxiv.org/abs/2505.23750v1)|null|
-|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744v1](http://arxiv.org/abs/2505.23744v1)|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|[link](https://github.com/ziplab/ZPressor)|
-|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716v1](http://arxiv.org/abs/2505.23716v1)|null|
-|**2025-05-29**|**Hub Detection in Gaussian Graphical Models**|José Á. Sánchez Gómez et.al.|[2505.23707v1](http://arxiv.org/abs/2505.23707v1)|[link](https://github.com/jsgomez94/hubestimationcodesubmission)|
-|**2025-05-29**|**Mobi-$π$: Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692v1](http://arxiv.org/abs/2505.23692v1)|null|
-|**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642v1](http://arxiv.org/abs/2505.23642v1)|null|
-|**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619v1](http://arxiv.org/abs/2505.23619v1)|null|
-|**2025-05-29**|**Maximum Likelihood Learning of Latent Dynamics Without Reconstruction**|Samo Hromadka et.al.|[2505.23569v1](http://arxiv.org/abs/2505.23569v1)|null|
-|**2025-05-29**|**Learning Parametric Distributions from Samples and Preferences**|Marc Jourdan et.al.|[2505.23557v1](http://arxiv.org/abs/2505.23557v1)|[link](https://github.com/tml-epfl/learning-parametric-distributions-from-samples-and-preferences)|
-|**2025-05-29**|**Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE**|Zhao Chen et.al.|[2505.23535v1](http://arxiv.org/abs/2505.23535v1)|null|
-|**2025-05-29**|**Subgraph Gaussian Embedding Contrast for Self-Supervised Graph Representation Learning**|Shifeng Xie et.al.|[2505.23529v1](http://arxiv.org/abs/2505.23529v1)|[link](https://github.com/shifengxie/subgec)|
-|**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448v1](http://arxiv.org/abs/2505.23448v1)|null|
-|**2025-05-29**|**Improved Learning via k-DTW: A Novel Dissimilarity Measure for Curves**|Amer Krivošija et.al.|[2505.23431v1](http://arxiv.org/abs/2505.23431v1)|null|
-|**2025-05-29**|**Measuring pulsar profile variations with 2-D Gaussian process regression**|Michael J. Keith et.al.|[2505.23413v1](http://arxiv.org/abs/2505.23413v1)|null|
-|**2025-05-29**|**On low regularity well-posedness of the binormal flow**|Valeria Banica et.al.|[2505.23284v1](http://arxiv.org/abs/2505.23284v1)|null|
-|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280v1](http://arxiv.org/abs/2505.23280v1)|[link](https://github.com/azhuantou/mixgs)|
-|**2025-05-29**|**Equivalence of stochastic and deterministic policy gradients**|Emo Todorov et.al.|[2505.23244v1](http://arxiv.org/abs/2505.23244v1)|null|
-|**2025-05-29**|**Trajectory Generator Matching for Time Series**|T. Jahn et.al.|[2505.23215v1](http://arxiv.org/abs/2505.23215v1)|null|
-|**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158v1](http://arxiv.org/abs/2505.23158v1)|null|
-|**2025-05-29**|**Random Field Representations of Kernel Distances**|Ian Langmore et.al.|[2505.23141v1](http://arxiv.org/abs/2505.23141v1)|null|
-|**2025-05-29**|**Non-Gaussian Simultaneous Autoregressive Models with Missing Data**|Anjana Wijayawardhana et.al.|[2505.23070v1](http://arxiv.org/abs/2505.23070v1)|null|
-|**2025-05-29**|**Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data**|Lingkai Kong et.al.|[2505.23062v1](http://arxiv.org/abs/2505.23062v1)|null|
-|**2025-05-29**|**SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**|Yu Sheng et.al.|[2505.23044v1](http://arxiv.org/abs/2505.23044v1)|null|
-|**2025-05-29**|**A Network-Guided Penalized Regression with Application to Proteomics Data**|Seungjun Ahn et.al.|[2505.22986v1](http://arxiv.org/abs/2505.22986v1)|null|
-|**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978v1](http://arxiv.org/abs/2505.22978v1)|null|
-|**2025-05-29**|**EquiReg: Equivariance Regularized Diffusion for Inverse Problems**|Bahareh Tolooshams et.al.|[2505.22973v1](http://arxiv.org/abs/2505.22973v1)|null|
-|**2025-05-29**|**Fast Derivative Valuation from Volatility Surfaces using Machine Learning**|Lijie Ding et.al.|[2505.22957v1](http://arxiv.org/abs/2505.22957v1)|null|
-|**2025-05-28**|**Plug-and-Play Posterior Sampling for Blind Inverse Problems**|Anqi Li et.al.|[2505.22923v1](http://arxiv.org/abs/2505.22923v1)|null|
-|**2025-05-28**|**3DGS Compression with Sparsity-guided Hierarchical Transform Coding**|Hao Xu et.al.|[2505.22908v1](http://arxiv.org/abs/2505.22908v1)|null|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
+|**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868v1](http://arxiv.org/abs/2505.24868v1)|null|
+|**2025-05-30**|**A localized consensus-based sampling algorithm**|Arne Bouillon et.al.|[2505.24861v1](http://arxiv.org/abs/2505.24861v1)|null|
+|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855v1](http://arxiv.org/abs/2505.24855v1)|null|
+|**2025-05-30**|**Accurate and efficient likelihood modeling for large-scale CMB data**|Giacomo Galloni et.al.|[2505.24829v1](http://arxiv.org/abs/2505.24829v1)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796v1](http://arxiv.org/abs/2505.24796v1)|null|
+|**2025-05-30**|**Numerical Simulation Informed Rapid Cure Process Optimization of Composite Structures using Constrained Bayesian Optimization**|Madhura Limaye et.al.|[2505.24775v1](http://arxiv.org/abs/2505.24775v1)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|null|
+|**2025-05-30**|**DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds**|Jiaxu Zhang et.al.|[2505.24733v1](http://arxiv.org/abs/2505.24733v1)|null|
+|**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695v1](http://arxiv.org/abs/2505.24695v1)|null|
+|**2025-05-30**|**Quick-Draw Bandits: Quickly Optimizing in Nonstationary Environments with Extremely Many Arms**|Derek Everett et.al.|[2505.24692v1](http://arxiv.org/abs/2505.24692v1)|null|
+|**2025-05-30**|**Synergistic motifs in linear Gaussian systems**|Enrico Caprioglio et.al.|[2505.24686v1](http://arxiv.org/abs/2505.24686v1)|null|
+|**2025-05-30**|**Black-box Adversarial Attacks on CNN-based SLAM Algorithms**|Maria Rafaela Gkeka et.al.|[2505.24654v1](http://arxiv.org/abs/2505.24654v1)|null|
+|**2025-05-30**|**High-charge relativistic electrons by vacuum laser acceleration from plasma mirrors using flying focus pulses**|Jiaxin Liu et.al.|[2505.24614v1](http://arxiv.org/abs/2505.24614v1)|null|
+|**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608v1](http://arxiv.org/abs/2505.24608v1)|null|
+|**2025-05-30**|**Non-Gaussian enhancement of precision in quantum batteries**|Beatriz Polo et.al.|[2505.24604v1](http://arxiv.org/abs/2505.24604v1)|null|
+|**2025-05-30**|**The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches**|Omri Lev et.al.|[2505.24603v1](http://arxiv.org/abs/2505.24603v1)|null|
+|**2025-05-30**|**Thermodynamic Signatures of Gaussian Entanglement Beyond Entropy**|Beatriz Polo et.al.|[2505.24596v1](http://arxiv.org/abs/2505.24596v1)|null|
+|**2025-05-30**|**Revisiting the temperature evolution law of the CMB with gaussian processes**|Felipe Avila et.al.|[2505.24543v1](http://arxiv.org/abs/2505.24543v1)|null|
+|**2025-05-30**|**Heavy mesons in an effective quark model with a nonlocal interaction**|A. Friesen et.al.|[2505.24542v1](http://arxiv.org/abs/2505.24542v1)|null|
+|**2025-05-30**|**Automatic detection and characterization of random telegraph noise in sCMOS sensors**|Arda Özdoğru et.al.|[2505.24540v1](http://arxiv.org/abs/2505.24540v1)|null|
+|**2025-05-30**|**Bi-SamplerZ: A Hardware-Efficient Gaussian Sampler Architecture for Quantum-Resistant Falcon Signatures**|Binke Zhao et.al.|[2505.24509v1](http://arxiv.org/abs/2505.24509v1)|null|
+|**2025-05-30**|**JWST NIRISS Transmission Spectroscopy of the Super-Earth GJ 357b, a Favourable Target for Atmospheric Retention**|Jake Taylor et.al.|[2505.24462v1](http://arxiv.org/abs/2505.24462v1)|null|
+|**2025-05-30**|**STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising**|Jingjing Liu et.al.|[2505.24327v1](http://arxiv.org/abs/2505.24327v1)|null|
+|**2025-05-30**|**LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework**|Xin Kang et.al.|[2505.24245v1](http://arxiv.org/abs/2505.24245v1)|null|
+|**2025-05-30**|**Model Informed Flows for Bayesian Inference of Probabilistic Programs**|Joohwan Ko et.al.|[2505.24243v1](http://arxiv.org/abs/2505.24243v1)|null|
+|**2025-05-30**|**A Mathematical Perspective On Contrastive Learning**|Ricardo Baptista et.al.|[2505.24134v1](http://arxiv.org/abs/2505.24134v1)|null|
+|**2025-05-30**|**Bounds on the Excess Minimum Risk via Generalized Information Divergence Measures**|Ananya Omanwar et.al.|[2505.24117v1](http://arxiv.org/abs/2505.24117v1)|null|
+|**2025-05-30**|**Bernstein-type theorem for constant mean curvature surfaces in the isotropic 3-space**|Shintaro Akamine et.al.|[2505.24109v1](http://arxiv.org/abs/2505.24109v1)|null|
+|**2025-05-29**|**Adaptive finite element type decomposition of Gaussian processes**|Jaehoan Kim et.al.|[2505.24066v1](http://arxiv.org/abs/2505.24066v1)|null|
