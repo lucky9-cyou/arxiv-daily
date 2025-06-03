@@ -31,4 +31,4 @@
 |**2025-05-30**|**Bounds on the Excess Minimum Risk via Generalized Information Divergence Measures**|Ananya Omanwar et.al.|[2505.24117v1](http://arxiv.org/abs/2505.24117v1)|null|
 |**2025-05-30**|**Bernstein-type theorem for constant mean curvature surfaces in the isotropic 3-space**|Shintaro Akamine et.al.|[2505.24109v1](http://arxiv.org/abs/2505.24109v1)|null|
 |**2025-05-29**|**Adaptive finite element type decomposition of Gaussian processes**|Jaehoan Kim et.al.|[2505.24066v1](http://arxiv.org/abs/2505.24066v1)|null|
-|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053v1](http://arxiv.org/abs/2505.24053v1)|null|
+|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053v1](http://arxiv.org/abs/2505.24053v1)|[link](https://github.com/zixunh/3DGEER)|
