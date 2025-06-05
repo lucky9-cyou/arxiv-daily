@@ -13,7 +13,7 @@
 |**2025-06-03**|**Realistic assessment of a single gravitational wave source localization taking into account precise pulsar distances with pulsar timing arrays**|Ryo Kato et.al.|[2506.02819v1](http://arxiv.org/abs/2506.02819v1)|null|
 |**2025-06-03**|**Matrix Elements of Fermionic Gaussian Operators in Arbitrary Pauli Bases: A Pfaffian Formula**|M. A. Rajabpour et.al.|[2506.02809v1](http://arxiv.org/abs/2506.02809v1)|null|
 |**2025-06-03**|**Automated Measurement of Optic Nerve Sheath Diameter Using Ocular Ultrasound Video**|Renxing Li et.al.|[2506.02789v1](http://arxiv.org/abs/2506.02789v1)|null|
-|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774v1](http://arxiv.org/abs/2506.02774v1)|null|
+|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774v2](http://arxiv.org/abs/2506.02774v2)|null|
 |**2025-06-03**|**A central limit theorem for the stochastic cable equation**|Soma Nishino et.al.|[2506.02755v1](http://arxiv.org/abs/2506.02755v1)|null|
 |**2025-06-03**|**RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS**|Chuanyu Fu et.al.|[2506.02751v1](http://arxiv.org/abs/2506.02751v1)|null|
 |**2025-06-03**|**VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians**|Pengchong Hu et.al.|[2506.02741v1](http://arxiv.org/abs/2506.02741v1)|null|
