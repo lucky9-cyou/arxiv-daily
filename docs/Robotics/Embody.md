@@ -16,7 +16,7 @@
 |**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032v1](http://arxiv.org/abs/2506.04032v1)|null|
 |**2025-06-04**|**AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents**|Akshat Naik et.al.|[2506.04018v1](http://arxiv.org/abs/2506.04018v1)|null|
 |**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Maxime Zanella et.al.|[2506.04005v1](http://arxiv.org/abs/2506.04005v1)|null|
-|**2025-06-04**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988v1](http://arxiv.org/abs/2506.03988v1)|null|
+|**2025-06-04**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988v2](http://arxiv.org/abs/2506.03988v2)|null|
 |**2025-06-04**|**HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**|Jianqing Zhang et.al.|[2506.03954v1](http://arxiv.org/abs/2506.03954v1)|null|
 |**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939v1](http://arxiv.org/abs/2506.03939v1)|null|
 |**2025-06-04**|**Identifying Alzheimer's Disease Prediction Strategies of Convolutional Neural Network Classifiers using R2* Maps and Spectral Clustering**|Christian Tinauer et.al.|[2506.03890v1](http://arxiv.org/abs/2506.03890v1)|null|

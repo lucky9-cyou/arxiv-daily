@@ -9,7 +9,7 @@
 |**2025-06-04**|**Fluctuations in the number of local minima in discrete-time fractional Brownian motion**|Maxim Dolgushev et.al.|[2506.04159v1](http://arxiv.org/abs/2506.04159v1)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120v1](http://arxiv.org/abs/2506.04120v1)|null|
 |**2025-06-04**|**On the Usage of Gaussian Process for Efficient Data Valuation**|Clément Bénesse et.al.|[2506.04026v1](http://arxiv.org/abs/2506.04026v1)|null|
-|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v1](http://arxiv.org/abs/2506.03975v1)|null|
+|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v2](http://arxiv.org/abs/2506.03975v2)|null|
 |**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933v1](http://arxiv.org/abs/2506.03933v1)|null|
 |**2025-06-04**|**Multiple Stochastic Prompt Tuning for Practical Cross-Domain Few Shot Learning**|Debarshi Brahma et.al.|[2506.03926v1](http://arxiv.org/abs/2506.03926v1)|null|
 |**2025-06-04**|**Enhancing Experimental Efficiency in Materials Design: A Comparative Study of Taguchi and Machine Learning Methods**|Shyam Prabhu et.al.|[2506.03910v1](http://arxiv.org/abs/2506.03910v1)|null|
