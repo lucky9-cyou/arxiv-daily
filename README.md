@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-06 20:18:39 Asia/Shanghai
+ Automated deployment @ 2025-06-06 20:35:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -38,40 +38,6 @@
 |**2025-06-05**|**Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments**|Xu He et.al.|[2506.04582v1](http://arxiv.org/abs/2506.04582v1)|null|
 |**2025-06-05**|**On the analytical approach to infinite-mode Boson-Gaussian states**|Jorge R. Bolaños-Servín et.al.|[2506.04537v1](http://arxiv.org/abs/2506.04537v1)|null|
 |**2025-06-04**|**Spectrally accurate and efficient convolution with the 3D free-space Laplace Green's function via the super-potential**|Lukas Exl et.al.|[2506.04489v1](http://arxiv.org/abs/2506.04489v1)|null|
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348v1](http://arxiv.org/abs/2506.05348v1)|null|
-|**2025-06-05**|**Momentum fraction and hard scale dependence of double parton scattering**|Joao Vitor C. Lovato et.al.|[2506.05337v1](http://arxiv.org/abs/2506.05337v1)|null|
-|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|null|
-|**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311v1](http://arxiv.org/abs/2506.05311v1)|null|
-|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v1](http://arxiv.org/abs/2506.05280v1)|null|
-|**2025-06-05**|**Hydrodynamic noise in one dimension: projected Kubo formula and its vanishing in integrable models**|Benjamin Doyon et.al.|[2506.05279v1](http://arxiv.org/abs/2506.05279v1)|null|
-|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217v1](http://arxiv.org/abs/2506.05217v1)|null|
-|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204v1](http://arxiv.org/abs/2506.05204v1)|[link](https://github.com/Yanbo-23/OGGSplat)|
-|**2025-06-05**|**Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants**|Daniele Tramontano et.al.|[2506.05202v1](http://arxiv.org/abs/2506.05202v1)|null|
-|**2025-06-05**|**Norming Sets for Tensor and Polynomial Sketching**|Yifan Zhang et.al.|[2506.05174v1](http://arxiv.org/abs/2506.05174v1)|null|
-|**2025-06-05**|**A Gaussian process approach for rapid evaluation of skin tension**|Matt Nagle et.al.|[2506.05118v1](http://arxiv.org/abs/2506.05118v1)|null|
-|**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092v1](http://arxiv.org/abs/2506.05092v1)|null|
-|**2025-06-05**|**Learning Balanced Field Summaries of the Large-Scale Structure with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2506.05090v1](http://arxiv.org/abs/2506.05090v1)|null|
-|**2025-06-05**|**Efficient Characterization of N-Beam Gaussian Fields Through Photon-Number Measurements: Quantum Universal Invariants**|Nazarii Sudak et.al.|[2506.05084v1](http://arxiv.org/abs/2506.05084v1)|null|
-|**2025-06-05**|**The ${}^9$Be photodisintegration cross section within Cluster Effective Field Theory**|Ylenia Capitani et.al.|[2506.05040v1](http://arxiv.org/abs/2506.05040v1)|null|
-|**2025-06-05**|**UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting**|Jaehoon Choi et.al.|[2506.05011v1](http://arxiv.org/abs/2506.05011v1)|null|
-|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|null|
-|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908v1](http://arxiv.org/abs/2506.04908v1)|null|
-|**2025-06-05**|**Multivariate Probabilistic Assessment of Speech Quality**|Fredrik Cumlin et.al.|[2506.04890v1](http://arxiv.org/abs/2506.04890v1)|null|
-|**2025-06-05**|**Gaussian Process Diffeomorphic Statistical Shape Modelling Outperforms Angle-Based Methods for Assessment of Hip Dysplasia**|Allen Paul et.al.|[2506.04886v1](http://arxiv.org/abs/2506.04886v1)|null|
-|**2025-06-05**|**Probing Ultralight Axion-like Dark Matter $-$ A PTA-PPA Synergy**|Ximeng Li et.al.|[2506.04871v1](http://arxiv.org/abs/2506.04871v1)|null|
-|**2025-06-05**|**The Chinese Pulsar Timing Array data release I. Single pulsar noise analysis**|Siyuan Chen et.al.|[2506.04850v1](http://arxiv.org/abs/2506.04850v1)|null|
-|**2025-06-05**|**A robust approach to sigma point Kalman filtering**|Shenglun Yi et.al.|[2506.04815v1](http://arxiv.org/abs/2506.04815v1)|null|
-|**2025-06-05**|**Distributional encoding for Gaussian process regression with qualitative inputs**|Sébastien Da Veiga et.al.|[2506.04813v1](http://arxiv.org/abs/2506.04813v1)|null|
-|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789v1](http://arxiv.org/abs/2506.04789v1)|null|
-|**2025-06-05**|**Enhanced Drought Analysis in Bangladesh: A Machine Learning Approach for Severity Classification Using Satellite Data**|Tonmoy Paul et.al.|[2506.04696v1](http://arxiv.org/abs/2506.04696v1)|null|
-|**2025-06-05**|**Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments**|Xu He et.al.|[2506.04582v1](http://arxiv.org/abs/2506.04582v1)|null|
-|**2025-06-05**|**On the analytical approach to infinite-mode Boson-Gaussian states**|Jorge R. Bolaños-Servín et.al.|[2506.04537v1](http://arxiv.org/abs/2506.04537v1)|null|
-|**2025-06-04**|**Spectrally accurate and efficient convolution with the 3D free-space Laplace Green's function via the super-potential**|Lukas Exl et.al.|[2506.04489v1](http://arxiv.org/abs/2506.04489v1)|null|
-|**2025-06-04**|**On the Wasserstein Geodesic Principal Component Analysis of probability measures**|Nina Vesseron et.al.|[2506.04480v1](http://arxiv.org/abs/2506.04480v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -141,41 +107,41 @@
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
 |**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811v1](http://arxiv.org/abs/2505.08811v1)|null|
 
-## Robotics
-
-### Embody
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|null|
-|**2025-06-05**|**Search Arena: Analyzing Search-Augmented LLMs**|Mihran Miroyan et.al.|[2506.05334v1](http://arxiv.org/abs/2506.05334v1)|null|
-|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333v1](http://arxiv.org/abs/2506.05333v1)|null|
-|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|null|
-|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|null|
-|**2025-06-05**|**Control Tax: The Price of Keeping AI in Check**|Mikhail Terekhov et.al.|[2506.05296v1](http://arxiv.org/abs/2506.05296v1)|null|
-|**2025-06-05**|**EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?**|Yuqian Yuan et.al.|[2506.05287v1](http://arxiv.org/abs/2506.05287v1)|null|
-|**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286v1](http://arxiv.org/abs/2506.05286v1)|null|
-|**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265v1](http://arxiv.org/abs/2506.05265v1)|null|
-|**2025-06-05**|**Learning long range dependencies through time reversal symmetry breaking**|Guillaume Pourcel et.al.|[2506.05259v1](http://arxiv.org/abs/2506.05259v1)|null|
-|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236v1](http://arxiv.org/abs/2506.05236v1)|null|
-|**2025-06-05**|**Towards Effective Multidisciplinary Health and HCI Teams based on AI Framework**|Mohammed Almutairi et.al.|[2506.05226v1](http://arxiv.org/abs/2506.05226v1)|null|
-|**2025-06-05**|**Enhancing the Merger Simulation Toolkit with ML/AI**|Harold D. Chiang et.al.|[2506.05225v1](http://arxiv.org/abs/2506.05225v1)|null|
-|**2025-06-05**|**Intentionally Unintentional: GenAI Exceptionalism and the First Amendment**|David Atkinson et.al.|[2506.05211v1](http://arxiv.org/abs/2506.05211v1)|null|
+|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348v1](http://arxiv.org/abs/2506.05348v1)|null|
+|**2025-06-05**|**Momentum fraction and hard scale dependence of double parton scattering**|Joao Vitor C. Lovato et.al.|[2506.05337v1](http://arxiv.org/abs/2506.05337v1)|null|
+|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|null|
+|**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311v1](http://arxiv.org/abs/2506.05311v1)|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v1](http://arxiv.org/abs/2506.05280v1)|null|
+|**2025-06-05**|**Hydrodynamic noise in one dimension: projected Kubo formula and its vanishing in integrable models**|Benjamin Doyon et.al.|[2506.05279v1](http://arxiv.org/abs/2506.05279v1)|null|
+|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217v1](http://arxiv.org/abs/2506.05217v1)|null|
 |**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204v1](http://arxiv.org/abs/2506.05204v1)|[link](https://github.com/Yanbo-23/OGGSplat)|
-|**2025-06-05**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203v1](http://arxiv.org/abs/2506.05203v1)|null|
-|**2025-06-05**|**Grounding Beyond Detection: Enhancing Contextual Understanding in Embodied 3D Grounding**|Yani Zhang et.al.|[2506.05199v1](http://arxiv.org/abs/2506.05199v1)|null|
-|**2025-06-05**|**Towards provable probabilistic safety for scalable embodied AI systems**|Linxuan He et.al.|[2506.05171v1](http://arxiv.org/abs/2506.05171v1)|null|
-|**2025-06-05**|**Noise-Driven AI Sensors: Secure Healthcare Monitoring with PUFs**|Christiana Chamon et.al.|[2506.05135v1](http://arxiv.org/abs/2506.05135v1)|null|
-|**2025-06-05**|**An SCMA Receiver for 6G NTN based on Multi-Task Learning**|Bruno De Filippo et.al.|[2506.05111v1](http://arxiv.org/abs/2506.05111v1)|null|
-|**2025-06-05**|**FG 2025 TrustFAA: the First Workshop on Towards Trustworthy Facial Affect Analysis: Advancing Insights of Fairness, Explainability, and Safety (TrustFAA)**|Jiaee Cheong et.al.|[2506.05095v1](http://arxiv.org/abs/2506.05095v1)|null|
-|**2025-06-05**|**Parking, Perception, and Retail: Street-Level Determinants of Community Vitality in Harbin**|HaoTian Lan et.al.|[2506.05080v1](http://arxiv.org/abs/2506.05080v1)|null|
-|**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073v1](http://arxiv.org/abs/2506.05073v1)|null|
-|**2025-06-05**|**Study of $f_1(1420)$ and $η(1405)$ in the decay $J/ψ\to γ π^{0}π^{0}π^{0}$**|BESIII Collaboration et.al.|[2506.05055v1](http://arxiv.org/abs/2506.05055v1)|null|
-|**2025-06-05**|**ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development**|Zhenran Xu et.al.|[2506.05010v1](http://arxiv.org/abs/2506.05010v1)|null|
-|**2025-06-05**|**QiMeng: Fully Automated Hardware and Software Design for Processor Chip**|Rui Zhang et.al.|[2506.05007v1](http://arxiv.org/abs/2506.05007v1)|null|
-|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|null|
-|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980v1](http://arxiv.org/abs/2506.04980v1)|null|
-|**2025-06-05**|**From Struggle (06-2024) to Mastery (02-2025) LLMs Conquer Advanced Algorithm Exams and Pave the Way for Editorial Generation**|Adrian Marius Dumitran et.al.|[2506.04965v1](http://arxiv.org/abs/2506.04965v1)|null|
-|**2025-06-05**|**Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining**|Yong Sun et.al.|[2506.04950v1](http://arxiv.org/abs/2506.04950v1)|null|
+|**2025-06-05**|**Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants**|Daniele Tramontano et.al.|[2506.05202v1](http://arxiv.org/abs/2506.05202v1)|null|
+|**2025-06-05**|**Norming Sets for Tensor and Polynomial Sketching**|Yifan Zhang et.al.|[2506.05174v1](http://arxiv.org/abs/2506.05174v1)|null|
+|**2025-06-05**|**A Gaussian process approach for rapid evaluation of skin tension**|Matt Nagle et.al.|[2506.05118v1](http://arxiv.org/abs/2506.05118v1)|null|
+|**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092v1](http://arxiv.org/abs/2506.05092v1)|null|
+|**2025-06-05**|**Learning Balanced Field Summaries of the Large-Scale Structure with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2506.05090v1](http://arxiv.org/abs/2506.05090v1)|null|
+|**2025-06-05**|**Efficient Characterization of N-Beam Gaussian Fields Through Photon-Number Measurements: Quantum Universal Invariants**|Nazarii Sudak et.al.|[2506.05084v1](http://arxiv.org/abs/2506.05084v1)|null|
+|**2025-06-05**|**The ${}^9$Be photodisintegration cross section within Cluster Effective Field Theory**|Ylenia Capitani et.al.|[2506.05040v1](http://arxiv.org/abs/2506.05040v1)|null|
+|**2025-06-05**|**UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting**|Jaehoon Choi et.al.|[2506.05011v1](http://arxiv.org/abs/2506.05011v1)|null|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908v1](http://arxiv.org/abs/2506.04908v1)|null|
+|**2025-06-05**|**Multivariate Probabilistic Assessment of Speech Quality**|Fredrik Cumlin et.al.|[2506.04890v1](http://arxiv.org/abs/2506.04890v1)|null|
+|**2025-06-05**|**Gaussian Process Diffeomorphic Statistical Shape Modelling Outperforms Angle-Based Methods for Assessment of Hip Dysplasia**|Allen Paul et.al.|[2506.04886v1](http://arxiv.org/abs/2506.04886v1)|null|
+|**2025-06-05**|**Probing Ultralight Axion-like Dark Matter $-$ A PTA-PPA Synergy**|Ximeng Li et.al.|[2506.04871v1](http://arxiv.org/abs/2506.04871v1)|null|
+|**2025-06-05**|**The Chinese Pulsar Timing Array data release I. Single pulsar noise analysis**|Siyuan Chen et.al.|[2506.04850v1](http://arxiv.org/abs/2506.04850v1)|null|
+|**2025-06-05**|**A robust approach to sigma point Kalman filtering**|Shenglun Yi et.al.|[2506.04815v1](http://arxiv.org/abs/2506.04815v1)|null|
+|**2025-06-05**|**Distributional encoding for Gaussian process regression with qualitative inputs**|Sébastien Da Veiga et.al.|[2506.04813v1](http://arxiv.org/abs/2506.04813v1)|null|
+|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789v1](http://arxiv.org/abs/2506.04789v1)|null|
+|**2025-06-05**|**Enhanced Drought Analysis in Bangladesh: A Machine Learning Approach for Severity Classification Using Satellite Data**|Tonmoy Paul et.al.|[2506.04696v1](http://arxiv.org/abs/2506.04696v1)|null|
+|**2025-06-05**|**Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments**|Xu He et.al.|[2506.04582v1](http://arxiv.org/abs/2506.04582v1)|null|
+|**2025-06-05**|**On the analytical approach to infinite-mode Boson-Gaussian states**|Jorge R. Bolaños-Servín et.al.|[2506.04537v1](http://arxiv.org/abs/2506.04537v1)|null|
+|**2025-06-04**|**Spectrally accurate and efficient convolution with the 3D free-space Laplace Green's function via the super-potential**|Lukas Exl et.al.|[2506.04489v1](http://arxiv.org/abs/2506.04489v1)|null|
+|**2025-06-04**|**On the Wasserstein Geodesic Principal Component Analysis of probability measures**|Nina Vesseron et.al.|[2506.04480v1](http://arxiv.org/abs/2506.04480v1)|null|
+
+## Robotics
 
 ### SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -210,3 +176,37 @@
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915v1](http://arxiv.org/abs/2505.09915v1)|null|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024v1](http://arxiv.org/abs/2505.09024v1)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|null|
+
+### Embody
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|null|
+|**2025-06-05**|**Search Arena: Analyzing Search-Augmented LLMs**|Mihran Miroyan et.al.|[2506.05334v1](http://arxiv.org/abs/2506.05334v1)|null|
+|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333v1](http://arxiv.org/abs/2506.05333v1)|null|
+|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|null|
+|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|null|
+|**2025-06-05**|**Control Tax: The Price of Keeping AI in Check**|Mikhail Terekhov et.al.|[2506.05296v1](http://arxiv.org/abs/2506.05296v1)|null|
+|**2025-06-05**|**EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?**|Yuqian Yuan et.al.|[2506.05287v1](http://arxiv.org/abs/2506.05287v1)|null|
+|**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286v1](http://arxiv.org/abs/2506.05286v1)|null|
+|**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265v1](http://arxiv.org/abs/2506.05265v1)|null|
+|**2025-06-05**|**Learning long range dependencies through time reversal symmetry breaking**|Guillaume Pourcel et.al.|[2506.05259v1](http://arxiv.org/abs/2506.05259v1)|null|
+|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236v1](http://arxiv.org/abs/2506.05236v1)|null|
+|**2025-06-05**|**Towards Effective Multidisciplinary Health and HCI Teams based on AI Framework**|Mohammed Almutairi et.al.|[2506.05226v1](http://arxiv.org/abs/2506.05226v1)|null|
+|**2025-06-05**|**Enhancing the Merger Simulation Toolkit with ML/AI**|Harold D. Chiang et.al.|[2506.05225v1](http://arxiv.org/abs/2506.05225v1)|null|
+|**2025-06-05**|**Intentionally Unintentional: GenAI Exceptionalism and the First Amendment**|David Atkinson et.al.|[2506.05211v1](http://arxiv.org/abs/2506.05211v1)|null|
+|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204v1](http://arxiv.org/abs/2506.05204v1)|[link](https://github.com/Yanbo-23/OGGSplat)|
+|**2025-06-05**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203v1](http://arxiv.org/abs/2506.05203v1)|null|
+|**2025-06-05**|**Grounding Beyond Detection: Enhancing Contextual Understanding in Embodied 3D Grounding**|Yani Zhang et.al.|[2506.05199v1](http://arxiv.org/abs/2506.05199v1)|null|
+|**2025-06-05**|**Towards provable probabilistic safety for scalable embodied AI systems**|Linxuan He et.al.|[2506.05171v1](http://arxiv.org/abs/2506.05171v1)|null|
+|**2025-06-05**|**Noise-Driven AI Sensors: Secure Healthcare Monitoring with PUFs**|Christiana Chamon et.al.|[2506.05135v1](http://arxiv.org/abs/2506.05135v1)|null|
+|**2025-06-05**|**An SCMA Receiver for 6G NTN based on Multi-Task Learning**|Bruno De Filippo et.al.|[2506.05111v1](http://arxiv.org/abs/2506.05111v1)|null|
+|**2025-06-05**|**FG 2025 TrustFAA: the First Workshop on Towards Trustworthy Facial Affect Analysis: Advancing Insights of Fairness, Explainability, and Safety (TrustFAA)**|Jiaee Cheong et.al.|[2506.05095v1](http://arxiv.org/abs/2506.05095v1)|null|
+|**2025-06-05**|**Parking, Perception, and Retail: Street-Level Determinants of Community Vitality in Harbin**|HaoTian Lan et.al.|[2506.05080v1](http://arxiv.org/abs/2506.05080v1)|null|
+|**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073v1](http://arxiv.org/abs/2506.05073v1)|null|
+|**2025-06-05**|**Study of $f_1(1420)$ and $η(1405)$ in the decay $J/ψ\to γ π^{0}π^{0}π^{0}$**|BESIII Collaboration et.al.|[2506.05055v1](http://arxiv.org/abs/2506.05055v1)|null|
+|**2025-06-05**|**ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development**|Zhenran Xu et.al.|[2506.05010v1](http://arxiv.org/abs/2506.05010v1)|null|
+|**2025-06-05**|**QiMeng: Fully Automated Hardware and Software Design for Processor Chip**|Rui Zhang et.al.|[2506.05007v1](http://arxiv.org/abs/2506.05007v1)|null|
+|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|null|
+|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980v1](http://arxiv.org/abs/2506.04980v1)|null|
+|**2025-06-05**|**From Struggle (06-2024) to Mastery (02-2025) LLMs Conquer Advanced Algorithm Exams and Pave the Way for Editorial Generation**|Adrian Marius Dumitran et.al.|[2506.04965v1](http://arxiv.org/abs/2506.04965v1)|null|
+|**2025-06-05**|**Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining**|Yong Sun et.al.|[2506.04950v1](http://arxiv.org/abs/2506.04950v1)|null|
