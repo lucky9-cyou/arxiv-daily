@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|null|
-|**2025-06-05**|**Search Arena: Analyzing Search-Augmented LLMs**|Mihran Miroyan et.al.|[2506.05334v1](http://arxiv.org/abs/2506.05334v1)|null|
-|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333v2](http://arxiv.org/abs/2506.05333v2)|null|
-|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|null|
-|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|null|
-|**2025-06-05**|**Control Tax: The Price of Keeping AI in Check**|Mikhail Terekhov et.al.|[2506.05296v1](http://arxiv.org/abs/2506.05296v1)|null|
-|**2025-06-05**|**EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?**|Yuqian Yuan et.al.|[2506.05287v1](http://arxiv.org/abs/2506.05287v1)|null|
-|**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286v1](http://arxiv.org/abs/2506.05286v1)|null|
-|**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265v2](http://arxiv.org/abs/2506.05265v2)|null|
-|**2025-06-05**|**Learning long range dependencies through time reversal symmetry breaking**|Guillaume Pourcel et.al.|[2506.05259v1](http://arxiv.org/abs/2506.05259v1)|null|
-|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236v1](http://arxiv.org/abs/2506.05236v1)|null|
-|**2025-06-05**|**Towards Effective Multidisciplinary Health and HCI Teams based on AI Framework**|Mohammed Almutairi et.al.|[2506.05226v1](http://arxiv.org/abs/2506.05226v1)|null|
-|**2025-06-05**|**Enhancing the Merger Simulation Toolkit with ML/AI**|Harold D. Chiang et.al.|[2506.05225v1](http://arxiv.org/abs/2506.05225v1)|null|
-|**2025-06-05**|**Intentionally Unintentional: GenAI Exceptionalism and the First Amendment**|David Atkinson et.al.|[2506.05211v1](http://arxiv.org/abs/2506.05211v1)|null|
-|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204v1](http://arxiv.org/abs/2506.05204v1)|[link](https://github.com/Yanbo-23/OGGSplat)|
-|**2025-06-05**|**Trustworthiness Preservation by Copies of Machine Learning Systems**|Leonardo Ceragioli et.al.|[2506.05203v1](http://arxiv.org/abs/2506.05203v1)|null|
-|**2025-06-05**|**Grounding Beyond Detection: Enhancing Contextual Understanding in Embodied 3D Grounding**|Yani Zhang et.al.|[2506.05199v1](http://arxiv.org/abs/2506.05199v1)|null|
-|**2025-06-05**|**Towards provable probabilistic safety for scalable embodied AI systems**|Linxuan He et.al.|[2506.05171v1](http://arxiv.org/abs/2506.05171v1)|null|
-|**2025-06-05**|**Noise-Driven AI Sensors: Secure Healthcare Monitoring with PUFs**|Christiana Chamon et.al.|[2506.05135v1](http://arxiv.org/abs/2506.05135v1)|null|
-|**2025-06-05**|**An SCMA Receiver for 6G NTN based on Multi-Task Learning**|Bruno De Filippo et.al.|[2506.05111v1](http://arxiv.org/abs/2506.05111v1)|null|
-|**2025-06-05**|**FG 2025 TrustFAA: the First Workshop on Towards Trustworthy Facial Affect Analysis: Advancing Insights of Fairness, Explainability, and Safety (TrustFAA)**|Jiaee Cheong et.al.|[2506.05095v1](http://arxiv.org/abs/2506.05095v1)|null|
-|**2025-06-05**|**Parking, Perception, and Retail: Street-Level Determinants of Community Vitality in Harbin**|HaoTian Lan et.al.|[2506.05080v1](http://arxiv.org/abs/2506.05080v1)|null|
-|**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073v1](http://arxiv.org/abs/2506.05073v1)|null|
-|**2025-06-05**|**Study of $f_1(1420)$ and $η(1405)$ in the decay $J/ψ\to γ π^{0}π^{0}π^{0}$**|BESIII Collaboration et.al.|[2506.05055v1](http://arxiv.org/abs/2506.05055v1)|null|
-|**2025-06-05**|**ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development**|Zhenran Xu et.al.|[2506.05010v1](http://arxiv.org/abs/2506.05010v1)|null|
-|**2025-06-05**|**QiMeng: Fully Automated Hardware and Software Design for Processor Chip**|Rui Zhang et.al.|[2506.05007v1](http://arxiv.org/abs/2506.05007v1)|null|
-|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|null|
-|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980v1](http://arxiv.org/abs/2506.04980v1)|null|
-|**2025-06-05**|**From Struggle (06-2024) to Mastery (02-2025) LLMs Conquer Advanced Algorithm Exams and Pave the Way for Editorial Generation**|Adrian Marius Dumitran et.al.|[2506.04965v1](http://arxiv.org/abs/2506.04965v1)|null|
-|**2025-06-05**|**Time-Lapse Video-Based Embryo Grading via Complementary Spatial-Temporal Pattern Mining**|Yong Sun et.al.|[2506.04950v1](http://arxiv.org/abs/2506.04950v1)|null|
+|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242v1](http://arxiv.org/abs/2506.06242v1)|null|
+|**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Leon Mayer et.al.|[2506.06232v1](http://arxiv.org/abs/2506.06232v1)|null|
+|**2025-06-06**|**"We need to avail ourselves of GenAI to enhance knowledge distribution": Empowering Older Adults through GenAI Literacy**|Eunhye Grace Ko et.al.|[2506.06225v1](http://arxiv.org/abs/2506.06225v1)|null|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220v1](http://arxiv.org/abs/2506.06220v1)|null|
+|**2025-06-06**|**Can Theoretical Physics Research Benefit from Language Agents?**|Sirui Lu et.al.|[2506.06214v1](http://arxiv.org/abs/2506.06214v1)|null|
+|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199v1](http://arxiv.org/abs/2506.06199v1)|null|
+|**2025-06-06**|**The Lock-in Hypothesis: Stagnation by Algorithm**|Tianyi Alex Qiu et.al.|[2506.06166v1](http://arxiv.org/abs/2506.06166v1)|null|
+|**2025-06-06**|**(AI peers) are people learning from the same standpoint: Perception of AI characters in a Collaborative Science Investigation**|Eunhye Grace Ko et.al.|[2506.06165v1](http://arxiv.org/abs/2506.06165v1)|null|
+|**2025-06-06**|**Personalized Large Language Models Can Increase the Belief Accuracy of Social Networks**|Adiba Mahbub Proma et.al.|[2506.06153v1](http://arxiv.org/abs/2506.06153v1)|null|
+|**2025-06-06**|**WoundAIssist: A Patient-Centered Mobile App for AI-Assisted Wound Care With Physicians in the Loop**|Vanessa Borst et.al.|[2506.06104v1](http://arxiv.org/abs/2506.06104v1)|null|
+|**2025-06-06**|**DermaCon-IN: A Multi-concept Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research**|Shanawaj S Madarkar et.al.|[2506.06099v1](http://arxiv.org/abs/2506.06099v1)|null|
+|**2025-06-06**|**Full Conformal Adaptation of Medical Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2506.06076v1](http://arxiv.org/abs/2506.06076v1)|null|
+|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066v1](http://arxiv.org/abs/2506.06066v1)|null|
+|**2025-06-06**|**AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search**|Yu Li et.al.|[2506.06017v1](http://arxiv.org/abs/2506.06017v1)|null|
+|**2025-06-06**|**On the Merits of LLM-Based Corpus Enrichment**|Gal Zur et.al.|[2506.06015v1](http://arxiv.org/abs/2506.06015v1)|null|
+|**2025-06-06**|**Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests**|Stefan Dascalescu et.al.|[2506.05990v1](http://arxiv.org/abs/2506.05990v1)|null|
+|**2025-06-06**|**Preference Learning for AI Alignment: a Causal Perspective**|Katarzyna Kobalczyk et.al.|[2506.05967v1](http://arxiv.org/abs/2506.05967v1)|null|
+|**2025-06-06**|**Quantum Checkers: The Development and Analysis of a Quantum Combinatorial Game**|Marien Raat et.al.|[2506.05962v1](http://arxiv.org/abs/2506.05962v1)|null|
+|**2025-06-06**|**Proactive Assistant Dialogue Generation from Streaming Egocentric Videos**|Yichi Zhang et.al.|[2506.05904v1](http://arxiv.org/abs/2506.05904v1)|null|
+|**2025-06-06**|**Explainability in Context: A Multilevel Framework Aligning AI Explanations with Stakeholder with LLMs**|Marilyn Bello et.al.|[2506.05887v1](http://arxiv.org/abs/2506.05887v1)|null|
+|**2025-06-06**|**Human-AI Alignment of Multimodal Large Language Models with Speech-Language Pathologists in Parent-Child Interactions**|Weiyan Shi et.al.|[2506.05879v1](http://arxiv.org/abs/2506.05879v1)|null|
+|**2025-06-06**|**DeepFake Doctor: Diagnosing and Treating Audio-Video Fake Detection**|Marcel Klemt et.al.|[2506.05851v1](http://arxiv.org/abs/2506.05851v1)|null|
+|**2025-06-06**|**Mirror Symmetry of Spencer-Hodge Decompositions in Constrained Geometric Systems**|Dongzhe Zheng et.al.|[2506.05816v1](http://arxiv.org/abs/2506.05816v1)|null|
+|**2025-06-06**|**Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning**|Yutaro Ishida et.al.|[2506.05808v1](http://arxiv.org/abs/2506.05808v1)|null|
+|**2025-06-06**|**TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes**|Adriana Stan et.al.|[2506.05802v1](http://arxiv.org/abs/2506.05802v1)|null|
+|**2025-06-06**|**Option Pricing Using Ensemble Learning**|Zeyuan Li et.al.|[2506.05799v1](http://arxiv.org/abs/2506.05799v1)|null|
+|**2025-06-06**|**Observation of $D^+\to K^0_Sπ^0μ^+ν_μ$, Test of Lepton Flavor Universality and First Angular Analysis of $D^+\to \bar{K}^\ast(892)^0\ell^+ν_\ell$**|BESIII Collaboration et.al.|[2506.05761v1](http://arxiv.org/abs/2506.05761v1)|null|
+|**2025-06-06**|**There's Waldo: PCB Tamper Forensic Analysis using Explainable AI on Impedance Signatures**|Maryam Saadat Safa et.al.|[2506.05734v1](http://arxiv.org/abs/2506.05734v1)|null|
+|**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708v1](http://arxiv.org/abs/2506.05708v1)|null|
+|**2025-06-06**|**Statistically Valid Post-Deployment Monitoring Should Be Standard for AI-Based Digital Health**|Pavel Dolin et.al.|[2506.05701v1](http://arxiv.org/abs/2506.05701v1)|null|
