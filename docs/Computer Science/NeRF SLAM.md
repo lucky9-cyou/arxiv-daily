@@ -2,6 +2,9 @@
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965v1](http://arxiv.org/abs/2506.05965v1)|null|
+|**2025-06-06**|**Analysis of points outcome in ATP Grand Slam Tennis using big data and machine learning**|Martin Illum et.al.|[2506.05866v1](http://arxiv.org/abs/2506.05866v1)|null|
+|**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558v1](http://arxiv.org/abs/2506.05558v1)|null|
 |**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|null|
 |**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v2](http://arxiv.org/abs/2506.05280v2)|null|
 |**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908v1](http://arxiv.org/abs/2506.04908v1)|null|
@@ -29,6 +32,3 @@
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126v1](http://arxiv.org/abs/2505.20126v1)|[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883v2](http://arxiv.org/abs/2505.19883v2)|null|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813v1](http://arxiv.org/abs/2505.19813v1)|[link](https://github.com/klmav-cuc/golf-nrt)|
-|**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793v1](http://arxiv.org/abs/2505.19793v1)|[link](https://github.com/klmav-cuc/gdb-nerf)|
-|**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420v1](http://arxiv.org/abs/2505.19420v1)|null|
-|**2025-05-25**|**Triangle Splatting for Real-Time Radiance Field Rendering**|Jan Held et.al.|[2505.19175v1](http://arxiv.org/abs/2505.19175v1)|null|
