@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242v1](http://arxiv.org/abs/2506.06242v1)|null|
-|**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Leon Mayer et.al.|[2506.06232v1](http://arxiv.org/abs/2506.06232v1)|null|
-|**2025-06-06**|**"We need to avail ourselves of GenAI to enhance knowledge distribution": Empowering Older Adults through GenAI Literacy**|Eunhye Grace Ko et.al.|[2506.06225v1](http://arxiv.org/abs/2506.06225v1)|null|
-|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220v1](http://arxiv.org/abs/2506.06220v1)|null|
-|**2025-06-06**|**Can Theoretical Physics Research Benefit from Language Agents?**|Sirui Lu et.al.|[2506.06214v1](http://arxiv.org/abs/2506.06214v1)|null|
-|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199v1](http://arxiv.org/abs/2506.06199v1)|null|
-|**2025-06-06**|**The Lock-in Hypothesis: Stagnation by Algorithm**|Tianyi Alex Qiu et.al.|[2506.06166v1](http://arxiv.org/abs/2506.06166v1)|null|
-|**2025-06-06**|**(AI peers) are people learning from the same standpoint: Perception of AI characters in a Collaborative Science Investigation**|Eunhye Grace Ko et.al.|[2506.06165v1](http://arxiv.org/abs/2506.06165v1)|null|
-|**2025-06-06**|**Personalized Large Language Models Can Increase the Belief Accuracy of Social Networks**|Adiba Mahbub Proma et.al.|[2506.06153v1](http://arxiv.org/abs/2506.06153v1)|null|
-|**2025-06-06**|**WoundAIssist: A Patient-Centered Mobile App for AI-Assisted Wound Care With Physicians in the Loop**|Vanessa Borst et.al.|[2506.06104v1](http://arxiv.org/abs/2506.06104v1)|null|
-|**2025-06-06**|**DermaCon-IN: A Multi-concept Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research**|Shanawaj S Madarkar et.al.|[2506.06099v1](http://arxiv.org/abs/2506.06099v1)|null|
-|**2025-06-06**|**Full Conformal Adaptation of Medical Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2506.06076v1](http://arxiv.org/abs/2506.06076v1)|null|
-|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066v1](http://arxiv.org/abs/2506.06066v1)|null|
-|**2025-06-06**|**AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search**|Yu Li et.al.|[2506.06017v1](http://arxiv.org/abs/2506.06017v1)|null|
-|**2025-06-06**|**On the Merits of LLM-Based Corpus Enrichment**|Gal Zur et.al.|[2506.06015v1](http://arxiv.org/abs/2506.06015v1)|null|
-|**2025-06-06**|**Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests**|Stefan Dascalescu et.al.|[2506.05990v1](http://arxiv.org/abs/2506.05990v1)|null|
-|**2025-06-06**|**Preference Learning for AI Alignment: a Causal Perspective**|Katarzyna Kobalczyk et.al.|[2506.05967v1](http://arxiv.org/abs/2506.05967v1)|null|
-|**2025-06-06**|**Quantum Checkers: The Development and Analysis of a Quantum Combinatorial Game**|Marien Raat et.al.|[2506.05962v1](http://arxiv.org/abs/2506.05962v1)|null|
-|**2025-06-06**|**Proactive Assistant Dialogue Generation from Streaming Egocentric Videos**|Yichi Zhang et.al.|[2506.05904v1](http://arxiv.org/abs/2506.05904v1)|null|
-|**2025-06-06**|**Explainability in Context: A Multilevel Framework Aligning AI Explanations with Stakeholder with LLMs**|Marilyn Bello et.al.|[2506.05887v1](http://arxiv.org/abs/2506.05887v1)|null|
-|**2025-06-06**|**Human-AI Alignment of Multimodal Large Language Models with Speech-Language Pathologists in Parent-Child Interactions**|Weiyan Shi et.al.|[2506.05879v1](http://arxiv.org/abs/2506.05879v1)|null|
-|**2025-06-06**|**DeepFake Doctor: Diagnosing and Treating Audio-Video Fake Detection**|Marcel Klemt et.al.|[2506.05851v1](http://arxiv.org/abs/2506.05851v1)|null|
-|**2025-06-06**|**Mirror Symmetry of Spencer-Hodge Decompositions in Constrained Geometric Systems**|Dongzhe Zheng et.al.|[2506.05816v1](http://arxiv.org/abs/2506.05816v1)|null|
-|**2025-06-06**|**Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning**|Yutaro Ishida et.al.|[2506.05808v1](http://arxiv.org/abs/2506.05808v1)|null|
-|**2025-06-06**|**TADA: Training-free Attribution and Out-of-Domain Detection of Audio Deepfakes**|Adriana Stan et.al.|[2506.05802v1](http://arxiv.org/abs/2506.05802v1)|null|
-|**2025-06-06**|**Option Pricing Using Ensemble Learning**|Zeyuan Li et.al.|[2506.05799v1](http://arxiv.org/abs/2506.05799v1)|null|
-|**2025-06-06**|**Observation of $D^+\to K^0_Sπ^0μ^+ν_μ$, Test of Lepton Flavor Universality and First Angular Analysis of $D^+\to \bar{K}^\ast(892)^0\ell^+ν_\ell$**|BESIII Collaboration et.al.|[2506.05761v1](http://arxiv.org/abs/2506.05761v1)|null|
-|**2025-06-06**|**There's Waldo: PCB Tamper Forensic Analysis using Explainable AI on Impedance Signatures**|Maryam Saadat Safa et.al.|[2506.05734v1](http://arxiv.org/abs/2506.05734v1)|null|
-|**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708v1](http://arxiv.org/abs/2506.05708v1)|null|
-|**2025-06-06**|**Statistically Valid Post-Deployment Monitoring Should Be Standard for AI-Based Digital Health**|Pavel Dolin et.al.|[2506.05701v1](http://arxiv.org/abs/2506.05701v1)|null|
+|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006v1](http://arxiv.org/abs/2506.08006v1)|null|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997v1](http://arxiv.org/abs/2506.07997v1)|null|
+|**2025-06-09**|**$τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment**|Victor Barres et.al.|[2506.07982v1](http://arxiv.org/abs/2506.07982v1)|null|
+|**2025-06-09**|**Understanding the Error Sensitivity of Privacy-Aware Computing**|Matías Mazzanti et.al.|[2506.07957v1](http://arxiv.org/abs/2506.07957v1)|null|
+|**2025-06-09**|**Implementation Considerations for Automated AI Grading of Student Work**|Zewei et.al.|[2506.07955v1](http://arxiv.org/abs/2506.07955v1)|null|
+|**2025-06-09**|**Cost-Optimal Active AI Model Evaluation**|Anastasios N. Angelopoulos et.al.|[2506.07949v1](http://arxiv.org/abs/2506.07949v1)|null|
+|**2025-06-09**|**A novel measurement of the strong-phase difference between $D^0\to K^-π^+$ and $\bar{D}^0\to K^-π^+$ decays using $C$-even and $C$-odd quantum-correlated $D\bar{D}$ pairs**|BESIII Collaboration et.al.|[2506.07907v1](http://arxiv.org/abs/2506.07907v1)|null|
+|**2025-06-09**|**First observation of quantum correlations in $e^+e^-\to XD\bar{D}$ and $C$-even constrained $D\bar{D}$ pairs**|BESIII Collaboration et.al.|[2506.07906v1](http://arxiv.org/abs/2506.07906v1)|null|
+|**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896v1](http://arxiv.org/abs/2506.07896v1)|null|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885v1](http://arxiv.org/abs/2506.07885v1)|null|
+|**2025-06-09**|**Evaluating explainable AI for deep learning-based network intrusion detection system alert classification**|Rajesh Kalakoti et.al.|[2506.07882v1](http://arxiv.org/abs/2506.07882v1)|null|
+|**2025-06-09**|**Diffusion-RL for Scalable Resource Allocation for 6G Networks**|Salar Nouri et.al.|[2506.07880v1](http://arxiv.org/abs/2506.07880v1)|null|
+|**2025-06-09**|**Towards a Base-Station-on-Chip: RISC-V Hardware Acceleration for wireless communication**|Javier Acevedo et.al.|[2506.07873v1](http://arxiv.org/abs/2506.07873v1)|null|
+|**2025-06-09**|**A Temporal FRBR/FRBRoo-Based Model for Component-Level Versioning of Legal Norms**|Hudson de Martim et.al.|[2506.07853v1](http://arxiv.org/abs/2506.07853v1)|null|
+|**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833v1](http://arxiv.org/abs/2506.07833v1)|null|
+|**2025-06-09**|**Integrating Artificial Intelligence as Assistive Technology for Older Adult Gamers: A Pilot Study**|Yichi Zhang et.al.|[2506.07830v1](http://arxiv.org/abs/2506.07830v1)|null|
+|**2025-06-09**|**WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code**|Zhiyu Lin et.al.|[2506.07818v1](http://arxiv.org/abs/2506.07818v1)|null|
+|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778v1](http://arxiv.org/abs/2506.07778v1)|null|
+|**2025-06-09**|**Supporting Aging Well through Accessible Digital Games: The Supplemental Role of AI in Game Design for Older Adults**|Brandon Lyman et.al.|[2506.07777v1](http://arxiv.org/abs/2506.07777v1)|null|
+|**2025-06-09**|**Comparing Credit Risk Estimates in the Gen-AI Era**|Nicola Lavecchia et.al.|[2506.07754v1](http://arxiv.org/abs/2506.07754v1)|null|
+|**2025-06-09**|**Research quality evaluation by AI in the era of Large Language Models: Advantages, disadvantages, and systemic effects**|Mike Thelwall et.al.|[2506.07748v1](http://arxiv.org/abs/2506.07748v1)|null|
+|**2025-06-09**|**Interaction Analysis by Humans and AI: A Comparative Perspective**|Maryam Teimouri et.al.|[2506.07707v1](http://arxiv.org/abs/2506.07707v1)|null|
+|**2025-06-09**|**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**|Yuxiao Yang et.al.|[2506.07698v1](http://arxiv.org/abs/2506.07698v1)|null|
+|**2025-06-09**|**The Universality Lens: Why Even Highly Over-Parametrized Models Learn Well**|Meir Feder et.al.|[2506.07661v1](http://arxiv.org/abs/2506.07661v1)|null|
+|**2025-06-09**|**Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration**|Xiang Cheng et.al.|[2506.07647v1](http://arxiv.org/abs/2506.07647v1)|null|
+|**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639v1](http://arxiv.org/abs/2506.07639v1)|null|
+|**2025-06-09**|**Intent Matters: Enhancing AI Tutoring with Fine-Grained Pedagogical Intent Annotation**|Kseniia Petukhova et.al.|[2506.07626v1](http://arxiv.org/abs/2506.07626v1)|null|
+|**2025-06-09**|**Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?**|Zhe Wang et.al.|[2506.07599v1](http://arxiv.org/abs/2506.07599v1)|null|
+|**2025-06-09**|**MalGEN: A Generative Agent Framework for Modeling Malicious Software in Cybersecurity**|Bikash Saha et.al.|[2506.07586v1](http://arxiv.org/abs/2506.07586v1)|null|
+|**2025-06-09**|**Super Encoding Network: Recursive Association of Multi-Modal Encoders for Video Understanding**|Boyu Chen et.al.|[2506.07576v1](http://arxiv.org/abs/2506.07576v1)|null|
