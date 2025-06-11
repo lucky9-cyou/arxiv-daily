@@ -8,7 +8,7 @@
 |**2025-06-09**|**Understanding the Error Sensitivity of Privacy-Aware Computing**|Matías Mazzanti et.al.|[2506.07957v1](http://arxiv.org/abs/2506.07957v1)|null|
 |**2025-06-09**|**Implementation Considerations for Automated AI Grading of Student Work**|Zewei et.al.|[2506.07955v1](http://arxiv.org/abs/2506.07955v1)|null|
 |**2025-06-09**|**Cost-Optimal Active AI Model Evaluation**|Anastasios N. Angelopoulos et.al.|[2506.07949v1](http://arxiv.org/abs/2506.07949v1)|null|
-|**2025-06-09**|**A novel measurement of the strong-phase difference between $D^0\to K^-π^+$ and $\bar{D}^0\to K^-π^+$ decays using $C$-even and $C$-odd quantum-correlated $D\bar{D}$ pairs**|BESIII Collaboration et.al.|[2506.07907v1](http://arxiv.org/abs/2506.07907v1)|null|
+|**2025-06-09**|**A novel measurement of the strong-phase difference between $D^0\to K^-π^+$ and $\bar{D}^0\to K^-π^+$ decays using $C$-even and $C$-odd quantum-correlated $D\bar{D}$ pairs**|BESIII Collaboration et.al.|[2506.07907v2](http://arxiv.org/abs/2506.07907v2)|null|
 |**2025-06-09**|**First observation of quantum correlations in $e^+e^-\to XD\bar{D}$ and $C$-even constrained $D\bar{D}$ pairs**|BESIII Collaboration et.al.|[2506.07906v2](http://arxiv.org/abs/2506.07906v2)|null|
 |**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896v1](http://arxiv.org/abs/2506.07896v1)|null|
 |**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885v1](http://arxiv.org/abs/2506.07885v1)|null|
