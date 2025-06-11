@@ -24,7 +24,7 @@
 |**2025-06-09**|**Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation**|Yijie Deng et.al.|[2506.07338v1](http://arxiv.org/abs/2506.07338v1)|null|
 |**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286v1](http://arxiv.org/abs/2506.07286v1)|null|
 |**2025-06-08**|**A Cramér-von Mises Approach to Incentivizing Truthful Data Sharing**|Alex Clinton et.al.|[2506.07272v1](http://arxiv.org/abs/2506.07272v1)|null|
-|**2025-06-08**|**Fourier-Domain CFO Estimation Using Jutted Binary Modulation on Conjugate-Reciprocal Zeros**|Parker Huggins et.al.|[2506.07256v1](http://arxiv.org/abs/2506.07256v1)|null|
+|**2025-06-08**|**Fourier-Domain CFO Estimation Using Jutted Binary Modulation on Conjugate-Reciprocal Zeros**|Parker Huggins et.al.|[2506.07256v2](http://arxiv.org/abs/2506.07256v2)|null|
 |**2025-06-08**|**AMoPO: Adaptive Multi-objective Preference Optimization without Reward Models and Reference Models**|Qi Liu et.al.|[2506.07165v1](http://arxiv.org/abs/2506.07165v1)|null|
 |**2025-06-08**|**Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs**|Qiong Chang et.al.|[2506.07164v1](http://arxiv.org/abs/2506.07164v1)|null|
 |**2025-06-08**|**A Composite Broad-Line Region in SDSS J1609+4902: a Double-Peaked Disk component and a Gaussian Component**|Jiancheng Wu et.al.|[2506.07161v1](http://arxiv.org/abs/2506.07161v1)|null|
