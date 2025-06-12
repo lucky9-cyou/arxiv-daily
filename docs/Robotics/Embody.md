@@ -17,7 +17,7 @@
 |**2025-06-10**|**WetCat: Automating Skill Assessment in Wetlab Cataract Surgery Videos**|Negin Ghamsarian et.al.|[2506.08896v1](http://arxiv.org/abs/2506.08896v1)|null|
 |**2025-06-10**|**Product of Experts for Visual Generation**|Yunzhi Zhang et.al.|[2506.08894v1](http://arxiv.org/abs/2506.08894v1)|null|
 |**2025-06-10**|**Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task**|Nataliya Kosmyna et.al.|[2506.08872v1](http://arxiv.org/abs/2506.08872v1)|null|
-|**2025-06-10**|**On The Impact of Merge Request Deviations on Code Review Practices**|Samah Kansab et.al.|[2506.08860v1](http://arxiv.org/abs/2506.08860v1)|null|
+|**2025-06-10**|**On The Impact of Merge Request Deviations on Code Review Practices**|Samah Kansab et.al.|[2506.08860v2](http://arxiv.org/abs/2506.08860v2)|null|
 |**2025-06-10**|**Adapting Vision-Language Foundation Model for Next Generation Medical Ultrasound Image Analysis**|Jingguo Qu et.al.|[2506.08849v1](http://arxiv.org/abs/2506.08849v1)|null|
 |**2025-06-10**|**Addressing Pitfalls in Auditing Practices of Automatic Speech Recognition Technologies: A Case Study of People with Aphasia**|Katelyn Xiaoying Mei et.al.|[2506.08846v1](http://arxiv.org/abs/2506.08846v1)|null|
 |**2025-06-10**|**Design Patterns for Securing LLM Agents against Prompt Injections**|Luca Beurer-Kellner et.al.|[2506.08837v1](http://arxiv.org/abs/2506.08837v1)|null|
