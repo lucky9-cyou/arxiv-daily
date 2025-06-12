@@ -25,7 +25,7 @@
 |**2025-06-10**|**A Simple Analysis of Discretization Error in Diffusion Models**|Juhyeok Choi et.al.|[2506.08337v1](http://arxiv.org/abs/2506.08337v1)|null|
 |**2025-06-10**|**Diffusion Non-Additive Model for Multi-Fidelity Simulations with Tunable Precision**|Junoh Heo et.al.|[2506.08328v1](http://arxiv.org/abs/2506.08328v1)|null|
 |**2025-06-09**|**On a structure preserving closure of Langevin dynamics**|Travis Leadbetter et.al.|[2506.08156v1](http://arxiv.org/abs/2506.08156v1)|null|
-|**2025-06-09**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty et.al.|[2506.08128v1](http://arxiv.org/abs/2506.08128v1)|null|
+|**2025-06-09**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty et.al.|[2506.08128v2](http://arxiv.org/abs/2506.08128v2)|null|
 |**2025-06-09**|**Scale-dependent bias and mode coupling in redshift-space clustering near the BAO scale**|Aseem Paranjape et.al.|[2506.08082v1](http://arxiv.org/abs/2506.08082v1)|null|
 |**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015v1](http://arxiv.org/abs/2506.08015v1)|null|
 |**2025-06-09**|**Orbit dimensions in linear and Gaussian quantum optics**|Eliott Z. Mamon et.al.|[2506.07995v1](http://arxiv.org/abs/2506.07995v1)|null|
