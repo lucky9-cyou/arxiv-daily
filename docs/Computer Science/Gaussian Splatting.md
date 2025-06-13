@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997v1](http://arxiv.org/abs/2506.09997v1)|null|
-|**2025-06-11**|**Almost-Optimal Local-Search Methods for Sparse Tensor PCA**|Max Lovig et.al.|[2506.09959v1](http://arxiv.org/abs/2506.09959v1)|null|
-|**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952v1](http://arxiv.org/abs/2506.09952v1)|null|
-|**2025-06-11**|**Discrete-space and -time analogue of a super-diffusive fractional Brownian motion**|Enzo Marinari et.al.|[2506.09921v1](http://arxiv.org/abs/2506.09921v1)|null|
-|**2025-06-11**|**Learning single-index models via harmonic decomposition**|Nirmit Joshi et.al.|[2506.09887v1](http://arxiv.org/abs/2506.09887v1)|null|
-|**2025-06-11**|**DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**|Junli Deng et.al.|[2506.09836v1](http://arxiv.org/abs/2506.09836v1)|null|
-|**2025-06-11**|**Fully Bayesian Sequential Design for Mean Response Surface Prediction of Heteroscedastic Stochastic Simulations**|Yuying Huang et.al.|[2506.09722v1](http://arxiv.org/abs/2506.09722v1)|null|
-|**2025-06-11**|**Accidental coincidences in camera-based high-dimensional entanglement certification**|Raphaël Guitter et.al.|[2506.09704v1](http://arxiv.org/abs/2506.09704v1)|null|
-|**2025-06-11**|**Assessing the Quality of Denoising Diffusion Models in Wasserstein Distance: Noisy Score and Optimal Bounds**|Vahan Arsenyan et.al.|[2506.09681v1](http://arxiv.org/abs/2506.09681v1)|null|
-|**2025-06-11**|**Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature**|Andrew Gracyk et.al.|[2506.09679v1](http://arxiv.org/abs/2506.09679v1)|null|
-|**2025-06-11**|**Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation**|Haowen Wang et.al.|[2506.09663v1](http://arxiv.org/abs/2506.09663v1)|null|
-|**2025-06-11**|**Nonlinear Stochastic Filtering with Volterra Gaussian noises**|Thomas Cass et.al.|[2506.09637v1](http://arxiv.org/abs/2506.09637v1)|null|
-|**2025-06-11**|**A new hierarchical distribution on arbitrary sparse precision matrices**|Gianluca Mastrantonio et.al.|[2506.09607v1](http://arxiv.org/abs/2506.09607v1)|null|
-|**2025-06-11**|**Extremal process of the local time of simple random walk on a regular tree**|Yoshihiro Abe et.al.|[2506.09592v1](http://arxiv.org/abs/2506.09592v1)|null|
-|**2025-06-11**|**Bipartite entanglement extracted from multimode squeezed light generated in lossy waveguides**|Denis A. Kopylov et.al.|[2506.09587v1](http://arxiv.org/abs/2506.09587v1)|null|
-|**2025-06-11**|**The Rabin cryptosystem over number fields**|Alessandro Cobbe et.al.|[2506.09569v1](http://arxiv.org/abs/2506.09569v1)|null|
-|**2025-06-11**|**Late time behavior in $f(R,\mathcal{L}_{m})$ gravity through Gaussian reconstruction and dynamical stability**|Y. Kalpana Devi et.al.|[2506.09568v1](http://arxiv.org/abs/2506.09568v1)|null|
-|**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li et.al.|[2506.09565v1](http://arxiv.org/abs/2506.09565v1)|null|
-|**2025-06-11**|**STOAT: Spatial-Temporal Probabilistic Causal Inference Network**|Yang Yang et.al.|[2506.09544v2](http://arxiv.org/abs/2506.09544v2)|null|
-|**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534v1](http://arxiv.org/abs/2506.09534v1)|null|
-|**2025-06-11**|**HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene**|Jianing Chen et.al.|[2506.09518v1](http://arxiv.org/abs/2506.09518v1)|null|
-|**2025-06-11**|**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals**|Changhao Peng et.al.|[2506.09510v1](http://arxiv.org/abs/2506.09510v1)|null|
-|**2025-06-11**|**Quantum mixture-density network for multimodal probabilistic prediction**|Jaemin Seo et.al.|[2506.09497v1](http://arxiv.org/abs/2506.09497v1)|null|
-|**2025-06-11**|**TinySplat: Feedforward Approach for Generating Compact 3D Scene Representation**|Zetian Song et.al.|[2506.09479v1](http://arxiv.org/abs/2506.09479v1)|null|
-|**2025-06-11**|**Transition Path Theory For Lévy-Type Processes: SDE Representation and Statistics**|Yuanfei Huang et.al.|[2506.09462v1](http://arxiv.org/abs/2506.09462v1)|null|
-|**2025-06-11**|**Learning Obfuscations Of LLM Embedding Sequences: Stained Glass Transform**|Jay Roberts et.al.|[2506.09452v1](http://arxiv.org/abs/2506.09452v1)|null|
-|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417v2](http://arxiv.org/abs/2506.09417v2)|null|
-|**2025-06-11**|**Noise Conditional Variational Score Distillation**|Xinyu Peng et.al.|[2506.09416v1](http://arxiv.org/abs/2506.09416v1)|null|
-|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411v1](http://arxiv.org/abs/2506.09411v1)|null|
-|**2025-06-11**|**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images**|Qijian Tian et.al.|[2506.09378v1](http://arxiv.org/abs/2506.09378v1)|null|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977v1](http://arxiv.org/abs/2506.10977v1)|null|
+|**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|null|
+|**2025-06-12**|**Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material**|Guanjin Wang et.al.|[2506.10875v1](http://arxiv.org/abs/2506.10875v1)|null|
+|**2025-06-12**|**Identifying Compact Chirping SMBHBs in LSST using Bayesian Analysis**|Chengcheng Xin et.al.|[2506.10846v1](http://arxiv.org/abs/2506.10846v1)|null|
+|**2025-06-12**|**Self-gravity in thin protoplanetary discs: 1. The smoothing-length approximation versus the exact self-gravity kernel**|S. Rendon Restrepo et.al.|[2506.10812v1](http://arxiv.org/abs/2506.10812v1)|null|
+|**2025-06-12**|**Surface Nematic Quasi-Uniformity**|Andrea Pedrini et.al.|[2506.10795v1](http://arxiv.org/abs/2506.10795v1)|null|
+|**2025-06-12**|**On Chaos in QFT**|Jacob Sonnenschein et.al.|[2506.10784v1](http://arxiv.org/abs/2506.10784v1)|null|
+|**2025-06-12**|**Time-dependent Gaussian basis sets for many-body systems using Rothe's method: A mean-field study**|Simon Elias Schrader et.al.|[2506.10701v1](http://arxiv.org/abs/2506.10701v1)|null|
+|**2025-06-12**|**Leveraging Low-rank Factorizations of Conditional Correlation Matrices in Graph Learning**|Thu Ha Phi et.al.|[2506.10628v1](http://arxiv.org/abs/2506.10628v1)|null|
+|**2025-06-12**|**Harmonizing Geometry and Uncertainty: Diffusion with Hyperspheres**|Muskan Dosi et.al.|[2506.10576v1](http://arxiv.org/abs/2506.10576v1)|null|
+|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571v1](http://arxiv.org/abs/2506.10571v1)|null|
+|**2025-06-12**|**A Visibility-based 21 cm Bispectrum Estimator for Radio-interferometric Data**|Sukhdeep Singh Gill et.al.|[2506.10526v1](http://arxiv.org/abs/2506.10526v1)|null|
+|**2025-06-12**|**Testing the local supervoid solution to the Hubble tension with direct distance tracers**|Richard Stiskalek et.al.|[2506.10518v1](http://arxiv.org/abs/2506.10518v1)|null|
+|**2025-06-12**|**Geometric Jensen-Shannon Divergence Between Gaussian Measures On Hilbert Space**|Minh Ha Quang et.al.|[2506.10494v1](http://arxiv.org/abs/2506.10494v1)|null|
+|**2025-06-12**|**Time-domain field correlation measurements enable tomography of highly multimode quantum states of light**|Emanuel Hubenschmid et.al.|[2506.10483v1](http://arxiv.org/abs/2506.10483v1)|null|
+|**2025-06-12**|**Ultrahigh threshold nonstabilizer nonlinear quantum error correcting code**|Maga Grafe et.al.|[2506.10445v1](http://arxiv.org/abs/2506.10445v1)|null|
+|**2025-06-12**|**Measuring Semantic Information Production in Generative Diffusion Models**|Florian Handke et.al.|[2506.10433v1](http://arxiv.org/abs/2506.10433v1)|null|
+|**2025-06-12**|**Transcorrelated Theory for Transition Metal Atoms**|Kristoffer Simula et.al.|[2506.10429v1](http://arxiv.org/abs/2506.10429v1)|null|
+|**2025-06-12**|**Optimizing brightness of SPDC source in Laguerre-Gaussian modes using type-0 periodically-poled nonlinear crystal**|Jungmo Lee et.al.|[2506.10385v1](http://arxiv.org/abs/2506.10385v1)|null|
+|**2025-06-12**|**Revisiting mean estimation over $\ell_p$ balls: Is the MLE optimal?**|Liviu Aolaritei et.al.|[2506.10354v1](http://arxiv.org/abs/2506.10354v1)|null|
+|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335v1](http://arxiv.org/abs/2506.10335v1)|null|
+|**2025-06-12**|**Multi-Timescale Dynamics Model Bayesian Optimization for Plasma Stabilization in Tokamaks**|Rohit Sonker et.al.|[2506.10287v1](http://arxiv.org/abs/2506.10287v1)|null|
+|**2025-06-12**|**Learning Safe Control via On-the-Fly Bandit Exploration**|Alexandre Capone et.al.|[2506.10279v1](http://arxiv.org/abs/2506.10279v1)|null|
+|**2025-06-11**|**DynaSubVAE: Adaptive Subgrouping for Scalable and Robust OOD Detection**|Tina Behrouzi et.al.|[2506.10200v1](http://arxiv.org/abs/2506.10200v1)|null|
+|**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2506.10145v1](http://arxiv.org/abs/2506.10145v1)|null|
+|**2025-06-11**|**Classification of multiple segmented profiles, application to the study of the neuronal protein Tau**|Vincent Brault et.al.|[2506.10126v1](http://arxiv.org/abs/2506.10126v1)|null|
+|**2025-06-11**|**HiKO: A Hierarchical Framework for Beyond-Second-Order KO Codes**|Shubham Srivastava et.al.|[2506.10121v1](http://arxiv.org/abs/2506.10121v1)|null|
+|**2025-06-11**|**Fundamental Limits of Learning High-dimensional Simplices in Noisy Regimes**|Seyed Amir Hossein Saberi et.al.|[2506.10101v1](http://arxiv.org/abs/2506.10101v1)|null|
+|**2025-06-11**|**Estimating the Joint Probability of Scenario Parameters with Gaussian Mixture Copula Models**|Christian Reichenbächer et.al.|[2506.10098v1](http://arxiv.org/abs/2506.10098v1)|null|
+|**2025-06-11**|**Generative Models of 21cm EoR Lightcones with 3D Scattering Transforms**|Ian Hothi et.al.|[2506.10061v1](http://arxiv.org/abs/2506.10061v1)|null|
