@@ -27,7 +27,7 @@
 |**2025-06-12**|**From Images to Insights: Explainable Biodiversity Monitoring with Plain Language Habitat Explanations**|Yutong Zhou et.al.|[2506.10559v1](http://arxiv.org/abs/2506.10559v1)|null|
 |**2025-06-12**|**Nowcasting the euro area with social media data**|Konstantin Boss et.al.|[2506.10546v1](http://arxiv.org/abs/2506.10546v1)|null|
 |**2025-06-12**|**AniMaker: Automated Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation**|Haoyuan Shi et.al.|[2506.10540v1](http://arxiv.org/abs/2506.10540v1)|null|
-|**2025-06-12**|**Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning**|Yuhao Zhou et.al.|[2506.10521v1](http://arxiv.org/abs/2506.10521v1)|null|
+|**2025-06-12**|**Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning**|Yuhao Zhou et.al.|[2506.10521v2](http://arxiv.org/abs/2506.10521v2)|null|
 |**2025-06-12**|**EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair**|Fangwen Mu et.al.|[2506.10484v1](http://arxiv.org/abs/2506.10484v1)|null|
 |**2025-06-12**|**TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference**|Hongbin Zhang et.al.|[2506.10470v1](http://arxiv.org/abs/2506.10470v1)|null|
 |**2025-06-12**|**Are We Generalizing from the Exception? An In-the-Wild Study on Group-Sensitive Conversation Design in Human-Agent Interactions**|Ana Müller et.al.|[2506.10462v1](http://arxiv.org/abs/2506.10462v1)|null|
