@@ -9,7 +9,7 @@
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619v1](http://arxiv.org/abs/2506.08619v1)|null|
 |**2025-06-10**|**Planar Collisionless Shock Simulations with Semi-Implicit Particle-in-Cell Model FLEKS**|Hongyang Zhou et.al.|[2506.08384v1](http://arxiv.org/abs/2506.08384v1)|null|
-|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|null|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|[link](https://github.com/tuallen/speede3dgs)|
 |**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v2](http://arxiv.org/abs/2506.07497v2)|null|
 |**2025-06-08**|**Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs**|Qiong Chang et.al.|[2506.07164v1](http://arxiv.org/abs/2506.07164v1)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890v1](http://arxiv.org/abs/2506.06890v1)|null|

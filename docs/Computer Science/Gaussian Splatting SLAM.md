@@ -23,9 +23,9 @@
 |**2025-06-12**|**Discovery of an HI 21 cm absorption system at z=2.327 with CHIME**|CHIME Collaboration et.al.|[2506.11269v1](http://arxiv.org/abs/2506.11269v1)|null|
 |**2025-06-12**|**Anti-Aliased 2D Gaussian Splatting**|Mae Younes et.al.|[2506.11252v1](http://arxiv.org/abs/2506.11252v1)|null|
 |**2025-06-12**|**Configuration design of multimode Gaussian operations on continuous-variable quad-rail lattice cluster states**|Jun-ichi Yoshikawa et.al.|[2506.11236v1](http://arxiv.org/abs/2506.11236v1)|null|
-|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977v1](http://arxiv.org/abs/2506.10977v1)|null|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977v1](http://arxiv.org/abs/2506.10977v1)|[link](https://github.com/zuosc19/quadricformer)|
 |**2025-06-12**|**DiffPR: Diffusion-Based Phase Reconstruction via Frequency-Decoupled Learning**|Yi Zhang et.al.|[2506.11183v1](http://arxiv.org/abs/2506.11183v1)|null|
-|**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|null|
+|**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|[link](https://github.com/s-sahoo/duo)|
 |**2025-06-12**|**Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material**|Guanjin Wang et.al.|[2506.10875v1](http://arxiv.org/abs/2506.10875v1)|null|
 |**2025-06-12**|**Identifying Compact Chirping SMBHBs in LSST using Bayesian Analysis**|Chengcheng Xin et.al.|[2506.10846v1](http://arxiv.org/abs/2506.10846v1)|null|
 |**2025-06-12**|**Self-gravity in thin protoplanetary discs: 1. The smoothing-length approximation versus the exact self-gravity kernel**|S. Rendon Restrepo et.al.|[2506.10812v1](http://arxiv.org/abs/2506.10812v1)|null|
