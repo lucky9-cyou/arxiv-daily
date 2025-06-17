@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010v1](http://arxiv.org/abs/2506.12010v1)|null|
-|**2025-06-13**|**On the density of singular SDEs with fractional noise and applications to McKean-Vlasov equations**|Lukas Anzeletti et.al.|[2506.11900v1](http://arxiv.org/abs/2506.11900v1)|null|
-|**2025-06-13**|**Measurement-aligned Flow for Inverse Problem**|Shaorong Zhang et.al.|[2506.11893v1](http://arxiv.org/abs/2506.11893v1)|null|
-|**2025-06-13**|**Simultaneous hypothesis testing for comparing many functional means**|Colin Decker et.al.|[2506.11889v1](http://arxiv.org/abs/2506.11889v1)|null|
-|**2025-06-13**|**Learning Overspecified Gaussian Mixtures Exponentially Fast with the EM Algorithm**|Zhenisbek Assylbekov et.al.|[2506.11850v1](http://arxiv.org/abs/2506.11850v1)|null|
-|**2025-06-13**|**Bayesian Optimization with Inexact Acquisition: Is Random Grid Search Sufficient?**|Hwanwoo Kim et.al.|[2506.11831v1](http://arxiv.org/abs/2506.11831v1)|null|
-|**2025-06-13**|**Learning to Integrate**|Oliver G. Ernst et.al.|[2506.11801v1](http://arxiv.org/abs/2506.11801v1)|null|
-|**2025-06-13**|**InflationEasy: A C++ Lattice Code for Inflation**|Angelo Caravano et.al.|[2506.11797v1](http://arxiv.org/abs/2506.11797v1)|null|
-|**2025-06-13**|**Ultra-Slow-Roll Inflation on the Lattice II: Nonperturbative Curvature Perturbation**|Angelo Caravano et.al.|[2506.11795v1](http://arxiv.org/abs/2506.11795v1)|null|
-|**2025-06-13**|**Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification**|Hassan Mortada et.al.|[2506.11639v1](http://arxiv.org/abs/2506.11639v1)|[link](https://github.com/ixblue/RecursiveKalmanNet)|
-|**2025-06-13**|**Physically-informed change-point kernels for structural dynamics**|Daniel James Pitchforth et.al.|[2506.11625v1](http://arxiv.org/abs/2506.11625v1)|null|
-|**2025-06-13**|**Inference post region selection**|Dominique Bontemps et.al.|[2506.11564v1](http://arxiv.org/abs/2506.11564v1)|null|
-|**2025-06-13**|**Last-Pair Swapping Polar Codes: A Structure to Improve Polarization on Channels with Memory**|Yinuo Mei et.al.|[2506.11535v1](http://arxiv.org/abs/2506.11535v1)|null|
-|**2025-06-13**|**A Two-step Estimating Approach for Heavy-tailed AR Models with General Non-zero Median Noises**|Rui She et.al.|[2506.11509v1](http://arxiv.org/abs/2506.11509v1)|null|
-|**2025-06-13**|**Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via Reinforcement Learning Augmented Diffusion**|Shunpeng Yang et.al.|[2506.11470v1](http://arxiv.org/abs/2506.11470v1)|null|
-|**2025-06-13**|**GaussMarker: Robust Dual-Domain Watermark for Diffusion Models**|Kecen Li et.al.|[2506.11444v1](http://arxiv.org/abs/2506.11444v1)|null|
-|**2025-06-13**|**Node Splitting SVMs for Survival Trees Based on an L2-Regularized Dipole Splitting Criteria**|Aye Aye Maung et.al.|[2506.11416v1](http://arxiv.org/abs/2506.11416v1)|null|
-|**2025-06-12**|**Convolutional method for data assimilation An improved method on neuronal electrophysiological data**|Dawei Li et.al.|[2506.11365v1](http://arxiv.org/abs/2506.11365v1)|null|
-|**2025-06-12**|**Discovery of an HI 21 cm absorption system at z=2.327 with CHIME**|CHIME Collaboration et.al.|[2506.11269v1](http://arxiv.org/abs/2506.11269v1)|null|
-|**2025-06-12**|**Anti-Aliased 2D Gaussian Splatting**|Mae Younes et.al.|[2506.11252v1](http://arxiv.org/abs/2506.11252v1)|null|
-|**2025-06-12**|**Configuration design of multimode Gaussian operations on continuous-variable quad-rail lattice cluster states**|Jun-ichi Yoshikawa et.al.|[2506.11236v1](http://arxiv.org/abs/2506.11236v1)|null|
-|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977v1](http://arxiv.org/abs/2506.10977v1)|[link](https://github.com/zuosc19/quadricformer)|
-|**2025-06-12**|**DiffPR: Diffusion-Based Phase Reconstruction via Frequency-Decoupled Learning**|Yi Zhang et.al.|[2506.11183v1](http://arxiv.org/abs/2506.11183v1)|null|
-|**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|[link](https://github.com/s-sahoo/duo)|
-|**2025-06-12**|**Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material**|Guanjin Wang et.al.|[2506.10875v1](http://arxiv.org/abs/2506.10875v1)|null|
-|**2025-06-12**|**Identifying Compact Chirping SMBHBs in LSST using Bayesian Analysis**|Chengcheng Xin et.al.|[2506.10846v1](http://arxiv.org/abs/2506.10846v1)|null|
-|**2025-06-12**|**Self-gravity in thin protoplanetary discs: 1. The smoothing-length approximation versus the exact self-gravity kernel**|S. Rendon Restrepo et.al.|[2506.10812v1](http://arxiv.org/abs/2506.10812v1)|null|
-|**2025-06-12**|**Surface Nematic Quasi-Uniformity**|Andrea Pedrini et.al.|[2506.10795v1](http://arxiv.org/abs/2506.10795v1)|null|
-|**2025-06-12**|**On Chaos in QFT**|Jacob Sonnenschein et.al.|[2506.10784v1](http://arxiv.org/abs/2506.10784v1)|null|
-|**2025-06-12**|**Time-dependent Gaussian basis sets for many-body systems using Rothe's method: A mean-field study**|Simon Elias Schrader et.al.|[2506.10701v1](http://arxiv.org/abs/2506.10701v1)|null|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
+|**2025-06-16**|**Box-Covariances of Hyperuniform Point Processes**|Jonas Jalowy et.al.|[2506.13661v1](http://arxiv.org/abs/2506.13661v1)|null|
+|**2025-06-16**|**Parsimonious Compactly Supported Covariance Models in the Gauss Hypergeometric Class: Identifiability, Reparameterizations, and Asymptotic Properties**|Moreno Bevilacqua et.al.|[2506.13646v1](http://arxiv.org/abs/2506.13646v1)|null|
+|**2025-06-16**|**Towards Efficient Occupancy Mapping via Gaussian Process Latent Field Shaping**|Cedric Le Gentil et.al.|[2506.13640v1](http://arxiv.org/abs/2506.13640v1)|null|
+|**2025-06-16**|**Variational Inference with Mixtures of Isotropic Gaussians**|Marguerite Petit-Talamon et.al.|[2506.13613v1](http://arxiv.org/abs/2506.13613v1)|null|
+|**2025-06-16**|**Functional second-order Gaussian Poincaré inequalities**|Anna Vidotto et.al.|[2506.13571v1](http://arxiv.org/abs/2506.13571v1)|null|
+|**2025-06-16**|**Energy and photon centroids of spatiotemporal light pulses and consequences for their intrinsic orbital angular momentum**|Titouan Gadeyne et.al.|[2506.13535v1](http://arxiv.org/abs/2506.13535v1)|null|
+|**2025-06-16**|**Identification of Impulse Response Functions for Nonlinear Dynamic Models**|Christian Gourieroux et.al.|[2506.13531v1](http://arxiv.org/abs/2506.13531v1)|null|
+|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516v1](http://arxiv.org/abs/2506.13516v1)|null|
+|**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508v1](http://arxiv.org/abs/2506.13508v1)|null|
+|**2025-06-16**|**Uncertainty-Aware Remaining Lifespan Prediction from Images**|Tristan Kenneweg et.al.|[2506.13430v1](http://arxiv.org/abs/2506.13430v1)|null|
+|**2025-06-16**|**Nonclassicality of fully degenerate triple-photon states and its application in generating non-Gaussian entanglement**|Da Zhang et.al.|[2506.13401v1](http://arxiv.org/abs/2506.13401v1)|null|
+|**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348v1](http://arxiv.org/abs/2506.13348v1)|null|
+|**2025-06-16**|**Estimating Intractable Posterior Distributions through Gaussian Process regression and Metropolis-adjusted Langevin procedure**|Guillaume Perrin et.al.|[2506.13336v1](http://arxiv.org/abs/2506.13336v1)|null|
+|**2025-06-16**|**Asymptotic Expansion of the Gaussian Integral Operators on Riemannian submanifolds of $\mathbb{R}^{n}$**|Jia-Ming et.al.|[2506.13238v1](http://arxiv.org/abs/2506.13238v1)|null|
+|**2025-06-16**|**Bayesian Active Learning of (small) Quantile Sets through Expected Estimator Modification**|Romain Ait Abdelmalek-Lomenech et.al.|[2506.13211v1](http://arxiv.org/abs/2506.13211v1)|null|
+|**2025-06-16**|**Research on Optimal Control Problem Based on Reinforcement Learning under Knightian Uncertainty**|Ziyu Li et.al.|[2506.13207v1](http://arxiv.org/abs/2506.13207v1)|null|
+|**2025-06-16**|**Scalar Lattices and Probabilistic Shaping for Dithered Wyner-Ziv Quantization**|Muhammed Yusuf Sener et.al.|[2506.13162v1](http://arxiv.org/abs/2506.13162v1)|null|
+|**2025-06-16**|**Three-dimensional velocity gradient statistics in a mesoscale convection laboratory experiment**|Prafulla P. Shevkar et.al.|[2506.13155v1](http://arxiv.org/abs/2506.13155v1)|null|
+|**2025-06-16**|**Federated ADMM from Bayesian Duality**|Thomas Möllenhoff et.al.|[2506.13150v1](http://arxiv.org/abs/2506.13150v1)|null|
+|**2025-06-16**|**Overcoming Overfitting in Reinforcement Learning via Gaussian Process Diffusion Policy**|Amornyos Horprasert et.al.|[2506.13111v1](http://arxiv.org/abs/2506.13111v1)|null|
+|**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110v1](http://arxiv.org/abs/2506.13110v1)|null|
+|**2025-06-16**|**Learning Event Completeness for Weakly Supervised Video Anomaly Detection**|Yu Wang et.al.|[2506.13095v1](http://arxiv.org/abs/2506.13095v1)|null|
+|**2025-06-16**|**A High-Order Quadrature Method for Implicitly Defined Hypersurfaces and Regions**|Zibo Zhao et.al.|[2506.13078v1](http://arxiv.org/abs/2506.13078v1)|null|
+|**2025-06-16**|**Condition Monitoring with Machine Learning: A Data-Driven Framework for Quantifying Wind Turbine Energy Loss**|Emil Marcus Buchberg et.al.|[2506.13012v1](http://arxiv.org/abs/2506.13012v1)|null|
+|**2025-06-15**|**Acoustic Phonon-Induced Dephasing in Gallium Nitride Defect-Based Quantum Emitters**|Yifei Geng et.al.|[2506.12984v1](http://arxiv.org/abs/2506.12984v1)|null|
+|**2025-06-15**|**Metropolis-Hastings Sampling for 3D Gaussian Reconstruction**|Hyunjin Kim et.al.|[2506.12945v1](http://arxiv.org/abs/2506.12945v1)|null|
+|**2025-06-15**|**Finite sample-optimal adjustment sets in linear Gaussian causal models**|Nadja Rutsch et.al.|[2506.12869v1](http://arxiv.org/abs/2506.12869v1)|null|
+|**2025-06-15**|**Space-time fractional stochastic partial differential equations driven by Lévy white noise**|Yuhui Guo et.al.|[2506.12834v1](http://arxiv.org/abs/2506.12834v1)|null|
+|**2025-06-15**|**Taking the GP Out of the Loop**|David Sweet et.al.|[2506.12818v1](http://arxiv.org/abs/2506.12818v1)|null|
