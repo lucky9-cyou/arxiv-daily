@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709v1](http://arxiv.org/abs/2506.14709v1)|null|
-|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697v1](http://arxiv.org/abs/2506.14697v1)|null|
-|**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683v1](http://arxiv.org/abs/2506.14683v1)|null|
-|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682v1](http://arxiv.org/abs/2506.14682v1)|null|
-|**2025-06-17**|**Which Humans? Inclusivity and Representation in Human-Centered AI**|Rada Mihalcea et.al.|[2506.14680v1](http://arxiv.org/abs/2506.14680v1)|null|
-|**2025-06-17**|**Now More Than Ever, Foundational AI Research and Infrastructure Depends on the Federal Government**|Michela Taufer et.al.|[2506.14679v1](http://arxiv.org/abs/2506.14679v1)|null|
-|**2025-06-17**|**Design an Editable Speech-to-Sign-Language Transformer System: A Human-Centered AI Approach**|Yingchao Li et.al.|[2506.14677v1](http://arxiv.org/abs/2506.14677v1)|null|
-|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670v1](http://arxiv.org/abs/2506.14670v1)|null|
-|**2025-06-17**|**Quantifying Diagnostic Signal Decay in Dementia: A National Study of Medicare Hospitalization Data**|Federica Spoto et.al.|[2506.14669v1](http://arxiv.org/abs/2506.14669v1)|null|
-|**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657v1](http://arxiv.org/abs/2506.14657v1)|null|
-|**2025-06-17**|**Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor**|Alexandra Olteanu et.al.|[2506.14652v1](http://arxiv.org/abs/2506.14652v1)|null|
-|**2025-06-17**|**Passing the Turing Test in Political Discourse: Fine-Tuning LLMs to Mimic Polarized Social Media Comments**|. Pazzaglia et.al.|[2506.14645v1](http://arxiv.org/abs/2506.14645v1)|null|
-|**2025-06-17**|**Navigating the growing field of research on AI for software testing -- the taxonomy for AI-augmented software testing and an ontology-driven literature survey**|Ina K. Schieferdecker et.al.|[2506.14640v1](http://arxiv.org/abs/2506.14640v1)|[link](https://github.com/schieferdecker/ai4st)|
-|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629v1](http://arxiv.org/abs/2506.14629v1)|null|
-|**2025-06-17**|**ACM Survey Draft on Formalising Software Requirements with Large Language Models**|Arshad Beg et.al.|[2506.14627v1](http://arxiv.org/abs/2506.14627v1)|null|
-|**2025-06-17**|**Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**|Chenchen Yuan et.al.|[2506.14625v2](http://arxiv.org/abs/2506.14625v2)|null|
-|**2025-06-17**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Erik Bauer et.al.|[2506.14608v1](http://arxiv.org/abs/2506.14608v1)|null|
-|**2025-06-17**|**Align Your Flow: Scaling Continuous-Time Flow Map Distillation**|Amirmojtaba Sabour et.al.|[2506.14603v1](http://arxiv.org/abs/2506.14603v1)|null|
-|**2025-06-17**|**Uncertainty in AI-driven Monte Carlo simulations**|Dimitrios Tzivrailis et.al.|[2506.14594v1](http://arxiv.org/abs/2506.14594v1)|null|
-|**2025-06-17**|**SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Robust Classification**|Shuo Yang et.al.|[2506.14587v1](http://arxiv.org/abs/2506.14587v1)|null|
-|**2025-06-17**|**SoK: Privacy-Enhancing Technologies in Artificial Intelligence**|Nouha Oualha et.al.|[2506.14576v1](http://arxiv.org/abs/2506.14576v1)|null|
-|**2025-06-17**|**Enhancing Symbolic Machine Learning by Subsymbolic Representations**|Stephen Roth et.al.|[2506.14569v1](http://arxiv.org/abs/2506.14569v1)|null|
-|**2025-06-17**|**Controlling Context: Generative AI at Work in Integrated Circuit Design and Other High-Precision Domains**|Emanuel Moss et.al.|[2506.14567v1](http://arxiv.org/abs/2506.14567v1)|null|
-|**2025-06-17**|**Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation**|Alex C. Newkirk et.al.|[2506.14551v1](http://arxiv.org/abs/2506.14551v1)|null|
-|**2025-06-17**|**Towards Improved Research Methodologies for Industrial AI: A case study of false call reduction**|Korbinian Pfab et.al.|[2506.14521v1](http://arxiv.org/abs/2506.14521v1)|null|
-|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507v1](http://arxiv.org/abs/2506.14507v1)|null|
-|**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502v1](http://arxiv.org/abs/2506.14502v1)|null|
-|**2025-06-17**|**LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?**|Muhammad Atta Ur Rahman et.al.|[2506.14496v1](http://arxiv.org/abs/2506.14496v1)|null|
-|**2025-06-17**|**Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search**|Weicong Qin et.al.|[2506.14437v1](http://arxiv.org/abs/2506.14437v1)|null|
-|**2025-06-17**|**Works-magnet: Accelerating Metadata Curation for Open Science**|Eric Jeangirard et.al.|[2506.14430v1](http://arxiv.org/abs/2506.14430v1)|[link](https://github.com/dataesr/works-magnet)|
+|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v1](http://arxiv.org/abs/2506.15677v1)|null|
+|**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675v1](http://arxiv.org/abs/2506.15675v1)|null|
+|**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673v1](http://arxiv.org/abs/2506.15673v1)|null|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645v1](http://arxiv.org/abs/2506.15645v1)|null|
+|**2025-06-18**|**The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy**|James Weichert et.al.|[2506.15639v1](http://arxiv.org/abs/2506.15639v1)|null|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635v1](http://arxiv.org/abs/2506.15635v1)|null|
+|**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620v1](http://arxiv.org/abs/2506.15620v1)|null|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
+|**2025-06-18**|**From Model to Classroom: Evaluating Generated MCQs for Portuguese with Narrative and Difficulty Concerns**|Bernardo Leite et.al.|[2506.15598v1](http://arxiv.org/abs/2506.15598v1)|null|
+|**2025-06-18**|**Engineering Supercomputing Platforms for Biomolecular Applications**|Robert Welch et.al.|[2506.15585v1](http://arxiv.org/abs/2506.15585v1)|null|
+|**2025-06-18**|**Misinformation by Omission: The Need for More Environmental Transparency in AI**|Sasha Luccioni et.al.|[2506.15572v1](http://arxiv.org/abs/2506.15572v1)|null|
+|**2025-06-18**|**Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents**|Aline Dobrovsky et.al.|[2506.15567v1](http://arxiv.org/abs/2506.15567v1)|null|
+|**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566v1](http://arxiv.org/abs/2506.15566v1)|null|
+|**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562v1](http://arxiv.org/abs/2506.15562v1)|null|
+|**2025-06-18**|**Versatile Symbolic Music-for-Music Modeling via Function Alignment**|Junyan Jiang et.al.|[2506.15548v1](http://arxiv.org/abs/2506.15548v1)|null|
+|**2025-06-18**|**Measurements of the absolute branching fractions of the doubly Cabibbo-suppressed decays $D^+\to K^+π^0$, $D^+\to K^+η$ and $D^+\to K^+η^{\prime}$**|BESIII Collaboration et.al.|[2506.15533v1](http://arxiv.org/abs/2506.15533v1)|null|
+|**2025-06-18**|**"How can we learn and use AI at the same time?:: Participatory Design of GenAI with High School Students**|Isabella Pu et.al.|[2506.15525v1](http://arxiv.org/abs/2506.15525v1)|null|
+|**2025-06-18**|**Exploiting Music Source Separation for Automatic Lyrics Transcription with Whisper**|Jaza Syed et.al.|[2506.15514v1](http://arxiv.org/abs/2506.15514v1)|null|
+|**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
+|**2025-06-18**|**Co-Creative Learning via Metropolis-Hastings Interaction between Humans and AI**|Ryota Okumura et.al.|[2506.15468v1](http://arxiv.org/abs/2506.15468v1)|null|
+|**2025-06-18**|**All is Not Lost: LLM Recovery without Checkpoints**|Nikolay Blagoev et.al.|[2506.15461v1](http://arxiv.org/abs/2506.15461v1)|null|
+|**2025-06-18**|**Semi-supervised Graph Anomaly Detection via Robust Homophily Learning**|Guoguo Ai et.al.|[2506.15448v1](http://arxiv.org/abs/2506.15448v1)|null|
+|**2025-06-18**|**Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material**|Team Hunyuan3D et.al.|[2506.15442v1](http://arxiv.org/abs/2506.15442v1)|null|
+|**2025-06-18**|**Acore-CIM: build accurate and reliable mixed-signal CIM cores with RISC-V controlled self-calibration**|Omar Numan et.al.|[2506.15440v1](http://arxiv.org/abs/2506.15440v1)|null|
+|**2025-06-18**|**Side-Channel Extraction of Dataflow AI Accelerator Hardware Parameters**|Guillaume Lomet et.al.|[2506.15432v1](http://arxiv.org/abs/2506.15432v1)|null|
+|**2025-06-18**|**Unifying VXAI: A Systematic Review and Framework for the Evaluation of Explainable AI**|David Dembinsky et.al.|[2506.15408v1](http://arxiv.org/abs/2506.15408v1)|null|
+|**2025-06-18**|**Efficient and Generalizable Environmental Understanding for Visual Navigation**|Ruoyu Wang et.al.|[2506.15377v1](http://arxiv.org/abs/2506.15377v1)|null|
+|**2025-06-18**|**DeVisE: Behavioral Testing of Medical Large Language Models**|Camila Zurdo Tagliabue et.al.|[2506.15339v1](http://arxiv.org/abs/2506.15339v1)|null|
+|**2025-06-18**|**Building Blocks of a User Experience Research Point of View**|Patricia Diaz et.al.|[2506.15332v1](http://arxiv.org/abs/2506.15332v1)|null|
+|**2025-06-18**|**Human-Centred AI in FinTech: Developing a User Experience (UX) Research Point of View (PoV) Playbook**|Festus Adedoyin et.al.|[2506.15325v1](http://arxiv.org/abs/2506.15325v1)|null|
