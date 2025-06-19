@@ -18,7 +18,7 @@
 |**2025-06-17**|**Covert Capacity of AWGN Channels under Average Error Probability**|C. Bouette et.al.|[2506.14483v1](http://arxiv.org/abs/2506.14483v1)|null|
 |**2025-06-17**|**Enclosing Prototypical Variational Autoencoder for Explainable Out-of-Distribution Detection**|Conrad Orglmeister et.al.|[2506.14390v1](http://arxiv.org/abs/2506.14390v1)|null|
 |**2025-06-17**|**Scaling and Universality at Noisy Quench Dynamical Quantum Phase Transitions**|Saeid Ansari et.al.|[2506.14355v1](http://arxiv.org/abs/2506.14355v1)|null|
-|**2025-06-17**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315v1](http://arxiv.org/abs/2506.14315v1)|null|
+|**2025-06-17**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315v2](http://arxiv.org/abs/2506.14315v2)|null|
 |**2025-06-17**|**Non-Parametric Goodness-of-Fit Tests Using Tsallis Entropy Measures**|Mehmet Sıddık Çadırcı et.al.|[2506.14242v1](http://arxiv.org/abs/2506.14242v1)|null|
 |**2025-06-17**|**Bayesian Inference for Initial Heat States with Gaussian Series Priors**|Matteo Giordano et.al.|[2506.14241v1](http://arxiv.org/abs/2506.14241v1)|null|
 |**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229v1](http://arxiv.org/abs/2506.14229v1)|null|

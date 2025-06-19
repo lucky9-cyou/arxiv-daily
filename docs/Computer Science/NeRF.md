@@ -2,7 +2,7 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787v1](http://arxiv.org/abs/2506.12787v1)|null|
+|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787v2](http://arxiv.org/abs/2506.12787v2)|null|
 |**2025-06-15**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727v2](http://arxiv.org/abs/2506.12727v2)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335v1](http://arxiv.org/abs/2506.10335v1)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885v1](http://arxiv.org/abs/2506.09885v1)|null|

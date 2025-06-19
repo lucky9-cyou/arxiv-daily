@@ -17,7 +17,7 @@
 |**2025-06-17**|**Navigating the growing field of research on AI for software testing -- the taxonomy for AI-augmented software testing and an ontology-driven literature survey**|Ina K. Schieferdecker et.al.|[2506.14640v1](http://arxiv.org/abs/2506.14640v1)|[link](https://github.com/schieferdecker/ai4st)|
 |**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629v1](http://arxiv.org/abs/2506.14629v1)|null|
 |**2025-06-17**|**ACM Survey Draft on Formalising Software Requirements with Large Language Models**|Arshad Beg et.al.|[2506.14627v1](http://arxiv.org/abs/2506.14627v1)|null|
-|**2025-06-17**|**Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**|Chenchen Yuan et.al.|[2506.14625v1](http://arxiv.org/abs/2506.14625v1)|null|
+|**2025-06-17**|**Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**|Chenchen Yuan et.al.|[2506.14625v2](http://arxiv.org/abs/2506.14625v2)|null|
 |**2025-06-17**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Erik Bauer et.al.|[2506.14608v1](http://arxiv.org/abs/2506.14608v1)|null|
 |**2025-06-17**|**Align Your Flow: Scaling Continuous-Time Flow Map Distillation**|Amirmojtaba Sabour et.al.|[2506.14603v1](http://arxiv.org/abs/2506.14603v1)|null|
 |**2025-06-17**|**Uncertainty in AI-driven Monte Carlo simulations**|Dimitrios Tzivrailis et.al.|[2506.14594v1](http://arxiv.org/abs/2506.14594v1)|null|
