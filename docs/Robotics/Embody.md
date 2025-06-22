@@ -11,7 +11,7 @@
 |**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620v1](http://arxiv.org/abs/2506.15620v1)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
 |**2025-06-18**|**From Model to Classroom: Evaluating Generated MCQs for Portuguese with Narrative and Difficulty Concerns**|Bernardo Leite et.al.|[2506.15598v1](http://arxiv.org/abs/2506.15598v1)|null|
-|**2025-06-18**|**Engineering Supercomputing Platforms for Biomolecular Applications**|Robert Welch et.al.|[2506.15585v1](http://arxiv.org/abs/2506.15585v1)|null|
+|**2025-06-18**|**Engineering Supercomputing Platforms for Biomolecular Applications**|Robert Welch et.al.|[2506.15585v1](http://arxiv.org/abs/2506.15585v1)|[link](https://github.com/hecbiosim/benchmark-results)|
 |**2025-06-18**|**Misinformation by Omission: The Need for More Environmental Transparency in AI**|Sasha Luccioni et.al.|[2506.15572v1](http://arxiv.org/abs/2506.15572v1)|null|
 |**2025-06-18**|**Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents**|Aline Dobrovsky et.al.|[2506.15567v1](http://arxiv.org/abs/2506.15567v1)|null|
 |**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566v1](http://arxiv.org/abs/2506.15566v1)|null|
@@ -22,9 +22,9 @@
 |**2025-06-18**|**Exploiting Music Source Separation for Automatic Lyrics Transcription with Whisper**|Jaza Syed et.al.|[2506.15514v1](http://arxiv.org/abs/2506.15514v1)|null|
 |**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
 |**2025-06-18**|**Co-Creative Learning via Metropolis-Hastings Interaction between Humans and AI**|Ryota Okumura et.al.|[2506.15468v1](http://arxiv.org/abs/2506.15468v1)|null|
-|**2025-06-18**|**All is Not Lost: LLM Recovery without Checkpoints**|Nikolay Blagoev et.al.|[2506.15461v1](http://arxiv.org/abs/2506.15461v1)|null|
+|**2025-06-18**|**All is Not Lost: LLM Recovery without Checkpoints**|Nikolay Blagoev et.al.|[2506.15461v1](http://arxiv.org/abs/2506.15461v1)|[link](https://github.com/gensyn-ai/checkfree)|
 |**2025-06-18**|**Semi-supervised Graph Anomaly Detection via Robust Homophily Learning**|Guoguo Ai et.al.|[2506.15448v1](http://arxiv.org/abs/2506.15448v1)|null|
-|**2025-06-18**|**Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material**|Team Hunyuan3D et.al.|[2506.15442v1](http://arxiv.org/abs/2506.15442v1)|null|
+|**2025-06-18**|**Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material**|Team Hunyuan3D et.al.|[2506.15442v1](http://arxiv.org/abs/2506.15442v1)|[link](https://github.com/tencent-hunyuan/hunyuan3d-2.1)|
 |**2025-06-18**|**Acore-CIM: build accurate and reliable mixed-signal CIM cores with RISC-V controlled self-calibration**|Omar Numan et.al.|[2506.15440v1](http://arxiv.org/abs/2506.15440v1)|null|
 |**2025-06-18**|**Side-Channel Extraction of Dataflow AI Accelerator Hardware Parameters**|Guillaume Lomet et.al.|[2506.15432v1](http://arxiv.org/abs/2506.15432v1)|null|
 |**2025-06-18**|**Unifying VXAI: A Systematic Review and Framework for the Evaluation of Explainable AI**|David Dembinsky et.al.|[2506.15408v1](http://arxiv.org/abs/2506.15408v1)|null|
