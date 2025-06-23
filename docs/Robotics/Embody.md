@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v1](http://arxiv.org/abs/2506.15677v1)|null|
-|**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675v1](http://arxiv.org/abs/2506.15675v1)|null|
-|**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673v1](http://arxiv.org/abs/2506.15673v1)|null|
-|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645v1](http://arxiv.org/abs/2506.15645v1)|null|
-|**2025-06-18**|**The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy**|James Weichert et.al.|[2506.15639v1](http://arxiv.org/abs/2506.15639v1)|null|
-|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635v1](http://arxiv.org/abs/2506.15635v1)|null|
-|**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620v1](http://arxiv.org/abs/2506.15620v1)|null|
-|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
-|**2025-06-18**|**From Model to Classroom: Evaluating Generated MCQs for Portuguese with Narrative and Difficulty Concerns**|Bernardo Leite et.al.|[2506.15598v1](http://arxiv.org/abs/2506.15598v1)|null|
-|**2025-06-18**|**Engineering Supercomputing Platforms for Biomolecular Applications**|Robert Welch et.al.|[2506.15585v1](http://arxiv.org/abs/2506.15585v1)|[link](https://github.com/hecbiosim/benchmark-results)|
-|**2025-06-18**|**Misinformation by Omission: The Need for More Environmental Transparency in AI**|Sasha Luccioni et.al.|[2506.15572v1](http://arxiv.org/abs/2506.15572v1)|null|
-|**2025-06-18**|**Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents**|Aline Dobrovsky et.al.|[2506.15567v1](http://arxiv.org/abs/2506.15567v1)|null|
-|**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566v1](http://arxiv.org/abs/2506.15566v1)|null|
-|**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562v1](http://arxiv.org/abs/2506.15562v1)|null|
-|**2025-06-18**|**Versatile Symbolic Music-for-Music Modeling via Function Alignment**|Junyan Jiang et.al.|[2506.15548v1](http://arxiv.org/abs/2506.15548v1)|null|
-|**2025-06-18**|**Measurements of the absolute branching fractions of the doubly Cabibbo-suppressed decays $D^+\to K^+π^0$, $D^+\to K^+η$ and $D^+\to K^+η^{\prime}$**|BESIII Collaboration et.al.|[2506.15533v1](http://arxiv.org/abs/2506.15533v1)|null|
-|**2025-06-18**|**"How can we learn and use AI at the same time?:: Participatory Design of GenAI with High School Students**|Isabella Pu et.al.|[2506.15525v1](http://arxiv.org/abs/2506.15525v1)|null|
-|**2025-06-18**|**Exploiting Music Source Separation for Automatic Lyrics Transcription with Whisper**|Jaza Syed et.al.|[2506.15514v1](http://arxiv.org/abs/2506.15514v1)|null|
-|**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512v1](http://arxiv.org/abs/2506.15512v1)|null|
-|**2025-06-18**|**Co-Creative Learning via Metropolis-Hastings Interaction between Humans and AI**|Ryota Okumura et.al.|[2506.15468v1](http://arxiv.org/abs/2506.15468v1)|null|
-|**2025-06-18**|**All is Not Lost: LLM Recovery without Checkpoints**|Nikolay Blagoev et.al.|[2506.15461v1](http://arxiv.org/abs/2506.15461v1)|[link](https://github.com/gensyn-ai/checkfree)|
-|**2025-06-18**|**Semi-supervised Graph Anomaly Detection via Robust Homophily Learning**|Guoguo Ai et.al.|[2506.15448v1](http://arxiv.org/abs/2506.15448v1)|null|
-|**2025-06-18**|**Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material**|Team Hunyuan3D et.al.|[2506.15442v1](http://arxiv.org/abs/2506.15442v1)|[link](https://github.com/tencent-hunyuan/hunyuan3d-2.1)|
-|**2025-06-18**|**Acore-CIM: build accurate and reliable mixed-signal CIM cores with RISC-V controlled self-calibration**|Omar Numan et.al.|[2506.15440v1](http://arxiv.org/abs/2506.15440v1)|null|
-|**2025-06-18**|**Side-Channel Extraction of Dataflow AI Accelerator Hardware Parameters**|Guillaume Lomet et.al.|[2506.15432v1](http://arxiv.org/abs/2506.15432v1)|null|
-|**2025-06-18**|**Unifying VXAI: A Systematic Review and Framework for the Evaluation of Explainable AI**|David Dembinsky et.al.|[2506.15408v1](http://arxiv.org/abs/2506.15408v1)|null|
-|**2025-06-18**|**Efficient and Generalizable Environmental Understanding for Visual Navigation**|Ruoyu Wang et.al.|[2506.15377v1](http://arxiv.org/abs/2506.15377v1)|null|
-|**2025-06-18**|**DeVisE: Behavioral Testing of Medical Large Language Models**|Camila Zurdo Tagliabue et.al.|[2506.15339v1](http://arxiv.org/abs/2506.15339v1)|null|
-|**2025-06-18**|**Building Blocks of a User Experience Research Point of View**|Patricia Diaz et.al.|[2506.15332v1](http://arxiv.org/abs/2506.15332v1)|null|
-|**2025-06-18**|**Human-Centred AI in FinTech: Developing a User Experience (UX) Research Point of View (PoV) Playbook**|Festus Adedoyin et.al.|[2506.15325v1](http://arxiv.org/abs/2506.15325v1)|null|
+|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221v1](http://arxiv.org/abs/2506.17221v1)|null|
+|**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208v1](http://arxiv.org/abs/2506.17208v1)|null|
+|**2025-06-20**|**Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**|Jiekai Ma et.al.|[2506.17203v1](http://arxiv.org/abs/2506.17203v1)|null|
+|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196v1](http://arxiv.org/abs/2506.17196v1)|null|
+|**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188v1](http://arxiv.org/abs/2506.17188v1)|null|
+|**2025-06-20**|**A Common Pool of Privacy Problems: Legal and Technical Lessons from a Large-Scale Web-Scraped Machine Learning Dataset**|Rachel Hong et.al.|[2506.17185v1](http://arxiv.org/abs/2506.17185v1)|null|
+|**2025-06-20**|**The fundamental problem of risk prediction for individuals: health AI, uncertainty, and personalized medicine**|Lasai Barreñada et.al.|[2506.17141v1](http://arxiv.org/abs/2506.17141v1)|null|
+|**2025-06-20**|**Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI**|Botao Zhu et.al.|[2506.17130v1](http://arxiv.org/abs/2506.17130v1)|null|
+|**2025-06-20**|**Reflecting Human Values in XAI: Emotional and Reflective Benefits in Creativity Support Tools**|Samuel Rhys Cox et.al.|[2506.17116v1](http://arxiv.org/abs/2506.17116v1)|null|
+|**2025-06-20**|**Are Bias Evaluation Methods Biased ?**|Lina Berrayana et.al.|[2506.17111v1](http://arxiv.org/abs/2506.17111v1)|null|
+|**2025-06-20**|**Software Fairness Testing in Practice**|Ronnie de Souza Santos et.al.|[2506.17095v1](http://arxiv.org/abs/2506.17095v1)|null|
+|**2025-06-20**|**LLM-Based Bot Broadens the Range of Arguments in Online Discussions, Even When Transparently Disclosed as AI**|Valeria Vuk et.al.|[2506.17073v1](http://arxiv.org/abs/2506.17073v1)|null|
+|**2025-06-20**|**Critical Appraisal of Fairness Metrics in Clinical Predictive AI**|João Matos et.al.|[2506.17035v1](http://arxiv.org/abs/2506.17035v1)|null|
+|**2025-06-20**|**The Hidden Cost of an Image: Quantifying the Energy Consumption of AI Image Generation**|Giulia Bertazzini et.al.|[2506.17016v1](http://arxiv.org/abs/2506.17016v1)|null|
+|**2025-06-20**|**TeXpert: A Multi-Level Benchmark for Evaluating LaTeX Code Generation by LLMs**|Sahil Kale et.al.|[2506.16990v1](http://arxiv.org/abs/2506.16990v1)|null|
+|**2025-06-20**|**Modeling and Visualization Reasoning for Stakeholders in Education and Industry Integration Systems: Research on Structured Synthetic Dialogue Data Generation Based on NIST Standards**|Wei Meng et.al.|[2506.16952v1](http://arxiv.org/abs/2506.16952v1)|null|
+|**2025-06-20**|**SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion**|Shengpeng Wang et.al.|[2506.16936v1](http://arxiv.org/abs/2506.16936v1)|null|
+|**2025-06-20**|**AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario**|Ciro Beneduce et.al.|[2506.16898v1](http://arxiv.org/abs/2506.16898v1)|null|
+|**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893v1](http://arxiv.org/abs/2506.16893v1)|null|
+|**2025-06-20**|**Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools**|Zhiqing Wang et.al.|[2506.16874v1](http://arxiv.org/abs/2506.16874v1)|null|
+|**2025-06-20**|**Accountability of Robust and Reliable AI-Enabled Systems: A Preliminary Study and Roadmap**|Filippo Scaramuzza et.al.|[2506.16831v1](http://arxiv.org/abs/2506.16831v1)|null|
+|**2025-06-20**|**Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting**|Michał Wawer et.al.|[2506.16813v1](http://arxiv.org/abs/2506.16813v1)|null|
+|**2025-06-20**|**Transformers for Stratified Spectropolarimetric Inversion: Proof of Concept**|Ryan James Campbell et.al.|[2506.16810v1](http://arxiv.org/abs/2506.16810v1)|null|
+|**2025-06-20**|**Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation**|Riccardo Corvi et.al.|[2506.16802v1](http://arxiv.org/abs/2506.16802v1)|null|
+|**2025-06-20**|**Dependability of UAV-Based Networks and Computing Systems: A Survey**|Qingyang Zhang et.al.|[2506.16786v1](http://arxiv.org/abs/2506.16786v1)|null|
+|**2025-06-20**|**Uncertainty-Aware Variational Information Pursuit for Interpretable Medical Image Analysis**|Md Nahiduzzaman et.al.|[2506.16742v1](http://arxiv.org/abs/2506.16742v1)|null|
+|**2025-06-20**|**A Prior-Guided Joint Diffusion Model in Projection Domain for PET Tracer Conversion**|Fang Chen et.al.|[2506.16733v1](http://arxiv.org/abs/2506.16733v1)|null|
+|**2025-06-20**|**Generalizable Agent Modeling for Agent Collaboration-Competition Adaptation with Multi-Retrieval and Dynamic Generation**|Chenxu Wang et.al.|[2506.16718v1](http://arxiv.org/abs/2506.16718v1)|null|
+|**2025-06-20**|**Transition of AI Models in dependence of noise**|Thomas Seidler et.al.|[2506.16715v1](http://arxiv.org/abs/2506.16715v1)|null|
+|**2025-06-20**|**From Prompts to Constructs: A Dual-Validity Framework for LLM Research in Psychology**|Zhicheng Lin et.al.|[2506.16697v1](http://arxiv.org/abs/2506.16697v1)|null|

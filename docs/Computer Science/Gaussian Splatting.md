@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680v1](http://arxiv.org/abs/2506.15680v1)|null|
-|**2025-06-18**|**Memory-Efficient Differentially Private Training with Gradient Random Projection**|Alex Mulrooney et.al.|[2506.15588v1](http://arxiv.org/abs/2506.15588v1)|null|
-|**2025-06-18**|**A Real-time Endoscopic Image Denoising System**|Yu Xing et.al.|[2506.15395v1](http://arxiv.org/abs/2506.15395v1)|null|
-|**2025-06-18**|**The large $N$ factorization does not hold for arbitrary multi-trace observables in random tensors**|Razvan Gurau et.al.|[2506.15362v1](http://arxiv.org/abs/2506.15362v1)|null|
-|**2025-06-18**|**Stochastic Diagonal Estimation Based on Matrix Quadratic Form Oracles**|Haishan Ye et.al.|[2506.15360v1](http://arxiv.org/abs/2506.15360v1)|null|
-|**2025-06-18**|**When and How Unlabeled Data Provably Improve In-Context Learning**|Yingcong Li et.al.|[2506.15329v1](http://arxiv.org/abs/2506.15329v1)|null|
-|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242v1](http://arxiv.org/abs/2506.15242v1)|null|
-|**2025-06-18**|**A toy model for frequency cascade in the nonlinear Schrodinger equation**|Rémi Carles et.al.|[2506.15226v1](http://arxiv.org/abs/2506.15226v1)|null|
-|**2025-06-18**|**ImprovDML: Improved Trade-off in Private Byzantine-Resilient Distributed Machine Learning**|Bing Liu et.al.|[2506.15181v1](http://arxiv.org/abs/2506.15181v1)|null|
-|**2025-06-18**|**Multiwavelength study of observed and predicted pulsation properties of First overtone Cepheids in the Magellanic Clouds**|Kerdaris Kurbah et.al.|[2506.15171v1](http://arxiv.org/abs/2506.15171v1)|null|
-|**2025-06-18**|**Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**|Abdur Rahman et.al.|[2506.15166v1](http://arxiv.org/abs/2506.15166v1)|null|
-|**2025-06-18**|**SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts**|Yufei Liu et.al.|[2506.15153v1](http://arxiv.org/abs/2506.15153v1)|null|
-|**2025-06-18**|**Helical Electron Beam Micro-Bunching by High-Order Modes in a Micro-Plasma Waveguide**|Xinju Guo et.al.|[2506.15094v1](http://arxiv.org/abs/2506.15094v1)|null|
-|**2025-06-18**|**CWGAN-GP Augmented CAE for Jamming Detection in 5G-NR in Non-IID Datasets**|Samhita Kuili et.al.|[2506.15075v1](http://arxiv.org/abs/2506.15075v1)|null|
-|**2025-06-17**|**An Observation on Lloyd's k-Means Algorithm in High Dimensions**|David Silva-Sánchez et.al.|[2506.14952v1](http://arxiv.org/abs/2506.14952v1)|null|
-|**2025-06-17**|**Digital twin for virtual sensing of ferry quays via a Gaussian Process Latent Force Model**|Luigi Sibille et.al.|[2506.14925v1](http://arxiv.org/abs/2506.14925v1)|null|
-|**2025-06-17**|**JADES and BlackTHUNDER: rest-frame Balmer-line absorption and the local environment in a Little Red Dot at z = 5**|Francesco D'Eugenio et.al.|[2506.14870v1](http://arxiv.org/abs/2506.14870v1)|null|
-|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742v1](http://arxiv.org/abs/2506.14742v1)|null|
-|**2025-06-17**|**Dynamically Dressed States of a Quantum Four-Level System**|Carolin Calcagno et.al.|[2506.14643v1](http://arxiv.org/abs/2506.14643v1)|null|
-|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642v1](http://arxiv.org/abs/2506.14642v1)|null|
-|**2025-06-17**|**Non-Gaussian state preparation and enhancement using weak-value amplification**|Xiao-Xi Yao et.al.|[2506.14632v1](http://arxiv.org/abs/2506.14632v1)|null|
-|**2025-06-17**|**Differential Privacy and Survey Sampling**|Daniel Bernard Bonnéry et.al.|[2506.14620v1](http://arxiv.org/abs/2506.14620v1)|null|
-|**2025-06-17**|**Mutual effect of charge- and number-density correlations in ionic liquids and concentrated electrolytes**|O. Patsahan et.al.|[2506.14604v1](http://arxiv.org/abs/2506.14604v1)|null|
-|**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597v1](http://arxiv.org/abs/2506.14597v1)|null|
-|**2025-06-17**|**Quantum-assisted tracer dispersion in turbulent shear flow**|Julia Ingelmann et.al.|[2506.14586v1](http://arxiv.org/abs/2506.14586v1)|null|
-|**2025-06-17**|**The Effect of Photometric Errors on the Measured Width of the Main Sequence in Star Clusters**|Steven R. Spangler et.al.|[2506.14585v1](http://arxiv.org/abs/2506.14585v1)|null|
-|**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563v1](http://arxiv.org/abs/2506.14563v1)|null|
-|**2025-06-17**|**Environmental extreme risk modeling via sub-sampling block maxima**|Tuoyuan Cheng et.al.|[2506.14556v1](http://arxiv.org/abs/2506.14556v1)|null|
-|**2025-06-17**|**Translation symmetry restoration in integrable systems: the noninteracting case**|Molly Gibbins et.al.|[2506.14555v1](http://arxiv.org/abs/2506.14555v1)|null|
-|**2025-06-17**|**From Attraction to Repulsion: Emergent Interactions in Harmonically Coupled Active Binary System**|Ritwick Sarkar et.al.|[2506.14484v1](http://arxiv.org/abs/2506.14484v1)|null|
+|**2025-06-20**|**Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212v1](http://arxiv.org/abs/2506.17212v1)|null|
+|**2025-06-20**|**Optimal Implicit Bias in Linear Regression**|Kanumuri Nithin Varma et.al.|[2506.17187v1](http://arxiv.org/abs/2506.17187v1)|null|
+|**2025-06-20**|**Scaling limits for sample autocovariance operators of Hilbert space-valued linear processes**|Marie-Christine Düker et.al.|[2506.17168v1](http://arxiv.org/abs/2506.17168v1)|null|
+|**2025-06-20**|**Structured Harmonic Generation via Geometric Phase Enabled Pump Shaping**|Ting-Ting Liu et.al.|[2506.17167v1](http://arxiv.org/abs/2506.17167v1)|null|
+|**2025-06-20**|**Profile monitoring of random functions with Gaussian process basis expansions**|Takayuki Iguchi et.al.|[2506.17153v1](http://arxiv.org/abs/2506.17153v1)|null|
+|**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065v1](http://arxiv.org/abs/2506.17065v1)|null|
+|**2025-06-20**|**Bayesian Joint Model of Multi-Sensor and Failure Event Data for Multi-Mode Failure Prediction**|Sina Aghaee Dabaghan Fard et.al.|[2506.17036v1](http://arxiv.org/abs/2506.17036v1)|null|
+|**2025-06-20**|**Low-Complexity Receiver Design for Affine Filter Bank Modulation**|Kuranage Roche Rayan Ranasinghe et.al.|[2506.17010v1](http://arxiv.org/abs/2506.17010v1)|null|
+|**2025-06-20**|**RocketStack: A level-aware deep recursive ensemble learning framework with exploratory feature fusion and model pruning dynamics**|Çağatay Demirel et.al.|[2506.16965v1](http://arxiv.org/abs/2506.16965v1)|null|
+|**2025-06-20**|**Anomaly Detection in Event-triggered Traffic Time Series via Similarity Learning**|Shaoyu Dou et.al.|[2506.16855v1](http://arxiv.org/abs/2506.16855v1)|null|
+|**2025-06-20**|**Radiochromic Film Dosimetry for VHEE and UHDR: Considerations for the CLEAR Facility and Comparisons with Alanine, RPL and Dosimetry Phantoms**|V. F. Rieker et.al.|[2506.16837v1](http://arxiv.org/abs/2506.16837v1)|null|
+|**2025-06-20**|**Beyond Blur: A Fluid Perspective on Generative Diffusion Models**|Grzegorz Gruszczynski et.al.|[2506.16827v1](http://arxiv.org/abs/2506.16827v1)|null|
+|**2025-06-20**|**Robust Group Anomaly Detection for Quasi-Periodic Network Time Series**|Kai Yang et.al.|[2506.16815v1](http://arxiv.org/abs/2506.16815v1)|null|
+|**2025-06-20**|**Mean-field and Monte Carlo Analysis of Multi-Species Dynamics of agents**|Eduardo Velasco Stock et.al.|[2506.16717v1](http://arxiv.org/abs/2506.16717v1)|null|
+|**2025-06-20**|**The Vela pulsar and its pulsar wind nebula Vela-X using 13 years of Fermi-LAT Observations**|Alexander Lange et.al.|[2506.16687v1](http://arxiv.org/abs/2506.16687v1)|null|
+|**2025-06-20**|**Bounded Distance Decoding for Random Lattices**|Shuhong Gao et.al.|[2506.16662v1](http://arxiv.org/abs/2506.16662v1)|null|
+|**2025-06-20**|**Private Training & Data Generation by Clustering Embeddings**|Felix Zhou et.al.|[2506.16661v1](http://arxiv.org/abs/2506.16661v1)|null|
+|**2025-06-20**|**Multi-Armed Bandits With Machine Learning-Generated Surrogate Rewards**|Wenlong Ji et.al.|[2506.16658v1](http://arxiv.org/abs/2506.16658v1)|null|
+|**2025-06-19**|**FlatCAD: Fast Curvature Regularization of Neural SDFs for CAD Models**|Haotian Yin et.al.|[2506.16627v1](http://arxiv.org/abs/2506.16627v1)|null|
+|**2025-06-19**|**VesselSDF: Distance Field Priors for Vascular Network Reconstruction**|Salvatore Esposito et.al.|[2506.16556v1](http://arxiv.org/abs/2506.16556v1)|null|
+|**2025-06-19**|**Joint Tensor-Train Parameterization for Efficient and Expressive Low-Rank Adaptation**|Jun Qi et.al.|[2506.16456v1](http://arxiv.org/abs/2506.16456v1)|null|
+|**2025-06-19**|**Covariance Decomposition for Distance Based Species Tree Estimation**|Georgios Aliatimis et.al.|[2506.16425v1](http://arxiv.org/abs/2506.16425v1)|null|
+|**2025-06-19**|**Bayesian Optimization over Bounded Domains with the Beta Product Kernel**|Huy Hoang Nguyen et.al.|[2506.16316v1](http://arxiv.org/abs/2506.16316v1)|null|
+|**2025-06-19**|**Effect of linear and nonlinear coupling processes on correlation properties of bosonic modes**|Jakub Bembenek et.al.|[2506.16300v1](http://arxiv.org/abs/2506.16300v1)|null|
+|**2025-06-19**|**The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units**|Oswaldo Ludwig et.al.|[2506.16289v1](http://arxiv.org/abs/2506.16289v1)|null|
+|**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262v1](http://arxiv.org/abs/2506.16262v1)|null|
+|**2025-06-19**|**Full-stack Analog Optical Quantum Computer with A Hundred Inputs**|Shota Yokoyama et.al.|[2506.16147v1](http://arxiv.org/abs/2506.16147v1)|null|
+|**2025-06-19**|**Dirichlet $L$-functions on the Critical Line**|Sami Vihko et.al.|[2506.16115v1](http://arxiv.org/abs/2506.16115v1)|null|
+|**2025-06-19**|**End-to-End Learning of Probabilistic Constellation Shaping through Importance Sampling**|Shrinivas Chimmalgi et.al.|[2506.16098v1](http://arxiv.org/abs/2506.16098v1)|null|
+|**2025-06-19**|**Noise Fusion-based Distillation Learning for Anomaly Detection in Complex Industrial Environments**|Jiawen Yu et.al.|[2506.16050v1](http://arxiv.org/abs/2506.16050v1)|null|
