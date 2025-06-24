@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-20**|**Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212v1](http://arxiv.org/abs/2506.17212v1)|null|
-|**2025-06-20**|**Optimal Implicit Bias in Linear Regression**|Kanumuri Nithin Varma et.al.|[2506.17187v1](http://arxiv.org/abs/2506.17187v1)|null|
-|**2025-06-20**|**Scaling limits for sample autocovariance operators of Hilbert space-valued linear processes**|Marie-Christine Düker et.al.|[2506.17168v1](http://arxiv.org/abs/2506.17168v1)|null|
-|**2025-06-20**|**Structured Harmonic Generation via Geometric Phase Enabled Pump Shaping**|Ting-Ting Liu et.al.|[2506.17167v1](http://arxiv.org/abs/2506.17167v1)|null|
-|**2025-06-20**|**Profile monitoring of random functions with Gaussian process basis expansions**|Takayuki Iguchi et.al.|[2506.17153v1](http://arxiv.org/abs/2506.17153v1)|null|
-|**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065v1](http://arxiv.org/abs/2506.17065v1)|null|
-|**2025-06-20**|**Bayesian Joint Model of Multi-Sensor and Failure Event Data for Multi-Mode Failure Prediction**|Sina Aghaee Dabaghan Fard et.al.|[2506.17036v1](http://arxiv.org/abs/2506.17036v1)|null|
-|**2025-06-20**|**Low-Complexity Receiver Design for Affine Filter Bank Modulation**|Kuranage Roche Rayan Ranasinghe et.al.|[2506.17010v1](http://arxiv.org/abs/2506.17010v1)|null|
-|**2025-06-20**|**RocketStack: A level-aware deep recursive ensemble learning framework with exploratory feature fusion and model pruning dynamics**|Çağatay Demirel et.al.|[2506.16965v1](http://arxiv.org/abs/2506.16965v1)|null|
-|**2025-06-20**|**Anomaly Detection in Event-triggered Traffic Time Series via Similarity Learning**|Shaoyu Dou et.al.|[2506.16855v1](http://arxiv.org/abs/2506.16855v1)|null|
-|**2025-06-20**|**Radiochromic Film Dosimetry for VHEE and UHDR: Considerations for the CLEAR Facility and Comparisons with Alanine, RPL and Dosimetry Phantoms**|V. F. Rieker et.al.|[2506.16837v1](http://arxiv.org/abs/2506.16837v1)|null|
-|**2025-06-20**|**Beyond Blur: A Fluid Perspective on Generative Diffusion Models**|Grzegorz Gruszczynski et.al.|[2506.16827v1](http://arxiv.org/abs/2506.16827v1)|null|
-|**2025-06-20**|**Robust Group Anomaly Detection for Quasi-Periodic Network Time Series**|Kai Yang et.al.|[2506.16815v1](http://arxiv.org/abs/2506.16815v1)|null|
-|**2025-06-20**|**Mean-field and Monte Carlo Analysis of Multi-Species Dynamics of agents**|Eduardo Velasco Stock et.al.|[2506.16717v1](http://arxiv.org/abs/2506.16717v1)|null|
-|**2025-06-20**|**The Vela pulsar and its pulsar wind nebula Vela-X using 13 years of Fermi-LAT Observations**|Alexander Lange et.al.|[2506.16687v1](http://arxiv.org/abs/2506.16687v1)|null|
-|**2025-06-20**|**Bounded Distance Decoding for Random Lattices**|Shuhong Gao et.al.|[2506.16662v1](http://arxiv.org/abs/2506.16662v1)|null|
-|**2025-06-20**|**Private Training & Data Generation by Clustering Embeddings**|Felix Zhou et.al.|[2506.16661v1](http://arxiv.org/abs/2506.16661v1)|null|
-|**2025-06-20**|**Multi-Armed Bandits With Machine Learning-Generated Surrogate Rewards**|Wenlong Ji et.al.|[2506.16658v1](http://arxiv.org/abs/2506.16658v1)|null|
-|**2025-06-19**|**FlatCAD: Fast Curvature Regularization of Neural SDFs for CAD Models**|Haotian Yin et.al.|[2506.16627v1](http://arxiv.org/abs/2506.16627v1)|null|
-|**2025-06-19**|**VesselSDF: Distance Field Priors for Vascular Network Reconstruction**|Salvatore Esposito et.al.|[2506.16556v1](http://arxiv.org/abs/2506.16556v1)|null|
-|**2025-06-19**|**Joint Tensor-Train Parameterization for Efficient and Expressive Low-Rank Adaptation**|Jun Qi et.al.|[2506.16456v1](http://arxiv.org/abs/2506.16456v1)|null|
-|**2025-06-19**|**Covariance Decomposition for Distance Based Species Tree Estimation**|Georgios Aliatimis et.al.|[2506.16425v1](http://arxiv.org/abs/2506.16425v1)|null|
-|**2025-06-19**|**Bayesian Optimization over Bounded Domains with the Beta Product Kernel**|Huy Hoang Nguyen et.al.|[2506.16316v1](http://arxiv.org/abs/2506.16316v1)|null|
-|**2025-06-19**|**Effect of linear and nonlinear coupling processes on correlation properties of bosonic modes**|Jakub Bembenek et.al.|[2506.16300v1](http://arxiv.org/abs/2506.16300v1)|null|
-|**2025-06-19**|**The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units**|Oswaldo Ludwig et.al.|[2506.16289v1](http://arxiv.org/abs/2506.16289v1)|null|
-|**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262v1](http://arxiv.org/abs/2506.16262v1)|null|
-|**2025-06-19**|**Full-stack Analog Optical Quantum Computer with A Hundred Inputs**|Shota Yokoyama et.al.|[2506.16147v1](http://arxiv.org/abs/2506.16147v1)|null|
-|**2025-06-19**|**Dirichlet $L$-functions on the Critical Line**|Sami Vihko et.al.|[2506.16115v1](http://arxiv.org/abs/2506.16115v1)|null|
-|**2025-06-19**|**End-to-End Learning of Probabilistic Constellation Shaping through Importance Sampling**|Shrinivas Chimmalgi et.al.|[2506.16098v1](http://arxiv.org/abs/2506.16098v1)|null|
-|**2025-06-19**|**Noise Fusion-based Distillation Learning for Anomaly Detection in Complex Industrial Environments**|Jiawen Yu et.al.|[2506.16050v1](http://arxiv.org/abs/2506.16050v1)|null|
+|**2025-06-23**|**4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time**|Ziqiao Ma et.al.|[2506.18890v1](http://arxiv.org/abs/2506.18890v1)|null|
+|**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885v1](http://arxiv.org/abs/2506.18885v1)|null|
+|**2025-06-23**|**Broad Validity of the First-Order Approach in Moral Hazard**|Eduardo Azevedo et.al.|[2506.18873v1](http://arxiv.org/abs/2506.18873v1)|null|
+|**2025-06-23**|**Bayesian decomposition using Besov priors**|Andreas Horst et.al.|[2506.18846v1](http://arxiv.org/abs/2506.18846v1)|null|
+|**2025-06-23**|**Role of bubble positioning in force induced melting of DNA**|Bidisha Mukherjee et.al.|[2506.18821v1](http://arxiv.org/abs/2506.18821v1)|null|
+|**2025-06-23**|**An Ejection Event Captured by VLBI During the Outburst of Swift J1727.8$-$1613**|Hongmin Cao et.al.|[2506.18817v1](http://arxiv.org/abs/2506.18817v1)|null|
+|**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792v1](http://arxiv.org/abs/2506.18792v1)|null|
+|**2025-06-23**|**3D Arena: An Open Platform for Generative 3D Evaluation**|Dylan Ebert et.al.|[2506.18787v1](http://arxiv.org/abs/2506.18787v1)|null|
+|**2025-06-23**|**Local Averaging Accurately Distills Manifold Structure From Noisy Data**|Yihan Shen et.al.|[2506.18761v1](http://arxiv.org/abs/2506.18761v1)|null|
+|**2025-06-23**|**Reconstructing Tornadoes in 3D with Gaussian Splatting**|Adam Yang et.al.|[2506.18677v1](http://arxiv.org/abs/2506.18677v1)|null|
+|**2025-06-23**|**Asymptotic Expansions of Gaussian and Laguerre Ensembles at the Soft Edge III: Generating Functions**|Folkmar Bornemann et.al.|[2506.18673v1](http://arxiv.org/abs/2506.18673v1)|null|
+|**2025-06-23**|**Semi-discrete heat equations with variable coefficients and the parametrix method**|Ulrik S. Fjordholm et.al.|[2506.18649v1](http://arxiv.org/abs/2506.18649v1)|null|
+|**2025-06-23**|**Tight Generalization Error Bounds for Stochastic Gradient Descent in Non-convex Learning**|Wenjun Xiong et.al.|[2506.18645v1](http://arxiv.org/abs/2506.18645v1)|null|
+|**2025-06-23**|**A Selection of Distributions and Their Fourier Transforms with Applications in Magnetic Resonance Imaging**|Kaibo Tang et.al.|[2506.18638v1](http://arxiv.org/abs/2506.18638v1)|null|
+|**2025-06-23**|**Trustworthy Prediction with Gaussian Process Knowledge Scores**|Kurt Butler et.al.|[2506.18630v1](http://arxiv.org/abs/2506.18630v1)|null|
+|**2025-06-23**|**A Simple but Accurate Approximation for Multivariate Gaussian Rate-Distortion Function and Its Application in Maximal Coding Rate Reduction**|Zhenglin Huang et.al.|[2506.18613v1](http://arxiv.org/abs/2506.18613v1)|null|
+|**2025-06-23**|**BulletGen: Improving 4D Reconstruction with Bullet-Time Generation**|Denys Rozumnyi et.al.|[2506.18601v1](http://arxiv.org/abs/2506.18601v1)|null|
+|**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575v1](http://arxiv.org/abs/2506.18575v1)|null|
+|**2025-06-23**|**Cosmic Sign-Reversal: Non-Parametric Reconstruction of Interacting Dark Energy with DESI DR2**|Yun-He Li et.al.|[2506.18477v1](http://arxiv.org/abs/2506.18477v1)|null|
+|**2025-06-23**|**Certification of high stellar ranks of quantum states of light with a pair of click detectors**|Jaromír Fiurášek et.al.|[2506.18391v1](http://arxiv.org/abs/2506.18391v1)|null|
+|**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v1](http://arxiv.org/abs/2506.18368v1)|null|
+|**2025-06-23**|**Exact Conditional Score-Guided Generative Modeling for Amortized Inference in Uncertainty Quantification**|Zezhong Zhang et.al.|[2506.18227v1](http://arxiv.org/abs/2506.18227v1)|null|
+|**2025-06-22**|**Probabilistic and reinforced mining of association rules**|Yongchao Huang et.al.|[2506.18155v1](http://arxiv.org/abs/2506.18155v1)|null|
+|**2025-06-22**|**Six Decades Post-Discovery of Taylor's Power Law: From Ecological and Statistical Universality, Through Prime Number Distributions and Tipping-Point Signals, to Heterogeneity and Stability of Complex Networks**|Zhanshan et.al.|[2506.18154v1](http://arxiv.org/abs/2506.18154v1)|null|
+|**2025-06-22**|**Self-Interacting Dark-Matter Spikes and the Final-Parsec Problem: Bayesian constraints from the NANOGrav 15-Year Gravitational-Wave Background**|Shreyas Tiruvaskar et.al.|[2506.18153v1](http://arxiv.org/abs/2506.18153v1)|null|
+|**2025-06-22**|**Noise-induced quantum synchronization of spin chain with periodic boundary**|Zhan-Ting Zhang et.al.|[2506.18064v1](http://arxiv.org/abs/2506.18064v1)|null|
+|**2025-06-22**|**Cosmic Distance Duality Relation with DESI DR2 and Transparency**|Xuwei Zhang et.al.|[2506.17926v1](http://arxiv.org/abs/2506.17926v1)|null|
+|**2025-06-21**|**A Comparative Study of Open-Source Libraries for Synthetic Tabular Data Generation: SDV vs. SynthCity**|Cristian Del Gobbo et.al.|[2506.17847v1](http://arxiv.org/abs/2506.17847v1)|null|
+|**2025-06-21**|**The dominant role of jetting in micron- and sub-micron sea spray produced by bubble bursting: a revised model and comparison with measurements**|Alfonso M. Ganan-Calvo et.al.|[2506.17836v1](http://arxiv.org/abs/2506.17836v1)|null|
+|**2025-06-21**|**RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models**|Jacky Kwok et.al.|[2506.17811v1](http://arxiv.org/abs/2506.17811v1)|null|
