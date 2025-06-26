@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-25**|**A High-Dimensional Statistical Theory for Convex and Nonconvex Matrix Sensing**|Joshua Agterberg et.al.|[2506.20659v1](http://arxiv.org/abs/2506.20659v1)|null|
+|**2025-06-25**|**Consequences of Non-Gaussian Instrumental Noise in Perturbed Nulling Interferometers**|Felix A. Dannert et.al.|[2506.20653v1](http://arxiv.org/abs/2506.20653v1)|null|
+|**2025-06-25**|**rd-spiral: An open-source Python library for learning 2D reaction-diffusion dynamics through pseudo-spectral method**|Sandy H. S. Herho et.al.|[2506.20633v1](http://arxiv.org/abs/2506.20633v1)|[link](https://github.com/sandyherho/rd_spiral)|
+|**2025-06-25**|**Quantum sensing of displacements with stabilized GKP states**|Lautaro Labarca et.al.|[2506.20627v1](http://arxiv.org/abs/2506.20627v1)|null|
+|**2025-06-25**|**Speeding up thermalization and quantum state preparation through engineered quantum collisions**|Sofia Sgroi et.al.|[2506.20625v1](http://arxiv.org/abs/2506.20625v1)|null|
+|**2025-06-25**|**DeepQuark: deep-neural-network approach to multiquark bound states**|Wei-Lin Wu et.al.|[2506.20555v1](http://arxiv.org/abs/2506.20555v1)|null|
+|**2025-06-25**|**Pivot probabilities and norm effects in Gaussian elimination for $β$-ensembles**|Kenji Gunawan et.al.|[2506.20470v1](http://arxiv.org/abs/2506.20470v1)|null|
+|**2025-06-25**|**Confining kinks. $ζ$-regularized one-loop kink mass shifts in exotic field theories**|Luis Inzunza et.al.|[2506.20440v1](http://arxiv.org/abs/2506.20440v1)|null|
+|**2025-06-25**|**Modular Surfaces in Lorentz-Minkowski 3-Space: Curvature and Applications**|Siddharth Panigrahi et.al.|[2506.20397v1](http://arxiv.org/abs/2506.20397v1)|null|
+|**2025-06-25**|**Mixing of Gaussian Solute Plumes**|Daniel Lester et.al.|[2506.20387v1](http://arxiv.org/abs/2506.20387v1)|null|
+|**2025-06-25**|**Transformer Based Multi-Target Bernoulli Tracking for Maritime Radar**|Caden Sweeney et.al.|[2506.20319v1](http://arxiv.org/abs/2506.20319v1)|null|
+|**2025-06-25**|**Computed tomography of propagating microwave photons**|Qi-Ming Chen et.al.|[2506.20318v1](http://arxiv.org/abs/2506.20318v1)|null|
+|**2025-06-25**|**Ctrl-Z Sampling: Diffusion Sampling with Controlled Random Zigzag Explorations**|Shunqi Mao et.al.|[2506.20294v1](http://arxiv.org/abs/2506.20294v1)|null|
+|**2025-06-25**|**RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer**|Da Li et.al.|[2506.20202v1](http://arxiv.org/abs/2506.20202v1)|null|
+|**2025-06-25**|**Causal discovery in deterministic discrete LTI-DAE systems**|Bala Rajesh Konkathi et.al.|[2506.20169v1](http://arxiv.org/abs/2506.20169v1)|null|
+|**2025-06-25**|**Parabolic Anderson Model in the Hyperbolic Space. Part II: Quenched Asymptotics**|Xi Geng et.al.|[2506.20147v1](http://arxiv.org/abs/2506.20147v1)|null|
+|**2025-06-25**|**Parabolic Anderson Model in the Hyperbolic Space. Part I: Annealed Asymptotics**|Xi Geng et.al.|[2506.20146v1](http://arxiv.org/abs/2506.20146v1)|null|
+|**2025-06-25**|**Modifications of the BIC for order selection in finite mixture models**|Hien Duy Nguyen et.al.|[2506.20124v1](http://arxiv.org/abs/2506.20124v1)|null|
+|**2025-06-25**|**The unusual spectrum of the X-ray transient source XRISM J174610.8-290021 near the Galactic center**|A. Yoshimoto et.al.|[2506.20088v1](http://arxiv.org/abs/2506.20088v1)|null|
+|**2025-06-25**|**Photon Absorption Remote Sensing (PARS): Comprehensive Absorption Imaging Enabling Label-Free Biomolecule Characterization and Mapping**|Benjamin R. Ecclestone et.al.|[2506.20069v1](http://arxiv.org/abs/2506.20069v1)|null|
+|**2025-06-24**|**EBC-ZIP: Improving Blockwise Crowd Counting with Zero-Inflated Poisson Regression**|Yiming Ma et.al.|[2506.19955v1](http://arxiv.org/abs/2506.19955v1)|null|
+|**2025-06-24**|**Strong convergence to operator-valued semicirculars**|David Jekel et.al.|[2506.19940v1](http://arxiv.org/abs/2506.19940v1)|null|
+|**2025-06-24**|**The HST-Gaia Near-Infrared Astrometric Reference Frame near the Milky Way Galactic Center**|Matthew W. Hosek Jr. et.al.|[2506.19933v1](http://arxiv.org/abs/2506.19933v1)|null|
+|**2025-06-24**|**Direct reconstruction of the Reionization history from 21cm 2D Power Spectra**|Yannic Pietschke et.al.|[2506.19925v1](http://arxiv.org/abs/2506.19925v1)|null|
 |**2025-06-24**|**ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model**|Tengbo Yu et.al.|[2506.19842v1](http://arxiv.org/abs/2506.19842v1)|null|
 |**2025-06-24**|**Convergence of Mean Shift Algorithms for Large Bandwidths and Simultaneous Accurate Clustering**|Susovan Pal et.al.|[2506.19837v1](http://arxiv.org/abs/2506.19837v1)|null|
 |**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811v1](http://arxiv.org/abs/2506.19811v1)|null|
 |**2025-06-24**|**Krylov and core transformation algorithms for an inverse eigenvalue problem to compute recurrences of multiple orthogonal polynomials**|Amin Faghih et.al.|[2506.19796v1](http://arxiv.org/abs/2506.19796v1)|null|
 |**2025-06-24**|**The Voronoi Spherical CDF for Lattices and Linear Codes: New Bounds for Quantization and Coding**|Or Ordentlich et.al.|[2506.19791v1](http://arxiv.org/abs/2506.19791v1)|null|
 |**2025-06-24**|**Multiband analysis of the O'Connell effect in 14 eclipsing binaries**|D. Flores Cabrera et.al.|[2506.19754v1](http://arxiv.org/abs/2506.19754v1)|null|
-|**2025-06-24**|**Geometric-Aware Variational Inference: Robust and Adaptive Regularization with Directional Weight Uncertainty**|Carlos Stein Brito et.al.|[2506.19726v1](http://arxiv.org/abs/2506.19726v1)|null|
-|**2025-06-24**|**Estimating Spatially-Dependent GPS Errors Using a Swarm of Robots**|Praneeth Somisetty et.al.|[2506.19712v1](http://arxiv.org/abs/2506.19712v1)|null|
-|**2025-06-24**|**Enhanced Image Recognition Using Gaussian Boson Sampling**|Si-Qiu Gong et.al.|[2506.19707v1](http://arxiv.org/abs/2506.19707v1)|null|
-|**2025-06-24**|**Characterizing quantum resourcefulness via group-Fourier decompositions**|Pablo Bermejo et.al.|[2506.19696v1](http://arxiv.org/abs/2506.19696v1)|null|
-|**2025-06-24**|**Near-optimal estimates for the $\ell^p$-Lipschitz constants of deep random ReLU neural networks**|Sjoerd Dirksen et.al.|[2506.19695v1](http://arxiv.org/abs/2506.19695v1)|null|
-|**2025-06-24**|**Power-law Emission-line Wings and Radiation-Driven Superwinds in Local Lyman Continuum Emitters**|Lena Komarova et.al.|[2506.19623v1](http://arxiv.org/abs/2506.19623v1)|null|
-|**2025-06-24**|**The vertical structure of the stellar disk in NGC 551**|Harshal Raut et.al.|[2506.19551v1](http://arxiv.org/abs/2506.19551v1)|null|
-|**2025-06-24**|**Long-term atomistic finite-temperature substitutional diffusion**|Shashank Saxena et.al.|[2506.19543v1](http://arxiv.org/abs/2506.19543v1)|null|
-|**2025-06-24**|**Scalable entangling gates on ion qubits via structured light addressing**|Xueying Mai et.al.|[2506.19535v1](http://arxiv.org/abs/2506.19535v1)|null|
-|**2025-06-24**|**Mass spectra of doubly heavy baryons in the relativized quark model with heavy-quark dominance**|Zhen-Yu Li et.al.|[2506.19504v1](http://arxiv.org/abs/2506.19504v1)|null|
-|**2025-06-24**|**Virtual Memory for 3D Gaussian Splatting**|Jonathan Haberl et.al.|[2506.19415v1](http://arxiv.org/abs/2506.19415v1)|null|
-|**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291v1](http://arxiv.org/abs/2506.19291v1)|null|
-|**2025-06-24**|**Continuous-variable Quantum Diffusion Model for State Generation and Restoration**|Haitao Huang et.al.|[2506.19270v1](http://arxiv.org/abs/2506.19270v1)|null|
-|**2025-06-24**|**Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network**|Xinke Ma et.al.|[2506.19222v1](http://arxiv.org/abs/2506.19222v1)|null|
-|**2025-06-24**|**Private Model Personalization Revisited**|Conor Snedeker et.al.|[2506.19220v1](http://arxiv.org/abs/2506.19220v1)|null|
-|**2025-06-23**|**Bispectrum Islands**|Claudia de Rham et.al.|[2506.19198v1](http://arxiv.org/abs/2506.19198v1)|null|
-|**2025-06-23**|**Optimized auxiliary functions for robust mitigation of finite-size errors in periodic hybrid density functional theory**|Stephen Jon Quiton et.al.|[2506.19157v1](http://arxiv.org/abs/2506.19157v1)|null|
-|**2025-06-23**|**SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction**|Lukas Radl et.al.|[2506.19139v1](http://arxiv.org/abs/2506.19139v1)|null|
-|**2025-06-23**|**Local Learning Rules for Out-of-Equilibrium Physical Generative Models**|Cyrill Bösch et.al.|[2506.19136v1](http://arxiv.org/abs/2506.19136v1)|null|
-|**2025-06-23**|**Spin-dependent terms of the Breit-Pauli Hamiltonian evaluated with explicitly correlated Gaussian basis set for molecular computations**|Péter Jeszenszki et.al.|[2506.19131v1](http://arxiv.org/abs/2506.19131v1)|null|
-|**2025-06-23**|**Constraining exotic high-$z$ reionization histories with Gaussian processes and the cosmic microwave background**|Hanyu Cheng et.al.|[2506.19096v1](http://arxiv.org/abs/2506.19096v1)|null|
-|**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077v1](http://arxiv.org/abs/2506.19077v1)|null|
-|**2025-06-23**|**Euclid: An emulator for baryonic effects on the matter bispectrum**|P. A. Burger et.al.|[2506.18974v1](http://arxiv.org/abs/2506.18974v1)|null|
-|**2025-06-23**|**4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time**|Ziqiao Ma et.al.|[2506.18890v1](http://arxiv.org/abs/2506.18890v1)|null|
