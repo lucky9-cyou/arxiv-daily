@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
-|**2025-06-27**|**QCD sum rule analysis of $J^{PC}=1^{--}$ light hybrid mesons**|Shuang-Hong Li et.al.|[2506.22412v1](http://arxiv.org/abs/2506.22412v1)|null|
-|**2025-06-27**|**A General Test for Independent and Identically Distributed Hypothesis**|Tongyu Li et.al.|[2506.22361v1](http://arxiv.org/abs/2506.22361v1)|null|
-|**2025-06-27**|**Manifold-Constrained Gaussian Processes for Inference of Mixed-effects Ordinary Differential Equations with Application to Pharmacokinetics**|Yuxuan Zhao et.al.|[2506.22313v1](http://arxiv.org/abs/2506.22313v1)|null|
-|**2025-06-27**|**Trainability of Parametrised Linear Combinations of Unitaries**|Nikhil Khatri et.al.|[2506.22310v1](http://arxiv.org/abs/2506.22310v1)|null|
-|**2025-06-27**|**Correcting astigmatism and ellipticity in Gaussian beams using a cylindrical lens pair with tunable focal lengths**|Soroush Khoubyarian et.al.|[2506.22308v1](http://arxiv.org/abs/2506.22308v1)|null|
-|**2025-06-27**|**Daemonic ergotropy of Gaussian quantum states and the role of measurement-induced purification via general-dyne detection**|K. H. Kua et.al.|[2506.22288v1](http://arxiv.org/abs/2506.22288v1)|null|
-|**2025-06-27**|**DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model**|Yuliang Huang et.al.|[2506.22280v1](http://arxiv.org/abs/2506.22280v1)|null|
-|**2025-06-27**|**Requirements on bandpass resolution and measurement precision for LiteBIRD**|S. Giardiello et.al.|[2506.22217v1](http://arxiv.org/abs/2506.22217v1)|null|
-|**2025-06-27**|**Brownian motion, bridges and Bayesian inference in phylogenetic tree space**|William M. Woodman et.al.|[2506.22135v1](http://arxiv.org/abs/2506.22135v1)|null|
-|**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[2506.22099v1](http://arxiv.org/abs/2506.22099v1)|null|
-|**2025-06-27**|**The Condition Number in Phase Retrieval from Intensity Measurements**|Haiyang Peng et.al.|[2506.22053v1](http://arxiv.org/abs/2506.22053v1)|null|
-|**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044v1](http://arxiv.org/abs/2506.22044v1)|null|
-|**2025-06-27**|**Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**|Qi Gao et.al.|[2506.22012v1](http://arxiv.org/abs/2506.22012v1)|null|
-|**2025-06-27**|**TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments**|Sheng Yun et.al.|[2506.21900v1](http://arxiv.org/abs/2506.21900v1)|null|
-|**2025-06-27**|**Thompson Sampling in Function Spaces via Neural Operators**|Rafael Oliveira et.al.|[2506.21894v1](http://arxiv.org/abs/2506.21894v1)|null|
-|**2025-06-27**|**A GENERIC-guided active learning SPH method for viscoelastic fluids using Gaussian process regression**|Xuekai Dong et.al.|[2506.21877v1](http://arxiv.org/abs/2506.21877v1)|null|
-|**2025-06-27**|**Glitches far from transient gravitational-wave events do not bias inference**|Sophie Hourihane et.al.|[2506.21869v1](http://arxiv.org/abs/2506.21869v1)|null|
-|**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798v1](http://arxiv.org/abs/2506.21798v1)|null|
-|**2025-06-26**|**Crosstalk-Resilient Quantum MIMO for Scalable Quantum Communications**|Seid Koudia et.al.|[2506.21704v1](http://arxiv.org/abs/2506.21704v1)|null|
-|**2025-06-26**|**Velocity Reconstruction from KSZ: Measuring $f_{NL}$ with ACT and DESILS**|Selim C. Hotinli et.al.|[2506.21657v1](http://arxiv.org/abs/2506.21657v1)|null|
-|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520v1](http://arxiv.org/abs/2506.21520v1)|null|
-|**2025-06-26**|**GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**|Wentao Hu et.al.|[2506.21513v1](http://arxiv.org/abs/2506.21513v1)|null|
-|**2025-06-26**|**Gaussian Invariant Markov Chain Monte Carlo**|Michalis K. Titsias et.al.|[2506.21511v1](http://arxiv.org/abs/2506.21511v1)|null|
-|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
-|**2025-06-26**|**Relativistic Oscillating Window Driven by an Intense Laguerre Gaussian Laser Pulse**|Yao Meng et.al.|[2506.21407v1](http://arxiv.org/abs/2506.21407v1)|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2506.21401v2](http://arxiv.org/abs/2506.21401v2)|null|
-|**2025-06-26**|**FastRef:Fast Prototype Refinement for Few-Shot Industrial Anomaly Detection**|Long Tian et.al.|[2506.21398v1](http://arxiv.org/abs/2506.21398v1)|null|
-|**2025-06-26**|**Sharp lower bounds for the first eigenvalue of Steklov-type eigenvalue problems on a compact surface**|Gunhee Cho et.al.|[2506.21376v1](http://arxiv.org/abs/2506.21376v1)|null|
-|**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347v1](http://arxiv.org/abs/2506.21347v1)|null|
+|**2025-06-30**|**Ruelle-Pollicott resonances of diffusive U(1)-invariant qubit circuits**|Urban Duh et.al.|[2506.24097v1](http://arxiv.org/abs/2506.24097v1)|null|
+|**2025-06-30**|**MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction**|Antoine Guédon et.al.|[2506.24096v1](http://arxiv.org/abs/2506.24096v1)|null|
+|**2025-06-30**|**The Jacobian and Hessian of the Kullback-Leibler Divergence between Multivariate Gaussian Distributions (Technical Report)**|Juan Maroñas et.al.|[2506.23996v1](http://arxiv.org/abs/2506.23996v1)|null|
+|**2025-06-30**|**Wasserstein projections in the convex order: regularity and characterization in the quadratic Gaussian case**|Aurélien Alfonsi et.al.|[2506.23981v1](http://arxiv.org/abs/2506.23981v1)|null|
+|**2025-06-30**|**Finite Gaussian assistance protocols and a conic metric for extremizing spacelike vacuum entanglement**|Boyu Gao et.al.|[2506.23968v1](http://arxiv.org/abs/2506.23968v1)|null|
+|**2025-06-30**|**GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering**|Zinuo You et.al.|[2506.23957v1](http://arxiv.org/abs/2506.23957v1)|null|
+|**2025-06-30**|**Linear relations of colored Gaussian cycles**|Hannah Göbel et.al.|[2506.23936v1](http://arxiv.org/abs/2506.23936v1)|null|
+|**2025-06-30**|**High-Precision Quantum Dynamics of He$_2$ b $^3Π_\mathrm{g}$-c $^3Σ_\mathrm{g}^+$ including Non-adiabatic, Relativistic and QED Corrections and Couplings**|Balázs Rácsai et.al.|[2506.23879v1](http://arxiv.org/abs/2506.23879v1)|null|
+|**2025-06-30**|**Quadratic Wasserstein distance between Gaussian laws revisited with correlation**|Aurélien Alfonsi et.al.|[2506.23742v1](http://arxiv.org/abs/2506.23742v1)|null|
+|**2025-06-30**|**Efficient Numerical Integration for Finite Element Trunk Spaces in 2D and 3D using Machine Learning: A new Optimisation Paradigm to Construct Application-Specific Quadrature Rules**|Tomas Teijeiro et.al.|[2506.23741v1](http://arxiv.org/abs/2506.23741v1)|null|
+|**2025-06-30**|**More Efficient Real-Valued Gray-Box Optimization through Incremental Distribution Estimation in RV-GOMEA**|Renzo J. Scholman et.al.|[2506.23738v1](http://arxiv.org/abs/2506.23738v1)|null|
+|**2025-06-30**|**Multi-Model Framework for Reconstructing Gamma-Ray Burst Light Curves**|A. Kaushal et.al.|[2506.23681v1](http://arxiv.org/abs/2506.23681v1)|null|
+|**2025-06-30**|**Multiscale Turbulence Synthesis: Validation in 2D Hydrodynamics**|Pierre Lesaffre et.al.|[2506.23659v1](http://arxiv.org/abs/2506.23659v1)|null|
+|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611v1](http://arxiv.org/abs/2506.23611v1)|null|
+|**2025-06-30**|**A basis of the gradient flow exact renormalization group for gauge theory**|Hidenori Sonoda et.al.|[2506.23567v1](http://arxiv.org/abs/2506.23567v1)|null|
+|**2025-06-30**|**GViT: Representing Images as Gaussians for Visual Recognition**|Jefferson Hernandez et.al.|[2506.23532v1](http://arxiv.org/abs/2506.23532v1)|null|
+|**2025-06-30**|**Sensing for Free: Learn to Localize More Sources than Antennas without Pilots**|Wentao Yu et.al.|[2506.23525v1](http://arxiv.org/abs/2506.23525v1)|null|
+|**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514v1](http://arxiv.org/abs/2506.23514v1)|null|
+|**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479v1](http://arxiv.org/abs/2506.23479v1)|null|
+|**2025-06-29**|**Data-Driven Multiscale Topology Optimization of Spinodoid Architected Materials with Controllable Anisotropy**|Shiguang Deng et.al.|[2506.23420v1](http://arxiv.org/abs/2506.23420v1)|null|
+|**2025-06-29**|**Microscopic Rates of Convergence for Hermitian Unitary Ensembles**|Mengchun Cai et.al.|[2506.23417v1](http://arxiv.org/abs/2506.23417v1)|null|
+|**2025-06-29**|**Numerical computation of the Rosenblatt distribution and applications**|Nikolai N. Leonenko et.al.|[2506.23337v1](http://arxiv.org/abs/2506.23337v1)|null|
+|**2025-06-29**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309v1](http://arxiv.org/abs/2506.23309v1)|null|
+|**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308v1](http://arxiv.org/abs/2506.23308v1)|null|
+|**2025-06-29**|**Autoregressive Denoising Score Matching is a Good Video Anomaly Detector**|Hanwen Zhang et.al.|[2506.23282v1](http://arxiv.org/abs/2506.23282v1)|null|
+|**2025-06-29**|**Token Activation Map to Visually Explain Multimodal LLMs**|Yi Li et.al.|[2506.23270v1](http://arxiv.org/abs/2506.23270v1)|null|
+|**2025-06-29**|**BASIL: Fast broadband line-rich spectral-cube fitting and image visualization via Bayesian quadrature**|Yuxin Lin et.al.|[2506.23269v1](http://arxiv.org/abs/2506.23269v1)|null|
+|**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207v1](http://arxiv.org/abs/2506.23207v1)|null|
+|**2025-06-29**|**Extreme Scenario Characterization for High Renewable Energy Penetrated Power Systems over Long Time Scales**|Kai Kang et.al.|[2506.23169v1](http://arxiv.org/abs/2506.23169v1)|null|
+|**2025-06-29**|**STD-GS: Exploring Frame-Event Interaction for SpatioTemporal-Disentangled Gaussian Splatting to Reconstruct High-Dynamic Scene**|Hanyu Zhou et.al.|[2506.23157v1](http://arxiv.org/abs/2506.23157v1)|null|
