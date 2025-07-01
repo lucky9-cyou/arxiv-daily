@@ -28,7 +28,7 @@
 |**2025-06-26**|**Gaussian Invariant Markov Chain Monte Carlo**|Michalis K. Titsias et.al.|[2506.21511v1](http://arxiv.org/abs/2506.21511v1)|null|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
 |**2025-06-26**|**Relativistic Oscillating Window Driven by an Intense Laguerre Gaussian Laser Pulse**|Yao Meng et.al.|[2506.21407v1](http://arxiv.org/abs/2506.21407v1)|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401v1](http://arxiv.org/abs/2506.21401v1)|null|
+|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2506.21401v2](http://arxiv.org/abs/2506.21401v2)|null|
 |**2025-06-26**|**FastRef:Fast Prototype Refinement for Few-Shot Industrial Anomaly Detection**|Long Tian et.al.|[2506.21398v1](http://arxiv.org/abs/2506.21398v1)|null|
 |**2025-06-26**|**Sharp lower bounds for the first eigenvalue of Steklov-type eigenvalue problems on a compact surface**|Gunhee Cho et.al.|[2506.21376v1](http://arxiv.org/abs/2506.21376v1)|null|
 |**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347v1](http://arxiv.org/abs/2506.21347v1)|null|
