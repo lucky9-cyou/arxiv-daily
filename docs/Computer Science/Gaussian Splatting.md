@@ -24,7 +24,7 @@
 |**2025-06-29**|**Data-Driven Multiscale Topology Optimization of Spinodoid Architected Materials with Controllable Anisotropy**|Shiguang Deng et.al.|[2506.23420v1](http://arxiv.org/abs/2506.23420v1)|null|
 |**2025-06-29**|**Microscopic Rates of Convergence for Hermitian Unitary Ensembles**|Mengchun Cai et.al.|[2506.23417v1](http://arxiv.org/abs/2506.23417v1)|null|
 |**2025-06-29**|**Numerical computation of the Rosenblatt distribution and applications**|Nikolai N. Leonenko et.al.|[2506.23337v1](http://arxiv.org/abs/2506.23337v1)|null|
-|**2025-06-29**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309v1](http://arxiv.org/abs/2506.23309v1)|null|
+|**2025-06-29**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309v2](http://arxiv.org/abs/2506.23309v2)|null|
 |**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308v1](http://arxiv.org/abs/2506.23308v1)|null|
 |**2025-06-29**|**Autoregressive Denoising Score Matching is a Good Video Anomaly Detector**|Hanwen Zhang et.al.|[2506.23282v1](http://arxiv.org/abs/2506.23282v1)|null|
 |**2025-06-29**|**Token Activation Map to Visually Explain Multimodal LLMs**|Yi Li et.al.|[2506.23270v1](http://arxiv.org/abs/2506.23270v1)|null|
