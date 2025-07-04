@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-02**|**Test-Time Scaling with Reflective Generative Model**|Zixiao Wang et.al.|[2507.01951v1](http://arxiv.org/abs/2507.01951v1)|null|
-|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936v1](http://arxiv.org/abs/2507.01936v1)|null|
-|**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903v1](http://arxiv.org/abs/2507.01903v1)|null|
-|**2025-07-02**|**Evolving HPC services to enable ML workloads on HPE Cray EX**|Stefano Schuppli et.al.|[2507.01880v1](http://arxiv.org/abs/2507.01880v1)|null|
-|**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876v1](http://arxiv.org/abs/2507.01876v1)|null|
-|**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875v1](http://arxiv.org/abs/2507.01875v1)|null|
-|**2025-07-02**|**Refining Gelfond Rationality Principle Towards More Comprehensive Foundational Principles for Answer Set Semantics**|Yi-Dong Shen et.al.|[2507.01833v1](http://arxiv.org/abs/2507.01833v1)|null|
-|**2025-07-02**|**Empowering Manufacturers with Privacy-Preserving AI Tools: A Case Study in Privacy-Preserving Machine Learning to Solve Real-World Problems**|Xiaoyu Ji et.al.|[2507.01808v1](http://arxiv.org/abs/2507.01808v1)|null|
-|**2025-07-02**|**Towards Decentralized and Sustainable Foundation Model Training with the Edge**|Leyang Xue et.al.|[2507.01803v1](http://arxiv.org/abs/2507.01803v1)|null|
-|**2025-07-02**|**How Do Vision-Language Models Process Conflicting Information Across Modalities?**|Tianze Hua et.al.|[2507.01790v1](http://arxiv.org/abs/2507.01790v1)|null|
-|**2025-07-02**|**Probing Evaluation Awareness of Language Models**|Jord Nguyen et.al.|[2507.01786v1](http://arxiv.org/abs/2507.01786v1)|null|
-|**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773v1](http://arxiv.org/abs/2507.01773v1)|null|
-|**2025-07-02**|**SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space**|Xupeng Zhu et.al.|[2507.01723v1](http://arxiv.org/abs/2507.01723v1)|null|
-|**2025-07-02**|**Towards culturally-appropriate conversational AI for health in the majority world: An exploratory study with citizens and professionals in Latin America**|Dorian Peters et.al.|[2507.01719v1](http://arxiv.org/abs/2507.01719v1)|null|
-|**2025-07-02**|**Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI**|Gopichand Kanumolu et.al.|[2507.01717v1](http://arxiv.org/abs/2507.01717v1)|null|
-|**2025-07-02**|**Stereotype Detection as a Catalyst for Enhanced Bias Detection: A Multi-Task Learning Approach**|Aditya Tomar et.al.|[2507.01715v1](http://arxiv.org/abs/2507.01715v1)|null|
-|**2025-07-02**|**Deep Recommender Models Inference: Automatic Asymmetric Data Flow Optimization**|Giuseppe Ruggeri et.al.|[2507.01676v1](http://arxiv.org/abs/2507.01676v1)|null|
-|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667v1](http://arxiv.org/abs/2507.01667v1)|null|
-|**2025-07-02**|**A Dynamical Cartography of the Epistemic Diffusion of Artificial Intelligence in Neuroscience**|Sylvain Fontaine et.al.|[2507.01651v1](http://arxiv.org/abs/2507.01651v1)|null|
-|**2025-07-02**|**Autonomous AI Surveillance: Multimodal Deep Learning for Cognitive and Behavioral Monitoring**|Ameer Hamza et.al.|[2507.01590v1](http://arxiv.org/abs/2507.01590v1)|null|
-|**2025-07-02**|**Crafting Hanzi as Narrative Bridges: An AI Co-Creation Workshop for Elderly Migrants**|Wen Zhan et.al.|[2507.01548v1](http://arxiv.org/abs/2507.01548v1)|null|
-|**2025-07-02**|**AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions**|Ubada El Joulani et.al.|[2507.01547v1](http://arxiv.org/abs/2507.01547v1)|null|
-|**2025-07-02**|**A Multi-Centric Anthropomorphic 3D CT Phantom-Based Benchmark Dataset for Harmonization**|Mohammadreza Amirian et.al.|[2507.01539v1](http://arxiv.org/abs/2507.01539v1)|null|
-|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504v1](http://arxiv.org/abs/2507.01504v1)|null|
-|**2025-07-02**|**Crop Pest Classification Using Deep Learning Techniques: A Review**|Muhammad Hassam Ejaz et.al.|[2507.01494v1](http://arxiv.org/abs/2507.01494v1)|null|
-|**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489v1](http://arxiv.org/abs/2507.01489v1)|null|
-|**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485v1](http://arxiv.org/abs/2507.01485v1)|null|
-|**2025-07-02**|**Epistemic Scarcity: The Economics of Unresolvable Unknowns**|Craig S Wright et.al.|[2507.01483v1](http://arxiv.org/abs/2507.01483v1)|null|
-|**2025-07-02**|**Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities**|Yingqiang Gao et.al.|[2507.01479v1](http://arxiv.org/abs/2507.01479v1)|null|
-|**2025-07-02**|**Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs**|Federico Nicolas Peccia et.al.|[2507.01457v1](http://arxiv.org/abs/2507.01457v1)|null|
+|**2025-07-03**|**Generalizing Verifiable Instruction Following**|Valentina Pyatkin et.al.|[2507.02833v1](http://arxiv.org/abs/2507.02833v1)|null|
+|**2025-07-03**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825v1](http://arxiv.org/abs/2507.02825v1)|null|
+|**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788v1](http://arxiv.org/abs/2507.02788v1)|null|
+|**2025-07-03**|**Grounding Intelligence in Movement**|Melanie Segado et.al.|[2507.02771v1](http://arxiv.org/abs/2507.02771v1)|null|
+|**2025-07-03**|**NVIDIA GPU Confidential Computing Demystified**|Zhongshu Gu et.al.|[2507.02770v1](http://arxiv.org/abs/2507.02770v1)|null|
+|**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760v1](http://arxiv.org/abs/2507.02760v1)|null|
+|**2025-07-03**|**Synthesizable by Design: A Retrosynthesis-Guided Framework for Molecular Analog Generation**|Shuan Chen et.al.|[2507.02752v1](http://arxiv.org/abs/2507.02752v1)|null|
+|**2025-07-03**|**Who's Sorry Now: User Preferences Among Rote, Empathic, and Explanatory Apologies from LLM Chatbots**|Zahra Ashktorab et.al.|[2507.02745v1](http://arxiv.org/abs/2507.02745v1)|null|
+|**2025-07-03**|**Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks**|Sizhe Chen et.al.|[2507.02735v1](http://arxiv.org/abs/2507.02735v1)|null|
+|**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724v1](http://arxiv.org/abs/2507.02724v1)|null|
+|**2025-07-03**|**SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment**|Qi Xu et.al.|[2507.02705v1](http://arxiv.org/abs/2507.02705v1)|null|
+|**2025-07-03**|**Can LLMs Identify Critical Limitations within Scientific Research? A Systematic Evaluation on AI Research Papers**|Zhijian Xu et.al.|[2507.02694v1](http://arxiv.org/abs/2507.02694v1)|null|
+|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664v1](http://arxiv.org/abs/2507.02664v1)|null|
+|**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660v1](http://arxiv.org/abs/2507.02660v1)|null|
+|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654v1](http://arxiv.org/abs/2507.02654v1)|null|
+|**2025-07-03**|**Recourse, Repair, Reparation, & Prevention: A Stakeholder Analysis of AI Supply Chains**|Aspen K. Hopkins et.al.|[2507.02648v1](http://arxiv.org/abs/2507.02648v1)|null|
+|**2025-07-03**|**Medical Data Pecking: A Context-Aware Approach for Automated Quality Evaluation of Structured Medical Data**|Irena Girshovitz et.al.|[2507.02628v1](http://arxiv.org/abs/2507.02628v1)|null|
+|**2025-07-03**|**Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory**|Kenneth Payne et.al.|[2507.02618v1](http://arxiv.org/abs/2507.02618v1)|null|
+|**2025-07-03**|**DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making**|Tianqi Shang et.al.|[2507.02616v1](http://arxiv.org/abs/2507.02616v1)|null|
+|**2025-07-03**|**Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development**|Riccardo Gallon et.al.|[2507.02602v1](http://arxiv.org/abs/2507.02602v1)|null|
+|**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600v1](http://arxiv.org/abs/2507.02600v1)|null|
+|**2025-07-03**|**Responsibility Gap and Diffusion in Sequential Decision-Making Mechanisms**|Junli Jiang et.al.|[2507.02582v1](http://arxiv.org/abs/2507.02582v1)|null|
+|**2025-07-03**|**AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench**|Edan Toledo et.al.|[2507.02554v1](http://arxiv.org/abs/2507.02554v1)|null|
+|**2025-07-03**|**Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion**|Yuhao Jiang et.al.|[2507.02547v1](http://arxiv.org/abs/2507.02547v1)|null|
+|**2025-07-03**|**Meta-Fair: AI-Assisted Fairness Testing of Large Language Models**|Miguel Romero-Arjona et.al.|[2507.02533v1](http://arxiv.org/abs/2507.02533v1)|null|
+|**2025-07-03**|**Safe and Socially Aware Multi-Robot Coordination in Multi-Human Social Care Settings**|Ayodeji O. Abioye et.al.|[2507.02521v1](http://arxiv.org/abs/2507.02521v1)|null|
+|**2025-07-03**|**Red grape detection with accelerated artificial neural networks in the FPGA's programmable logic**|Sandro Costa Magalhães et.al.|[2507.02443v1](http://arxiv.org/abs/2507.02443v1)|null|
+|**2025-07-03**|**The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning**|Moto Kamiura et.al.|[2507.02442v1](http://arxiv.org/abs/2507.02442v1)|null|
+|**2025-07-03**|**Toward a Robust and Generalizable Metamaterial Foundation Model**|Namjung Kim et.al.|[2507.02436v1](http://arxiv.org/abs/2507.02436v1)|null|
+|**2025-07-03**|**Alps, a versatile research infrastructure**|Maxime Martinasso et.al.|[2507.02404v1](http://arxiv.org/abs/2507.02404v1)|null|
