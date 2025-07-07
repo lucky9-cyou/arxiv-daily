@@ -5,7 +5,7 @@
 |**2025-07-03**|**On the Structure of Replicable Hypothesis Testers**|Anders Aamand et.al.|[2507.02842v1](http://arxiv.org/abs/2507.02842v1)|null|
 |**2025-07-03**|**HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**|Gent Serifi et.al.|[2507.02803v1](http://arxiv.org/abs/2507.02803v1)|null|
 |**2025-07-03**|**Understanding and Improving Length Generalization in Recurrent Models**|Ricardo Buitrago Ruiz et.al.|[2507.02782v1](http://arxiv.org/abs/2507.02782v1)|null|
-|**2025-07-03**|**$\textit{Twisted echoes of an odd quartet}$: Scalar-induced gravitational waves as a probe of primordial parity-violation**|H. V. Ragavendra et.al.|[2507.02733v1](http://arxiv.org/abs/2507.02733v1)|null|
+|**2025-07-03**|**Twisted echoes of an odd quartet: Scalar-induced gravitational waves as a probe of primordial parity-violation**|H. V. Ragavendra et.al.|[2507.02733v1](http://arxiv.org/abs/2507.02733v1)|null|
 |**2025-07-03**|**Cosmic structure from the path integral of classical mechanics and its comparison to standard perturbation theory**|Marvin Sipp et.al.|[2507.02692v1](http://arxiv.org/abs/2507.02692v1)|null|
 |**2025-07-03**|**Axion USR Inflation**|Alireza Talebian et.al.|[2507.02685v1](http://arxiv.org/abs/2507.02685v1)|null|
 |**2025-07-03**|**Real-time Image-based Lighting of Glints**|Tom Kneiphof et.al.|[2507.02674v1](http://arxiv.org/abs/2507.02674v1)|null|
