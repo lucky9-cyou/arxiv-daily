@@ -19,7 +19,7 @@
 |**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363v1](http://arxiv.org/abs/2507.02363v1)|null|
 |**2025-07-03**|**Impact of super-Gaussian electron distributions on plasma K-shell emission**|H. P. Le et.al.|[2507.02341v1](http://arxiv.org/abs/2507.02341v1)|null|
 |**2025-07-03**|**A search for extra polarisations using a Gaussian process in Gravitational-Wave Transient Catalogue 3**|Shun Yin Cheung et.al.|[2507.02335v1](http://arxiv.org/abs/2507.02335v1)|null|
-|**2025-07-03**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314v1](http://arxiv.org/abs/2507.02314v1)|null|
+|**2025-07-03**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314v2](http://arxiv.org/abs/2507.02314v2)|null|
 |**2025-07-03**|**The dark matter content of Milky Way dwarf spheroidal galaxies: Draco, Sextans and Ursa Minor**|Hao Yang et.al.|[2507.02284v1](http://arxiv.org/abs/2507.02284v1)|null|
 |**2025-07-03**|**It's Hard to Be Normal: The Impact of Noise on Structure-agnostic Estimation**|Jikai Jin et.al.|[2507.02275v1](http://arxiv.org/abs/2507.02275v1)|null|
 |**2025-07-03**|**Gbake: Baking 3D Gaussian Splats into Reflection Probes**|Stephen Pasch et.al.|[2507.02257v1](http://arxiv.org/abs/2507.02257v1)|null|
