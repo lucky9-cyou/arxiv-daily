@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-03**|**Generalizing Verifiable Instruction Following**|Valentina Pyatkin et.al.|[2507.02833v1](http://arxiv.org/abs/2507.02833v1)|null|
-|**2025-07-03**|**Establishing Best Practices for Building Rigorous Agentic Benchmarks**|Yuxuan Zhu et.al.|[2507.02825v1](http://arxiv.org/abs/2507.02825v1)|null|
-|**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788v1](http://arxiv.org/abs/2507.02788v1)|null|
-|**2025-07-03**|**Grounding Intelligence in Movement**|Melanie Segado et.al.|[2507.02771v1](http://arxiv.org/abs/2507.02771v1)|null|
-|**2025-07-03**|**NVIDIA GPU Confidential Computing Demystified**|Zhongshu Gu et.al.|[2507.02770v1](http://arxiv.org/abs/2507.02770v1)|null|
-|**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760v1](http://arxiv.org/abs/2507.02760v1)|null|
-|**2025-07-03**|**Synthesizable by Design: A Retrosynthesis-Guided Framework for Molecular Analog Generation**|Shuan Chen et.al.|[2507.02752v1](http://arxiv.org/abs/2507.02752v1)|null|
-|**2025-07-03**|**Who's Sorry Now: User Preferences Among Rote, Empathic, and Explanatory Apologies from LLM Chatbots**|Zahra Ashktorab et.al.|[2507.02745v1](http://arxiv.org/abs/2507.02745v1)|null|
-|**2025-07-03**|**Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks**|Sizhe Chen et.al.|[2507.02735v1](http://arxiv.org/abs/2507.02735v1)|null|
-|**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724v1](http://arxiv.org/abs/2507.02724v1)|null|
-|**2025-07-03**|**SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment**|Qi Xu et.al.|[2507.02705v1](http://arxiv.org/abs/2507.02705v1)|null|
-|**2025-07-03**|**Can LLMs Identify Critical Limitations within Scientific Research? A Systematic Evaluation on AI Research Papers**|Zhijian Xu et.al.|[2507.02694v1](http://arxiv.org/abs/2507.02694v1)|null|
-|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664v1](http://arxiv.org/abs/2507.02664v1)|null|
-|**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660v1](http://arxiv.org/abs/2507.02660v1)|null|
-|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654v1](http://arxiv.org/abs/2507.02654v1)|null|
-|**2025-07-03**|**Recourse, Repair, Reparation, & Prevention: A Stakeholder Analysis of AI Supply Chains**|Aspen K. Hopkins et.al.|[2507.02648v1](http://arxiv.org/abs/2507.02648v1)|null|
-|**2025-07-03**|**Medical Data Pecking: A Context-Aware Approach for Automated Quality Evaluation of Structured Medical Data**|Irena Girshovitz et.al.|[2507.02628v1](http://arxiv.org/abs/2507.02628v1)|null|
-|**2025-07-03**|**Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory**|Kenneth Payne et.al.|[2507.02618v1](http://arxiv.org/abs/2507.02618v1)|null|
-|**2025-07-03**|**DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making**|Tianqi Shang et.al.|[2507.02616v1](http://arxiv.org/abs/2507.02616v1)|null|
-|**2025-07-03**|**Addressing Camera Sensors Faults in Vision-Based Navigation: Simulation and Dataset Development**|Riccardo Gallon et.al.|[2507.02602v1](http://arxiv.org/abs/2507.02602v1)|null|
-|**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600v1](http://arxiv.org/abs/2507.02600v1)|null|
-|**2025-07-03**|**Responsibility Gap and Diffusion in Sequential Decision-Making Mechanisms**|Junli Jiang et.al.|[2507.02582v1](http://arxiv.org/abs/2507.02582v1)|null|
-|**2025-07-03**|**AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench**|Edan Toledo et.al.|[2507.02554v1](http://arxiv.org/abs/2507.02554v1)|null|
-|**2025-07-03**|**Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion**|Yuhao Jiang et.al.|[2507.02547v1](http://arxiv.org/abs/2507.02547v1)|null|
-|**2025-07-03**|**Meta-Fair: AI-Assisted Fairness Testing of Large Language Models**|Miguel Romero-Arjona et.al.|[2507.02533v1](http://arxiv.org/abs/2507.02533v1)|null|
-|**2025-07-03**|**Safe and Socially Aware Multi-Robot Coordination in Multi-Human Social Care Settings**|Ayodeji O. Abioye et.al.|[2507.02521v1](http://arxiv.org/abs/2507.02521v1)|null|
-|**2025-07-03**|**Red grape detection with accelerated artificial neural networks in the FPGA's programmable logic**|Sandro Costa Magalhães et.al.|[2507.02443v1](http://arxiv.org/abs/2507.02443v1)|null|
-|**2025-07-03**|**The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning**|Moto Kamiura et.al.|[2507.02442v1](http://arxiv.org/abs/2507.02442v1)|null|
-|**2025-07-03**|**Toward a Robust and Generalizable Metamaterial Foundation Model**|Namjung Kim et.al.|[2507.02436v1](http://arxiv.org/abs/2507.02436v1)|null|
-|**2025-07-03**|**Alps, a versatile research infrastructure**|Maxime Martinasso et.al.|[2507.02404v1](http://arxiv.org/abs/2507.02404v1)|null|
+|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246v1](http://arxiv.org/abs/2507.05246v1)|null|
+|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v1](http://arxiv.org/abs/2507.05241v1)|null|
+|**2025-07-07**|**React-tRace: A Semantics for Understanding React Hooks**|Jay Lee et.al.|[2507.05234v1](http://arxiv.org/abs/2507.05234v1)|null|
+|**2025-07-07**|**Real-Time AI-Driven Pipeline for Automated Medical Study Content Generation in Low-Resource Settings: A Kenyan Case Study**|Emmanuel Korir et.al.|[2507.05212v1](http://arxiv.org/abs/2507.05212v1)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v1](http://arxiv.org/abs/2507.05201v1)|null|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198v1](http://arxiv.org/abs/2507.05198v1)|null|
+|**2025-07-07**|**Infrastructuring Contestability: A Framework for Community-Defined AI Value Pluralism**|Andreas Mayer et.al.|[2507.05187v1](http://arxiv.org/abs/2507.05187v1)|null|
+|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178v1](http://arxiv.org/abs/2507.05178v1)|null|
+|**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175v1](http://arxiv.org/abs/2507.05175v1)|null|
+|**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164v1](http://arxiv.org/abs/2507.05164v1)|null|
+|**2025-07-07**|**LAID: Lightweight AI-Generated Image Detection in Spatial and Spectral Domains**|Nicholas Chivaran et.al.|[2507.05162v1](http://arxiv.org/abs/2507.05162v1)|null|
+|**2025-07-07**|**AI Generated Text Detection Using Instruction Fine-tuned Large Language and Transformer-Based Models**|Chinnappa Guggilla et.al.|[2507.05157v1](http://arxiv.org/abs/2507.05157v1)|null|
+|**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146v1](http://arxiv.org/abs/2507.05146v1)|null|
+|**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141v1](http://arxiv.org/abs/2507.05141v1)|null|
+|**2025-07-07**|**LVM4CSI: Enabling Direct Application of Pre-Trained Large Vision Models for Wireless Channel Tasks**|Jiajia Guo et.al.|[2507.05121v1](http://arxiv.org/abs/2507.05121v1)|null|
+|**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063v1](http://arxiv.org/abs/2507.05063v1)|null|
+|**2025-07-07**|**What Shapes User Trust in ChatGPT? A Mixed-Methods Study of User Attributes, Trust Dimensions, Task Context, and Societal Perceptions among University Students**|Kadija Bouyzourn et.al.|[2507.05046v1](http://arxiv.org/abs/2507.05046v1)|null|
+|**2025-07-07**|**MoLink: Distributed and Efficient Serving Framework for Large Models**|Lewei Jin et.al.|[2507.05043v1](http://arxiv.org/abs/2507.05043v1)|null|
+|**2025-07-07**|**Perspectives on How Sociology Can Advance Theorizing about Human-Chatbot Interaction and Developing Chatbots for Social Good**|Celeste Campos-Castillo et.al.|[2507.05030v1](http://arxiv.org/abs/2507.05030v1)|null|
+|**2025-07-07**|**Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision**|Soham Walimbe et.al.|[2507.05020v1](http://arxiv.org/abs/2507.05020v1)|null|
+|**2025-07-07**|**When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning**|Maxence Boels et.al.|[2507.05011v1](http://arxiv.org/abs/2507.05011v1)|null|
+|**2025-07-07**|**From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems**|Jiangbo Yu et.al.|[2507.04996v1](http://arxiv.org/abs/2507.04996v1)|null|
+|**2025-07-07**|**Interest Networks (iNETs) for Cities: Cross-Platform Insights and Urban Behavior Explanations**|Gustavo H. Santos et.al.|[2507.04995v1](http://arxiv.org/abs/2507.04995v1)|null|
+|**2025-07-07**|**AI for the Routine, Humans for the Complex: Accuracy-Driven Data Labelling with Mixed Integer Linear Programming**|Mohammad Hossein Amini et.al.|[2507.04990v1](http://arxiv.org/abs/2507.04990v1)|null|
+|**2025-07-07**|**LIFT: Automating Symbolic Execution Optimization with Large Language Models for AI Networks**|Ruoxi Wang et.al.|[2507.04931v1](http://arxiv.org/abs/2507.04931v1)|null|
+|**2025-07-07**|**Uncovering Neuroimaging Biomarkers of Brain Tumor Surgery with AI-Driven Methods**|Carmen Jimenez-Mesa et.al.|[2507.04881v1](http://arxiv.org/abs/2507.04881v1)|null|
+|**2025-07-07**|**DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine**|Zewen Sun et.al.|[2507.04877v1](http://arxiv.org/abs/2507.04877v1)|null|
+|**2025-07-07**|**Universal Diagnostic Criterion for Intrinsic Superconducting Diode Effect**|Ran Wang et.al.|[2507.04876v1](http://arxiv.org/abs/2507.04876v1)|null|
+|**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Yinuo Zhao et.al.|[2507.04789v1](http://arxiv.org/abs/2507.04789v1)|null|
+|**2025-07-07**|**Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms**|Zhiyi Hu et.al.|[2507.04786v1](http://arxiv.org/abs/2507.04786v1)|null|
