@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256v1](http://arxiv.org/abs/2507.05256v1)|null|
-|**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183v1](http://arxiv.org/abs/2507.05183v1)|null|
-|**2025-07-07**|**Wick theorem for analytic functions of Gaussian fields**|Fabio Coppini et.al.|[2507.05131v1](http://arxiv.org/abs/2507.05131v1)|null|
-|**2025-07-07**|**Practical considerations for Gaussian Process modeling for causal inference quasi-experimental studies with panel data**|Sofia L. Vega et.al.|[2507.05128v1](http://arxiv.org/abs/2507.05128v1)|null|
-|**2025-07-07**|**Distribution-dependent Generalization Bounds for Tuning Linear Regression Across Tasks**|Maria-Florina Balcan et.al.|[2507.05084v1](http://arxiv.org/abs/2507.05084v1)|null|
-|**2025-07-07**|**Gaussian approximation for non-linearity parameter estimation in perturbed random fields on the sphere**|Claudio Durastanti et.al.|[2507.05074v1](http://arxiv.org/abs/2507.05074v1)|null|
-|**2025-07-07**|**Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression**|Norman M. Cao et.al.|[2507.05067v1](http://arxiv.org/abs/2507.05067v1)|null|
-|**2025-07-07**|**Vecchia-Inducing-Points Full-Scale Approximations for Gaussian Processes**|Tim Gyger et.al.|[2507.05064v1](http://arxiv.org/abs/2507.05064v1)|null|
-|**2025-07-07**|**Disentangling strategies and entanglement transitions in unitary circuit games with matchgates**|Raúl Morral-Yepes et.al.|[2507.05055v1](http://arxiv.org/abs/2507.05055v1)|null|
-|**2025-07-07**|**Monitoring for a Phase Transition in a Time Series of Wigner Matrices**|Nina Dörnemann et.al.|[2507.04983v1](http://arxiv.org/abs/2507.04983v1)|null|
-|**2025-07-07**|**Reduced SIGMA Basis Sets: a new family of SIGMA basis sets for molecular calculations**|Ignacio Ema et.al.|[2507.04975v1](http://arxiv.org/abs/2507.04975v1)|null|
-|**2025-07-07**|**InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**|Minghao Wen et.al.|[2507.04961v1](http://arxiv.org/abs/2507.04961v1)|null|
-|**2025-07-07**|**Gaussian Open Quantum Dynamics and Isomorphism to Superconformal Symmetry**|Ju-Yeon Gyhm et.al.|[2507.04932v1](http://arxiv.org/abs/2507.04932v1)|null|
-|**2025-07-07**|**A cautionary tale of model misspecification and identifiability**|Alexander P Browning et.al.|[2507.04894v1](http://arxiv.org/abs/2507.04894v1)|null|
-|**2025-07-07**|**Critical Point Processes Obtained from a Gaussian Random Field with a View Towards Statistics**|Julien Chevallier et.al.|[2507.04753v1](http://arxiv.org/abs/2507.04753v1)|null|
-|**2025-07-07**|**Gaussian Process Modeling Coronal X-ray Variability of Active Galactic Nuclei**|Haiyun Zhang et.al.|[2507.04715v1](http://arxiv.org/abs/2507.04715v1)|null|
-|**2025-07-07**|**Mutual Information Optimal Control of Discrete-Time Linear Systems**|Shoju Enami et.al.|[2507.04712v1](http://arxiv.org/abs/2507.04712v1)|null|
-|**2025-07-07**|**Graph Estimation Based on Neighborhood Selection for Matrix-variate Data**|Minsub Shin et.al.|[2507.04711v1](http://arxiv.org/abs/2507.04711v1)|null|
-|**2025-07-07**|**Counting linear congruence systems with a fixed number of solutions**|Marcus Nilsson et.al.|[2507.04688v1](http://arxiv.org/abs/2507.04688v1)|null|
-|**2025-07-07**|**Delensing CMB B-modes using galaxy surveys: the effect of galaxy bias and matter clustering non-linearities**|Shengzhu Wang et.al.|[2507.04666v1](http://arxiv.org/abs/2507.04666v1)|null|
-|**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638v1](http://arxiv.org/abs/2507.04638v1)|null|
-|**2025-07-07**|**Improved Binary Black Hole Search Discriminator from the Singular Value Decomposition of Non-Gaussian Noise Transients**|Tathagata Ghosh et.al.|[2507.04628v1](http://arxiv.org/abs/2507.04628v1)|null|
-|**2025-07-07**|**Photon Splatting: A Physics-Guided Neural Surrogate for Real-Time Wireless Channel Prediction**|Ge Cao et.al.|[2507.04595v1](http://arxiv.org/abs/2507.04595v1)|null|
-|**2025-07-06**|**Compact, intense attosecond sources driven by hollow Gaussian beams**|Rodrigo Martín-Hernández et.al.|[2507.04550v1](http://arxiv.org/abs/2507.04550v1)|null|
-|**2025-07-06**|**B-splines approximate the Gaussian density and Hermite functions in Schwartz seminorms**|Maciej Rzeszut et.al.|[2507.04507v1](http://arxiv.org/abs/2507.04507v1)|null|
-|**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|null|
-|**2025-07-06**|**Information-theoretic Quantification of High-order Feature Effects in Classification Problems**|Ivan Lazic et.al.|[2507.04362v1](http://arxiv.org/abs/2507.04362v1)|null|
-|**2025-07-06**|**Laser Amplification in $e^{-}$-$μ^{-}$-ion Plasmas**|Y. Chen et.al.|[2507.04301v1](http://arxiv.org/abs/2507.04301v1)|null|
-|**2025-07-06**|**High-Availability Integrity Monitoring for Multi-Constellation GNSS Navigation with Non-Gaussian Errors**|Penggao Yan et.al.|[2507.04284v1](http://arxiv.org/abs/2507.04284v1)|null|
-|**2025-07-06**|**Thermodynamics of quantum oscillators**|Michel Caffarel et.al.|[2507.04268v1](http://arxiv.org/abs/2507.04268v1)|null|
+|**2025-07-08**|**A proof of the $q$-Foulkes conjecture for Gaussian coefficients when $a$ divides $c$**|Álvaro Gutiérrez et.al.|[2507.06220v1](http://arxiv.org/abs/2507.06220v1)|null|
+|**2025-07-08**|**Quantum simulation of a noisy classical nonlinear dynamics**|Sergey Bravyi et.al.|[2507.06198v1](http://arxiv.org/abs/2507.06198v1)|null|
+|**2025-07-08**|**On the Estimation of Gaussian Moment Tensors**|Omar Al-Ghattas et.al.|[2507.06166v1](http://arxiv.org/abs/2507.06166v1)|null|
+|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161v1](http://arxiv.org/abs/2507.06161v1)|null|
+|**2025-07-08**|**Fast and Accurate Collision Probability Estimation for Autonomous Vehicles using Adaptive Sigma-Point Sampling**|Charles Champagne Cossette et.al.|[2507.06149v1](http://arxiv.org/abs/2507.06149v1)|null|
+|**2025-07-08**|**New Solutions for Topological Defects with Continuous Distributions:A Conformal Metric Perspective**|A. M. de M. Carvalho et.al.|[2507.06117v1](http://arxiv.org/abs/2507.06117v1)|null|
+|**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109v1](http://arxiv.org/abs/2507.06109v1)|null|
+|**2025-07-08**|**Miniaturized optically-generated Bessel beam ultrasound for volumetric transcranial brain stimulation**|Yueming Li et.al.|[2507.06108v1](http://arxiv.org/abs/2507.06108v1)|null|
+|**2025-07-08**|**Polarization-shape alignment of IllustrisTNG star-forming galaxies**|Rui Zhou et.al.|[2507.06106v1](http://arxiv.org/abs/2507.06106v1)|null|
+|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103v1](http://arxiv.org/abs/2507.06103v1)|null|
+|**2025-07-08**|**Magnetic White Dwarfs in the SDSS 100 pc Sample: Further Evidence of Two Formation Channels**|Adam Moss et.al.|[2507.06102v1](http://arxiv.org/abs/2507.06102v1)|null|
+|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060v1](http://arxiv.org/abs/2507.06060v1)|null|
+|**2025-07-08**|**Liquid-Gas Criticality of Hyperuniform Fluids**|Shang Gao et.al.|[2507.06023v1](http://arxiv.org/abs/2507.06023v1)|null|
+|**2025-07-08**|**Fractional Brownian Motion with Negative Hurst Exponent**|Baruch Meerson et.al.|[2507.05977v1](http://arxiv.org/abs/2507.05977v1)|null|
+|**2025-07-08**|**Synthetic Turbulence via an Instanton Gas Approximation**|Timo Schorlepp et.al.|[2507.05945v1](http://arxiv.org/abs/2507.05945v1)|null|
+|**2025-07-08**|**Sharp constants relating the sub-Gaussian norm and the sub-Gaussian parameter**|Lasse Leskelä et.al.|[2507.05928v1](http://arxiv.org/abs/2507.05928v1)|null|
+|**2025-07-08**|**Evaluating non-equilibrium trajectories via mean back relaxation: Dependence on length and time scales**|Gabriel Knotz et.al.|[2507.05912v1](http://arxiv.org/abs/2507.05912v1)|null|
+|**2025-07-08**|**Oscillation-Induced Frequency Generation in 1D Quantum Droplets under Harmonic-Gaussian Confinements**|Jagnyaseni Jogania et.al.|[2507.05902v1](http://arxiv.org/abs/2507.05902v1)|null|
+|**2025-07-08**|**Performance Analysis of Linear Detection under Noise-Dependent Fast-Fading Channels**|Almutasem Bellah Enad et.al.|[2507.05897v1](http://arxiv.org/abs/2507.05897v1)|null|
+|**2025-07-08**|**D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos**|Wenkang Zhang et.al.|[2507.05859v1](http://arxiv.org/abs/2507.05859v1)|null|
+|**2025-07-08**|**Robust Bandwidth Estimation for Real-Time Communication with Offline Reinforcement Learning**|Jian Kai et.al.|[2507.05785v1](http://arxiv.org/abs/2507.05785v1)|null|
+|**2025-07-08**|**Fourier frames on smooth surfaces with nonvanishing Gaussian curvature**|Xinyu Chen et.al.|[2507.05777v1](http://arxiv.org/abs/2507.05777v1)|null|
+|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763v1](http://arxiv.org/abs/2507.05763v1)|null|
+|**2025-07-08**|**Optimal structure learning and conditional independence testing**|Ming Gao et.al.|[2507.05689v1](http://arxiv.org/abs/2507.05689v1)|null|
+|**2025-07-08**|**3DGS_LSR:Large_Scale Relocation for Autonomous Driving Based on 3D Gaussian Splatting**|Haitao Lu et.al.|[2507.05661v1](http://arxiv.org/abs/2507.05661v1)|null|
+|**2025-07-08**|**Maximum likelihood estimation of mean functions for Gaussian processes under small noise asymptotics**|Mitsuki Kobayashi et.al.|[2507.05628v1](http://arxiv.org/abs/2507.05628v1)|null|
+|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v1](http://arxiv.org/abs/2507.05610v1)|null|
+|**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594v1](http://arxiv.org/abs/2507.05594v1)|null|
+|**2025-07-08**|**Capacity of the range of random walk: Moderate deviations in dimensions 4 and 5**|Arka Adhikari et.al.|[2507.05585v1](http://arxiv.org/abs/2507.05585v1)|null|
+|**2025-07-08**|**Lower Bounds for Error Coefficients of Griesmer Optimal Linear Codes via Iteration**|Chaofeng Guan et.al.|[2507.05567v1](http://arxiv.org/abs/2507.05567v1)|null|
