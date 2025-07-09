@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-07-08 21:18:32 Asia/Shanghai
+ Automated deployment @ 2025-07-09 08:15:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
-
-### Gaussian Splatting
-|Publish Date|Title|Authors|Contributions|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256v1](http://arxiv.org/abs/2507.05256v1)|null|
-|**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183v1](http://arxiv.org/abs/2507.05183v1)|null|
-|**2025-07-07**|**Wick theorem for analytic functions of Gaussian fields**|Fabio Coppini et.al.|[2507.05131v1](http://arxiv.org/abs/2507.05131v1)|null|
-|**2025-07-07**|**Practical considerations for Gaussian Process modeling for causal inference quasi-experimental studies with panel data**|Sofia L. Vega et.al.|[2507.05128v1](http://arxiv.org/abs/2507.05128v1)|null|
-|**2025-07-07**|**Distribution-dependent Generalization Bounds for Tuning Linear Regression Across Tasks**|Maria-Florina Balcan et.al.|[2507.05084v1](http://arxiv.org/abs/2507.05084v1)|null|
-|**2025-07-07**|**Gaussian approximation for non-linearity parameter estimation in perturbed random fields on the sphere**|Claudio Durastanti et.al.|[2507.05074v1](http://arxiv.org/abs/2507.05074v1)|null|
-|**2025-07-07**|**Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression**|Norman M. Cao et.al.|[2507.05067v1](http://arxiv.org/abs/2507.05067v1)|null|
-|**2025-07-07**|**Vecchia-Inducing-Points Full-Scale Approximations for Gaussian Processes**|Tim Gyger et.al.|[2507.05064v1](http://arxiv.org/abs/2507.05064v1)|null|
-|**2025-07-07**|**Disentangling strategies and entanglement transitions in unitary circuit games with matchgates**|Raúl Morral-Yepes et.al.|[2507.05055v1](http://arxiv.org/abs/2507.05055v1)|null|
-|**2025-07-07**|**Monitoring for a Phase Transition in a Time Series of Wigner Matrices**|Nina Dörnemann et.al.|[2507.04983v1](http://arxiv.org/abs/2507.04983v1)|null|
-|**2025-07-07**|**Reduced SIGMA Basis Sets: a new family of SIGMA basis sets for molecular calculations**|Ignacio Ema et.al.|[2507.04975v1](http://arxiv.org/abs/2507.04975v1)|null|
-|**2025-07-07**|**InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**|Minghao Wen et.al.|[2507.04961v1](http://arxiv.org/abs/2507.04961v1)|null|
-|**2025-07-07**|**Gaussian Open Quantum Dynamics and Isomorphism to Superconformal Symmetry**|Ju-Yeon Gyhm et.al.|[2507.04932v1](http://arxiv.org/abs/2507.04932v1)|null|
-|**2025-07-07**|**A cautionary tale of model misspecification and identifiability**|Alexander P Browning et.al.|[2507.04894v1](http://arxiv.org/abs/2507.04894v1)|null|
-|**2025-07-07**|**Critical Point Processes Obtained from a Gaussian Random Field with a View Towards Statistics**|Julien Chevallier et.al.|[2507.04753v1](http://arxiv.org/abs/2507.04753v1)|null|
-|**2025-07-07**|**Gaussian Process Modeling Coronal X-ray Variability of Active Galactic Nuclei**|Haiyun Zhang et.al.|[2507.04715v1](http://arxiv.org/abs/2507.04715v1)|null|
-|**2025-07-07**|**Mutual Information Optimal Control of Discrete-Time Linear Systems**|Shoju Enami et.al.|[2507.04712v1](http://arxiv.org/abs/2507.04712v1)|null|
-|**2025-07-07**|**Graph Estimation Based on Neighborhood Selection for Matrix-variate Data**|Minsub Shin et.al.|[2507.04711v1](http://arxiv.org/abs/2507.04711v1)|null|
-|**2025-07-07**|**Counting linear congruence systems with a fixed number of solutions**|Marcus Nilsson et.al.|[2507.04688v1](http://arxiv.org/abs/2507.04688v1)|null|
-|**2025-07-07**|**Delensing CMB B-modes using galaxy surveys: the effect of galaxy bias and matter clustering non-linearities**|Shengzhu Wang et.al.|[2507.04666v1](http://arxiv.org/abs/2507.04666v1)|null|
-|**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638v1](http://arxiv.org/abs/2507.04638v1)|null|
-|**2025-07-07**|**Improved Binary Black Hole Search Discriminator from the Singular Value Decomposition of Non-Gaussian Noise Transients**|Tathagata Ghosh et.al.|[2507.04628v1](http://arxiv.org/abs/2507.04628v1)|null|
-|**2025-07-07**|**Photon Splatting: A Physics-Guided Neural Surrogate for Real-Time Wireless Channel Prediction**|Ge Cao et.al.|[2507.04595v1](http://arxiv.org/abs/2507.04595v1)|null|
-|**2025-07-06**|**Compact, intense attosecond sources driven by hollow Gaussian beams**|Rodrigo Martín-Hernández et.al.|[2507.04550v1](http://arxiv.org/abs/2507.04550v1)|null|
-|**2025-07-06**|**B-splines approximate the Gaussian density and Hermite functions in Schwartz seminorms**|Maciej Rzeszut et.al.|[2507.04507v1](http://arxiv.org/abs/2507.04507v1)|null|
-|**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|null|
-|**2025-07-06**|**Information-theoretic Quantification of High-order Feature Effects in Classification Problems**|Ivan Lazic et.al.|[2507.04362v1](http://arxiv.org/abs/2507.04362v1)|null|
-|**2025-07-06**|**Laser Amplification in $e^{-}$-$μ^{-}$-ion Plasmas**|Y. Chen et.al.|[2507.04301v1](http://arxiv.org/abs/2507.04301v1)|null|
-|**2025-07-06**|**High-Availability Integrity Monitoring for Multi-Constellation GNSS Navigation with Non-Gaussian Errors**|Penggao Yan et.al.|[2507.04284v1](http://arxiv.org/abs/2507.04284v1)|null|
-|**2025-07-06**|**Thermodynamics of quantum oscillators**|Michel Caffarel et.al.|[2507.04268v1](http://arxiv.org/abs/2507.04268v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -73,7 +39,7 @@
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890v1](http://arxiv.org/abs/2506.06890v1)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462v1](http://arxiv.org/abs/2506.06462v1)|null|
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256v1](http://arxiv.org/abs/2507.05256v1)|null|
@@ -96,7 +62,6 @@
 |**2025-07-07**|**Graph Estimation Based on Neighborhood Selection for Matrix-variate Data**|Minsub Shin et.al.|[2507.04711v1](http://arxiv.org/abs/2507.04711v1)|null|
 |**2025-07-07**|**Counting linear congruence systems with a fixed number of solutions**|Marcus Nilsson et.al.|[2507.04688v1](http://arxiv.org/abs/2507.04688v1)|null|
 |**2025-07-07**|**Delensing CMB B-modes using galaxy surveys: the effect of galaxy bias and matter clustering non-linearities**|Shengzhu Wang et.al.|[2507.04666v1](http://arxiv.org/abs/2507.04666v1)|null|
-|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662v1](http://arxiv.org/abs/2507.04662v1)|null|
 |**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638v1](http://arxiv.org/abs/2507.04638v1)|null|
 |**2025-07-07**|**Improved Binary Black Hole Search Discriminator from the Singular Value Decomposition of Non-Gaussian Noise Transients**|Tathagata Ghosh et.al.|[2507.04628v1](http://arxiv.org/abs/2507.04628v1)|null|
 |**2025-07-07**|**Photon Splatting: A Physics-Guided Neural Surrogate for Real-Time Wireless Channel Prediction**|Ge Cao et.al.|[2507.04595v1](http://arxiv.org/abs/2507.04595v1)|null|
@@ -104,8 +69,9 @@
 |**2025-07-06**|**B-splines approximate the Gaussian density and Hermite functions in Schwartz seminorms**|Maciej Rzeszut et.al.|[2507.04507v1](http://arxiv.org/abs/2507.04507v1)|null|
 |**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|null|
 |**2025-07-06**|**Information-theoretic Quantification of High-order Feature Effects in Classification Problems**|Ivan Lazic et.al.|[2507.04362v1](http://arxiv.org/abs/2507.04362v1)|null|
-|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
 |**2025-07-06**|**Laser Amplification in $e^{-}$-$μ^{-}$-ion Plasmas**|Y. Chen et.al.|[2507.04301v1](http://arxiv.org/abs/2507.04301v1)|null|
+|**2025-07-06**|**High-Availability Integrity Monitoring for Multi-Constellation GNSS Navigation with Non-Gaussian Errors**|Penggao Yan et.al.|[2507.04284v1](http://arxiv.org/abs/2507.04284v1)|null|
+|**2025-07-06**|**Thermodynamics of quantum oscillators**|Michel Caffarel et.al.|[2507.04268v1](http://arxiv.org/abs/2507.04268v1)|null|
 
 ### NeRF SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -140,6 +106,40 @@
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885v1](http://arxiv.org/abs/2506.18885v1)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678v1](http://arxiv.org/abs/2506.18678v1)|null|
 |**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575v2](http://arxiv.org/abs/2506.18575v2)|[link](https://github.com/GaodeRender/triangle-splatting)|
+
+### Gaussian Splatting SLAM
+|Publish Date|Title|Authors|Contributions|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-07**|**SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation**|Jiahao Zhu et.al.|[2507.05256v1](http://arxiv.org/abs/2507.05256v1)|null|
+|**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183v1](http://arxiv.org/abs/2507.05183v1)|null|
+|**2025-07-07**|**Wick theorem for analytic functions of Gaussian fields**|Fabio Coppini et.al.|[2507.05131v1](http://arxiv.org/abs/2507.05131v1)|null|
+|**2025-07-07**|**Practical considerations for Gaussian Process modeling for causal inference quasi-experimental studies with panel data**|Sofia L. Vega et.al.|[2507.05128v1](http://arxiv.org/abs/2507.05128v1)|null|
+|**2025-07-07**|**Distribution-dependent Generalization Bounds for Tuning Linear Regression Across Tasks**|Maria-Florina Balcan et.al.|[2507.05084v1](http://arxiv.org/abs/2507.05084v1)|null|
+|**2025-07-07**|**Gaussian approximation for non-linearity parameter estimation in perturbed random fields on the sphere**|Claudio Durastanti et.al.|[2507.05074v1](http://arxiv.org/abs/2507.05074v1)|null|
+|**2025-07-07**|**Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression**|Norman M. Cao et.al.|[2507.05067v1](http://arxiv.org/abs/2507.05067v1)|null|
+|**2025-07-07**|**Vecchia-Inducing-Points Full-Scale Approximations for Gaussian Processes**|Tim Gyger et.al.|[2507.05064v1](http://arxiv.org/abs/2507.05064v1)|null|
+|**2025-07-07**|**Disentangling strategies and entanglement transitions in unitary circuit games with matchgates**|Raúl Morral-Yepes et.al.|[2507.05055v1](http://arxiv.org/abs/2507.05055v1)|null|
+|**2025-07-07**|**Monitoring for a Phase Transition in a Time Series of Wigner Matrices**|Nina Dörnemann et.al.|[2507.04983v1](http://arxiv.org/abs/2507.04983v1)|null|
+|**2025-07-07**|**Reduced SIGMA Basis Sets: a new family of SIGMA basis sets for molecular calculations**|Ignacio Ema et.al.|[2507.04975v1](http://arxiv.org/abs/2507.04975v1)|null|
+|**2025-07-07**|**InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**|Minghao Wen et.al.|[2507.04961v1](http://arxiv.org/abs/2507.04961v1)|null|
+|**2025-07-07**|**Gaussian Open Quantum Dynamics and Isomorphism to Superconformal Symmetry**|Ju-Yeon Gyhm et.al.|[2507.04932v1](http://arxiv.org/abs/2507.04932v1)|null|
+|**2025-07-07**|**A cautionary tale of model misspecification and identifiability**|Alexander P Browning et.al.|[2507.04894v1](http://arxiv.org/abs/2507.04894v1)|null|
+|**2025-07-07**|**Critical Point Processes Obtained from a Gaussian Random Field with a View Towards Statistics**|Julien Chevallier et.al.|[2507.04753v1](http://arxiv.org/abs/2507.04753v1)|null|
+|**2025-07-07**|**Gaussian Process Modeling Coronal X-ray Variability of Active Galactic Nuclei**|Haiyun Zhang et.al.|[2507.04715v1](http://arxiv.org/abs/2507.04715v1)|null|
+|**2025-07-07**|**Mutual Information Optimal Control of Discrete-Time Linear Systems**|Shoju Enami et.al.|[2507.04712v1](http://arxiv.org/abs/2507.04712v1)|null|
+|**2025-07-07**|**Graph Estimation Based on Neighborhood Selection for Matrix-variate Data**|Minsub Shin et.al.|[2507.04711v1](http://arxiv.org/abs/2507.04711v1)|null|
+|**2025-07-07**|**Counting linear congruence systems with a fixed number of solutions**|Marcus Nilsson et.al.|[2507.04688v1](http://arxiv.org/abs/2507.04688v1)|null|
+|**2025-07-07**|**Delensing CMB B-modes using galaxy surveys: the effect of galaxy bias and matter clustering non-linearities**|Shengzhu Wang et.al.|[2507.04666v1](http://arxiv.org/abs/2507.04666v1)|null|
+|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662v1](http://arxiv.org/abs/2507.04662v1)|null|
+|**2025-07-07**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638v1](http://arxiv.org/abs/2507.04638v1)|null|
+|**2025-07-07**|**Improved Binary Black Hole Search Discriminator from the Singular Value Decomposition of Non-Gaussian Noise Transients**|Tathagata Ghosh et.al.|[2507.04628v1](http://arxiv.org/abs/2507.04628v1)|null|
+|**2025-07-07**|**Photon Splatting: A Physics-Guided Neural Surrogate for Real-Time Wireless Channel Prediction**|Ge Cao et.al.|[2507.04595v1](http://arxiv.org/abs/2507.04595v1)|null|
+|**2025-07-06**|**Compact, intense attosecond sources driven by hollow Gaussian beams**|Rodrigo Martín-Hernández et.al.|[2507.04550v1](http://arxiv.org/abs/2507.04550v1)|null|
+|**2025-07-06**|**B-splines approximate the Gaussian density and Hermite functions in Schwartz seminorms**|Maciej Rzeszut et.al.|[2507.04507v1](http://arxiv.org/abs/2507.04507v1)|null|
+|**2025-07-06**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al.|[2507.04490v1](http://arxiv.org/abs/2507.04490v1)|null|
+|**2025-07-06**|**Information-theoretic Quantification of High-order Feature Effects in Classification Problems**|Ivan Lazic et.al.|[2507.04362v1](http://arxiv.org/abs/2507.04362v1)|null|
+|**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
+|**2025-07-06**|**Laser Amplification in $e^{-}$-$μ^{-}$-ion Plasmas**|Y. Chen et.al.|[2507.04301v1](http://arxiv.org/abs/2507.04301v1)|null|
 
 ## Robotics
 
