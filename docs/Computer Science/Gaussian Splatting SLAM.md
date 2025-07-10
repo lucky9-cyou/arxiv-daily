@@ -29,6 +29,6 @@
 |**2025-07-08**|**Optimal structure learning and conditional independence testing**|Ming Gao et.al.|[2507.05689v1](http://arxiv.org/abs/2507.05689v1)|null|
 |**2025-07-08**|**3DGS_LSR:Large_Scale Relocation for Autonomous Driving Based on 3D Gaussian Splatting**|Haitao Lu et.al.|[2507.05661v1](http://arxiv.org/abs/2507.05661v1)|null|
 |**2025-07-08**|**Maximum likelihood estimation of mean functions for Gaussian processes under small noise asymptotics**|Mitsuki Kobayashi et.al.|[2507.05628v1](http://arxiv.org/abs/2507.05628v1)|null|
-|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v1](http://arxiv.org/abs/2507.05610v1)|null|
+|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610v2](http://arxiv.org/abs/2507.05610v2)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594v1](http://arxiv.org/abs/2507.05594v1)|null|
 |**2025-07-08**|**Capacity of the range of random walk: Moderate deviations in dimensions 4 and 5**|Arka Adhikari et.al.|[2507.05585v1](http://arxiv.org/abs/2507.05585v1)|null|
