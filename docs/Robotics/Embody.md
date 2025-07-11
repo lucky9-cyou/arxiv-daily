@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105v1](http://arxiv.org/abs/2507.07105v1)|null|
-|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|null|
-|**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047v1](http://arxiv.org/abs/2507.07047v1)|null|
-|**2025-07-09**|**A Novel Hybrid Deep Learning Technique for Speech Emotion Detection using Feature Engineering**|Shahana Yasmin Chowdhury et.al.|[2507.07046v1](http://arxiv.org/abs/2507.07046v1)|null|
-|**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045v1](http://arxiv.org/abs/2507.07045v1)|null|
-|**2025-07-09**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031v1](http://arxiv.org/abs/2507.07031v1)|null|
-|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019v1](http://arxiv.org/abs/2507.07019v1)|null|
-|**2025-07-09**|**Enhancing Quantum Software Development Process with Experiment Tracking**|Mahee Gamage et.al.|[2507.06990v1](http://arxiv.org/abs/2507.06990v1)|null|
-|**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978v1](http://arxiv.org/abs/2507.06978v1)|null|
-|**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972v1](http://arxiv.org/abs/2507.06972v1)|null|
-|**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937v1](http://arxiv.org/abs/2507.06937v1)|null|
-|**2025-07-09**|**Beyond Connectivity: An Open Architecture for AI-RAN Convergence in 6G**|Michele Polese et.al.|[2507.06911v1](http://arxiv.org/abs/2507.06911v1)|null|
-|**2025-07-09**|**Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues**|Fareya Ikram et.al.|[2507.06910v1](http://arxiv.org/abs/2507.06910v1)|null|
-|**2025-07-09**|**Developing and Maintaining an Open-Source Repository of AI Evaluations: Challenges and Insights**|Alexandra Abbas et.al.|[2507.06893v1](http://arxiv.org/abs/2507.06893v1)|null|
-|**2025-07-09**|**Do AI tutors empower or enslave learners? Toward a critical use of AI in education**|Lucile Favero et.al.|[2507.06878v1](http://arxiv.org/abs/2507.06878v1)|null|
-|**2025-07-09**|**Winning and losing with Artificial Intelligence: What public discourse about ChatGPT tells us about how societies make sense of technological change**|Adrian Rauchfleisch et.al.|[2507.06876v1](http://arxiv.org/abs/2507.06876v1)|null|
-|**2025-07-09**|**Search for the lepton number violating process $J/ψ\to K^+K^+e^-e^- +c.c.$**|BESIII Collaboration et.al.|[2507.06872v1](http://arxiv.org/abs/2507.06872v1)|null|
-|**2025-07-09**|**Toward Neurodivergent-Aware Productivity: A Systems and AI-Based Human-in-the-Loop Framework for ADHD-Affected Professionals**|Raghavendra Deshmukh et.al.|[2507.06864v1](http://arxiv.org/abs/2507.06864v1)|null|
-|**2025-07-09**|**The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850v1](http://arxiv.org/abs/2507.06850v1)|null|
-|**2025-07-09**|**GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction**|Eya Cherif et.al.|[2507.06806v1](http://arxiv.org/abs/2507.06806v1)|null|
-|**2025-07-09**|**Speech Tokenizer is Key to Consistent Representation**|Wonjin Jung et.al.|[2507.06802v1](http://arxiv.org/abs/2507.06802v1)|null|
-|**2025-07-09**|**Combining Human-centred Explainability and Explainable AI**|Janin Koch et.al.|[2507.06751v1](http://arxiv.org/abs/2507.06751v1)|null|
-|**2025-07-09**|**PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI**|Haitham S. Al-Sinani et.al.|[2507.06742v1](http://arxiv.org/abs/2507.06742v1)|null|
-|**2025-07-09**|**DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement**|Xinyu Xie et.al.|[2507.06738v1](http://arxiv.org/abs/2507.06738v1)|null|
-|**2025-07-09**|**Civil Society in the Loop: Feedback-Driven Adaptation of (L)LM-Assisted Classification in an Open-Source Telegram Monitoring Tool**|Milena Pustet et.al.|[2507.06734v1](http://arxiv.org/abs/2507.06734v1)|null|
-|**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719v1](http://arxiv.org/abs/2507.06719v1)|null|
-|**2025-07-09**|**FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting**|Boyuan Tian et.al.|[2507.06671v1](http://arxiv.org/abs/2507.06671v1)|null|
-|**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|
-|**2025-07-09**|**Generalization in Reinforcement Learning for Radio Access Networks**|Burak Demirel et.al.|[2507.06602v1](http://arxiv.org/abs/2507.06602v1)|null|
-|**2025-07-09**|**Illuminating the Future: Nanophotonics for Future Green Technologies, Precision Healthcare, and Optical Computing**|Osama M. Halawa et.al.|[2507.06587v1](http://arxiv.org/abs/2507.06587v1)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984v1](http://arxiv.org/abs/2507.07984v1)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957v1](http://arxiv.org/abs/2507.07957v1)|null|
+|**2025-07-10**|**Intraseasonal Equatorial Kelvin and Rossby Waves in Modern AI-ML Models**|Shrutee Jalan et.al.|[2507.07952v1](http://arxiv.org/abs/2507.07952v1)|null|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938v1](http://arxiv.org/abs/2507.07938v1)|null|
+|**2025-07-10**|**Working with AI: Measuring the Occupational Implications of Generative AI**|Kiran Tomlinson et.al.|[2507.07935v1](http://arxiv.org/abs/2507.07935v1)|null|
+|**2025-07-10**|**Meek Models Shall Inherit the Earth**|Hans Gundlach et.al.|[2507.07931v1](http://arxiv.org/abs/2507.07931v1)|null|
+|**2025-07-10**|**Probing Experts' Perspectives on AI-Assisted Public Speaking Training**|Nesrine Fourati et.al.|[2507.07930v1](http://arxiv.org/abs/2507.07930v1)|null|
+|**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906v1](http://arxiv.org/abs/2507.07906v1)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902v1](http://arxiv.org/abs/2507.07902v1)|null|
+|**2025-07-10**|**The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web**|Sree Bhargavi Balija et.al.|[2507.07901v1](http://arxiv.org/abs/2507.07901v1)|null|
+|**2025-07-10**|**Can AI-predicted complexes teach machine learning to compute drug binding affinity?**|Wei-Tse Hsu et.al.|[2507.07882v1](http://arxiv.org/abs/2507.07882v1)|null|
+|**2025-07-10**|**Opting Out of Generative AI: a Behavioral Experiment on the Role of Education in Perplexity AI Avoidance**|Roberto Ulloa et.al.|[2507.07881v1](http://arxiv.org/abs/2507.07881v1)|null|
+|**2025-07-10**|**Alpay Algebra V: Multi-Layered Semantic Games and Transfinite Fixed-Point Simulation**|Bugra Kilictas et.al.|[2507.07868v1](http://arxiv.org/abs/2507.07868v1)|null|
+|**2025-07-10**|**Predicting and generating antibiotics against future pathogens with ApexOracle**|Tianang Leng et.al.|[2507.07862v1](http://arxiv.org/abs/2507.07862v1)|null|
+|**2025-07-10**|**Pre-Trained AI Model Assisted Online Decision-Making under Missing Covariates: A Theoretical Perspective**|Haichen Hu et.al.|[2507.07852v1](http://arxiv.org/abs/2507.07852v1)|null|
+|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847v1](http://arxiv.org/abs/2507.07847v1)|null|
+|**2025-07-10**|**Perceptual Distortions and Autonomous Representation Learning in a Minimal Robotic System**|David Warutumo et.al.|[2507.07845v1](http://arxiv.org/abs/2507.07845v1)|null|
+|**2025-07-10**|**AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift**|Eunsu Baek et.al.|[2507.07820v1](http://arxiv.org/abs/2507.07820v1)|null|
+|**2025-07-10**|**Measuring AI Alignment with Human Flourishing**|Elizabeth Hilliard et.al.|[2507.07787v1](http://arxiv.org/abs/2507.07787v1)|null|
+|**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781v1](http://arxiv.org/abs/2507.07781v1)|null|
+|**2025-07-10**|**Distributed and Decentralised Training: Technical Governance Challenges in a Shifting AI Landscape**|Jakub Kryś et.al.|[2507.07765v1](http://arxiv.org/abs/2507.07765v1)|null|
+|**2025-07-10**|**Energy Efficient p-Circuits for Generative Neural Networks**|Lakshmi A. Ghantasala et.al.|[2507.07763v1](http://arxiv.org/abs/2507.07763v1)|null|
+|**2025-07-10**|**Understanding Dataset Bias in Medical Imaging: A Case Study on Chest X-rays**|Ethan Dack et.al.|[2507.07722v1](http://arxiv.org/abs/2507.07722v1)|null|
+|**2025-07-10**|**AI Human Impact: Toward a Model for Ethical Investing in AI-Intensive Companies**|James Brusseau et.al.|[2507.07703v1](http://arxiv.org/abs/2507.07703v1)|null|
+|**2025-07-10**|**From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry**|Chetan Arora et.al.|[2507.07689v1](http://arxiv.org/abs/2507.07689v1)|null|
+|**2025-07-10**|**Accelerating Transposed Convolutions on FPGA-based Edge Devices**|Jude Haris et.al.|[2507.07683v1](http://arxiv.org/abs/2507.07683v1)|null|
+|**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim et.al.|[2507.07670v1](http://arxiv.org/abs/2507.07670v1)|null|
+|**2025-07-10**|**Machine Learning-Driven Enzyme Mining: Opportunities, Challenges, and Future Perspectives**|Yanzi Zhang et.al.|[2507.07666v1](http://arxiv.org/abs/2507.07666v1)|null|
+|**2025-07-10**|**Bridging the gap in FER: addressing age bias in deep learning**|F. Xavier Gaya-Morey et.al.|[2507.07638v1](http://arxiv.org/abs/2507.07638v1)|null|
+|**2025-07-10**|**Latent Space-Driven Quantification of Biofilm Formation using Time Resolved Droplet Microfluidics**|Daniela Pérez Guerrero et.al.|[2507.07632v1](http://arxiv.org/abs/2507.07632v1)|null|
