@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2025-07-12 08:41:47 Asia/Shanghai
+ Automated deployment @ 2025-07-12 09:11:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Computer Science
 
-### Gaussian Splatting SLAM
+### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|null|
@@ -14,7 +14,6 @@
 |**2025-07-10**|**Fisher Score Matching for Simulation-Based Forecasting and Inference**|Ce Sui et.al.|[2507.07833v1](http://arxiv.org/abs/2507.07833v1)|null|
 |**2025-07-10**|**Vecchia approximated Bayesian heteroskedastic Gaussian processes**|Parul V. Patil et.al.|[2507.07815v1](http://arxiv.org/abs/2507.07815v1)|null|
 |**2025-07-10**|**Hyperuniformity at the Absorbing State Transition: Perturbative RG for Random Organization**|Xiao Ma et.al.|[2507.07793v1](http://arxiv.org/abs/2507.07793v1)|null|
-|**2025-07-10**|**IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**|Thanh Nguyen Canh et.al.|[2507.07752v1](http://arxiv.org/abs/2507.07752v1)|null|
 |**2025-07-10**|**Manifolds with kinks and the asymptotic behavior of the graph Laplacian operator with Gaussian kernel**|Susovan Pal et.al.|[2507.07751v1](http://arxiv.org/abs/2507.07751v1)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733v1](http://arxiv.org/abs/2507.07733v1)|null|
 |**2025-07-10**|**Distributed Surface Inspection via Operational Modal Analysis by a Swarm of Miniaturized Vibration-Sensing Robots**|Thiemen Siemensma et.al.|[2507.07724v1](http://arxiv.org/abs/2507.07724v1)|null|
@@ -38,6 +37,7 @@
 |**2025-07-09**|**Magic phase transitions in monitored gaussian fermions**|Emanuele Tirrito et.al.|[2507.07179v1](http://arxiv.org/abs/2507.07179v1)|null|
 |**2025-07-09**|**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**|Lan Li et.al.|[2507.07100v1](http://arxiv.org/abs/2507.07100v1)|null|
 |**2025-07-09**|**Non-Gaussian Phase Transition and Cascade of Instabilities in the Dissipative Quantum Rabi Model**|Mingyu Kang et.al.|[2507.07092v1](http://arxiv.org/abs/2507.07092v1)|null|
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|null|
 
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
@@ -107,7 +107,7 @@
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei et.al.|[2506.20311v1](http://arxiv.org/abs/2506.20311v1)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629v1](http://arxiv.org/abs/2506.21629v1)|null|
 
-### Gaussian Splatting
+### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|null|
@@ -116,6 +116,7 @@
 |**2025-07-10**|**Fisher Score Matching for Simulation-Based Forecasting and Inference**|Ce Sui et.al.|[2507.07833v1](http://arxiv.org/abs/2507.07833v1)|null|
 |**2025-07-10**|**Vecchia approximated Bayesian heteroskedastic Gaussian processes**|Parul V. Patil et.al.|[2507.07815v1](http://arxiv.org/abs/2507.07815v1)|null|
 |**2025-07-10**|**Hyperuniformity at the Absorbing State Transition: Perturbative RG for Random Organization**|Xiao Ma et.al.|[2507.07793v1](http://arxiv.org/abs/2507.07793v1)|null|
+|**2025-07-10**|**IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**|Thanh Nguyen Canh et.al.|[2507.07752v1](http://arxiv.org/abs/2507.07752v1)|null|
 |**2025-07-10**|**Manifolds with kinks and the asymptotic behavior of the graph Laplacian operator with Gaussian kernel**|Susovan Pal et.al.|[2507.07751v1](http://arxiv.org/abs/2507.07751v1)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733v1](http://arxiv.org/abs/2507.07733v1)|null|
 |**2025-07-10**|**Distributed Surface Inspection via Operational Modal Analysis by a Swarm of Miniaturized Vibration-Sensing Robots**|Thiemen Siemensma et.al.|[2507.07724v1](http://arxiv.org/abs/2507.07724v1)|null|
@@ -139,7 +140,6 @@
 |**2025-07-09**|**Magic phase transitions in monitored gaussian fermions**|Emanuele Tirrito et.al.|[2507.07179v1](http://arxiv.org/abs/2507.07179v1)|null|
 |**2025-07-09**|**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**|Lan Li et.al.|[2507.07100v1](http://arxiv.org/abs/2507.07100v1)|null|
 |**2025-07-09**|**Non-Gaussian Phase Transition and Cascade of Instabilities in the Dissipative Quantum Rabi Model**|Mingyu Kang et.al.|[2507.07092v1](http://arxiv.org/abs/2507.07092v1)|null|
-|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|null|
 
 ## Robotics
 
