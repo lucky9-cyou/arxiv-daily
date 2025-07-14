@@ -23,7 +23,7 @@
 |**2025-07-10**|**Emergent dynamics of spatially extended relativistic kinetic Cucker-Smale model**|Seung-Yeal Ha et.al.|[2507.07502v1](http://arxiv.org/abs/2507.07502v1)|null|
 |**2025-07-10**|**Galerkin-ARIMA: A Two-Stage Polynomial Regression Framework for Fast Rolling One-Step-Ahead Forecasting**|Haojie Liu et.al.|[2507.07469v1](http://arxiv.org/abs/2507.07469v1)|null|
 |**2025-07-10**|**SD-GS: Structured Deformable 3D Gaussians for Efficient Dynamic Scene Reconstruction**|Wei Yao et.al.|[2507.07465v1](http://arxiv.org/abs/2507.07465v1)|null|
-|**2025-07-10**|**Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**|Jeonghoon Song et.al.|[2507.07460v1](http://arxiv.org/abs/2507.07460v1)|null|
+|**2025-07-10**|**Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**|Jeonghoon Song et.al.|[2507.07460v2](http://arxiv.org/abs/2507.07460v2)|null|
 |**2025-07-10**|**Edge statistics for singular values of products of rectangular complex Ginibre matrices**|Yandong Gu et.al.|[2507.07431v1](http://arxiv.org/abs/2507.07431v1)|null|
 |**2025-07-10**|**Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections**|Yongtang Bao et.al.|[2507.07395v1](http://arxiv.org/abs/2507.07395v1)|null|
 |**2025-07-09**|**All-sky neutrino point-source search with IceCube combined track and cascade data**|R. Abbasi et.al.|[2507.07275v1](http://arxiv.org/abs/2507.07275v1)|null|

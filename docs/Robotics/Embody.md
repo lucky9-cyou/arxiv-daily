@@ -11,7 +11,7 @@
 |**2025-07-10**|**Probing Experts' Perspectives on AI-Assisted Public Speaking Training**|Nesrine Fourati et.al.|[2507.07930v1](http://arxiv.org/abs/2507.07930v1)|null|
 |**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906v1](http://arxiv.org/abs/2507.07906v1)|null|
 |**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902v1](http://arxiv.org/abs/2507.07902v1)|null|
-|**2025-07-10**|**The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web**|Sree Bhargavi Balija et.al.|[2507.07901v1](http://arxiv.org/abs/2507.07901v1)|null|
+|**2025-07-10**|**The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web**|Sree Bhargavi Balija et.al.|[2507.07901v2](http://arxiv.org/abs/2507.07901v2)|null|
 |**2025-07-10**|**Can AI-predicted complexes teach machine learning to compute drug binding affinity?**|Wei-Tse Hsu et.al.|[2507.07882v1](http://arxiv.org/abs/2507.07882v1)|null|
 |**2025-07-10**|**Opting Out of Generative AI: a Behavioral Experiment on the Role of Education in Perplexity AI Avoidance**|Roberto Ulloa et.al.|[2507.07881v1](http://arxiv.org/abs/2507.07881v1)|null|
 |**2025-07-10**|**Alpay Algebra V: Multi-Layered Semantic Games and Transfinite Fixed-Point Simulation**|Bugra Kilictas et.al.|[2507.07868v1](http://arxiv.org/abs/2507.07868v1)|null|
@@ -20,7 +20,7 @@
 |**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847v1](http://arxiv.org/abs/2507.07847v1)|null|
 |**2025-07-10**|**Perceptual Distortions and Autonomous Representation Learning in a Minimal Robotic System**|David Warutumo et.al.|[2507.07845v1](http://arxiv.org/abs/2507.07845v1)|null|
 |**2025-07-10**|**AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift**|Eunsu Baek et.al.|[2507.07820v1](http://arxiv.org/abs/2507.07820v1)|null|
-|**2025-07-10**|**Measuring AI Alignment with Human Flourishing**|Elizabeth Hilliard et.al.|[2507.07787v1](http://arxiv.org/abs/2507.07787v1)|null|
+|**2025-07-10**|**Measuring AI Alignment with Human Flourishing**|Elizabeth Hilliard et.al.|[2507.07787v2](http://arxiv.org/abs/2507.07787v2)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781v1](http://arxiv.org/abs/2507.07781v1)|null|
 |**2025-07-10**|**Distributed and Decentralised Training: Technical Governance Challenges in a Shifting AI Landscape**|Jakub Kryś et.al.|[2507.07765v1](http://arxiv.org/abs/2507.07765v1)|null|
 |**2025-07-10**|**Energy Efficient p-Circuits for Generative Neural Networks**|Lakshmi A. Ghantasala et.al.|[2507.07763v1](http://arxiv.org/abs/2507.07763v1)|null|
