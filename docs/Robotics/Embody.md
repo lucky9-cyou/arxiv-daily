@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800v1](http://arxiv.org/abs/2507.08800v1)|null|
-|**2025-07-11**|**Compress Any Segment Anything Model (SAM)**|Juntong Fan et.al.|[2507.08765v1](http://arxiv.org/abs/2507.08765v1)|null|
-|**2025-07-11**|**HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer**|Tianlong Ai et.al.|[2507.08741v1](http://arxiv.org/abs/2507.08741v1)|null|
-|**2025-07-11**|**ONION: A Multi-Layered Framework for Participatory ER Design**|Viktoriia Makovska et.al.|[2507.08702v1](http://arxiv.org/abs/2507.08702v1)|null|
-|**2025-07-11**|**Domain-Informed Operation Excellence of Gas Turbine System with Machine Learning**|Waqar Muhammad Ashraf et.al.|[2507.08697v1](http://arxiv.org/abs/2507.08697v1)|null|
-|**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664v1](http://arxiv.org/abs/2507.08664v1)|null|
-|**2025-07-11**|**Scaling Attention to Very Long Sequences in Linear Time with Wavelet-Enhanced Random Spectral Attention (WERSA)**|Vincenzo Dentamaro et.al.|[2507.08637v1](http://arxiv.org/abs/2507.08637v1)|null|
-|**2025-07-11**|**Phoneme-Level Analysis for Person-of-Interest Speech Deepfake Detection**|Davide Salvi et.al.|[2507.08626v1](http://arxiv.org/abs/2507.08626v1)|null|
-|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi et.al.|[2507.08624v1](http://arxiv.org/abs/2507.08624v1)|null|
-|**2025-07-11**|**Agentic Large Language Models for Conceptual Systems Engineering and Design**|Soheyl Massoudi et.al.|[2507.08619v1](http://arxiv.org/abs/2507.08619v1)|null|
-|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610v1](http://arxiv.org/abs/2507.08610v1)|null|
-|**2025-07-11**|**Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy**|Fernando Ayach et.al.|[2507.08594v1](http://arxiv.org/abs/2507.08594v1)|null|
-|**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540v1](http://arxiv.org/abs/2507.08540v1)|null|
-|**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538v1](http://arxiv.org/abs/2507.08538v1)|null|
-|**2025-07-11**|**Critical dynamics governs deep learning**|Simon Vock et.al.|[2507.08527v1](http://arxiv.org/abs/2507.08527v1)|null|
-|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496v1](http://arxiv.org/abs/2507.08496v1)|null|
-|**2025-07-11**|**Towards AI-Native RAN: An Operator's Perspective of 6G Day 1 Standardization**|Nan Li et.al.|[2507.08403v1](http://arxiv.org/abs/2507.08403v1)|null|
-|**2025-07-11**|**Multi-Agent LLMs as Ethics Advocates in AI-Based Systems**|Asma Yamani et.al.|[2507.08392v1](http://arxiv.org/abs/2507.08392v1)|null|
-|**2025-07-11**|**Intelligent Control of Spacecraft Reaction Wheel Attitude Using Deep Reinforcement Learning**|Ghaith El-Dalahmeh et.al.|[2507.08366v1](http://arxiv.org/abs/2507.08366v1)|null|
-|**2025-07-11**|**MK2 at PBIG Competition: A Prompt Generation Solution**|Yuzheng Xu et.al.|[2507.08335v1](http://arxiv.org/abs/2507.08335v1)|null|
-|**2025-07-11**|**Generative AI in Science: Applications, Challenges, and Emerging Questions**|Ryan Harries et.al.|[2507.08310v1](http://arxiv.org/abs/2507.08310v1)|null|
-|**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Inclusion AI et.al.|[2507.08306v1](http://arxiv.org/abs/2507.08306v1)|null|
-|**2025-07-11**|**Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training**|Aleksei Ilin et.al.|[2507.08284v1](http://arxiv.org/abs/2507.08284v1)|null|
-|**2025-07-11**|**A Practical Two-Stage Recipe for Mathematical LLMs: Maximizing Accuracy with SFT and Efficiency with Reinforcement Learning**|Hiroshi Yoshihara et.al.|[2507.08267v1](http://arxiv.org/abs/2507.08267v1)|null|
-|**2025-07-11**|**Do Conversational Interfaces Limit Creativity? Exploring Visual Graph Systems for Creative Writing**|Abhinav Sood et.al.|[2507.08260v1](http://arxiv.org/abs/2507.08260v1)|null|
-|**2025-07-11**|**Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm**|Bill Marino et.al.|[2507.08249v1](http://arxiv.org/abs/2507.08249v1)|null|
-|**2025-07-11**|**Transfer Learning and Mixup for Fine-Grained Few-Shot Fungi Classification**|Jason Kahei Tam et.al.|[2507.08248v1](http://arxiv.org/abs/2507.08248v1)|null|
-|**2025-07-11**|**Advancing AI Capabilities and Evolving Labor Outcomes**|Jacob Dominski et.al.|[2507.08244v1](http://arxiv.org/abs/2507.08244v1)|null|
-|**2025-07-11**|**Uncanny or Not? Perceptions of AI-Generated Faces in Autism**|Gabriella Waters et.al.|[2507.08230v1](http://arxiv.org/abs/2507.08230v1)|null|
-|**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224v1](http://arxiv.org/abs/2507.08224v1)|null|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548v1](http://arxiv.org/abs/2507.10548v1)|null|
+|**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534v1](http://arxiv.org/abs/2507.10534v1)|null|
+|**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510v1](http://arxiv.org/abs/2507.10510v1)|null|
+|**2025-07-14**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502v1](http://arxiv.org/abs/2507.10502v1)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500v1](http://arxiv.org/abs/2507.10500v1)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475v1](http://arxiv.org/abs/2507.10475v1)|null|
+|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469v1](http://arxiv.org/abs/2507.10469v1)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463v1](http://arxiv.org/abs/2507.10463v1)|null|
+|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432v1](http://arxiv.org/abs/2507.10432v1)|null|
+|**2025-07-14**|**Self-Admitted GenAI Usage in Open-Source Software**|Tao Xiao et.al.|[2507.10422v1](http://arxiv.org/abs/2507.10422v1)|null|
+|**2025-07-14**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409v1](http://arxiv.org/abs/2507.10409v1)|null|
+|**2025-07-14**|**Instance-Optimized String Fingerprints**|Mihail Stoian et.al.|[2507.10391v1](http://arxiv.org/abs/2507.10391v1)|null|
+|**2025-07-14**|**TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting**|Zhiyuan Zhao et.al.|[2507.10349v1](http://arxiv.org/abs/2507.10349v1)|null|
+|**2025-07-14**|**Using AI to replicate human experimental results: a motion study**|Rosa Illan Castillo et.al.|[2507.10342v1](http://arxiv.org/abs/2507.10342v1)|null|
+|**2025-07-14**|**Search for the charged lepton flavor violating decay $ψ(3686)\to e^{\pm}μ^{\mp}$**|BESIII Collaboration et.al.|[2507.10331v1](http://arxiv.org/abs/2507.10331v1)|null|
+|**2025-07-14**|**FaceLLM: A Multimodal Large Language Model for Face Understanding**|Hatef Otroshi Shahreza et.al.|[2507.10300v1](http://arxiv.org/abs/2507.10300v1)|null|
+|**2025-07-14**|**DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology**|Ashkan Shakarami et.al.|[2507.10250v1](http://arxiv.org/abs/2507.10250v1)|null|
+|**2025-07-14**|**Visual Analytics for Explainable and Trustworthy Artificial Intelligence**|Angelos Chatzimparmpas et.al.|[2507.10240v1](http://arxiv.org/abs/2507.10240v1)|null|
+|**2025-07-14**|**Navigating the Challenges of AI-Generated Image Detection in the Wild: What Truly Matters?**|Despina Konstantinidou et.al.|[2507.10236v1](http://arxiv.org/abs/2507.10236v1)|null|
+|**2025-07-14**|**Towards a Framework for Operationalizing the Specification of Trustworthy AI Requirements**|Hugo Villamizar et.al.|[2507.10228v1](http://arxiv.org/abs/2507.10228v1)|null|
+|**2025-07-14**|**Survey for Categorising Explainable AI Studies Using Data Analysis Task Frameworks**|Hamzah Ziadeh et.al.|[2507.10208v1](http://arxiv.org/abs/2507.10208v1)|null|
+|**2025-07-14**|**The Second Machine Turn: From Checking Proofs to Creating Concepts**|Asvin G et.al.|[2507.10179v1](http://arxiv.org/abs/2507.10179v1)|null|
+|**2025-07-14**|**Play Style Identification Using Low-Level Representations of Play Traces in MicroRTS**|Ruizhe Yu Xia et.al.|[2507.10172v1](http://arxiv.org/abs/2507.10172v1)|null|
+|**2025-07-14**|**SlumpGuard: An AI-Powered Real-Time System for Automated Concrete Slump Prediction via Video Analysis**|Youngmin Kim et.al.|[2507.10171v1](http://arxiv.org/abs/2507.10171v1)|null|
+|**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156v1](http://arxiv.org/abs/2507.10156v1)|null|
+|**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154v1](http://arxiv.org/abs/2507.10154v1)|null|
+|**2025-07-14**|**Analysis of AI Techniques for Orchestrating Edge-Cloud Application Migration**|Sadig Gojayev et.al.|[2507.10119v1](http://arxiv.org/abs/2507.10119v1)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106v1](http://arxiv.org/abs/2507.10106v1)|null|
+|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087v1](http://arxiv.org/abs/2507.10087v1)|null|
+|**2025-07-14**|**Fast-Response Variable-Frequency Series-Capacitor Buck VRM Through Integrated Control Approaches**|Guanyu Qian et.al.|[2507.10086v1](http://arxiv.org/abs/2507.10086v1)|null|
