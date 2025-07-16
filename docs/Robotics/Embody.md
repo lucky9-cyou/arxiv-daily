@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548v1](http://arxiv.org/abs/2507.10548v1)|null|
-|**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534v1](http://arxiv.org/abs/2507.10534v1)|null|
-|**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510v1](http://arxiv.org/abs/2507.10510v1)|null|
-|**2025-07-14**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502v1](http://arxiv.org/abs/2507.10502v1)|null|
-|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500v1](http://arxiv.org/abs/2507.10500v1)|null|
-|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475v1](http://arxiv.org/abs/2507.10475v1)|null|
-|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469v1](http://arxiv.org/abs/2507.10469v1)|null|
-|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463v1](http://arxiv.org/abs/2507.10463v1)|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432v1](http://arxiv.org/abs/2507.10432v1)|null|
-|**2025-07-14**|**Self-Admitted GenAI Usage in Open-Source Software**|Tao Xiao et.al.|[2507.10422v1](http://arxiv.org/abs/2507.10422v1)|null|
-|**2025-07-14**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409v1](http://arxiv.org/abs/2507.10409v1)|null|
-|**2025-07-14**|**Instance-Optimized String Fingerprints**|Mihail Stoian et.al.|[2507.10391v1](http://arxiv.org/abs/2507.10391v1)|null|
-|**2025-07-14**|**TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting**|Zhiyuan Zhao et.al.|[2507.10349v1](http://arxiv.org/abs/2507.10349v1)|null|
-|**2025-07-14**|**Using AI to replicate human experimental results: a motion study**|Rosa Illan Castillo et.al.|[2507.10342v1](http://arxiv.org/abs/2507.10342v1)|null|
-|**2025-07-14**|**Search for the charged lepton flavor violating decay $ψ(3686)\to e^{\pm}μ^{\mp}$**|BESIII Collaboration et.al.|[2507.10331v1](http://arxiv.org/abs/2507.10331v1)|null|
-|**2025-07-14**|**FaceLLM: A Multimodal Large Language Model for Face Understanding**|Hatef Otroshi Shahreza et.al.|[2507.10300v1](http://arxiv.org/abs/2507.10300v1)|null|
-|**2025-07-14**|**DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology**|Ashkan Shakarami et.al.|[2507.10250v1](http://arxiv.org/abs/2507.10250v1)|null|
-|**2025-07-14**|**Visual Analytics for Explainable and Trustworthy Artificial Intelligence**|Angelos Chatzimparmpas et.al.|[2507.10240v1](http://arxiv.org/abs/2507.10240v1)|null|
-|**2025-07-14**|**Navigating the Challenges of AI-Generated Image Detection in the Wild: What Truly Matters?**|Despina Konstantinidou et.al.|[2507.10236v1](http://arxiv.org/abs/2507.10236v1)|null|
-|**2025-07-14**|**Towards a Framework for Operationalizing the Specification of Trustworthy AI Requirements**|Hugo Villamizar et.al.|[2507.10228v1](http://arxiv.org/abs/2507.10228v1)|null|
-|**2025-07-14**|**Survey for Categorising Explainable AI Studies Using Data Analysis Task Frameworks**|Hamzah Ziadeh et.al.|[2507.10208v1](http://arxiv.org/abs/2507.10208v1)|null|
-|**2025-07-14**|**The Second Machine Turn: From Checking Proofs to Creating Concepts**|Asvin G et.al.|[2507.10179v1](http://arxiv.org/abs/2507.10179v1)|null|
-|**2025-07-14**|**Play Style Identification Using Low-Level Representations of Play Traces in MicroRTS**|Ruizhe Yu Xia et.al.|[2507.10172v1](http://arxiv.org/abs/2507.10172v1)|null|
-|**2025-07-14**|**SlumpGuard: An AI-Powered Real-Time System for Automated Concrete Slump Prediction via Video Analysis**|Youngmin Kim et.al.|[2507.10171v1](http://arxiv.org/abs/2507.10171v1)|null|
-|**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156v1](http://arxiv.org/abs/2507.10156v1)|null|
-|**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154v1](http://arxiv.org/abs/2507.10154v1)|null|
-|**2025-07-14**|**Analysis of AI Techniques for Orchestrating Edge-Cloud Application Migration**|Sadig Gojayev et.al.|[2507.10119v1](http://arxiv.org/abs/2507.10119v1)|null|
-|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106v1](http://arxiv.org/abs/2507.10106v1)|null|
-|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087v1](http://arxiv.org/abs/2507.10087v1)|null|
-|**2025-07-14**|**Fast-Response Variable-Frequency Series-Capacitor Buck VRM Through Integrated Control Approaches**|Guanyu Qian et.al.|[2507.10086v1](http://arxiv.org/abs/2507.10086v1)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527v1](http://arxiv.org/abs/2507.11527v1)|null|
+|**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521v1](http://arxiv.org/abs/2507.11521v1)|null|
+|**2025-07-15**|**Scaling the memory wall using mixed-precision -- HPG-MxP on an exascale machine**|Aditya Kashi et.al.|[2507.11512v1](http://arxiv.org/abs/2507.11512v1)|null|
+|**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506v1](http://arxiv.org/abs/2507.11506v1)|null|
+|**2025-07-15**|**Towards Creating Infrastructures for Values and Ethics Work in the Production of Software Technologies**|Richmond Y. Wong et.al.|[2507.11490v1](http://arxiv.org/abs/2507.11490v1)|null|
+|**2025-07-15**|**Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety**|Tomek Korbak et.al.|[2507.11473v1](http://arxiv.org/abs/2507.11473v1)|null|
+|**2025-07-15**|**REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation**|Xiaohang Tang et.al.|[2507.11470v1](http://arxiv.org/abs/2507.11470v1)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407v1](http://arxiv.org/abs/2507.11407v1)|null|
+|**2025-07-15**|**The Potential Impact of Disruptive AI Innovations on U.S. Occupations**|Munjung Kim et.al.|[2507.11403v1](http://arxiv.org/abs/2507.11403v1)|null|
+|**2025-07-15**|**From Kinetic Theory to AI: a Rediscovery of High-Dimensional Divergences and Their Properties**|Gennaro Auricchio et.al.|[2507.11387v1](http://arxiv.org/abs/2507.11387v1)|null|
+|**2025-07-15**|**Quantitative multi-metabolite imaging of Parkinson's disease using AI boosted molecular MRI**|Hagar Shmuely et.al.|[2507.11329v1](http://arxiv.org/abs/2507.11329v1)|null|
+|**2025-07-15**|**A Review of Privacy Metrics for Privacy-Preserving Synthetic Data Generation**|Frederik Marinus Trudslev et.al.|[2507.11324v1](http://arxiv.org/abs/2507.11324v1)|null|
+|**2025-07-15**|**Contestability in Quantitative Argumentation**|Xiang Yin et.al.|[2507.11323v1](http://arxiv.org/abs/2507.11323v1)|null|
+|**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306v1](http://arxiv.org/abs/2507.11306v1)|null|
+|**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279v1](http://arxiv.org/abs/2507.11279v1)|null|
+|**2025-07-15**|**Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems**|Dany Moshkovich et.al.|[2507.11277v1](http://arxiv.org/abs/2507.11277v1)|null|
+|**2025-07-15**|**KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**|Luohe Shi et.al.|[2507.11273v1](http://arxiv.org/abs/2507.11273v1)|null|
+|**2025-07-15**|**An Empirical Study of Multi-Agent RAG for Real-World University Admissions Counseling**|Anh Nguyen-Duc et.al.|[2507.11272v1](http://arxiv.org/abs/2507.11272v1)|null|
+|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200v1](http://arxiv.org/abs/2507.11200v1)|null|
+|**2025-07-15**|**Temperature and Persona Shape LLM Agent Consensus With Minimal Accuracy Gains in Qualitative Coding**|Conrad Borchers et.al.|[2507.11198v1](http://arxiv.org/abs/2507.11198v1)|null|
+|**2025-07-15**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185v1](http://arxiv.org/abs/2507.11185v1)|null|
+|**2025-07-15**|**An Interpretable AI framework Quantifying Traditional Chinese Medicine Principles Towards Enhancing and Integrating with Modern Biomedicine**|Haoran Li et.al.|[2507.11176v1](http://arxiv.org/abs/2507.11176v1)|null|
+|**2025-07-15**|**Observation of the electromagnetic radiative decays of the \boldmath{$Λ(1520)$} and \boldmath{$Λ(1670)$} to \boldmath{$γΣ^0$}**|BESIII Collaboration et.al.|[2507.11145v1](http://arxiv.org/abs/2507.11145v1)|null|
+|**2025-07-15**|**Fault-Free Analog Computing with Imperfect Hardware**|Zhicheng Xu et.al.|[2507.11134v1](http://arxiv.org/abs/2507.11134v1)|null|
+|**2025-07-15**|**Defining neurosymbolic AI**|Lennert De Smet et.al.|[2507.11127v1](http://arxiv.org/abs/2507.11127v1)|null|
+|**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117v1](http://arxiv.org/abs/2507.11117v1)|null|
+|**2025-07-15**|**Constrain magnetar parameters by taking into account the evolutionary effects of radius and moment of inertia with \emph{Swift}/XRT data**|Lin Lan et.al.|[2507.11110v1](http://arxiv.org/abs/2507.11110v1)|null|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102v1](http://arxiv.org/abs/2507.11102v1)|null|
+|**2025-07-15**|**An Exploratory Study on AI-driven Visualisation Techniques on Decision Making in Extended Reality**|Ze Dong et.al.|[2507.10981v1](http://arxiv.org/abs/2507.10981v1)|null|
+|**2025-07-15**|**Teach Me Sign: Stepwise Prompting LLM for Sign Language Production**|Zhaoyi An et.al.|[2507.10972v1](http://arxiv.org/abs/2507.10972v1)|null|

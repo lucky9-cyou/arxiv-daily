@@ -2,33 +2,33 @@
 ### Gaussian Splatting SLAM
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-15**|**Optimizing loading of cold cesium atoms into a hollow-core fiber using machine learning**|Paul Anderson et.al.|[2507.11519v1](http://arxiv.org/abs/2507.11519v1)|null|
+|**2025-07-15**|**Gaussian Noise Model of Nonlinear Distortions from Semiconductor Optical Amplifiers**|Hartmut Hafermann et.al.|[2507.11517v1](http://arxiv.org/abs/2507.11517v1)|null|
+|**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461v1](http://arxiv.org/abs/2507.11461v1)|null|
+|**2025-07-15**|**Randomised Euler-Maruyama Method for SDEs with Hölder Continuous Drift Coefficient Driven by $α$-stable Lévy Process**|Jianhai Bao et.al.|[2507.11429v1](http://arxiv.org/abs/2507.11429v1)|null|
+|**2025-07-15**|**A Risk-Aware Adaptive Robust MPC with Learned Uncertainty Quantification**|Mingcong Li et.al.|[2507.11420v1](http://arxiv.org/abs/2507.11420v1)|null|
+|**2025-07-15**|**Joint space-time wind field data extrapolation and uncertainty quantification using nonparametric Bayesian dictionary learning**|George D. Pasparakis et.al.|[2507.11385v1](http://arxiv.org/abs/2507.11385v1)|null|
+|**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321v1](http://arxiv.org/abs/2507.11321v1)|null|
+|**2025-07-15**|**Mesoscopic Fluctuations and Multifractality at and across Measurement-Induced Phase Transition**|Igor Poboiko et.al.|[2507.11312v1](http://arxiv.org/abs/2507.11312v1)|null|
+|**2025-07-15**|**Fast and Efficient Implementation of the Maximum Likelihood Estimation for the Linear Regression with Gaussian Model Uncertainty**|Ruohai Guo et.al.|[2507.11249v1](http://arxiv.org/abs/2507.11249v1)|null|
+|**2025-07-15**|**Optimal Sensor Scheduling and Selection for Continuous-Discrete Kalman Filtering with Auxiliary Dynamics**|Mohamad Al Ahdab et.al.|[2507.11240v1](http://arxiv.org/abs/2507.11240v1)|null|
+|**2025-07-15**|**Improved sampling algorithms and Poincaré inequalities for non-log-concave distributions**|Yuchen He et.al.|[2507.11236v1](http://arxiv.org/abs/2507.11236v1)|null|
+|**2025-07-15**|**A Robust Controller based on Gaussian Processes for Robotic Manipulators with Unknown Uncertainty**|Giulio Giacomuzzo et.al.|[2507.11170v1](http://arxiv.org/abs/2507.11170v1)|null|
+|**2025-07-15**|**Tube formula for spherically contoured random fields with subexponential marginals**|Satoshi Kuriki et.al.|[2507.11154v1](http://arxiv.org/abs/2507.11154v1)|null|
+|**2025-07-15**|**MMOne: Representing Multiple Modalities in One Scene**|Zhifeng Gu et.al.|[2507.11129v1](http://arxiv.org/abs/2507.11129v1)|null|
+|**2025-07-15**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069v1](http://arxiv.org/abs/2507.11069v1)|null|
+|**2025-07-15**|**Statistical regimes of electromagnetic wave propagation in randomly time-varying media**|Seulong Kim et.al.|[2507.11062v1](http://arxiv.org/abs/2507.11062v1)|null|
+|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061v1](http://arxiv.org/abs/2507.11061v1)|null|
+|**2025-07-15**|**Two-particle cumulant distribution: a probe of "true" elliptic flow**|Satya Ranjan Nayak et.al.|[2507.11026v1](http://arxiv.org/abs/2507.11026v1)|null|
+|**2025-07-15**|**Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from Temperature Observations at an Experimental Prescribed Fire**|Dipak Dulal et.al.|[2507.11012v1](http://arxiv.org/abs/2507.11012v1)|null|
+|**2025-07-15**|**Active Learning via Heteroskedastic Rational Kriging**|Shangkun Wang et.al.|[2507.10952v1](http://arxiv.org/abs/2507.10952v1)|null|
+|**2025-07-15**|**Scalable Variational Inference for Multinomial Probit Models under Large Choice Sets and Sample Sizes**|Gyeongjun Kim et.al.|[2507.10945v1](http://arxiv.org/abs/2507.10945v1)|null|
+|**2025-07-14**|**Chaos in a Nonequilibrium Two-Temperature (Tx, Ty) Nosé-Hoover Cell Model**|Hesam Arabzadeh et.al.|[2507.10863v1](http://arxiv.org/abs/2507.10863v1)|null|
+|**2025-07-14**|**A unified approach to quantum resource theories and a new class of free operations**|N. L. Diaz et.al.|[2507.10851v1](http://arxiv.org/abs/2507.10851v1)|null|
+|**2025-07-14**|**Rotation Periods of Candidate Single Late-M Dwarfs in TESS**|Samantha Lambier et.al.|[2507.10847v1](http://arxiv.org/abs/2507.10847v1)|null|
+|**2025-07-14**|**Wavelet shrinkage based on the raised cosine prior**|Juliana Marchesi Reina et.al.|[2507.10794v1](http://arxiv.org/abs/2507.10794v1)|null|
+|**2025-07-14**|**Causal Discovery for Linear Non-Gaussian Models with Disjoint Cycles**|Mathias Drton et.al.|[2507.10767v1](http://arxiv.org/abs/2507.10767v1)|null|
+|**2025-07-14**|**Information Field Theory based Event Reconstruction for Cosmic Ray Radio Detectors**|Simon Strähnz et.al.|[2507.10738v1](http://arxiv.org/abs/2507.10738v1)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542v1](http://arxiv.org/abs/2507.10542v1)|null|
 |**2025-07-14**|**Quantitative central limit theorems for exponential random graphs**|Vilas Winstein et.al.|[2507.10531v1](http://arxiv.org/abs/2507.10531v1)|null|
 |**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530v1](http://arxiv.org/abs/2507.10530v1)|null|
-|**2025-07-14**|**Multiobjective Aerodynamic Design Optimization of the NASA Common Research Model**|Kade Carlson et.al.|[2507.10488v1](http://arxiv.org/abs/2507.10488v1)|null|
-|**2025-07-14**|**Flexible Modeling of Multivariate Skewed and Heavy-Tailed Data via a Non-Central Skew t Distribution: Application to Tumor Shape Data**|Abeer M. Hasan et.al.|[2507.10465v1](http://arxiv.org/abs/2507.10465v1)|null|
-|**2025-07-14**|**Phase mask fabrication for multi-plane light conversion using grayscale lithography**|Sudip Gurung et.al.|[2507.10405v1](http://arxiv.org/abs/2507.10405v1)|null|
-|**2025-07-14**|**Hollow cylindrical droplets in a very strongly dipolar condensate**|S. K. Adhikari et.al.|[2507.10396v1](http://arxiv.org/abs/2507.10396v1)|null|
-|**2025-07-14**|**Intermittency in Voyager Magnetic Field Beyond the Heliosphere**|L. Y. Khoo et.al.|[2507.10378v1](http://arxiv.org/abs/2507.10378v1)|null|
-|**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373v1](http://arxiv.org/abs/2507.10373v1)|null|
-|**2025-07-14**|**Gaussian Process Methods for Very Large Astrometric Data Sets**|Timothy Hapitas et.al.|[2507.10317v1](http://arxiv.org/abs/2507.10317v1)|null|
-|**2025-07-14**|**Overlapping signals in next-generation gravitational wave observatories: A recipe for selecting the best parameter estimation technique**|Tomasz Baka et.al.|[2507.10304v1](http://arxiv.org/abs/2507.10304v1)|null|
-|**2025-07-14**|**Efficient Measurement of Bosonic Non-Gaussianity**|Kaifeng Bu et.al.|[2507.10272v1](http://arxiv.org/abs/2507.10272v1)|null|
-|**2025-07-14**|**Triply heavy baryon spectroscopy revisited**|Hao Zhou et.al.|[2507.10243v1](http://arxiv.org/abs/2507.10243v1)|null|
-|**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129v1](http://arxiv.org/abs/2507.10129v1)|null|
-|**2025-07-14**|**Non-Gaussian Expansion of Minkowski Tensors in Redshift Space**|Stephen Appleby et.al.|[2507.10091v1](http://arxiv.org/abs/2507.10091v1)|null|
-|**2025-07-14**|**BiD Codes: Algebraic Codes from $3 \times 3$ Kernel**|Anirudh Dash et.al.|[2507.10068v1](http://arxiv.org/abs/2507.10068v1)|null|
-|**2025-07-14**|**MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second**|Chenguo Lin et.al.|[2507.10065v1](http://arxiv.org/abs/2507.10065v1)|null|
-|**2025-07-14**|**Hopping and orbiting of Mie-resonant nanoparticles in optical tweezers**|Ivan Toftul et.al.|[2507.10058v1](http://arxiv.org/abs/2507.10058v1)|null|
-|**2025-07-14**|**Phase Transition and Nuclear Symmetry Energy from Neutron Star Observations -- In Light of PSR J0614--3329**|Shao-Peng Tang et.al.|[2507.10025v1](http://arxiv.org/abs/2507.10025v1)|null|
-|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993v1](http://arxiv.org/abs/2507.09993v1)|null|
-|**2025-07-14**|**Compliance Minimization via Physics-Informed Gaussian Processes**|Xiangyu Sun et.al.|[2507.09968v1](http://arxiv.org/abs/2507.09968v1)|null|
-|**2025-07-14**|**Backreaction of Dirac Matter in the Context of the SYK Model: Non-Gaussian Random Couplings and Bulk Mass Deformations**|Pak Hang Chris Lau et.al.|[2507.09919v1](http://arxiv.org/abs/2507.09919v1)|null|
-|**2025-07-14**|**ASTAR-NTU solution to AudioMOS Challenge 2025 Track1**|Fabian Ritter-Gutierrez et.al.|[2507.09904v1](http://arxiv.org/abs/2507.09904v1)|null|
-|**2025-07-14**|**Towards Realistic and Interpretable Market Simulations: Factorizing Financial Power Law using Optimal Transport**|Ryuji Hashimoto et.al.|[2507.09863v1](http://arxiv.org/abs/2507.09863v1)|null|
-|**2025-07-14**|**Quantum Solution Framework for Finite-Horizon LQG Control via Block Encodings and QSVT**|Nahid Binandeh Dehaghani et.al.|[2507.09841v1](http://arxiv.org/abs/2507.09841v1)|null|
-|**2025-07-13**|**Regret Analysis of Posterior Sampling-Based Expected Improvement for Bayesian Optimization**|Shion Takeno et.al.|[2507.09828v1](http://arxiv.org/abs/2507.09828v1)|null|
-|**2025-07-13**|**Legendre Polynomials and Their Use for Karhunen-Loève Expansion**|Michal Béreš et.al.|[2507.09825v1](http://arxiv.org/abs/2507.09825v1)|null|
-|**2025-07-13**|**Spatial Dependencies in Item Response Theory: Gaussian Process Priors for Geographic and Cognitive Measurement**|Mingya Huang et.al.|[2507.09824v1](http://arxiv.org/abs/2507.09824v1)|null|
-|**2025-07-13**|**Active Probing with Multimodal Predictions for Motion Planning**|Darshan Gadginmath et.al.|[2507.09822v1](http://arxiv.org/abs/2507.09822v1)|null|
-|**2025-07-13**|**Discrete Hamiltonian-Assisted Metropolis Sampling**|Yuze Zhou et.al.|[2507.09807v1](http://arxiv.org/abs/2507.09807v1)|null|
