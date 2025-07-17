@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-16**|**Linearization-Based Feedback Stabilization of McKean-Vlasov PDEs**|Dante Kalise et.al.|[2507.12411v1](http://arxiv.org/abs/2507.12411v1)|null|
+|**2025-07-16**|**All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run**|LIGO Scientific Collaboration et.al.|[2507.12374v1](http://arxiv.org/abs/2507.12374v1)|null|
+|**2025-07-16**|**First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**|Jessica A. Cowell et.al.|[2507.12315v1](http://arxiv.org/abs/2507.12315v1)|null|
+|**2025-07-16**|**A Framework for Nonstationary Gaussian Processes with Neural Network Parameters**|Zachary James et.al.|[2507.12262v1](http://arxiv.org/abs/2507.12262v1)|null|
+|**2025-07-16**|**Fast Variational Bayes for Large Spatial Data**|Jiafang Song et.al.|[2507.12251v1](http://arxiv.org/abs/2507.12251v1)|null|
+|**2025-07-16**|**Learning, fast and slow: a two-fold algorithm for data-based model adaptation**|Laura Boca de Giuli et.al.|[2507.12187v1](http://arxiv.org/abs/2507.12187v1)|null|
+|**2025-07-16**|**Multi-Component VAE with Gaussian Markov Random Field**|Fouad Oubari et.al.|[2507.12165v1](http://arxiv.org/abs/2507.12165v1)|null|
+|**2025-07-16**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137v1](http://arxiv.org/abs/2507.12137v1)|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
+|**2025-07-16**|**MambaRate: Speech Quality Assessment Across Different Sampling Rates**|Panos Kakoulidis et.al.|[2507.12090v1](http://arxiv.org/abs/2507.12090v1)|null|
+|**2025-07-16**|**Optomagnonic continuous-variable quantum teleportation enhanced by non-Gaussian distillation**|Zi-Xu Lu et.al.|[2507.12065v1](http://arxiv.org/abs/2507.12065v1)|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|null|
+|**2025-07-16**|**The Role of Rank in Mismatched Low-Rank Symmetric Matrix Estimation**|Panpan Niu et.al.|[2507.12019v1](http://arxiv.org/abs/2507.12019v1)|null|
+|**2025-07-16**|**Automatic reproducing kernel and regularization for learning convolution kernels**|Haibo Li et.al.|[2507.11944v1](http://arxiv.org/abs/2507.11944v1)|null|
+|**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931v1](http://arxiv.org/abs/2507.11931v1)|null|
+|**2025-07-16**|**Context-Aware Search and Retrieval Over Erasure Channels**|Sara Ghasvarianjahromi et.al.|[2507.11894v1](http://arxiv.org/abs/2507.11894v1)|null|
+|**2025-07-16**|**Algorithm Design and Comparative Test of Natural Gradient Gaussian Approximation Filter**|Wenhan Cao et.al.|[2507.11872v1](http://arxiv.org/abs/2507.11872v1)|null|
+|**2025-07-16**|**Dynamics of a data-driven low-dimensional model of Rayleigh-Benard convection**|Qiwei Chen et.al.|[2507.11858v1](http://arxiv.org/abs/2507.11858v1)|null|
+|**2025-07-15**|**Analyzing the free states of one quantum resource theory as resource states of another**|Andrew E. Deneris et.al.|[2507.11793v1](http://arxiv.org/abs/2507.11793v1)|null|
+|**2025-07-15**|**A non-Gaussian Hardy-type Equation in Fractional Time**|Soveny Solís et.al.|[2507.11743v1](http://arxiv.org/abs/2507.11743v1)|null|
+|**2025-07-15**|**A Framework to Pinpoint Bottlenecks in Emerging Solar Cells and Disordered Devices via Differential Machine Learning**|Cai Williams et.al.|[2507.11740v1](http://arxiv.org/abs/2507.11740v1)|null|
+|**2025-07-15**|**Sparse Identification of Nonlinear Dynamics with Conformal Prediction**|Urban Fasel et.al.|[2507.11739v1](http://arxiv.org/abs/2507.11739v1)|null|
+|**2025-07-15**|**Bayesian wavelet shrinkage for low SNR data based on the Epanechnikov kernel**|Fidel Aniano Causil Barrios et.al.|[2507.11718v1](http://arxiv.org/abs/2507.11718v1)|null|
+|**2025-07-15**|**$ν$-QSSEP: A toy model for entanglement spreading in stochastic diffusive quantum systems**|Vincenzo Alba et.al.|[2507.11674v1](http://arxiv.org/abs/2507.11674v1)|null|
+|**2025-07-15**|**X-ray Measurements of $^{44}$Ti in Four Supernova Remnants**|Tyler E. Hanover et.al.|[2507.11647v1](http://arxiv.org/abs/2507.11647v1)|null|
+|**2025-07-15**|**Turnpike properties in linear quadratic Gaussian N-player differential games**|Asaf Cohen et.al.|[2507.11632v1](http://arxiv.org/abs/2507.11632v1)|null|
+|**2025-07-15**|**On Steiner entire function**|Maria Dospolova et.al.|[2507.11626v1](http://arxiv.org/abs/2507.11626v1)|null|
 |**2025-07-15**|**Optimizing loading of cold cesium atoms into a hollow-core fiber using machine learning**|Paul Anderson et.al.|[2507.11519v1](http://arxiv.org/abs/2507.11519v1)|null|
 |**2025-07-15**|**Gaussian Noise Model of Nonlinear Distortions from Semiconductor Optical Amplifiers**|Hartmut Hafermann et.al.|[2507.11517v1](http://arxiv.org/abs/2507.11517v1)|null|
 |**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461v1](http://arxiv.org/abs/2507.11461v1)|null|
-|**2025-07-15**|**Randomised Euler-Maruyama Method for SDEs with Hölder Continuous Drift Coefficient Driven by $α$-stable Lévy Process**|Jianhai Bao et.al.|[2507.11429v1](http://arxiv.org/abs/2507.11429v1)|null|
-|**2025-07-15**|**A Risk-Aware Adaptive Robust MPC with Learned Uncertainty Quantification**|Mingcong Li et.al.|[2507.11420v1](http://arxiv.org/abs/2507.11420v1)|null|
-|**2025-07-15**|**Joint space-time wind field data extrapolation and uncertainty quantification using nonparametric Bayesian dictionary learning**|George D. Pasparakis et.al.|[2507.11385v1](http://arxiv.org/abs/2507.11385v1)|null|
-|**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321v1](http://arxiv.org/abs/2507.11321v1)|null|
-|**2025-07-15**|**Mesoscopic Fluctuations and Multifractality at and across Measurement-Induced Phase Transition**|Igor Poboiko et.al.|[2507.11312v1](http://arxiv.org/abs/2507.11312v1)|null|
-|**2025-07-15**|**Fast and Efficient Implementation of the Maximum Likelihood Estimation for the Linear Regression with Gaussian Model Uncertainty**|Ruohai Guo et.al.|[2507.11249v1](http://arxiv.org/abs/2507.11249v1)|null|
-|**2025-07-15**|**Optimal Sensor Scheduling and Selection for Continuous-Discrete Kalman Filtering with Auxiliary Dynamics**|Mohamad Al Ahdab et.al.|[2507.11240v1](http://arxiv.org/abs/2507.11240v1)|null|
-|**2025-07-15**|**Improved sampling algorithms and Poincaré inequalities for non-log-concave distributions**|Yuchen He et.al.|[2507.11236v1](http://arxiv.org/abs/2507.11236v1)|null|
-|**2025-07-15**|**A Robust Controller based on Gaussian Processes for Robotic Manipulators with Unknown Uncertainty**|Giulio Giacomuzzo et.al.|[2507.11170v1](http://arxiv.org/abs/2507.11170v1)|null|
-|**2025-07-15**|**Tube formula for spherically contoured random fields with subexponential marginals**|Satoshi Kuriki et.al.|[2507.11154v1](http://arxiv.org/abs/2507.11154v1)|null|
-|**2025-07-15**|**MMOne: Representing Multiple Modalities in One Scene**|Zhifeng Gu et.al.|[2507.11129v1](http://arxiv.org/abs/2507.11129v1)|null|
-|**2025-07-15**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069v1](http://arxiv.org/abs/2507.11069v1)|null|
-|**2025-07-15**|**Statistical regimes of electromagnetic wave propagation in randomly time-varying media**|Seulong Kim et.al.|[2507.11062v1](http://arxiv.org/abs/2507.11062v1)|null|
-|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061v1](http://arxiv.org/abs/2507.11061v1)|null|
-|**2025-07-15**|**Two-particle cumulant distribution: a probe of "true" elliptic flow**|Satya Ranjan Nayak et.al.|[2507.11026v1](http://arxiv.org/abs/2507.11026v1)|null|
-|**2025-07-15**|**Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from Temperature Observations at an Experimental Prescribed Fire**|Dipak Dulal et.al.|[2507.11012v1](http://arxiv.org/abs/2507.11012v1)|null|
-|**2025-07-15**|**Active Learning via Heteroskedastic Rational Kriging**|Shangkun Wang et.al.|[2507.10952v1](http://arxiv.org/abs/2507.10952v1)|null|
-|**2025-07-15**|**Scalable Variational Inference for Multinomial Probit Models under Large Choice Sets and Sample Sizes**|Gyeongjun Kim et.al.|[2507.10945v1](http://arxiv.org/abs/2507.10945v1)|null|
-|**2025-07-14**|**Chaos in a Nonequilibrium Two-Temperature (Tx, Ty) Nosé-Hoover Cell Model**|Hesam Arabzadeh et.al.|[2507.10863v1](http://arxiv.org/abs/2507.10863v1)|null|
-|**2025-07-14**|**A unified approach to quantum resource theories and a new class of free operations**|N. L. Diaz et.al.|[2507.10851v1](http://arxiv.org/abs/2507.10851v1)|null|
-|**2025-07-14**|**Rotation Periods of Candidate Single Late-M Dwarfs in TESS**|Samantha Lambier et.al.|[2507.10847v1](http://arxiv.org/abs/2507.10847v1)|null|
-|**2025-07-14**|**Wavelet shrinkage based on the raised cosine prior**|Juliana Marchesi Reina et.al.|[2507.10794v1](http://arxiv.org/abs/2507.10794v1)|null|
-|**2025-07-14**|**Causal Discovery for Linear Non-Gaussian Models with Disjoint Cycles**|Mathias Drton et.al.|[2507.10767v1](http://arxiv.org/abs/2507.10767v1)|null|
-|**2025-07-14**|**Information Field Theory based Event Reconstruction for Cosmic Ray Radio Detectors**|Simon Strähnz et.al.|[2507.10738v1](http://arxiv.org/abs/2507.10738v1)|null|
-|**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542v1](http://arxiv.org/abs/2507.10542v1)|null|
-|**2025-07-14**|**Quantitative central limit theorems for exponential random graphs**|Vilas Winstein et.al.|[2507.10531v1](http://arxiv.org/abs/2507.10531v1)|null|
-|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530v1](http://arxiv.org/abs/2507.10530v1)|null|
