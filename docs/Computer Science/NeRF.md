@@ -2,6 +2,8 @@
 ### NeRF
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929v1](http://arxiv.org/abs/2507.13929v1)|null|
+|**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648v1](http://arxiv.org/abs/2507.13648v1)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132v1](http://arxiv.org/abs/2507.12132v1)|null|
 |**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971v1](http://arxiv.org/abs/2507.11971v1)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987v1](http://arxiv.org/abs/2507.09987v1)|null|
@@ -30,5 +32,3 @@
 |**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208v1](http://arxiv.org/abs/2506.18208v1)|null|
 |**2025-06-21**|**3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**|Shihan Chen et.al.|[2506.17636v1](http://arxiv.org/abs/2506.17636v1)|null|
 |**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262v2](http://arxiv.org/abs/2506.16262v2)|[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)|
-|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242v2](http://arxiv.org/abs/2506.15242v2)|null|
-|**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856v1](http://arxiv.org/abs/2506.14856v1)|null|
