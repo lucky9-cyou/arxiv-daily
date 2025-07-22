@@ -2,33 +2,33 @@
 ### Embody
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-18**|**Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning**|Shashanka Venkataramanan et.al.|[2507.14137v1](http://arxiv.org/abs/2507.14137v1)|null|
-|**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097v1](http://arxiv.org/abs/2507.14097v1)|null|
-|**2025-07-18**|**Multi-Centre Validation of a Deep Learning Model for Scoliosis Assessment**|Šimon Kubov et.al.|[2507.14093v1](http://arxiv.org/abs/2507.14093v1)|null|
-|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088v1](http://arxiv.org/abs/2507.14088v1)|null|
-|**2025-07-18**|**The Emotion-Memory Link: Do Memorability Annotations Matter for Intelligent Systems?**|Maria Tsfasman et.al.|[2507.14084v1](http://arxiv.org/abs/2507.14084v1)|null|
-|**2025-07-18**|**Glucose-ML: A collection of longitudinal diabetes datasets for development of robust AI solutions**|Temiloluwa Prioleau et.al.|[2507.14077v1](http://arxiv.org/abs/2507.14077v1)|null|
-|**2025-07-18**|**Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog**|Lautaro Estienne et.al.|[2507.14063v1](http://arxiv.org/abs/2507.14063v1)|null|
-|**2025-07-18**|**MorphIt: Flexible Spherical Approximation of Robot Morphology for Representation-driven Adaptation**|Nataliya Nechyporenko et.al.|[2507.14061v1](http://arxiv.org/abs/2507.14061v1)|null|
-|**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045v1](http://arxiv.org/abs/2507.14045v1)|null|
-|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034v1](http://arxiv.org/abs/2507.14034v1)|null|
-|**2025-07-18**|**The CryptoNeo Threat Modelling Framework (CNTMF): Securing Neobanks and Fintech in Integrated Blockchain Ecosystems**|Serhan W. Bahar et.al.|[2507.14007v1](http://arxiv.org/abs/2507.14007v1)|null|
-|**2025-07-18**|**Photonic Fabric Platform for AI Accelerators**|Jing Ding et.al.|[2507.14000v1](http://arxiv.org/abs/2507.14000v1)|null|
-|**2025-07-18**|**Evaluation of Human Visual Privacy Protection: A Three-Dimensional Framework and Benchmark Dataset**|Sara Abdulaziz et.al.|[2507.13981v1](http://arxiv.org/abs/2507.13981v1)|null|
-|**2025-07-18**|**A segmented robot grasping perception neural network for edge AI**|Casper Bröcheler et.al.|[2507.13970v1](http://arxiv.org/abs/2507.13970v1)|null|
-|**2025-07-18**|**The Levers of Political Persuasion with Conversational AI**|Kobi Hackenburg et.al.|[2507.13919v1](http://arxiv.org/abs/2507.13919v1)|null|
-|**2025-07-18**|**Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery**|Mateusz Bystroński et.al.|[2507.13874v1](http://arxiv.org/abs/2507.13874v1)|null|
-|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757v1](http://arxiv.org/abs/2507.13757v1)|null|
-|**2025-07-18**|**Search-Optimized Quantization in Biomedical Ontology Alignment**|Oussama Bouaggad et.al.|[2507.13742v1](http://arxiv.org/abs/2507.13742v1)|null|
-|**2025-07-18**|**Tackling fake images in cybersecurity -- Interpretation of a StyleGAN and lifting its black-box**|Julia Laubmann et.al.|[2507.13722v1](http://arxiv.org/abs/2507.13722v1)|null|
-|**2025-07-18**|**Intellectual Up-streams of Percentage Scale ($ps$) and Percentage Coefficient ($b_p$) -- Effect Size Analysis (Theory Paper 2)**|Xinshu Zhao et.al.|[2507.13695v1](http://arxiv.org/abs/2507.13695v1)|null|
-|**2025-07-18**|**Towards channel foundation models (CFMs): Motivations, methodologies and opportunities**|Jun Jiang et.al.|[2507.13637v1](http://arxiv.org/abs/2507.13637v1)|null|
-|**2025-07-18**|**4T2R X-ReRAM CiM Array for Variation-tolerant, Low-power, Massively Parallel MAC Operation**|Fuyuki Kihara et.al.|[2507.13631v1](http://arxiv.org/abs/2507.13631v1)|null|
-|**2025-07-18**|**From Firms to Computation: AI Governance and the Evolution of Institutions**|Michael S. Harre et.al.|[2507.13616v1](http://arxiv.org/abs/2507.13616v1)|null|
-|**2025-07-18**|**TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting**|Kaiyuan Tang et.al.|[2507.13586v1](http://arxiv.org/abs/2507.13586v1)|null|
-|**2025-07-17**|**Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries**|Hyunji Nam et.al.|[2507.13579v1](http://arxiv.org/abs/2507.13579v1)|null|
-|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575v1](http://arxiv.org/abs/2507.13575v1)|null|
-|**2025-07-17**|**Why Isn't Relational Learning Taking Over the World?**|David Poole et.al.|[2507.13558v1](http://arxiv.org/abs/2507.13558v1)|null|
-|**2025-07-17**|**GOFAI meets Generative AI: Development of Expert Systems by means of Large Language Models**|Eduardo C. Garrido-Merchán et.al.|[2507.13550v1](http://arxiv.org/abs/2507.13550v1)|null|
-|**2025-07-17**|**Evolving Neural Controllers for Xpilot-AI Racing Using Neuroevolution of Augmenting Topologies**|Jim O'Connor et.al.|[2507.13549v1](http://arxiv.org/abs/2507.13549v1)|null|
-|**2025-07-17**|**$\nabla$NABLA: Neighborhood Adaptive Block-Level Attention**|Dmitrii Mikhailov et.al.|[2507.13546v1](http://arxiv.org/abs/2507.13546v1)|null|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851v1](http://arxiv.org/abs/2507.15851v1)|null|
+|**2025-07-21**|**Operationalizing AI for Good: Spotlight on Deployment and Integration of AI Models in Humanitarian Work**|Anton Abilov et.al.|[2507.15823v1](http://arxiv.org/abs/2507.15823v1)|null|
+|**2025-07-21**|**Do AI models help produce verified bug fixes?**|Li Huang et.al.|[2507.15822v1](http://arxiv.org/abs/2507.15822v1)|null|
+|**2025-07-21**|**Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for Subjective Tasks**|Hope Schroeder et.al.|[2507.15821v1](http://arxiv.org/abs/2507.15821v1)|null|
+|**2025-07-21**|**Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work**|Nuria Rodríguez-Barroso et.al.|[2507.15796v1](http://arxiv.org/abs/2507.15796v1)|null|
+|**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793v1](http://arxiv.org/abs/2507.15793v1)|null|
+|**2025-07-21**|**Label tree semantic losses for rich multi-class medical image segmentation**|Junwen Wang et.al.|[2507.15777v1](http://arxiv.org/abs/2507.15777v1)|null|
+|**2025-07-21**|**Deep-Learning Investigation of Vibrational Raman Spectra for Plant-Stress Analysis**|Anoop C. Patil et.al.|[2507.15772v1](http://arxiv.org/abs/2507.15772v1)|null|
+|**2025-07-21**|**Left Leaning Models: AI Assumptions on Economic Policy**|Maxim Chupilkin et.al.|[2507.15771v1](http://arxiv.org/abs/2507.15771v1)|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770v1](http://arxiv.org/abs/2507.15770v1)|null|
+|**2025-07-21**|**Interaction as Intelligence: Deep Research With Human-AI Partnership**|Lyumanshan Ye et.al.|[2507.15759v1](http://arxiv.org/abs/2507.15759v1)|null|
+|**2025-07-21**|**DialogueForge: LLM Simulation of Human-Chatbot Dialogue**|Ruizhe Zhu et.al.|[2507.15752v1](http://arxiv.org/abs/2507.15752v1)|null|
+|**2025-07-21**|**Towards physician-centered oversight of conversational diagnostic AI**|Elahe Vedadi et.al.|[2507.15743v1](http://arxiv.org/abs/2507.15743v1)|null|
+|**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|null|
+|**2025-07-21**|**BEnchmarking LLMs for Ophthalmology (BELO) for Ophthalmological Knowledge and Reasoning**|Sahana Srinivasan et.al.|[2507.15717v1](http://arxiv.org/abs/2507.15717v1)|null|
+|**2025-07-21**|**Strong, Accurate, and Low-Cost Robot Manipulator**|Georges Chebly et.al.|[2507.15693v1](http://arxiv.org/abs/2507.15693v1)|null|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686v1](http://arxiv.org/abs/2507.15686v1)|null|
+|**2025-07-21**|**Agentic AI for autonomous anomaly management in complex systems**|Reza Vatankhah Barenji et.al.|[2507.15676v1](http://arxiv.org/abs/2507.15676v1)|null|
+|**2025-07-21**|**Experimenting active and sequential learning in a medieval music manuscript**|Sachin Sharma et.al.|[2507.15633v1](http://arxiv.org/abs/2507.15633v1)|null|
+|**2025-07-21**|**TacticCraft: Natural Language-Driven Tactical Adaptation for StarCraft II**|Weiyu Ma et.al.|[2507.15618v1](http://arxiv.org/abs/2507.15618v1)|null|
+|**2025-07-21**|**Why can't Epidemiology be automated (yet)?**|David Bann et.al.|[2507.15617v1](http://arxiv.org/abs/2507.15617v1)|null|
+|**2025-07-21**|**On the Role of AI in Managing Satellite Constellations: Insights from the ConstellAI Project**|Gregory F. Stock et.al.|[2507.15574v1](http://arxiv.org/abs/2507.15574v1)|null|
+|**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[2507.15518v1](http://arxiv.org/abs/2507.15518v1)|null|
+|**2025-07-21**|**Challenging Disability and Interaction Norms in XR: Cooling Down the Empathy Machine in Waiting for Hands**|Yesica Duarte et.al.|[2507.15481v1](http://arxiv.org/abs/2507.15481v1)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428v1](http://arxiv.org/abs/2507.15428v1)|null|
+|**2025-07-21**|**QSAF: A Novel Mitigation Framework for Cognitive Degradation in Agentic AI**|Hammad Atta et.al.|[2507.15330v1](http://arxiv.org/abs/2507.15330v1)|null|
+|**2025-07-21**|**On the Inevitability of Left-Leaning Political Bias in Aligned Language Models**|Thilo Hagendorff et.al.|[2507.15328v1](http://arxiv.org/abs/2507.15328v1)|null|
+|**2025-07-21**|**An Overview of the Risk-based Model of AI Governance**|Veve Fry et.al.|[2507.15299v1](http://arxiv.org/abs/2507.15299v1)|null|
+|**2025-07-21**|**Beyond Easy Wins: A Text Hardness-Aware Benchmark for LLM-generated Text Detection**|Navid Ayoobi et.al.|[2507.15286v1](http://arxiv.org/abs/2507.15286v1)|null|
+|**2025-07-21**|**Temporal Basis Function Models for Closed-Loop Neural Stimulation**|Matthew J. Bryan et.al.|[2507.15274v1](http://arxiv.org/abs/2507.15274v1)|null|
