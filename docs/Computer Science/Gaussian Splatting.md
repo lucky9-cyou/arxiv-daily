@@ -2,33 +2,33 @@
 ### Gaussian Splatting
 |Publish Date|Title|Authors|Contributions|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-22**|**On the consistency of non-commutative geometry inspired Reissner-Nordström black hole solution**|Gokhan Alkac et.al.|[2507.16780v1](http://arxiv.org/abs/2507.16780v1)|null|
+|**2025-07-22**|**A Partitioned Sparse Variational Gaussian Process for Fast, Distributed Spatial Modeling**|Michael Grosskopf et.al.|[2507.16771v1](http://arxiv.org/abs/2507.16771v1)|null|
+|**2025-07-22**|**Multi-RIS-Empowered Communication Systems: Capacity Analysis and Optimization**|Aris L. Moustakas et.al.|[2507.16767v1](http://arxiv.org/abs/2507.16767v1)|null|
+|**2025-07-22**|**Multiparameter estimation with position-momentum correlated Gaussian probes**|João C. P. Porto et.al.|[2507.16742v1](http://arxiv.org/abs/2507.16742v1)|null|
+|**2025-07-22**|**Gaussian Sequence Model: Sample Complexities of Testing, Estimation and LFHT**|Zeyu Jia et.al.|[2507.16734v1](http://arxiv.org/abs/2507.16734v1)|null|
+|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608v1](http://arxiv.org/abs/2507.16608v1)|null|
+|**2025-07-22**|**False signatures of non-ergodic behavior in disordered quantum many-body systems**|Adith Sai Aramthottil et.al.|[2507.16567v1](http://arxiv.org/abs/2507.16567v1)|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v1](http://arxiv.org/abs/2507.16535v1)|null|
+|**2025-07-22**|**Bayesian causal discovery: Posterior concentration and optimal detection**|Valentinian Lungu et.al.|[2507.16529v1](http://arxiv.org/abs/2507.16529v1)|null|
+|**2025-07-22**|**Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts**|Ardhendu Sekhar et.al.|[2507.16476v1](http://arxiv.org/abs/2507.16476v1)|null|
+|**2025-07-22**|**Estimating Treatment Effects with Independent Component Analysis**|Patrik Reizinger et.al.|[2507.16467v1](http://arxiv.org/abs/2507.16467v1)|null|
+|**2025-07-22**|**Unconventional Floquet topological phases in the SSH lattice**|Dunkan Martínez et.al.|[2507.16441v1](http://arxiv.org/abs/2507.16441v1)|null|
+|**2025-07-22**|**A Mixed-Order Phase Transition in Continuous-Variable Quantum Networks**|Yaqi Zhao et.al.|[2507.16417v1](http://arxiv.org/abs/2507.16417v1)|null|
+|**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406v1](http://arxiv.org/abs/2507.16406v1)|null|
+|**2025-07-22**|**Bounded $H^\infty$-calculus for vectorial-valued operators with Gaussian kernel estimates**|Davide Addona et.al.|[2507.16368v1](http://arxiv.org/abs/2507.16368v1)|null|
+|**2025-07-22**|**Higher Gauge Flow Models**|Alexander Strunk et.al.|[2507.16334v1](http://arxiv.org/abs/2507.16334v1)|null|
+|**2025-07-22**|**COMPASS: Cooperative Multi-Agent Persistent Monitoring using Spatio-Temporal Attention Network**|Xingjian Zhang et.al.|[2507.16306v1](http://arxiv.org/abs/2507.16306v1)|null|
+|**2025-07-22**|**The Automatic Calibration Method of the Compton Edge Based on Normalized Cross-correlation and Simulated Annealing Algorithm**|Dehua Kong et.al.|[2507.16282v1](http://arxiv.org/abs/2507.16282v1)|null|
+|**2025-07-22**|**Functional limit theorems for edge counts in dynamic random connection hypergraphs**|Christian Hirsch et.al.|[2507.16270v1](http://arxiv.org/abs/2507.16270v1)|null|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144v1](http://arxiv.org/abs/2507.16144v1)|null|
+|**2025-07-21**|**Derivation of the Loop Hafnian Generating Function for Arbitrary Symmetric Matrices via Gaussian Integration**|Sergey V. Tarasov et.al.|[2507.16100v1](http://arxiv.org/abs/2507.16100v1)|null|
+|**2025-07-21**|**Conditional GMC within the stochastic heat flow**|Jeremy Clark et.al.|[2507.16056v1](http://arxiv.org/abs/2507.16056v1)|null|
+|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043v1](http://arxiv.org/abs/2507.16043v1)|null|
+|**2025-07-21**|**Beyond fragmented dopant dynamics in quantum spin lattices: Robust localization and sub-diffusion**|Mingru Yang et.al.|[2507.16042v1](http://arxiv.org/abs/2507.16042v1)|null|
+|**2025-07-21**|**Semantic-Aware Gaussian Process Calibration with Structured Layerwise Kernels for Deep Neural Networks**|Kyung-hwan Lee et.al.|[2507.15987v1](http://arxiv.org/abs/2507.15987v1)|null|
+|**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979v1](http://arxiv.org/abs/2507.15979v1)|null|
+|**2025-07-21**|**Cosmological correlators in gravitationally-constrained de Sitter states**|Tuneer Chakraborty et.al.|[2507.15926v1](http://arxiv.org/abs/2507.15926v1)|null|
 |**2025-07-21**|**Latent Denoising Makes Good Visual Tokenizers**|Jiawei Yang et.al.|[2507.15856v1](http://arxiv.org/abs/2507.15856v1)|null|
-|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v1](http://arxiv.org/abs/2507.15846v1)|null|
+|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v2](http://arxiv.org/abs/2507.15846v2)|null|
 |**2025-07-21**|**Euclid preparation: Expected constraints on initial conditions**|Euclid Collaboration et.al.|[2507.15819v1](http://arxiv.org/abs/2507.15819v1)|null|
-|**2025-07-21**|**Discovery of a transiting hot water-world candidate orbiting Ross 176 with TESS and CARMENES**|S. Geraldía-González et.al.|[2507.15763v1](http://arxiv.org/abs/2507.15763v1)|null|
-|**2025-07-21**|**Simulating a Gaussian stochastic gravitational wave background signal in pulsar timing arrays**|Reginald Christian Bernardo et.al.|[2507.15756v1](http://arxiv.org/abs/2507.15756v1)|null|
-|**2025-07-21**|**Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS**|Jisu Shin et.al.|[2507.15748v1](http://arxiv.org/abs/2507.15748v1)|null|
-|**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690v1](http://arxiv.org/abs/2507.15690v1)|null|
-|**2025-07-21**|**Convergence Analysis of Reshaped Wirtinger Flow with Random Initialization for Phase Retrieval**|Linbin Li et.al.|[2507.15684v1](http://arxiv.org/abs/2507.15684v1)|null|
-|**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683v1](http://arxiv.org/abs/2507.15683v1)|null|
-|**2025-07-21**|**Gaussian Splatting with Discretized SDF for Relightable Assets**|Zuo-Liang Zhu et.al.|[2507.15629v1](http://arxiv.org/abs/2507.15629v1)|null|
-|**2025-07-21**|**SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting**|Zihui Gao et.al.|[2507.15602v1](http://arxiv.org/abs/2507.15602v1)|null|
-|**2025-07-21**|**Scalable Estimation of Crossed Random Effects Models via Multi-way Grouping**|Shota Takeishi et.al.|[2507.15593v1](http://arxiv.org/abs/2507.15593v1)|null|
-|**2025-07-21**|**Reduced Subgid Scale Terms in Three-Dimensional Turbulence**|Rik Hoekstra et.al.|[2507.15539v1](http://arxiv.org/abs/2507.15539v1)|null|
-|**2025-07-21**|**Bayesian Separation Logic**|Shing Hin Ho et.al.|[2507.15530v1](http://arxiv.org/abs/2507.15530v1)|null|
-|**2025-07-21**|**Quantum thermometry with non-Gaussian states: From non-equilibrium speed to equilibrium precision**|Asghar Ullah et.al.|[2507.15458v1](http://arxiv.org/abs/2507.15458v1)|null|
-|**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Ruijie Zhu et.al.|[2507.15454v1](http://arxiv.org/abs/2507.15454v1)|null|
-|**2025-07-21**|**Quantum sensor network metrology with bright solitons**|Dmitriy Tsarev et.al.|[2507.15348v1](http://arxiv.org/abs/2507.15348v1)|null|
-|**2025-07-21**|**A Novel Two-Dimensional Smoothing Algorithm**|Xufeng Chen et.al.|[2507.15301v1](http://arxiv.org/abs/2507.15301v1)|null|
-|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300v1](http://arxiv.org/abs/2507.15300v1)|null|
-|**2025-07-21**|**Radiation Spectrum of the Photospheric Emission for a Turbulent Relativistic Jet**|Guo-Yu Li et.al.|[2507.15242v1](http://arxiv.org/abs/2507.15242v1)|null|
-|**2025-07-21**|**Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data**|Miao Huang et.al.|[2507.15235v1](http://arxiv.org/abs/2507.15235v1)|null|
-|**2025-07-21**|**Robust and Differentially Private PCA for non-Gaussian data**|Minwoo Kim et.al.|[2507.15232v1](http://arxiv.org/abs/2507.15232v1)|null|
-|**2025-07-20**|**Adaptive Parameter Optimization in Gaussian Processes: A Comprehensive Study of Uncertainty Quantification and Dimensional Scaling**|Nishant Gadde et.al.|[2507.15138v1](http://arxiv.org/abs/2507.15138v1)|null|
-|**2025-07-20**|**PAPR Analysis for MIMO FTN Signaling with Gaussian Symbols**|Zichao Zhang et.al.|[2507.15116v1](http://arxiv.org/abs/2507.15116v1)|null|
-|**2025-07-20**|**Distributional Unlearning: Forgetting Distributions, Not Just Samples**|Youssef Allouah et.al.|[2507.15112v1](http://arxiv.org/abs/2507.15112v1)|null|
-|**2025-07-20**|**Learning under Latent Group Sparsity via Diffusion on Networks**|Subhroshekhar Ghosh et.al.|[2507.15097v1](http://arxiv.org/abs/2507.15097v1)|null|
-|**2025-07-20**|**Affine AP-frames and Stationary Random Processes**|Hernán Diego Centeno et.al.|[2507.15090v1](http://arxiv.org/abs/2507.15090v1)|null|
-|**2025-07-20**|**Unbiased Estimation in One-Parameter Exponential Families of the Natural Parameter with Extensions**|Pankaj Bhagwat et.al.|[2507.15077v1](http://arxiv.org/abs/2507.15077v1)|null|
-|**2025-07-20**|**Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction**|Xiufeng Huang et.al.|[2507.14921v1](http://arxiv.org/abs/2507.14921v1)|null|
-|**2025-07-20**|**Wigner quasi-probability distribution for symmetric multi-quDit systems and their generalized heat kernel**|Manuel Calixto et.al.|[2507.14866v1](http://arxiv.org/abs/2507.14866v1)|null|
