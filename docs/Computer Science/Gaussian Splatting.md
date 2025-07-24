@@ -9,7 +9,7 @@
 |**2025-07-22**|**Gaussian Sequence Model: Sample Complexities of Testing, Estimation and LFHT**|Zeyu Jia et.al.|[2507.16734v1](http://arxiv.org/abs/2507.16734v1)|null|
 |**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608v1](http://arxiv.org/abs/2507.16608v1)|null|
 |**2025-07-22**|**False signatures of non-ergodic behavior in disordered quantum many-body systems**|Adith Sai Aramthottil et.al.|[2507.16567v1](http://arxiv.org/abs/2507.16567v1)|null|
-|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v1](http://arxiv.org/abs/2507.16535v1)|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v2](http://arxiv.org/abs/2507.16535v2)|null|
 |**2025-07-22**|**Bayesian causal discovery: Posterior concentration and optimal detection**|Valentinian Lungu et.al.|[2507.16529v1](http://arxiv.org/abs/2507.16529v1)|null|
 |**2025-07-22**|**Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts**|Ardhendu Sekhar et.al.|[2507.16476v1](http://arxiv.org/abs/2507.16476v1)|null|
 |**2025-07-22**|**Estimating Treatment Effects with Independent Component Analysis**|Patrik Reizinger et.al.|[2507.16467v1](http://arxiv.org/abs/2507.16467v1)|null|
