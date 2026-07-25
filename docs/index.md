@@ -1,4 +1,4 @@
 # arxiv-daily
- Automated deployment @ 2026-07-24 21:08:20 Asia/Shanghai
+ Automated deployment @ 2026-07-25 08:31:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
